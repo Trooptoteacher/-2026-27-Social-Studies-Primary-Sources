@@ -1,0 +1,2114 @@
+[
+ {
+  "standard": "W.04",
+  "title": "England and Wales during the Civil War, 1642–1651",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=England%20Wales%20Civil%20War%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "England and Wales during the Civil War, 1642–1651. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of England and Wales shading Royalist and Parliamentary regions during the English Civil War.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.05",
+  "title": "France in 1789 (Provinces on the Eve of Revolution)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=France%201789%20provinces%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "France in 1789 (Provinces on the Eve of Revolution). William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of the old provinces and administrative divisions of France just before the Revolution.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.06",
+  "title": "France: The Departments, 1791",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=France%20departments%201791%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "France: The Departments, 1791. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of revolutionary France reorganized into uniform departments in 1791.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.07",
+  "title": "Europe in 1810 (The Napoleonic Empire at its Height)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=Europe%201810%20Napoleon%20empire%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "Europe in 1810 (The Napoleonic Empire at its Height). William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of Europe in 1810 showing the French Empire, satellite kingdoms, and allied states under Napoleon.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.07",
+  "title": "Napoleon's Russian Campaign of 1812 (Figurative Map of Army Losses)",
+  "type": "map",
+  "creator": "Charles Joseph Minard",
+  "year": "1869",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=Minard%20Napoleon%20Russian%20campaign%201812%20figurative",
+  "download_url": "",
+  "citation": "Napoleon's Russian Campaign of 1812 (Figurative Map of Army Losses). Charles Joseph Minard, 1869. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Flow-band map tracing the advance and catastrophic retreat of Napoleon's army to and from Moscow in 1812.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.08",
+  "title": "Europe in 1789",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=Europe%201789%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "Europe in 1789. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Political map of Europe in 1789 on the eve of the French Revolution.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.09",
+  "title": "Europe after the Congress of Vienna, 1815",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=Europe%201815%20Congress%20of%20Vienna%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "Europe after the Congress of Vienna, 1815. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of the European political order established by the Congress of Vienna in 1815.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.09",
+  "title": "Hispaniola / Saint-Domingue (Haiti)",
+  "type": "map",
+  "creator": "18th–19th century cartographer",
+  "year": "c. 1800",
+  "repository": "Library of Congress, Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Saint%20Domingue%20Hispaniola%20Haiti%20map",
+  "download_url": "",
+  "citation": "Hispaniola / Saint-Domingue (Haiti). 18th–19th century cartographer, c. 1800. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of the island of Hispaniola showing the French colony of Saint-Domingue, later Haiti.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.10",
+  "title": "Population and Growth of Cities in Industrializing Europe",
+  "type": "map",
+  "creator": "19th-century thematic cartographer",
+  "year": "c. 1880",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=Europe%20population%20density%20cities%2019th%20century",
+  "download_url": "",
+  "citation": "Population and Growth of Cities in Industrializing Europe. 19th-century thematic cartographer, c. 1880. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Thematic map showing population density and the growth of industrial cities across Europe.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.11",
+  "title": "Industrial England: Coal, Iron, and Manufacturing Districts",
+  "type": "map",
+  "creator": "19th-century commercial cartographer",
+  "year": "c. 1850",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=England%20coal%20iron%20industrial%20districts%20map",
+  "download_url": "",
+  "citation": "Industrial England: Coal, Iron, and Manufacturing Districts. 19th-century commercial cartographer, c. 1850. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of England highlighting coalfields, ironworks, and manufacturing regions.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.12",
+  "title": "Railways of Industrial Europe",
+  "type": "map",
+  "creator": "19th-century commercial cartographer",
+  "year": "c. 1880",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=railway%20map%20Europe%2019th%20century",
+  "download_url": "",
+  "citation": "Railways of Industrial Europe. 19th-century commercial cartographer, c. 1880. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of the 19th-century European railway network.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.13",
+  "title": "The Atlantic Ocean with the Coast of Guinea (Slave-Trade Era)",
+  "type": "map",
+  "creator": "18th-century cartographer",
+  "year": "c. 1750",
+  "repository": "Library of Congress, Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Atlantic%20Ocean%20coast%20of%20Guinea%20chart%2018th%20century",
+  "download_url": "",
+  "citation": "The Atlantic Ocean with the Coast of Guinea (Slave-Trade Era). 18th-century cartographer, c. 1750. Library of Congress, Geography & Map Division.",
+  "alt_text": "Chart of the Atlantic Ocean showing West Africa, the Americas, and the sailing routes between them.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.14",
+  "title": "Steam Railroads and Telegraph Lines of the 19th Century",
+  "type": "map",
+  "creator": "19th-century commercial cartographer",
+  "year": "c. 1870",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=railroad%20telegraph%20network%20map%2019th%20century",
+  "download_url": "",
+  "citation": "Steam Railroads and Telegraph Lines of the 19th Century. 19th-century commercial cartographer, c. 1870. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of expanding railroad and telegraph networks in the industrial era.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.15",
+  "title": "Snow's Map of Cholera in the Soho District of London, 1854",
+  "type": "map",
+  "creator": "Dr. John Snow",
+  "year": "1855",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=John%20Snow%20cholera%20map%20Soho%20London%201854",
+  "download_url": "",
+  "citation": "Snow's Map of Cholera in the Soho District of London, 1854. Dr. John Snow, 1855. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Spot map of central London plotting cholera deaths clustered around the Broad Street pump.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.17",
+  "title": "The Unification of Germany, 1815–1871",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=unification%20of%20Germany%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "The Unification of Germany, 1815–1871. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map showing the growth of Prussia and the stages of German unification into the 1871 Empire.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.17",
+  "title": "The Unification of Italy, 1815–1870",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=unification%20of%20Italy%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "The Unification of Italy, 1815–1870. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map showing the stages by which the Italian states were unified between 1815 and 1870.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.18",
+  "title": "The Jewish Pale of Settlement in the Russian Empire",
+  "type": "map",
+  "creator": "late-19th-century cartographer",
+  "year": "c. 1905",
+  "repository": "Library of Congress, Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Pale%20of%20Settlement%20Jewish%20Russia%20map",
+  "download_url": "",
+  "citation": "The Jewish Pale of Settlement in the Russian Empire. late-19th-century cartographer, c. 1905. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of western Russia outlining the Pale of Settlement where Jews were required to live.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.19",
+  "title": "Colonial Possessions of the World, c. 1900",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=world%20colonial%20possessions%201900%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "Colonial Possessions of the World, c. 1900. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "World map coloring the overseas empires of Britain, France, and other powers around 1900.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.20",
+  "title": "Physical Map of Africa",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1990s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Africa%20physical%20map",
+  "download_url": "",
+  "citation": "Physical Map of Africa. U.S. Central Intelligence Agency, 1990s. Library of Congress, Geography & Map Division.",
+  "alt_text": "Physiographic map of Africa showing rivers, basins, plateaus, deserts, and resource regions.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.21",
+  "title": "The Partition of Africa (Colonial Africa, 1914)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=partition%20of%20Africa%20colonial%201914%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "The Partition of Africa (Colonial Africa, 1914). William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of Africa in 1914 colored by European colonial power after the Scramble for Africa.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.21",
+  "title": "Africa in 1885 (Beginning of the Scramble)",
+  "type": "map",
+  "creator": "late-19th-century cartographer",
+  "year": "c. 1885",
+  "repository": "Library of Congress, Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Africa%201885%20map%20European%20claims",
+  "download_url": "",
+  "citation": "Africa in 1885 (Beginning of the Scramble). late-19th-century cartographer, c. 1885. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Africa around 1885 showing coastal claims before the interior was fully partitioned.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.22",
+  "title": "Colonial and Independent Africa, 1914",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=Africa%201914%20independent%20Ethiopia%20Liberia%20Shepherd",
+  "download_url": "",
+  "citation": "Colonial and Independent Africa, 1914. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of Africa in 1914 distinguishing colonies from the independent states of Ethiopia and Liberia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.23",
+  "title": "The British Indian Empire, c. 1907",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=British%20India%20empire%20map%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "The British Indian Empire, c. 1907. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of British India showing provinces, princely states, and surrounding regions.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.23",
+  "title": "The Suez Canal and Isthmus of Suez",
+  "type": "map",
+  "creator": "late-19th-century cartographer",
+  "year": "c. 1875",
+  "repository": "Library of Congress, Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Suez%20Canal%20map%20isthmus",
+  "download_url": "",
+  "citation": "The Suez Canal and Isthmus of Suez. late-19th-century cartographer, c. 1875. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of the Suez Canal linking the Mediterranean and Red Sea across the Isthmus of Suez.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.24",
+  "title": "China and the Foreign Spheres of Influence",
+  "type": "map",
+  "creator": "late-19th-century cartographer",
+  "year": "c. 1900",
+  "repository": "Library of Congress, Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=China%20spheres%20of%20influence%20treaty%20ports%20map",
+  "download_url": "",
+  "citation": "China and the Foreign Spheres of Influence. late-19th-century cartographer, c. 1900. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of China marking the leased territories and spheres of influence of foreign powers.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.25",
+  "title": "The World of European Empires, c. 1900",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=world%20empires%201900%20colonial%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "The World of European Empires, c. 1900. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "World map showing the global colonial empires linking Europe, Africa, and Asia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.26",
+  "title": "The Empire of Japan and East Asia, c. 1905",
+  "type": "map",
+  "creator": "early-20th-century cartographer",
+  "year": "c. 1905",
+  "repository": "Library of Congress, Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Empire%20of%20Japan%20East%20Asia%20map%201905",
+  "download_url": "",
+  "citation": "The Empire of Japan and East Asia, c. 1905. early-20th-century cartographer, c. 1905. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Japan and East Asia showing Japanese territorial gains including Korea and Taiwan.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.27",
+  "title": "Physical Map of South America",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1990s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=South%20America%20physical%20map",
+  "download_url": "",
+  "citation": "Physical Map of South America. U.S. Central Intelligence Agency, 1990s. Library of Congress, Geography & Map Division.",
+  "alt_text": "Physiographic map of South America showing the Andes, Amazon basin, and coastal regions.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.28",
+  "title": "Central America and the Panama Canal Zone",
+  "type": "map",
+  "creator": "early-20th-century cartographer",
+  "year": "c. 1912",
+  "repository": "Library of Congress, Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Panama%20Canal%20Central%20America%20map",
+  "download_url": "",
+  "citation": "Central America and the Panama Canal Zone. early-20th-century cartographer, c. 1912. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Central America and the Panama Canal Zone under U.S. control.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.29",
+  "title": "The Balkan Peninsula, 1914",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=Balkan%20Peninsula%201914%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "The Balkan Peninsula, 1914. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Political map of the Balkans in 1914 after the Balkan Wars.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.30",
+  "title": "Europe and the System of Alliances, 1914",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=Europe%201914%20alliances%20Triple%20Entente%20Alliance%20Shepherd",
+  "download_url": "",
+  "citation": "Europe and the System of Alliances, 1914. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of Europe in 1914 showing the Triple Entente and Triple Alliance blocs.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.31",
+  "title": "The Western Front: Trench Lines and Stalemate, 1914–1918",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1918",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "The Western Front: Trench Lines and Stalemate, 1914–1918. U.S. Army Center of Military History campaign atlas, 1918.",
+  "alt_text": "Map of the Western Front showing the fixed trench line from the North Sea to Switzerland.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.32",
+  "title": "Major Battles of the Western Front (Marne, Verdun, the Somme)",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1918",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "Major Battles of the Western Front (Marne, Verdun, the Somme). U.S. Army Center of Military History campaign atlas, 1918.",
+  "alt_text": "Western Front map locating the battles of the Marne, Verdun, and the Somme.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.33",
+  "title": "American Expeditionary Forces and the Eastern Front, 1917–1918",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1918",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "American Expeditionary Forces and the Eastern Front, 1917–1918. U.S. Army Center of Military History campaign atlas, 1918.",
+  "alt_text": "Map showing U.S. AEF operations in France and the collapse of the Eastern Front after Russia's exit.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.34",
+  "title": "The North Sea War Zone and Naval Blockade, 1914–1918",
+  "type": "map",
+  "creator": "WWI-era cartographer",
+  "year": "c. 1917",
+  "repository": "Library of Congress, Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=North%20Sea%20war%20zone%20submarine%20blockade%20WWI%20map",
+  "download_url": "",
+  "citation": "The North Sea War Zone and Naval Blockade, 1914–1918. WWI-era cartographer, c. 1917. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of the North Sea and Atlantic marking naval blockade lines and U-boat war zones.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.35",
+  "title": "The Partition of the Ottoman Empire and Europe after WWI",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=Ottoman%20Empire%20partition%20Europe%20after%20WWI%20Shepherd",
+  "download_url": "",
+  "citation": "The Partition of the Ottoman Empire and Europe after WWI. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map showing the breakup of the Ottoman Empire and the collapse of empires after WWI.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.36",
+  "title": "Europe after the Treaty of Versailles, 1919",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=Europe%201919%20Treaty%20of%20Versailles%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "Europe after the Treaty of Versailles, 1919. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of Europe redrawn by the 1919 peace settlement, showing Germany's territorial losses.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.37",
+  "title": "New States of Europe after World War I, 1920s",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=Europe%20new%20states%201920%20Versailles%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "New States of Europe after World War I, 1920s. William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of post-WWI Europe with new nations such as Poland, Czechoslovakia, and Yugoslavia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.37",
+  "title": "The League of Nations Mandates in the Middle East",
+  "type": "map",
+  "creator": "U.S. Department of State",
+  "year": "1920s",
+  "repository": "U.S. Department of State (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=League%20of%20Nations%20mandates%20Middle%20East%20Sykes-Picot%20map",
+  "download_url": "",
+  "citation": "The League of Nations Mandates in the Middle East. U.S. Department of State, 1920s. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of the former Ottoman Middle East divided into British and French League of Nations mandates.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.38",
+  "title": "The Russian Civil War: Red and White Fronts, 1918–1921",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1921",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "The Russian Civil War: Red and White Fronts, 1918–1921. U.S. Army Center of Military History campaign atlas, 1921.",
+  "alt_text": "Map of Russia during the civil war showing Red and White areas of control and offensives.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.40",
+  "title": "World Commerce and Trade Routes on the Eve of the Depression",
+  "type": "map",
+  "creator": "commercial cartographer",
+  "year": "c. 1928",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=world%20commerce%20trade%20routes%20map%201920s",
+  "download_url": "",
+  "citation": "World Commerce and Trade Routes on the Eve of the Depression. commercial cartographer, c. 1928. David Rumsey Map Collection (CC BY).",
+  "alt_text": "World map of shipping routes and trade linkages among industrial economies.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.41",
+  "title": "Axis Expansion in Europe and Asia, 1930s",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1939",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "Axis Expansion in Europe and Asia, 1930s. U.S. Army Center of Military History campaign atlas, 1939.",
+  "alt_text": "Map of Europe and East Asia showing early Axis expansion by Germany, Italy, and Japan.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.42",
+  "title": "Totalitarian Europe, 1930s (Germany, Italy, USSR)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": "1911",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=Europe%201930s%20political%20map%20Shepherd%20historical%20atlas",
+  "download_url": "",
+  "citation": "Totalitarian Europe, 1930s (Germany, Italy, USSR). William R. Shepherd, Historical Atlas, 1911. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Political map of interwar Europe locating Nazi Germany, Fascist Italy, and the Soviet Union.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.43",
+  "title": "Strategic Resources and Geography of the European Theater",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1942",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "Strategic Resources and Geography of the European Theater. U.S. Army Center of Military History campaign atlas, 1942.",
+  "alt_text": "Map of Europe highlighting oil, industry, and strategic terrain contested in WWII.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.44",
+  "title": "Japanese Aggression in China, 1937–1941",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1941",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "Japanese Aggression in China, 1937–1941. U.S. Army Center of Military History campaign atlas, 1941.",
+  "alt_text": "Map of China showing the Japanese invasion and occupied zones from 1937.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.44",
+  "title": "The Italian Invasion of Ethiopia, 1935–1936",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1936",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "The Italian Invasion of Ethiopia, 1935–1936. U.S. Army Center of Military History campaign atlas, 1936.",
+  "alt_text": "Map of the Horn of Africa showing the Italian invasion routes into Ethiopia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.45",
+  "title": "German Expansion in Europe, 1936–1939",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1939",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "German Expansion in Europe, 1936–1939. U.S. Army Center of Military History campaign atlas, 1939.",
+  "alt_text": "Map of central Europe showing the Rhineland, Austria, Sudetenland, and Poland absorbed by Germany.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.46",
+  "title": "Blitzkrieg: German Offensives in Western Europe, 1939–1940",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1940",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "Blitzkrieg: German Offensives in Western Europe, 1939–1940. U.S. Army Center of Military History campaign atlas, 1940.",
+  "alt_text": "Map of the rapid German armored offensives through Poland, the Low Countries, and France.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.46",
+  "title": "Pacific 'Island-Hopping' Campaign, 1942–1945",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1945",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "Pacific 'Island-Hopping' Campaign, 1942–1945. U.S. Army Center of Military History campaign atlas, 1945.",
+  "alt_text": "Map of the Pacific showing the U.S. island-hopping advance toward Japan.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.47",
+  "title": "Allied Campaigns in the European Theater (Stalingrad, Normandy, the Bulge)",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1945",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "Allied Campaigns in the European Theater (Stalingrad, Normandy, the Bulge). U.S. Army Center of Military History campaign atlas, 1945.",
+  "alt_text": "Map of Europe marking Stalingrad, the Normandy landings, and the Battle of the Bulge.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.47",
+  "title": "The Pacific Theater: Midway and the Road to Japan",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1945",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "The Pacific Theater: Midway and the Road to Japan. U.S. Army Center of Military History campaign atlas, 1945.",
+  "alt_text": "Map of the Pacific showing the Battle of Midway and the Allied advance toward Japan.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.49",
+  "title": "Nazi Germany and Occupied Europe, 1938–1942",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1942",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "Nazi Germany and Occupied Europe, 1938–1942. U.S. Army Center of Military History campaign atlas, 1942.",
+  "alt_text": "Map of German-controlled Europe showing the expansion of Nazi power and occupied lands.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.50",
+  "title": "Axis Europe at its Greatest Extent, 1942 (Nazi-Controlled Lands)",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1942",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "Axis Europe at its Greatest Extent, 1942 (Nazi-Controlled Lands). U.S. Army Center of Military History campaign atlas, 1942.",
+  "alt_text": "Map of Europe at the height of Axis control in 1942, the zone of the Holocaust.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.51",
+  "title": "Allied Wartime Conferences and Postwar Europe (Tehran–Yalta–Potsdam)",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1945",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "Allied Wartime Conferences and Postwar Europe (Tehran–Yalta–Potsdam). U.S. Army Center of Military History campaign atlas, 1945.",
+  "alt_text": "Map of Europe illustrating the postwar arrangements agreed at Tehran, Yalta, and Potsdam.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.52",
+  "title": "The Pacific Endgame: Hiroshima and Nagasaki, 1945",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1945",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "The Pacific Endgame: Hiroshima and Nagasaki, 1945. U.S. Army Center of Military History campaign atlas, 1945.",
+  "alt_text": "Map of Japan and the western Pacific locating Hiroshima and Nagasaki.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.53",
+  "title": "The Division of Germany into Occupation Zones, 1945",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1945",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "The Division of Germany into Occupation Zones, 1945. U.S. Army Center of Military History campaign atlas, 1945.",
+  "alt_text": "Map of postwar Germany divided into American, British, French, and Soviet occupation zones.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.53",
+  "title": "Territorial Changes in Europe after World War II",
+  "type": "map",
+  "creator": "U.S. Department of State",
+  "year": "1947",
+  "repository": "U.S. Department of State (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Europe%20territorial%20changes%201945%20postwar%20boundaries%20map",
+  "download_url": "",
+  "citation": "Territorial Changes in Europe after World War II. U.S. Department of State, 1947. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Europe showing boundary changes and westward shift of Poland after WWII.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.54",
+  "title": "Marshall Plan Aid and a Divided Europe",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1950",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Marshall%20Plan%20Europe%20aid%20recipients%20map%20divided",
+  "download_url": "",
+  "citation": "Marshall Plan Aid and a Divided Europe. U.S. Central Intelligence Agency, 1950. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Europe distinguishing Marshall Plan recipient nations from the Soviet bloc.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.55",
+  "title": "The United Nations Partition Plan for Palestine, 1947",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1947",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Palestine%20UN%20partition%20plan%201947%20Israel%20map",
+  "download_url": "",
+  "citation": "The United Nations Partition Plan for Palestine, 1947. U.S. Central Intelligence Agency, 1947. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Mandate Palestine divided into proposed Jewish and Arab states under the 1947 UN plan.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.56",
+  "title": "Soviet-Controlled Eastern Europe and the Iron Curtain",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1950",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Iron%20Curtain%20Eastern%20Europe%20Soviet%20bloc%20map",
+  "download_url": "",
+  "citation": "Soviet-Controlled Eastern Europe and the Iron Curtain. U.S. Central Intelligence Agency, 1950. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Europe marking the Iron Curtain and the Soviet-dominated states of Eastern Europe.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.57",
+  "title": "The Chinese Civil War and the Rise of the People's Republic, 1945–1949",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1949",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "The Chinese Civil War and the Rise of the People's Republic, 1945–1949. U.S. Army Center of Military History campaign atlas, 1949.",
+  "alt_text": "Map of China showing Communist and Nationalist areas during the civil war.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.58",
+  "title": "The Cold War World: Two Blocs, c. 1959",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1959",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Cold%20War%20world%20map%20blocs%20communist%20NATO%20aligned",
+  "download_url": "",
+  "citation": "The Cold War World: Two Blocs, c. 1959. U.S. Central Intelligence Agency, 1959. Library of Congress, Geography & Map Division.",
+  "alt_text": "World map coloring communist, Western-aligned, and non-aligned nations during the Cold War.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.59",
+  "title": "NATO and the Warsaw Pact in Europe",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1980",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=NATO%20Warsaw%20Pact%20Europe%20alliance%20map",
+  "download_url": "",
+  "citation": "NATO and the Warsaw Pact in Europe. U.S. Central Intelligence Agency, 1980. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Europe dividing NATO and Warsaw Pact member states.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.60",
+  "title": "Divided Berlin: The Four Occupation Sectors",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1961",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=divided%20Berlin%20sectors%20wall%20map",
+  "download_url": "",
+  "citation": "Divided Berlin: The Four Occupation Sectors. U.S. Central Intelligence Agency, 1961. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Berlin split into American, British, French, and Soviet sectors with the Berlin Wall.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.60",
+  "title": "Divided Germany: East and West",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1961",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=divided%20Germany%20East%20West%20map%20Cold%20War",
+  "download_url": "",
+  "citation": "Divided Germany: East and West. U.S. Central Intelligence Agency, 1961. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Germany split into the Federal Republic (West) and the German Democratic Republic (East).",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.61",
+  "title": "Soviet Missile Ranges from Cuba, 1962",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1962",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Cuban%20missile%20crisis%20range%20map%201962",
+  "download_url": "",
+  "citation": "Soviet Missile Ranges from Cuba, 1962. U.S. Central Intelligence Agency, 1962. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of the Western Hemisphere showing the range of Soviet missiles based in Cuba.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.62",
+  "title": "Uprisings in the Soviet Bloc: Hungary 1956 and Czechoslovakia 1968",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1968",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Hungary%201956%20Czechoslovakia%201968%20Warsaw%20Pact%20intervention%20map",
+  "download_url": "",
+  "citation": "Uprisings in the Soviet Bloc: Hungary 1956 and Czechoslovakia 1968. U.S. Central Intelligence Agency, 1968. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Eastern Europe marking the 1956 Hungarian and 1968 Czechoslovak uprisings.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.63",
+  "title": "The Korean War, 1950–1953",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1953",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "The Korean War, 1950–1953. U.S. Army Center of Military History campaign atlas, 1953.",
+  "alt_text": "Map of the Korean peninsula showing the shifting front lines and the 38th parallel.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.63",
+  "title": "The Vietnam War, 1964–1975",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1968",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "The Vietnam War, 1964–1975. U.S. Army Center of Military History campaign atlas, 1968.",
+  "alt_text": "Map of Vietnam and Indochina showing the division at the 17th parallel and major operations.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.64",
+  "title": "The Revolutions of 1989 in Eastern Europe",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1990",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Eastern%20Europe%201989%20revolutions%20collapse%20communism%20map",
+  "download_url": "",
+  "citation": "The Revolutions of 1989 in Eastern Europe. U.S. Central Intelligence Agency, 1990. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Eastern Europe marking the 1989 collapse of communist governments.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.65",
+  "title": "The Breakup of the Soviet Union: Fifteen Successor States, 1991",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1992",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=former%20Soviet%20Union%20successor%20states%201991%20map",
+  "download_url": "",
+  "citation": "The Breakup of the Soviet Union: Fifteen Successor States, 1991. U.S. Central Intelligence Agency, 1992. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of the former USSR divided into its fifteen independent successor republics.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.66",
+  "title": "World Patterns of Migration (Push and Pull Factors)",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1990s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=world%20migration%20flows%20map%20push%20pull",
+  "download_url": "",
+  "citation": "World Patterns of Migration (Push and Pull Factors). U.S. Central Intelligence Agency, 1990s. Library of Congress, Geography & Map Division.",
+  "alt_text": "World map showing major international migration flows.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.67",
+  "title": "The Partition of India and Pakistan, 1947",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1947",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=partition%20of%20India%20Pakistan%201947%20map",
+  "download_url": "",
+  "citation": "The Partition of India and Pakistan, 1947. U.S. Central Intelligence Agency, 1947. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of the Indian subcontinent partitioned into India and Pakistan (East and West) in 1947.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.68",
+  "title": "The Republic of India: States and Union Territories",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1990s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=India%20political%20states%20map",
+  "download_url": "",
+  "citation": "The Republic of India: States and Union Territories. U.S. Central Intelligence Agency, 1990s. Library of Congress, Geography & Map Division.",
+  "alt_text": "Political map of independent India showing its states and territories.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.69",
+  "title": "The Decolonization of Africa (Independence Dates)",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1980s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Africa%20decolonization%20independence%20dates%20map",
+  "download_url": "",
+  "citation": "The Decolonization of Africa (Independence Dates). U.S. Central Intelligence Agency, 1980s. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Africa labeled with the year each nation gained independence.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.70",
+  "title": "Apartheid South Africa: The Homelands (Bantustans)",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1986",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=South%20Africa%20apartheid%20homelands%20bantustans%20map",
+  "download_url": "",
+  "citation": "Apartheid South Africa: The Homelands (Bantustans). U.S. Central Intelligence Agency, 1986. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of South Africa showing the scattered black 'homelands' created under apartheid.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.71",
+  "title": "Political Map of Post-Colonial Africa",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1990s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Africa%20political%20map%20independent%20states",
+  "download_url": "",
+  "citation": "Political Map of Post-Colonial Africa. U.S. Central Intelligence Agency, 1990s. Library of Congress, Geography & Map Division.",
+  "alt_text": "Political map of Africa showing independent nations and their borders.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.72",
+  "title": "Cold War Latin America: Insurgencies and Revolutions",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1980s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Latin%20America%20Central%20America%20Cold%20War%20conflict%20map",
+  "download_url": "",
+  "citation": "Cold War Latin America: Insurgencies and Revolutions. U.S. Central Intelligence Agency, 1980s. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Latin America marking Cuba, Nicaragua, Colombia, and Argentina amid Cold War conflict.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.73",
+  "title": "The Breakup of Yugoslavia into New Balkan States",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1995",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=former%20Yugoslavia%20breakup%20successor%20states%20map",
+  "download_url": "",
+  "citation": "The Breakup of Yugoslavia into New Balkan States. U.S. Central Intelligence Agency, 1995. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of the former Yugoslavia dividing into Croatia, Bosnia, Serbia, and other new states.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.74",
+  "title": "Sites of Modern Genocide: Cambodia, Rwanda, and Bosnia",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1990s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Cambodia%20Rwanda%20Bosnia%20genocide%20map",
+  "download_url": "",
+  "citation": "Sites of Modern Genocide: Cambodia, Rwanda, and Bosnia. U.S. Central Intelligence Agency, 1990s. Library of Congress, Geography & Map Division.",
+  "alt_text": "Reference maps locating Cambodia, Rwanda, and the former Yugoslavia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.75",
+  "title": "German Reunification, 1990",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1990",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=German%20reunification%20East%20West%20Germany%201990%20map",
+  "download_url": "",
+  "citation": "German Reunification, 1990. U.S. Central Intelligence Agency, 1990. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Germany showing the 1990 merger of East and West into a single reunified nation.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.76",
+  "title": "Israel, the Occupied Territories, and the Middle East",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "1990s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Israel%20occupied%20territories%20West%20Bank%20Gaza%20map",
+  "download_url": "",
+  "citation": "Israel, the Occupied Territories, and the Middle East. U.S. Central Intelligence Agency, 1990s. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Israel with the West Bank, Gaza, and neighboring Arab states.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.77",
+  "title": "World Population Distribution",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "2000s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=world%20population%20density%20distribution%20map",
+  "download_url": "",
+  "citation": "World Population Distribution. U.S. Central Intelligence Agency, 2000s. Library of Congress, Geography & Map Division.",
+  "alt_text": "World map showing population density and distribution by region.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.78",
+  "title": "World Population Growth and Decline by Country",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "2000s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=world%20population%20growth%20rate%20map",
+  "download_url": "",
+  "citation": "World Population Growth and Decline by Country. U.S. Central Intelligence Agency, 2000s. Library of Congress, Geography & Map Division.",
+  "alt_text": "World map shading countries by population growth rate.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.79",
+  "title": "The Connected World: Global Communications and Technology",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "2000s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=world%20communications%20internet%20cable%20technology%20map",
+  "download_url": "",
+  "citation": "The Connected World: Global Communications and Technology. U.S. Central Intelligence Agency, 2000s. Library of Congress, Geography & Map Division.",
+  "alt_text": "World map of global communication networks and technology infrastructure.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.80",
+  "title": "Global Positioning System (GPS) Satellite Coverage",
+  "type": "map",
+  "creator": "U.S. Geological Survey / U.S. government",
+  "year": "2000s",
+  "repository": "U.S. Geological Survey",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.usgs.gov/",
+  "download_url": "",
+  "citation": "Global Positioning System coverage and GIS reference map. U.S. Geological Survey.",
+  "alt_text": "Map illustrating GPS satellite coverage and a GIS data example over the United States.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.81",
+  "title": "Global Drug Trafficking Routes",
+  "type": "map",
+  "creator": "U.S. Department of State",
+  "year": "2000s",
+  "repository": "U.S. Department of State (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=global%20drug%20trafficking%20routes%20map%20cocaine%20heroin",
+  "download_url": "",
+  "citation": "Global Drug Trafficking Routes. U.S. Department of State, 2000s. Library of Congress, Geography & Map Division.",
+  "alt_text": "World map tracing major narcotics trafficking routes and source regions.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.82",
+  "title": "World Shipping Lanes and Container Trade Routes",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "2000s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=world%20shipping%20lanes%20container%20trade%20routes%20map",
+  "download_url": "",
+  "citation": "World Shipping Lanes and Container Trade Routes. U.S. Central Intelligence Agency, 2000s. Library of Congress, Geography & Map Division.",
+  "alt_text": "World map showing major maritime shipping lanes and container trade routes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.83",
+  "title": "Regional Trade Blocs (EU, NAFTA, ASEAN, Mercosur)",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "2000s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=world%20trade%20blocs%20EU%20NAFTA%20ASEAN%20map",
+  "download_url": "",
+  "citation": "Regional Trade Blocs (EU, NAFTA, ASEAN, Mercosur). U.S. Central Intelligence Agency, 2000s. Library of Congress, Geography & Map Division.",
+  "alt_text": "World map coloring the major regional trade blocs and free-trade areas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.84",
+  "title": "The European Union: Member States",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "2000s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=European%20Union%20member%20states%20map",
+  "download_url": "",
+  "citation": "The European Union: Member States. U.S. Central Intelligence Agency, 2000s. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of Europe highlighting European Union member states.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.85",
+  "title": "South and East Asia in the Global Economy",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "2000s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=South%20East%20Asia%20political%20economic%20map",
+  "download_url": "",
+  "citation": "South and East Asia in the Global Economy. U.S. Central Intelligence Agency, 2000s. Library of Congress, Geography & Map Division.",
+  "alt_text": "Regional map of South and East Asia showing major economies and shipping links.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.86",
+  "title": "Oil and Gas of the Persian Gulf",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "2000s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Persian%20Gulf%20oil%20fields%20Middle%20East%20map",
+  "download_url": "",
+  "citation": "Oil and Gas of the Persian Gulf. U.S. Central Intelligence Agency, 2000s. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of the Persian Gulf marking major oil and gas fields and export terminals.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.87",
+  "title": "World Energy Resources and Renewable Potential",
+  "type": "map",
+  "creator": "U.S. Energy Information Administration / Dept. of Energy",
+  "year": "2010s",
+  "repository": "U.S. Energy Information Administration (Dept. of Energy)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.eia.gov/",
+  "download_url": "",
+  "citation": "World energy resources and renewable-potential map. U.S. Energy Information Administration.",
+  "alt_text": "World map showing fossil-fuel reserves alongside solar and wind resource potential.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.88",
+  "title": "The Persian Gulf War, 1990–1991",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1991",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "The Persian Gulf War, 1990–1991. U.S. Army Center of Military History campaign atlas, 1991.",
+  "alt_text": "Map of Kuwait, Iraq, and Saudi Arabia showing Operation Desert Storm ground and air operations.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.88",
+  "title": "Political Map of the Middle East and North Africa",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": "2000s",
+  "repository": "U.S. Central Intelligence Agency (Library of Congress, G&M Division)",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=Middle%20East%20North%20Africa%20political%20map",
+  "download_url": "",
+  "citation": "Political Map of the Middle East and North Africa. U.S. Central Intelligence Agency, 2000s. Library of Congress, Geography & Map Division.",
+  "alt_text": "Political map of the Middle East and North Africa region.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "W.89",
+  "title": "U.S. Operations in Afghanistan and Iraq, Post-2001",
+  "type": "map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "2003",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil",
+  "download_url": "",
+  "citation": "U.S. Operations in Afghanistan and Iraq, Post-2001. U.S. Army Center of Military History campaign atlas, 2003.",
+  "alt_text": "Map of Afghanistan and Iraq showing U.S. and coalition military operations after 2001.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ }
+]

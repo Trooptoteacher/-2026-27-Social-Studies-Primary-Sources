@@ -1,0 +1,1234 @@
+[
+ {
+  "standard": "8.01",
+  "title": "Virginia / Discovered and Discribed by Captayn John Smith (1612)",
+  "type": "map",
+  "creator": "John Smith; engraved by William Hole",
+  "year": "1612",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published 1612",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=john+smith+virginia+1612+powhatan",
+  "download_url": "",
+  "citation": "John Smith, \"Virginia,\" engraved by William Hole, 1612. Library of Congress Geography & Map Division.",
+  "alt_text": "Early 17th-century map of the Virginia tidewater and Chesapeake Bay showing Powhatan villages, rivers, and the Jamestown region, oriented with west at the top.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.02",
+  "title": "New England (Plymouth region), captured by Capt. John Smith (1616/1624)",
+  "type": "map",
+  "creator": "John Smith",
+  "year": "1624",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published 1624",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=john+smith+new+england+plymouth",
+  "download_url": "",
+  "citation": "John Smith, \"New England,\" 1624. Library of Congress Geography & Map Division.",
+  "alt_text": "Early map of the New England coast naming Plymouth and surrounding harbors used by the Pilgrims.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.03",
+  "title": "Map of the Massachusetts Bay Colony and vicinity",
+  "type": "map",
+  "creator": "Various (18th-c. English cartographers)",
+  "year": "c. 1730",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=massachusetts+bay+colony+boston+salem",
+  "download_url": "",
+  "citation": "Map of the Massachusetts Bay Colony, c. 1730. Library of Congress Geography & Map Division.",
+  "alt_text": "Colonial-era map of Massachusetts Bay showing Boston, Salem, and surrounding towns.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.04",
+  "title": "A New Map of New England (Rhode Island & Connecticut colonies)",
+  "type": "map",
+  "creator": "Various (18th-c. English cartographers)",
+  "year": "c. 1755",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=new+england+connecticut+rhode+island+colony",
+  "download_url": "",
+  "citation": "A New Map of New England, c. 1755. Library of Congress Geography & Map Division.",
+  "alt_text": "Colonial map of New England showing Rhode Island (Providence) and Connecticut (Hartford) colony boundaries.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.05",
+  "title": "Novi Belgii Novaeque Angliae (New Netherland and New England)",
+  "type": "map",
+  "creator": "Nicolaes Visscher",
+  "year": "1685",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published 1685",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=novi+belgii+new+netherland+visscher",
+  "download_url": "",
+  "citation": "Nicolaes Visscher, \"Novi Belgii Novaeque Angliae,\" c. 1685. Library of Congress Geography & Map Division.",
+  "alt_text": "Dutch map of New Netherland showing the Hudson River, New Amsterdam (later New York), and a New Amsterdam city inset.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.06",
+  "title": "A Portraiture of the City of Philadelphia / Map of Pennsylvania",
+  "type": "map",
+  "creator": "Thomas Holme",
+  "year": "1683",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published 1683",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=thomas+holme+philadelphia+pennsylvania+penn",
+  "download_url": "",
+  "citation": "Thomas Holme, \"A Portraiture of the City of Philadelphia,\" 1683. Library of Congress Geography & Map Division.",
+  "alt_text": "Late 17th-century grid plan of Philadelphia laid out for William Penn's Pennsylvania colony.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.07",
+  "title": "A Map of the County of Savannah / Colony of Georgia",
+  "type": "map",
+  "creator": "Various (Oglethorpe-era English cartographers)",
+  "year": "c. 1735",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=georgia+colony+savannah+oglethorpe",
+  "download_url": "",
+  "citation": "Map of the Colony of Georgia / Savannah, c. 1735. Library of Congress Geography & Map Division.",
+  "alt_text": "Early map of the Georgia colony showing Savannah and the buffer zone between South Carolina and Spanish Florida.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.08",
+  "title": "The Thirteen Colonies, 1775 (colonial regions)",
+  "type": "map",
+  "creator": "U.S. National Park Service / historical reference",
+  "year": "c. 1775",
+  "repository": "Perry-Castañeda Library Map Collection (UT Austin)",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/histus.html",
+  "download_url": "",
+  "citation": "The Thirteen Colonies. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Reference map of the thirteen British colonies grouped into New England, Middle, and Southern regions along the Atlantic seaboard.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.08",
+  "title": "A Map of the British Colonies in North America (Mitchell Map)",
+  "type": "map",
+  "creator": "John Mitchell",
+  "year": "1755",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published 1755",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=mitchell+map+british+colonies+north+america+1755",
+  "download_url": "",
+  "citation": "John Mitchell, \"A Map of the British and French Dominions in North America,\" 1755. Library of Congress Geography & Map Division.",
+  "alt_text": "Large 1755 map of the British colonies along the Atlantic coast with geographic features shaping regional economies.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.09",
+  "title": "A Map of the British and French Dominions in North America (Mitchell Map)",
+  "type": "map",
+  "creator": "John Mitchell",
+  "year": "1755",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published 1755",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=mitchell+british+french+dominions+north+america",
+  "download_url": "",
+  "citation": "John Mitchell, \"A Map of the British and French Dominions in North America,\" 1755. Library of Congress Geography & Map Division.",
+  "alt_text": "Mid-18th-century map contrasting British coastal colonies with French interior claims across North America.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.09",
+  "title": "North America in 1750 (British, French, and Spanish claims)",
+  "type": "map",
+  "creator": "Various 18th-c. cartographers",
+  "year": "c. 1750",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey Map Collection",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=north+america+1750+colonies",
+  "download_url": "",
+  "citation": "North America, c. 1750. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Color map of North America around 1750 showing the extent of British, French, and Spanish territorial claims.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.10",
+  "title": "The Middle Passage / Triangular Trade routes of the Atlantic slave trade",
+  "type": "map",
+  "creator": "Historical reference (Atlantic trade)",
+  "year": "18th century",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=atlantic+slave+trade+middle+passage+africa+west+indies",
+  "download_url": "",
+  "citation": "Map of Atlantic trade / Middle Passage routes. Library of Congress Geography & Map Division.",
+  "alt_text": "Atlantic map showing triangular trade routes among Europe, West Africa, and the Americas, including the Middle Passage.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.12",
+  "title": "Chart of the Atlantic Ocean showing trade routes (mercantilism)",
+  "type": "map",
+  "creator": "Various 18th-c. cartographers",
+  "year": "18th century",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=atlantic+ocean+chart+trade+routes+colonies",
+  "download_url": "",
+  "citation": "Chart of the Atlantic Ocean, 18th century. Library of Congress Geography & Map Division.",
+  "alt_text": "Atlantic Ocean chart showing shipping lanes connecting Britain and its North American colonies.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.13",
+  "title": "The Proclamation Line of 1763 and the Ohio River Valley",
+  "type": "map",
+  "creator": "U.S. National Park Service / historical reference",
+  "year": "1763",
+  "repository": "Perry-Castañeda Library Map Collection (UT Austin)",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/histus.html",
+  "download_url": "",
+  "citation": "North America after the Treaty of Paris, 1763. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of eastern North America in 1763 showing the Proclamation Line along the Appalachians and the Ohio River Valley.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.13",
+  "title": "Map of the contested Ohio Country and Fort Loudoun region",
+  "type": "map",
+  "creator": "Various 18th-c. cartographers",
+  "year": "c. 1755",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=ohio+country+french+indian+war+forts",
+  "download_url": "",
+  "citation": "Map of the Ohio Country and British forts, c. 1755. Library of Congress Geography & Map Division.",
+  "alt_text": "Colonial map of the Ohio River Valley and British/French forts contested during the French and Indian War.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.15",
+  "title": "A Plan of the Town of Boston with its Environs (Revolutionary Boston)",
+  "type": "map",
+  "creator": "Henry Pelham / period British surveyors",
+  "year": "1775",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published 1775",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=plan+town+boston+1775+environs",
+  "download_url": "",
+  "citation": "A Plan of Boston and its Environs, 1775. Library of Congress Geography & Map Division.",
+  "alt_text": "1775 plan of Boston showing the harbor, wharves, and streets where the Massacre and Tea Party occurred.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.17",
+  "title": "A Plan of the Battles of Lexington and Concord / Bunker Hill",
+  "type": "map",
+  "creator": "J. De Costa / period British surveyors",
+  "year": "1775",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published 1775",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=lexington+concord+bunker+hill+1775+plan",
+  "download_url": "",
+  "citation": "A Plan of the Town and Harbour of Boston and the Battles of Lexington and Concord, 1775. Library of Congress Geography & Map Division.",
+  "alt_text": "1775 battle plan tracing the British march to Lexington and Concord and the Bunker (Breed's) Hill lines.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.19",
+  "title": "The Seat of War in the Colonies (Patriot vs. Loyalist regions)",
+  "type": "map",
+  "creator": "Various 18th-c. cartographers",
+  "year": "c. 1776",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=seat+of+war+colonies+american+revolution",
+  "download_url": "",
+  "citation": "The Seat of War in the American Colonies, c. 1776. Library of Congress Geography & Map Division.",
+  "alt_text": "Revolutionary-era map of the colonies used to discuss regions of Loyalist and Patriot strength.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.21",
+  "title": "Plan of the Seven Ranges / Northwest Territory (Land Ordinance survey)",
+  "type": "map",
+  "creator": "U.S. General Land Office / Thomas Hutchins",
+  "year": "1785-1787",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=seven+ranges+northwest+territory+ordinance+1785",
+  "download_url": "",
+  "citation": "Plan of the Seven Ranges of Townships, Northwest Territory, 1785-1787. Library of Congress Geography & Map Division.",
+  "alt_text": "Grid survey map of the first townships of the Northwest Territory laid out under the Land Ordinance of 1785.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.21",
+  "title": "Map of the State of Franklin and the western lands (1780s)",
+  "type": "map",
+  "creator": "Various late 18th-c. cartographers",
+  "year": "c. 1786",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey Map Collection",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=franklin+tennessee+western+territory+1780s",
+  "download_url": "",
+  "citation": "Map of the western territory / State of Franklin, c. 1786. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Late 1780s map of the trans-Appalachian west showing the short-lived State of Franklin in eastern Tennessee.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.25",
+  "title": "Map of the United States, 1790s (Washington administration)",
+  "type": "map",
+  "creator": "Various 1790s cartographers",
+  "year": "c. 1795",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey Map Collection",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=united+states+1795+map",
+  "download_url": "",
+  "citation": "Map of the United States, c. 1795. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of the young United States in the 1790s showing the original states and western frontier.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.26",
+  "title": "Map of the United States showing the states, c. 1800 (party era)",
+  "type": "map",
+  "creator": "Various early 19th-c. cartographers",
+  "year": "c. 1800",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey Map Collection",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=united+states+1800+map",
+  "download_url": "",
+  "citation": "Map of the United States, c. 1800. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of the United States around 1800 showing states and territories during the first party system.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.27",
+  "title": "Map of the United States and its foreign relations, c. 1798",
+  "type": "map",
+  "creator": "Various late 18th-c. cartographers",
+  "year": "c. 1798",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey Map Collection",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=united+states+1798+map",
+  "download_url": "",
+  "citation": "Map of the United States, c. 1798. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Late-1790s map of the United States used to discuss tensions with Britain and France during the Adams presidency.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.28",
+  "title": "The State of Tennessee (early statehood, 1796)",
+  "type": "map",
+  "creator": "Various late 18th / early 19th-c. cartographers",
+  "year": "c. 1796",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=tennessee+1796+state+map",
+  "download_url": "",
+  "citation": "Map of the State of Tennessee, c. 1796. Library of Congress Geography & Map Division.",
+  "alt_text": "Early map of Tennessee at statehood showing the three grand divisions, rivers, and western settlements.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.30",
+  "title": "Louisiana Purchase and the Lewis & Clark Expedition route",
+  "type": "map",
+  "creator": "William Clark / U.S. War Department",
+  "year": "1814",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=lewis+clark+expedition+route+louisiana",
+  "download_url": "",
+  "citation": "William Clark, Map of Lewis and Clark's Track Across the Western Portion of North America, 1814. Library of Congress Geography & Map Division.",
+  "alt_text": "Early 19th-century map tracing the Lewis and Clark route across the Louisiana Purchase to the Pacific.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.30",
+  "title": "The Louisiana Purchase, 1803 (territorial acquisition)",
+  "type": "map",
+  "creator": "U.S. Geological Survey / historical reference",
+  "year": "1803",
+  "repository": "Perry-Castañeda Library Map Collection (UT Austin)",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/histus.html",
+  "download_url": "",
+  "citation": "The Louisiana Purchase, 1803. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map shading the Louisiana Purchase territory added to the United States in 1803.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.31",
+  "title": "Seat of War: theaters of the War of 1812",
+  "type": "map",
+  "creator": "Various early 19th-c. cartographers",
+  "year": "c. 1815",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=war+of+1812+seat+of+war+new+orleans",
+  "download_url": "",
+  "citation": "Map of the Seat of War, War of 1812, c. 1815. Library of Congress Geography & Map Division.",
+  "alt_text": "Map of the War of 1812 theaters including the Great Lakes, Washington, and New Orleans.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.32",
+  "title": "United States boundaries after the Convention of 1818 and Adams-Onis Treaty (1819)",
+  "type": "map",
+  "creator": "U.S. Geological Survey / historical reference",
+  "year": "1819",
+  "repository": "Perry-Castañeda Library Map Collection (UT Austin)",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/histus.html",
+  "download_url": "",
+  "citation": "United States Territorial Growth, 1810/1820. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map showing the 49th-parallel boundary from the Convention of 1818 and Florida acquired via the Adams-Onis Treaty.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.34",
+  "title": "Cotton production in the Southern states (census map)",
+  "type": "map",
+  "creator": "U.S. Census Office",
+  "year": "1860s",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=cotton+production+southern+states+1860+census",
+  "download_url": "",
+  "citation": "Map showing cotton production in the Southern states, U.S. Census, 1860s. Library of Congress Geography & Map Division.",
+  "alt_text": "Statistical map shading counties across the Deep South by intensity of cotton production.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.35",
+  "title": "Distribution of the slave population of the Southern states (1860 census map)",
+  "type": "map",
+  "creator": "U.S. Coast Survey / E. Hergesheimer",
+  "year": "1861",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published 1861",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=distribution+slave+population+southern+states+1860",
+  "download_url": "",
+  "citation": "E. Hergesheimer, Map Showing the Distribution of the Slave Population of the Southern States, U.S. Coast Survey, 1861. Library of Congress Geography & Map Division.",
+  "alt_text": "1861 shaded county map showing the concentration of the enslaved population across the South.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.36",
+  "title": "Map of Southampton County, Virginia (Nat Turner's revolt)",
+  "type": "map",
+  "creator": "Various 19th-c. cartographers",
+  "year": "c. 1831",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=southampton+county+virginia+map",
+  "download_url": "",
+  "citation": "Map of Southampton County, Virginia, 19th century. Library of Congress Geography & Map Division.",
+  "alt_text": "County map of Southampton County, Virginia, site of Nat Turner's 1831 rebellion.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.37",
+  "title": "Map of Lowell, Massachusetts (textile mills)",
+  "type": "map",
+  "creator": "Various 19th-c. cartographers",
+  "year": "c. 1845",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=lowell+massachusetts+mills+map",
+  "download_url": "",
+  "citation": "Map of Lowell, Massachusetts, c. 1845. Library of Congress Geography & Map Division.",
+  "alt_text": "19th-century map of Lowell showing the Merrimack River canals and textile mill complexes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.38",
+  "title": "Railroads and industrial cities of the Northern states, c. 1850",
+  "type": "map",
+  "creator": "Various mid-19th-c. cartographers",
+  "year": "c. 1850",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey Map Collection",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=railroad+map+northern+states+1850",
+  "download_url": "",
+  "citation": "Railroad map of the Northern states, c. 1850. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Mid-19th-century map of the Northeast showing railroads linking industrial cities.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.39",
+  "title": "Map of the North Atlantic showing immigration routes to U.S. ports",
+  "type": "map",
+  "creator": "Various mid-19th-c. cartographers",
+  "year": "c. 1850",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey Map Collection",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=atlantic+immigration+ports+1850",
+  "download_url": "",
+  "citation": "Map of the North Atlantic, c. 1850. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map showing steamship routes from Ireland and the German states to Atlantic ports such as New York and Boston.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.40",
+  "title": "Map of the Erie Canal and the National Road (internal improvements)",
+  "type": "map",
+  "creator": "Various early/mid-19th-c. cartographers",
+  "year": "c. 1840",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=erie+canal+national+road+map",
+  "download_url": "",
+  "citation": "Map of the Erie Canal / National Road, c. 1840. Library of Congress Geography & Map Division.",
+  "alt_text": "Map showing the Erie Canal across New York and the National Road westward, with connecting rivers and railroads.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.45",
+  "title": "Electoral map of the presidential election of 1828",
+  "type": "map",
+  "creator": "Historical reference (electoral results)",
+  "year": "1828",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey Map Collection",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=presidential+election+1828+map",
+  "download_url": "",
+  "citation": "Map of the presidential election of 1828. David Rumsey Map Collection (CC BY).",
+  "alt_text": "State-by-state map of the 1828 election showing Jackson's support across the South and West.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.47",
+  "title": "Trail of Tears National Historic Trail (removal routes)",
+  "type": "map",
+  "creator": "U.S. National Park Service",
+  "year": "2019",
+  "repository": "National Park Service",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.nps.gov/trte/planyourvisit/maps.htm",
+  "download_url": "",
+  "citation": "Trail of Tears National Historic Trail Map. U.S. National Park Service.",
+  "alt_text": "Map of the multiple land and water routes of the Cherokee removal from the Southeast to Indian Territory.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.47",
+  "title": "Map of the Cherokee Nation and Indian Territory removal lands",
+  "type": "map",
+  "creator": "Various 19th-c. cartographers",
+  "year": "c. 1835",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=cherokee+nation+indian+territory+removal",
+  "download_url": "",
+  "citation": "Map of the Cherokee Nation and Indian Territory, c. 1835. Library of Congress Geography & Map Division.",
+  "alt_text": "Map contrasting the Cherokee homeland in the Southeast with the assigned lands in Indian Territory.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.49",
+  "title": "United States Territorial Growth (Manifest Destiny)",
+  "type": "map",
+  "creator": "U.S. Geological Survey / historical reference",
+  "year": "1850",
+  "repository": "Perry-Castañeda Library Map Collection (UT Austin)",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/histus.html",
+  "download_url": "",
+  "citation": "United States Territorial Growth. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Series map coloring successive U.S. territorial acquisitions from the Atlantic to the Pacific.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.50",
+  "title": "The Missouri Compromise line of 1820 (36°30′)",
+  "type": "map",
+  "creator": "Historical reference / U.S. government",
+  "year": "1820",
+  "repository": "Perry-Castañeda Library Map Collection (UT Austin)",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/histus.html",
+  "download_url": "",
+  "citation": "The Missouri Compromise, 1820. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the Louisiana Purchase divided at the 36 degrees 30 minutes line into free and slave territory.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.51",
+  "title": "Map of Texas (Republic of Texas / War for Independence)",
+  "type": "map",
+  "creator": "Various 1830s-1840s cartographers",
+  "year": "c. 1836",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=texas+republic+1836+map+alamo",
+  "download_url": "",
+  "citation": "Map of Texas, c. 1836. Library of Congress Geography & Map Division.",
+  "alt_text": "Map of Texas during its war for independence showing settlements, the Alamo at San Antonio, and the Rio Grande.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.52",
+  "title": "Map of the Oregon, Santa Fe, Mormon, and California overland trails",
+  "type": "map",
+  "creator": "U.S. National Park Service / historical reference",
+  "year": "c. 1849",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=oregon+trail+santa+fe+trail+overland+routes",
+  "download_url": "",
+  "citation": "Map of the overland trails to the West, c. 1849. Library of Congress Geography & Map Division.",
+  "alt_text": "Map tracing the Oregon, Santa Fe, Mormon, and California trails westward across the plains and mountains.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.53",
+  "title": "The Oregon boundary settlement of 1846 (54°40′ dispute)",
+  "type": "map",
+  "creator": "Various mid-19th-c. cartographers",
+  "year": "c. 1846",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey Map Collection",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=oregon+territory+1846+boundary",
+  "download_url": "",
+  "citation": "Map of the Oregon Territory, c. 1846. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Map of the Oregon Country showing the disputed area and the 49th-parallel boundary settled under Polk.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.54",
+  "title": "The Mexican Cession and the Rio Grande boundary (1848)",
+  "type": "map",
+  "creator": "U.S. Geological Survey / historical reference",
+  "year": "1848",
+  "repository": "Perry-Castañeda Library Map Collection (UT Austin)",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/histus.html",
+  "download_url": "",
+  "citation": "The Mexican Cession, 1848. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map shading the Mexican Cession lands and the contested Rio Grande border of the Mexican War.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.55",
+  "title": "Map of the gold region of California (1849)",
+  "type": "map",
+  "creator": "Various Gold Rush-era cartographers",
+  "year": "1849",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey Map Collection",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=california+gold+region+1849",
+  "download_url": "",
+  "citation": "Map of the Gold Region of California, 1849. David Rumsey Map Collection (CC BY).",
+  "alt_text": "1849 map of the California goldfields along the Sierra Nevada foothills and Sacramento River.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.56",
+  "title": "Free and slave states and territories under the Compromise of 1850",
+  "type": "map",
+  "creator": "U.S. Geological Survey / historical reference",
+  "year": "1850",
+  "repository": "Perry-Castañeda Library Map Collection (UT Austin)",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/histus.html",
+  "download_url": "",
+  "citation": "United States, 1850 (Compromise of 1850). Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map showing free states, slave states, and territories after the Compromise of 1850, with California free.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.57",
+  "title": "The Gadsden Purchase of 1853",
+  "type": "map",
+  "creator": "U.S. Geological Survey / historical reference",
+  "year": "1853",
+  "repository": "Perry-Castañeda Library Map Collection (UT Austin)",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/histus.html",
+  "download_url": "",
+  "citation": "The Gadsden Purchase, 1853. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map highlighting the Gadsden Purchase strip along the southern Arizona and New Mexico border.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.58",
+  "title": "Kansas and Nebraska territories under the Kansas-Nebraska Act (1854)",
+  "type": "map",
+  "creator": "U.S. Geological Survey / historical reference",
+  "year": "1854",
+  "repository": "Perry-Castañeda Library Map Collection (UT Austin)",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/histus.html",
+  "download_url": "",
+  "citation": "United States, 1854 (Kansas-Nebraska Act). Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map showing the Kansas and Nebraska territories opened to popular sovereignty above the Missouri Compromise line.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.61",
+  "title": "Electoral map of the presidential election of 1860",
+  "type": "map",
+  "creator": "Historical reference (electoral results)",
+  "year": "1860",
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey Map Collection",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=presidential+election+1860+map",
+  "download_url": "",
+  "citation": "Map of the presidential election of 1860. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Four-way 1860 election map showing Lincoln, Douglas, Breckinridge, and Bell support by region.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.62",
+  "title": "Map of secession: Union, Confederate, and border states (1861)",
+  "type": "map",
+  "creator": "U.S. government / historical reference",
+  "year": "1861",
+  "repository": "Perry-Castañeda Library Map Collection (UT Austin)",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/histus.html",
+  "download_url": "",
+  "citation": "The United States in 1861 (secession). Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map distinguishing Union free states, Confederate states, and slaveholding border states in 1861.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.62",
+  "title": "Plan of Fort Sumter and Charleston Harbor",
+  "type": "map",
+  "creator": "U.S. War Department / period engineers",
+  "year": "1861",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published 1861",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=fort+sumter+charleston+harbor+1861",
+  "download_url": "",
+  "citation": "Map of Charleston Harbor and Fort Sumter, 1861. Library of Congress Geography & Map Division.",
+  "alt_text": "1861 map of Charleston Harbor showing Fort Sumter and surrounding Confederate batteries.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.63",
+  "title": "Theater map of the Civil War, 1861-1865 (Eastern and Western theaters)",
+  "type": "map",
+  "creator": "U.S. War Department / historical reference",
+  "year": "c. 1865",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=civil+war+theater+battles+1861+1865",
+  "download_url": "",
+  "citation": "Map of the seat of war, Civil War theaters, c. 1865. Library of Congress Geography & Map Division.",
+  "alt_text": "Overview map of Civil War theaters marking major battles from Bull Run to Appomattox.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.63",
+  "title": "Battle of Gettysburg / Vicksburg campaign maps",
+  "type": "map",
+  "creator": "U.S. War Department / Robert Knox Sneden and others",
+  "year": "1863",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=gettysburg+vicksburg+battle+1863",
+  "download_url": "",
+  "citation": "Battle maps of Gettysburg and Vicksburg, 1863. Library of Congress Geography & Map Division.",
+  "alt_text": "Detailed battle maps of the 1863 Gettysburg and Vicksburg campaigns showing troop positions and terrain.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.65",
+  "title": "Map of the Battle of Nashville (December 1864)",
+  "type": "map",
+  "creator": "U.S. War Department / period engineers",
+  "year": "1864",
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=battle+of+nashville+1864+map",
+  "download_url": "",
+  "citation": "Map of the Battle of Nashville, 1864. Library of Congress Geography & Map Division.",
+  "alt_text": "1864 battle map of Nashville showing Union lines, including U.S. Colored Troops positions, and Confederate defenses.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.69",
+  "title": "The military districts of Reconstruction (1867)",
+  "type": "map",
+  "creator": "U.S. government / historical reference",
+  "year": "1867",
+  "repository": "Perry-Castañeda Library Map Collection (UT Austin)",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/histus.html",
+  "download_url": "",
+  "citation": "Reconstruction Military Districts, 1867. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map dividing the former Confederacy into the five military districts of Radical Reconstruction, with Tennessee readmitted separately.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "8.74",
+  "title": "Map of the Reconstruction-era South (readmission of states)",
+  "type": "map",
+  "creator": "U.S. government / historical reference",
+  "year": "c. 1870",
+  "repository": "Perry-Castañeda Library Map Collection (UT Austin)",
+  "rights": "Public domain — U.S. government work",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/histus.html",
+  "download_url": "",
+  "citation": "The South during Reconstruction, c. 1870. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the Southern states during Reconstruction showing dates of readmission to the Union.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ }
+]

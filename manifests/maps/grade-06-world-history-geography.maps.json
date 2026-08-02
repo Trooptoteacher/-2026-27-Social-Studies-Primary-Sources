@@ -1,0 +1,1300 @@
+[
+ {
+  "standard": "6.03",
+  "title": "Reference Map of the Ancient Orient (Fertile Crescent)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Physical-political map of the ancient Near East showing the Fertile Crescent arc from the Persian Gulf up the Tigris-Euphrates and across to the Mediterranean and Nile.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.03",
+  "title": "The Ancient World / Cradles of Civilization",
+  "type": "map",
+  "creator": "David Rumsey Map Collection (historical map)",
+  "year": 1911,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=ancient+world+agriculture+cradle+civilization",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, Stanford Libraries. CC BY. The Ancient World / Cradles of Civilization.",
+  "alt_text": "Old atlas plate of the ancient world highlighting early river-valley civilizations.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.04",
+  "title": "The Ancient World — Early Civilizations Overview",
+  "type": "map",
+  "creator": "Perry-Castañeda Library Map Collection (historical atlas facsimiles)",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_ancient.html",
+  "download_url": "",
+  "citation": "Perry-Castañeda Library Map Collection, University of Texas at Austin (public-domain historical map). The Ancient World — Early Civilizations Overview.",
+  "alt_text": "Overview map of the ancient world showing Mesopotamia, Egypt, India, and China river-valley civilizations.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.04",
+  "title": "Map of the Ancient World",
+  "type": "map",
+  "creator": "David Rumsey Map Collection (historical map)",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=ancient+world+early+civilizations",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, Stanford Libraries. CC BY. Map of the Ancient World.",
+  "alt_text": "Historical world map centered on the ancient Eastern Hemisphere civilizations.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.05",
+  "title": "The Oriental Empires (Mesopotamia: Tigris, Euphrates, Zagros, Persian Gulf)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of ancient Mesopotamia labeling the Tigris and Euphrates rivers, Persian Gulf, Zagros Mountains, and surrounding seas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.05",
+  "title": "Map of Ancient Mesopotamia and the Near East",
+  "type": "map",
+  "creator": "Library of Congress, Geography & Map Division",
+  "year": 1910,
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=ancient+mesopotamia+tigris+euphrates",
+  "download_url": "",
+  "citation": "Library of Congress, Geography and Map Division, Washington, D.C. Public domain. Map of Ancient Mesopotamia and the Near East.",
+  "alt_text": "Labeled physical map of Mesopotamia showing its two rivers and bordering mountains and gulf.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.06",
+  "title": "The Fertile Crescent — Physical Map of the Ancient Near East",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Physical map of the Near East emphasizing the arc of fertile river-watered land between desert and mountains.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.08",
+  "title": "Babylonia and the Sumerian City-States",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of southern Mesopotamia marking Sumerian city-states along the rivers near the Persian Gulf.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.09",
+  "title": "The Oriental Empires about 600 B.C. (and the Empire of Sargon of Akkad)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map showing the extent of the early Mesopotamian empires spanning multiple former city-states.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.13",
+  "title": "Ancient Egypt (Nile, Delta, Upper and Lower Egypt)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of ancient Egypt showing the Nile flowing north to its delta, the divisions of Upper and Lower Egypt, and the Red and Mediterranean seas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.13",
+  "title": "Ancient Egypt — Nile Valley Map",
+  "type": "map",
+  "creator": "Library of Congress, Geography & Map Division",
+  "year": 1912,
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=ancient+egypt+nile",
+  "download_url": "",
+  "citation": "Library of Congress, Geography and Map Division, Washington, D.C. Public domain. Ancient Egypt — Nile Valley Map.",
+  "alt_text": "Historical map of the Egyptian Nile valley with the delta and desert margins labeled.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.14",
+  "title": "The Nile Valley and Its Agricultural Floodplain",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the Nile corridor highlighting the cultivated floodplain hemmed by desert.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.17",
+  "title": "Egypt and the New Kingdom Empire",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the Egyptian New Kingdom empire extending south into Nubia and north into the Levant.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.18",
+  "title": "Ancient Egypt — Locating Giza and Major Monuments",
+  "type": "map",
+  "creator": "Perry-Castañeda Library Map Collection (historical atlas facsimiles)",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_ancient.html",
+  "download_url": "",
+  "citation": "Perry-Castañeda Library Map Collection, University of Texas at Austin (public-domain historical map). Ancient Egypt — Locating Giza and Major Monuments.",
+  "alt_text": "Map of Lower Egypt marking Giza and the pyramid fields near the apex of the Nile delta.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.19",
+  "title": "Egypt and Nubia (Kush) — Trade and Contact Along the Nile",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the upper Nile showing Egypt to the north and Nubia/Kush to the south, connected by the river.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.20",
+  "title": "Palestine / Ancient Israel (Jordan River, Dead Sea, Jerusalem)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of ancient Israel showing the Jordan River flowing into the Dead Sea, Jerusalem, and the coast and Sinai.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.20",
+  "title": "Map of Ancient Palestine / the Holy Land",
+  "type": "map",
+  "creator": "David Rumsey Map Collection (historical map)",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=ancient+palestine+holy+land+jerusalem",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, Stanford Libraries. CC BY. Map of Ancient Palestine / the Holy Land.",
+  "alt_text": "Historical map of the Holy Land with the Jordan valley, Dead Sea, and Jerusalem labeled.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.21",
+  "title": "Movements of the Ancient Israelites (Mesopotamia–Canaan–Egypt–Canaan)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map with route arrows showing Israelite movement from Mesopotamia to Canaan, down to Egypt, and back.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.22",
+  "title": "Canaan and the Land of Ancient Israel",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of Canaan/ancient Israel used to situate the origins of Judaism.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.23",
+  "title": "The Kingdom of David and Solomon",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the united Israelite kingdom under David and Solomon centered on Jerusalem.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.24",
+  "title": "The Kingdoms of Israel and Judah and the Persian Empire",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map showing Israel and Judah and the later Persian Empire stretching from Egypt to India.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.24",
+  "title": "The Persian Empire under Darius",
+  "type": "map",
+  "creator": "David Rumsey Map Collection (historical map)",
+  "year": 1911,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=persian+empire+darius+achaemenid",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, Stanford Libraries. CC BY. The Persian Empire under Darius.",
+  "alt_text": "Historical map of the Achaemenid Persian Empire at its greatest extent.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.25",
+  "title": "Ancient India (Indus and Ganges Rivers, Himalayas)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of ancient India showing the Indus and Ganges rivers, the Himalayan wall to the north, and the surrounding ocean.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.25",
+  "title": "Map of Ancient India",
+  "type": "map",
+  "creator": "Library of Congress, Geography & Map Division",
+  "year": 1910,
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=ancient+india+indus+ganges",
+  "download_url": "",
+  "citation": "Library of Congress, Geography and Map Division, Washington, D.C. Public domain. Map of Ancient India.",
+  "alt_text": "Historical map of the Indian subcontinent with its major rivers and mountain border labeled.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.26",
+  "title": "The Indus Valley (Harappan) Civilization",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the Indus River valley marking Harappan civilization sites such as Harappa and Mohenjo-daro.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.28",
+  "title": "Ancient India and the Aryan Settlement of the Ganges Plain",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of northern India showing the Indo-Gangetic plain associated with Aryan settlement.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.29",
+  "title": "India and the Spread of Buddhism",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of India and Asia with the birthplace of Buddhism and arrows showing its spread.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.29",
+  "title": "Historical Map of the Spread of Buddhism in Asia",
+  "type": "map",
+  "creator": "David Rumsey Map Collection (historical map)",
+  "year": 1910,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=spread+of+buddhism+asia",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, Stanford Libraries. CC BY. Historical Map of the Spread of Buddhism in Asia.",
+  "alt_text": "Historical map tracing the expansion of Buddhism outward from northern India.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.31",
+  "title": "Ancient China (Yellow and Yangtze Rivers, Gobi, Tibet)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of ancient China showing the Yellow and Yangtze rivers, the Gobi desert and Tibetan plateau, and the Pacific coast.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.31",
+  "title": "Map of Ancient China",
+  "type": "map",
+  "creator": "Library of Congress, Geography & Map Division",
+  "year": 1912,
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=ancient+china+yellow+river+yangtze",
+  "download_url": "",
+  "citation": "Library of Congress, Geography and Map Division, Washington, D.C. Public domain. Map of Ancient China.",
+  "alt_text": "Historical map of China with its two great rivers and northern and western barriers labeled.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.32",
+  "title": "The Yellow River Valley and China's Physical Barriers",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Physical map of China emphasizing the Yellow River heartland ringed by desert, plateau, mountains, and sea.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.33",
+  "title": "China under the Zhou and Early Dynasties",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of early dynastic China showing the broad territory of the Zhou realm.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.35",
+  "title": "The Qin Empire — First Unification of China",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the Qin empire showing a unified China under its first emperor.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.37",
+  "title": "The Han Empire at Its Height",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the Han empire spanning eastern Asia and reaching westward toward Central Asia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.38",
+  "title": "The Silk Road Across Eurasia",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of Eurasia showing Silk Road trade routes running from China through Central Asia to the Mediterranean.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.38",
+  "title": "Historical Map of the Silk Road Trade Routes",
+  "type": "map",
+  "creator": "David Rumsey Map Collection (historical map)",
+  "year": 1910,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=silk+road+trade+routes+eurasia",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, Stanford Libraries. CC BY. Historical Map of the Silk Road Trade Routes.",
+  "alt_text": "Historical map with the network of Silk Road caravan routes across Asia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.39",
+  "title": "Ancient Greece (Athens, Sparta, Peloponnese, Macedonia)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of ancient Greece showing Athens, Sparta on the Peloponnese, Macedonia to the north, and Asia Minor across the Aegean.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.39",
+  "title": "Map of Ancient Greece",
+  "type": "map",
+  "creator": "Library of Congress, Geography & Map Division",
+  "year": 1910,
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=ancient+greece+athens+sparta",
+  "download_url": "",
+  "citation": "Library of Congress, Geography and Map Division, Washington, D.C. Public domain. Map of Ancient Greece.",
+  "alt_text": "Historical map of the Greek world with major city-states and regions labeled.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.40",
+  "title": "Greek and Phoenician Colonization of the Mediterranean",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the Mediterranean marking Greek colonies spread along the coasts from Spain to the Black Sea.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.43",
+  "title": "Athens, Sparta, and the Greek City-States",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of Greece highlighting Athens in Attica and Sparta in the southern Peloponnese.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.44",
+  "title": "The Persian Wars (Marathon, Thermopylae, Salamis)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the Persian Wars showing invasion routes into Greece and key battle sites.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.45",
+  "title": "Greece during the Peloponnesian War (Delian vs. Peloponnesian League)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of Greece color-coded into Athenian and Spartan alliance systems during the Peloponnesian War.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.49",
+  "title": "Plan of Ancient Athens and the Acropolis",
+  "type": "map",
+  "creator": "Perry-Castañeda Library Map Collection (historical atlas facsimiles)",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_ancient.html",
+  "download_url": "",
+  "citation": "Perry-Castañeda Library Map Collection, University of Texas at Austin (public-domain historical map). Plan of Ancient Athens and the Acropolis.",
+  "alt_text": "Plan of ancient Athens showing the Acropolis hill crowned by the Parthenon.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.50",
+  "title": "The Empire of Alexander the Great and the Hellenistic Kingdoms",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of Alexander's empire stretching from Macedonia through Persia to the Indus, with his route marked.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.50",
+  "title": "Empire of Alexander the Great",
+  "type": "map",
+  "creator": "David Rumsey Map Collection (historical map)",
+  "year": 1911,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=empire+alexander+the+great+hellenistic",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, Stanford Libraries. CC BY. Empire of Alexander the Great.",
+  "alt_text": "Historical map of Alexander's empire and campaign route.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.51",
+  "title": "Ancient Italy and Rome (Tiber, Italian Alps, Peninsula)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of ancient Italy showing Rome on the Tiber, the Alps to the north, and the peninsula in the Mediterranean.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.51",
+  "title": "Map of Ancient Italy",
+  "type": "map",
+  "creator": "Library of Congress, Geography & Map Division",
+  "year": 1910,
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=ancient+italy+rome+tiber",
+  "download_url": "",
+  "citation": "Library of Congress, Geography and Map Division, Washington, D.C. Public domain. Map of Ancient Italy.",
+  "alt_text": "Historical map of the Italian peninsula with Rome and the Tiber labeled.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.52",
+  "title": "Rome and the Mediterranean World",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map centering Italy in the Mediterranean to show Rome's strategic maritime position.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.55",
+  "title": "The Roman Republic and Caesar's Conquest of Gaul",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the late Roman Republic highlighting Gaul, conquered under Julius Caesar.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.56",
+  "title": "The Roman Empire under Augustus / at Its Greatest Extent",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the Roman Empire around the Mediterranean at its height under Augustus.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.56",
+  "title": "The Roman Empire at Its Greatest Extent",
+  "type": "map",
+  "creator": "David Rumsey Map Collection (historical map)",
+  "year": 1910,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=roman+empire+greatest+extent+trajan",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, Stanford Libraries. CC BY. The Roman Empire at Its Greatest Extent.",
+  "alt_text": "Historical map of the Roman Empire ringing the entire Mediterranean.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.57",
+  "title": "Roman Roads of the Empire",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the Roman Empire overlaid with its network of major roads radiating from Rome.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.57",
+  "title": "Plan of the City of Rome (Aqueducts and Public Works)",
+  "type": "map",
+  "creator": "Perry-Castañeda Library Map Collection (historical atlas facsimiles)",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_ancient.html",
+  "download_url": "",
+  "citation": "Perry-Castañeda Library Map Collection, University of Texas at Austin (public-domain historical map). Plan of the City of Rome (Aqueducts and Public Works).",
+  "alt_text": "Plan of ancient Rome showing aqueduct lines and monuments such as the Colosseum.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.59",
+  "title": "The Spread of Christianity in the Roman Empire",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the Roman Empire showing early Christian communities spreading from Judea outward.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.59",
+  "title": "Map of the Journeys of Paul / Early Christianity",
+  "type": "map",
+  "creator": "David Rumsey Map Collection (historical map)",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=journeys+of+paul+early+christianity+roman+empire",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, Stanford Libraries. CC BY. Map of the Journeys of Paul / Early Christianity.",
+  "alt_text": "Historical map tracing Paul's missionary journeys across the eastern Mediterranean.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.60",
+  "title": "Roman Judea and the Jewish Diaspora",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map showing Roman Judea and arrows of the Jewish diaspora spreading across the empire.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.61",
+  "title": "The Division of the Roman Empire into East and West",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of the Roman Empire divided into western and eastern halves with Constantinople marked.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.62",
+  "title": "The Germanic Migrations and the Fall of the Western Roman Empire",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castañeda Historical Map Collection (Shepherd, Historical Atlas, 1911)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "Shepherd, William R. Historical Atlas. New York: Henry Holt, 1911. Public domain. Perry-Castañeda Library Map Collection, University of Texas at Austin.",
+  "alt_text": "Map of Europe with Germanic migration arrows breaching the western empire while the east survives as Byzantium.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "6.62",
+  "title": "Barbarian Invasions of the Roman Empire",
+  "type": "map",
+  "creator": "David Rumsey Map Collection (historical map)",
+  "year": 1910,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=barbarian+invasions+fall+roman+empire+migrations",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, Stanford Libraries. CC BY. Barbarian Invasions of the Roman Empire.",
+  "alt_text": "Historical map of Germanic and other invasions overrunning the western Roman Empire.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ }
+]

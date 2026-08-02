@@ -36,3 +36,6 @@ All flagged copyrighted items (World 14, Tennessee 19) were CLEARED by swapping 
 
 ## Zero copyright risk (Rule 7 enforced)
 Every source is guaranteed public domain by category — pre-1929 published, U.S. government work, official document/treaty/statute text, or explicit CC0 — with **no hedged rights**. The World History strict pass cleaned 27 famous PD documents and replaced 28 copyright-risky 20th-century photos/speeches with guaranteed-PD U.S.-government substitutes (e.g., Churchill's Iron Curtain speech → Kennan's Long Telegram; Berlin Wall 1989 → Bush Public Papers + Two Plus Four Treaty). Grade 6 rerouted 7 ancient-artifact images to Met/Smithsonian CC0. All five courses validate at 0 blockers under the Rule 7 validator.
+
+## Maps crosswalks (downloadable PD maps) — Wave 1 of the visual-sources phase
+`crosswalk/maps/` — **315 downloadable public-domain maps** across all geo-flagged standards in five courses (Grade 6: 59, Grade 7: 66, Grade 8: 56, World: 96, Tennessee: 38). Repositories: LOC Geography & Map Division, David Rumsey (CC BY), Perry-Castañeda/Shepherd 1911 atlas, U.S. Army Center of Military History + CIA maps (20th-c., US-gov PD), Census/USGS/NPS. All Rule 7 clean (0 blockers); `verified:false` for the download agent. (Charts and political cartoons follow as Waves 2–3.)

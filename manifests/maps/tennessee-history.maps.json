@@ -1,0 +1,838 @@
+[
+ {
+  "standard": "TN.01",
+  "title": "Physiographic / relief map of Tennessee (river valleys and highland zones inhabited by Paleo-Indian and Archaic peoples)",
+  "type": "map",
+  "creator": "U.S. Geological Survey",
+  "year": 1970,
+  "repository": "U.S. Census / USGS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=tennessee+physical+relief+usgs",
+  "download_url": "",
+  "citation": "U.S. Geological Survey, physiographic/relief map of Tennessee. Library of Congress Geography and Map Division.",
+  "alt_text": "Relief map of Tennessee showing the Mississippi bottomlands, Highland Rim, Cumberland Plateau, and eastern mountains where the earliest peoples lived.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.02",
+  "title": "Map of Mississippian and Woodland mound centers along the Tennessee, Cumberland, and Mississippi rivers",
+  "type": "map",
+  "creator": "Bureau of American Ethnology (Smithsonian)",
+  "year": 1894,
+  "repository": "Library of Congress G&M",
+  "rights": "Public domain — published 1894",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=tennessee+mounds+antiquities",
+  "download_url": "",
+  "citation": "Bureau of American Ethnology, map of mounds and antiquities of Tennessee, c. 1894. Library of Congress Geography and Map Division.",
+  "alt_text": "Map plotting prehistoric earthen mound sites clustered along Tennessee's major rivers, marking Woodland and Mississippian settlement.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.03",
+  "title": "Map of the former territorial limits of the Cherokee Nation of Indians (Royce)",
+  "type": "map",
+  "creator": "Charles C. Royce, Bureau of American Ethnology",
+  "year": 1884,
+  "repository": "Library of Congress G&M",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=cherokee+nation+royce+territory",
+  "download_url": "",
+  "citation": "Charles C. Royce, Map of the Former Territorial Limits of the Cherokee 'Nation of' Indians, Bureau of American Ethnology, 1884. Library of Congress Geography and Map Division.",
+  "alt_text": "Historical map showing the homelands and successive land cessions of the Cherokee across the Tennessee region.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.03",
+  "title": "Map of the Indian tribes of the Southeast prior to European contact",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1899,
+  "repository": "David Rumsey",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=indian+tribes+southeast+cherokee+chickasaw",
+  "download_url": "",
+  "citation": "Map of southeastern American Indian tribal territories. David Rumsey Map Collection (CC BY).",
+  "alt_text": "Regional map locating Cherokee, Chickasaw, Creek, and Shawnee peoples relative to the Tennessee region.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.04",
+  "title": "Map of the route of the Hernando de Soto expedition through the Southeast (1539–1543)",
+  "type": "map",
+  "creator": "U.S. De Soto Expedition Commission",
+  "year": 1939,
+  "repository": "Library of Congress G&M",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=de+soto+expedition+route",
+  "download_url": "",
+  "citation": "U.S. De Soto Expedition Commission, map of the route of the De Soto expedition, 1939. Library of Congress Geography and Map Division.",
+  "alt_text": "Map tracing the path of Hernando de Soto's expedition as it crossed the Tennessee region toward the Mississippi River.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.05",
+  "title": "A map of the British and French dominions in North America (Mitchell Map)",
+  "type": "map",
+  "creator": "John Mitchell",
+  "year": 1755,
+  "repository": "Library of Congress G&M",
+  "rights": "Public domain — published 1755",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=mitchell+british+french+dominions+north+america",
+  "download_url": "",
+  "citation": "John Mitchell, A Map of the British and French Dominions in North America, 1755. Library of Congress Geography and Map Division.",
+  "alt_text": "Mid-18th-century map showing competing British and French claims across the interior, including the Tennessee River country.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.06",
+  "title": "A map of the most inhabited part of Virginia (Fry–Jefferson Map)",
+  "type": "map",
+  "creator": "Joshua Fry and Peter Jefferson",
+  "year": 1751,
+  "repository": "Library of Congress G&M",
+  "rights": "Public domain — published 1751",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=fry+jefferson+virginia+1751",
+  "download_url": "",
+  "citation": "Joshua Fry and Peter Jefferson, A Map of the Most Inhabited Part of Virginia, 1751. Library of Congress Geography and Map Division.",
+  "alt_text": "Colonial map depicting the westward frontier toward the Appalachians and the contested Tennessee/Ohio country before the French and Indian War.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.07",
+  "title": "Map of the Tennessee government formerly part of North Carolina (Daniel Smith)",
+  "type": "map",
+  "creator": "General Daniel Smith",
+  "year": 1794,
+  "repository": "Library of Congress G&M",
+  "rights": "Public domain — published 1794",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=tennessee+government+daniel+smith+1794",
+  "download_url": "",
+  "citation": "General Daniel Smith, A Map of the Tennessee Government Formerly Part of North Carolina, 1794. Library of Congress Geography and Map Division.",
+  "alt_text": "Early map of the Tennessee country showing the Watauga and Cumberland settlement areas, rivers, and roads.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.08",
+  "title": "Map of the Battle of Kings Mountain (October 7, 1780)",
+  "type": "map",
+  "creator": "National Park Service",
+  "year": 1930,
+  "repository": "NPS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.nps.gov/kimo/planyourvisit/maps.htm",
+  "download_url": "",
+  "citation": "National Park Service, Kings Mountain National Military Park map. nps.gov.",
+  "alt_text": "Battlefield map of Kings Mountain showing the Overmountain Men's assault on Loyalist positions.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.09",
+  "title": "Map of the proposed State of Franklin and the eastern Tennessee counties (1784)",
+  "type": "map",
+  "creator": "General Daniel Smith / Library of Congress",
+  "year": 1794,
+  "repository": "Library of Congress G&M",
+  "rights": "Public domain — published 1794",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=state+of+franklin+east+tennessee",
+  "download_url": "",
+  "citation": "Map of the eastern Tennessee counties comprising the failed State of Franklin, c. 1794. Library of Congress Geography and Map Division.",
+  "alt_text": "Map of the northeastern Tennessee counties that formed the short-lived independent State of Franklin.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.10",
+  "title": "Map of the Tennassee Government / Territory South of the River Ohio",
+  "type": "map",
+  "creator": "Mathew Carey",
+  "year": 1795,
+  "repository": "David Rumsey",
+  "rights": "Public domain — published 1795",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=tennassee+government+territory+south+of+the+ohio",
+  "download_url": "",
+  "citation": "Mathew Carey, The Tennassee Government (Territory South of the River Ohio), 1795. David Rumsey Map Collection.",
+  "alt_text": "1795 map of the Southwest Territory showing land grants, districts, and rivers open to speculation and settlement.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.11",
+  "title": "Royce map of Cherokee and Chickasaw land cessions in Tennessee",
+  "type": "map",
+  "creator": "Charles C. Royce, Bureau of American Ethnology",
+  "year": 1899,
+  "repository": "Library of Congress G&M",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=royce+indian+land+cessions+tennessee",
+  "download_url": "",
+  "citation": "Charles C. Royce, Indian Land Cessions in the United States (Tennessee sheet), BAE 18th Annual Report, 1899. Library of Congress Geography and Map Division.",
+  "alt_text": "Map of Tennessee shaded and numbered by successive American Indian land cessions to the United States.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.12",
+  "title": "Map of the state of Tennessee at statehood, 1796 (bonus — statehood boundaries)",
+  "type": "map",
+  "creator": "General Daniel Smith",
+  "year": 1796,
+  "repository": "Library of Congress G&M",
+  "rights": "Public domain — published 1796",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=state+of+tennessee+1796+statehood",
+  "download_url": "",
+  "citation": "General Daniel Smith, map of the State of Tennessee, c. 1796. Library of Congress Geography and Map Division.",
+  "alt_text": "Map showing Tennessee's boundaries and early counties as it entered the Union as the 16th state in 1796.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.14",
+  "title": "Map of the State of Tennessee (Matthew Rhea)",
+  "type": "map",
+  "creator": "Matthew Rhea",
+  "year": 1832,
+  "repository": "Library of Congress G&M",
+  "rights": "Public domain — published 1832",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=matthew+rhea+tennessee+1832",
+  "download_url": "",
+  "citation": "Matthew Rhea, Map of the State of Tennessee, 1832. Library of Congress Geography and Map Division.",
+  "alt_text": "Detailed 1832 map of Tennessee showing counties, roads, and towns including the growing Middle Tennessee capital region.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.15",
+  "title": "Map showing the distribution of the slave population of the Southern States (1860 Census)",
+  "type": "map",
+  "creator": "U.S. Coast Survey / E. Hergesheimer",
+  "year": 1861,
+  "repository": "Library of Congress G&M",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=distribution+slave+population+1860+census",
+  "download_url": "",
+  "citation": "U.S. Coast Survey, Map Showing the Distribution of the Slave Population of the Southern States, 1861 (from the 1860 Census). Library of Congress Geography and Map Division.",
+  "alt_text": "Choropleth map shading each county by percentage enslaved, showing heavy concentrations in West Tennessee and lighter shading in the east.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.18",
+  "title": "Map of the New Madrid Seismic Zone and Reelfoot Lake region",
+  "type": "map",
+  "creator": "U.S. Geological Survey",
+  "year": 1990,
+  "repository": "U.S. Census / USGS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.usgs.gov/programs/earthquake-hazards/new-madrid-seismic-zone",
+  "download_url": "",
+  "citation": "U.S. Geological Survey, New Madrid Seismic Zone map. usgs.gov.",
+  "alt_text": "Map of the New Madrid seismic zone along the Mississippi River, with Reelfoot Lake in Northwest Tennessee formed by the 1811-12 quakes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.19",
+  "title": "Map of the Creek War and Battle of Horseshoe Bend (1814)",
+  "type": "map",
+  "creator": "National Park Service",
+  "year": 1959,
+  "repository": "NPS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.nps.gov/hobe/planyourvisit/maps.htm",
+  "download_url": "",
+  "citation": "National Park Service, Horseshoe Bend National Military Park map. nps.gov.",
+  "alt_text": "Battle map of Horseshoe Bend showing Andrew Jackson's Tennessee volunteers defeating the Red Stick Creeks.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.20",
+  "title": "Royce map of the Chickasaw Cession of 1818 (Jackson Purchase) and West Tennessee",
+  "type": "map",
+  "creator": "Charles C. Royce, Bureau of American Ethnology",
+  "year": 1899,
+  "repository": "Library of Congress G&M",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=chickasaw+cession+jackson+purchase+1818",
+  "download_url": "",
+  "citation": "Charles C. Royce, Indian Land Cessions (Chickasaw Cession of 1818), BAE, 1899. Library of Congress Geography and Map Division.",
+  "alt_text": "Map showing the Jackson Purchase / Chickasaw Cession opening West Tennessee and Memphis to cotton settlement along the Mississippi.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.21",
+  "title": "Map of the Natchez Trace and early Tennessee roads",
+  "type": "map",
+  "creator": "National Park Service",
+  "year": 1938,
+  "repository": "NPS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.nps.gov/natr/planyourvisit/maps.htm",
+  "download_url": "",
+  "citation": "National Park Service, Natchez Trace Parkway map. nps.gov.",
+  "alt_text": "Route map of the Natchez Trace running from Nashville toward Natchez, a key early transportation and trade corridor.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.23",
+  "title": "Map of the Trail of Tears National Historic Trail routes across Tennessee",
+  "type": "map",
+  "creator": "National Park Service",
+  "year": 2003,
+  "repository": "NPS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.nps.gov/trte/planyourvisit/maps.htm",
+  "download_url": "",
+  "citation": "National Park Service, Trail of Tears National Historic Trail map. nps.gov.",
+  "alt_text": "Map of the water and overland removal routes of the Cherokee Trail of Tears crossing Tennessee.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.23",
+  "title": "Map of the former territorial limits of the Cherokee Nation (removal context)",
+  "type": "map",
+  "creator": "Charles C. Royce, Bureau of American Ethnology",
+  "year": 1884,
+  "repository": "Library of Congress G&M",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=cherokee+nation+royce+removal",
+  "download_url": "",
+  "citation": "Charles C. Royce, Map of the Former Territorial Limits of the Cherokee Nation, BAE, 1884. Library of Congress Geography and Map Division.",
+  "alt_text": "Map of Cherokee homelands and cessions leading to forced removal under the Indian Removal Act.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.26",
+  "title": "Map showing the distribution of the slave population of the Southern States (1860)",
+  "type": "map",
+  "creator": "U.S. Coast Survey / E. Hergesheimer",
+  "year": 1861,
+  "repository": "Library of Congress G&M",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=distribution+slave+population+1860+census+tennessee",
+  "download_url": "",
+  "citation": "U.S. Coast Survey, Map Showing the Distribution of the Slave Population of the Southern States, 1861. Library of Congress Geography and Map Division.",
+  "alt_text": "County-level shaded map of enslaved population showing the sharp West-vs-East Tennessee divide by 1860.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.27",
+  "title": "Detail of Shelby and Fentress counties (Nashoba and Free Hill) from the Rhea map of Tennessee",
+  "type": "map",
+  "creator": "Matthew Rhea",
+  "year": 1832,
+  "repository": "Library of Congress G&M",
+  "rights": "Public domain — published 1832",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=rhea+tennessee+1832+shelby+county",
+  "download_url": "",
+  "citation": "Matthew Rhea, Map of the State of Tennessee, 1832 (county detail). Library of Congress Geography and Map Division.",
+  "alt_text": "County detail locating the Nashoba community near Memphis and the Free Hill settlement in the Cumberland Plateau region.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.28",
+  "title": "Johnson's Kentucky and Tennessee (secession-era political map)",
+  "type": "map",
+  "creator": "A. J. Johnson",
+  "year": 1862,
+  "repository": "David Rumsey",
+  "rights": "Public domain — published 1862",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=johnson+kentucky+tennessee+1862",
+  "download_url": "",
+  "citation": "A. J. Johnson, Johnson's Kentucky and Tennessee, 1862. David Rumsey Map Collection.",
+  "alt_text": "1862 county map of Tennessee useful for comparing the pro-Union east against the secessionist west and middle divisions.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.29",
+  "title": "Civil War battle maps of Tennessee (Fort Donelson, Shiloh, Stones River, Chattanooga, Franklin, Nashville)",
+  "type": "map",
+  "creator": "U.S. War Department (Official Records Atlas)",
+  "year": 1895,
+  "repository": "Library of Congress G&M",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=tennessee+civil+war+battle+shiloh+nashville",
+  "download_url": "",
+  "citation": "U.S. War Department, Atlas to Accompany the Official Records of the Union and Confederate Armies, 1891-1895. Library of Congress Geography and Map Division.",
+  "alt_text": "Set of Civil War battlefield maps for major Tennessee engagements from Fort Donelson through the Battle of Nashville.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.29",
+  "title": "Battlefield maps for Shiloh, Stones River, and Nashville (National Park Service)",
+  "type": "map",
+  "creator": "National Park Service",
+  "year": 1960,
+  "repository": "NPS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.nps.gov/shil/planyourvisit/maps.htm",
+  "download_url": "",
+  "citation": "National Park Service, Shiloh / Stones River / Fort Donelson National Battlefield maps. nps.gov.",
+  "alt_text": "Modern NPS battlefield maps of Tennessee Civil War sites showing troop positions and terrain.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.31",
+  "title": "Map of contraband camps and freedpeople settlements in Civil War Tennessee",
+  "type": "map",
+  "creator": "U.S. War Department / Freedmen's Bureau",
+  "year": 1865,
+  "repository": "Library of Congress G&M",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=tennessee+contraband+camp+freedmen+1865",
+  "download_url": "",
+  "citation": "U.S. War Department / Freedmen's Bureau records, maps of contraband camps in Tennessee, c. 1863-1865. Library of Congress Geography and Map Division.",
+  "alt_text": "Map locating wartime contraband camps and refugee settlements where enslaved Tennesseans sought freedom behind Union lines.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.38",
+  "title": "Map of Exoduster migration routes from Tennessee to Kansas (1879)",
+  "type": "map",
+  "creator": "Library of Congress / period sources",
+  "year": 1879,
+  "repository": "Library of Congress G&M",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=exodusters+kansas+migration+freedmen",
+  "download_url": "",
+  "citation": "Period map of the 1879 Exoduster migration to Kansas. Library of Congress Geography and Map Division.",
+  "alt_text": "Map showing the migration of Exodusters, including Tennessee freedpeople, up the Mississippi and into Kansas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.39",
+  "title": "Agricultural census map of Tennessee farms and crops, late 19th century",
+  "type": "map",
+  "creator": "U.S. Census Bureau",
+  "year": 1890,
+  "repository": "U.S. Census / USGS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=tennessee+census+agriculture+cotton+tobacco+1890",
+  "download_url": "",
+  "citation": "U.S. Census Bureau, statistical atlas maps of agriculture (Tennessee), 1880s-1890s. Library of Congress Geography and Map Division.",
+  "alt_text": "Census statistical map shading Tennessee counties by crop production and farm value in the late 1800s.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.41",
+  "title": "Sanitary / city map of Memphis during the yellow fever era",
+  "type": "map",
+  "creator": "Library of Congress / period publishers",
+  "year": 1878,
+  "repository": "Library of Congress G&M",
+  "rights": "Public domain — published 1878",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=memphis+tennessee+1878+city+plan",
+  "download_url": "",
+  "citation": "Map of the city of Memphis, Tennessee, c. 1878. Library of Congress Geography and Map Division.",
+  "alt_text": "Late-1870s street map of Memphis, the city devastated by the 1878 yellow fever epidemic.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.42",
+  "title": "Map of the Tennessee coal fields and Anderson County mining district",
+  "type": "map",
+  "creator": "U.S. Geological Survey / Tennessee Geological Survey",
+  "year": 1900,
+  "repository": "U.S. Census / USGS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=tennessee+coal+field+anderson+county+geology",
+  "download_url": "",
+  "citation": "U.S. Geological Survey, coal-field map of the Cumberland Plateau / Anderson County, Tennessee, c. 1900. Library of Congress Geography and Map Division.",
+  "alt_text": "Geologic map of the East Tennessee coal fields around Coal Creek and Anderson County, site of the Coal Creek Wars.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.50",
+  "title": "Sanborn fire insurance map of Beale Street, Memphis (blues district)",
+  "type": "map",
+  "creator": "Sanborn Map Company",
+  "year": 1907,
+  "repository": "Library of Congress G&M",
+  "rights": "Public domain — published before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=sanborn+memphis+beale+street",
+  "download_url": "",
+  "citation": "Sanborn Map Company, fire insurance map of Memphis (Beale Street), c. 1907. Library of Congress Geography and Map Division.",
+  "alt_text": "Detailed block map of Beale Street, Memphis, the birthplace district of the blues (W.C. Handy).",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.51",
+  "title": "Map of the Tennessee Valley Authority dams and reservoir system",
+  "type": "map",
+  "creator": "Tennessee Valley Authority",
+  "year": 1940,
+  "repository": "U.S. Census / USGS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=tennessee+valley+authority+dams+reservoir+system",
+  "download_url": "",
+  "citation": "Tennessee Valley Authority, map of the TVA dam and reservoir system, c. 1940. Library of Congress Geography and Map Division.",
+  "alt_text": "Map of the Tennessee River watershed showing TVA dams, reservoirs, and the seven-state service region.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.51",
+  "title": "Map of Great Smoky Mountains National Park",
+  "type": "map",
+  "creator": "National Park Service",
+  "year": 1940,
+  "repository": "NPS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.nps.gov/grsm/planyourvisit/maps.htm",
+  "download_url": "",
+  "citation": "National Park Service, Great Smoky Mountains National Park map. nps.gov.",
+  "alt_text": "Map of Great Smoky Mountains National Park along the Tennessee-North Carolina border, established during the New Deal era.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.53",
+  "title": "Map of Oak Ridge, Tennessee (Manhattan Project) and WWII installations",
+  "type": "map",
+  "creator": "National Park Service / Manhattan Project National Historical Park",
+  "year": 1945,
+  "repository": "NPS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.nps.gov/mapr/oak-ridge.htm",
+  "download_url": "",
+  "citation": "National Park Service, Manhattan Project National Historical Park — Oak Ridge, Tennessee. nps.gov.",
+  "alt_text": "Map of the Oak Ridge site in East Tennessee, the secret Manhattan Project city, plus WWII training camps.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.54",
+  "title": "Census agricultural map of Tennessee land use, mid-20th century",
+  "type": "map",
+  "creator": "U.S. Census Bureau / USDA",
+  "year": 1950,
+  "repository": "U.S. Census / USGS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=tennessee+agriculture+census+1950+farms",
+  "download_url": "",
+  "citation": "U.S. Census of Agriculture / USDA, land-use and farm maps of Tennessee, c. 1945-1954. Library of Congress Geography and Map Division.",
+  "alt_text": "Mid-century census map shading Tennessee counties by farm size, crop, and land use during postwar agricultural change.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.58",
+  "title": "Map of downtown Memphis showing the Lorraine Motel (National Civil Rights Museum)",
+  "type": "map",
+  "creator": "U.S. Geological Survey",
+  "year": 1965,
+  "repository": "U.S. Census / USGS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=memphis+tennessee+downtown+1960s",
+  "download_url": "",
+  "citation": "U.S. Geological Survey, topographic/city map of Memphis, Tennessee, 1960s. Library of Congress Geography and Map Division.",
+  "alt_text": "Downtown Memphis map locating the Lorraine Motel, site of Dr. King's 1968 assassination and now the National Civil Rights Museum.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "TN.62",
+  "title": "Map of Tennessee state and national parks and major attractions",
+  "type": "map",
+  "creator": "National Park Service / Tennessee State Parks",
+  "year": 2010,
+  "repository": "NPS",
+  "rights": "U.S. government work — public domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.nps.gov/state/tn/index.htm",
+  "download_url": "",
+  "citation": "National Park Service, Tennessee national park units map. nps.gov.",
+  "alt_text": "Statewide map of Tennessee showing national and state parks, Civil War sites, and major tourist destinations.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ }
+]

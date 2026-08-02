@@ -1,0 +1,1454 @@
+[
+ {
+  "standard": "7.01",
+  "title": "Reference Map of Eastern Asia (physical features of China, Japan, Korea)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Physical reference map of East Asia showing China, the Gobi Desert, the Himalayas, the Plateau of Tibet, the Korean Peninsula, Japan, the Yangtze and Yellow Rivers, and the surrounding Pacific Ocean and Sea of Japan.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.01",
+  "title": "Physical map of East Asia (relief, rivers, and seas)",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1892,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=east+asia+china+japan+physical",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "High-resolution physical map of East Asia showing elevation, the Himalayan and Tibetan highlands, the Gobi Desert, and the Yangtze and Yellow River systems.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.02",
+  "title": "China under the Tang Dynasty (reunification and Buddhist expansion)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of a reunified Tang China showing the extent of the empire and overland routes along which Buddhism spread into and across East Asia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.03",
+  "title": "China under the Song Dynasty",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of Song Dynasty China showing the southern heartland, major cities, canals, and agricultural regions of the Song commercial economy.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.04",
+  "title": "The Mongol Dominions, c. 1300 (rise of the Mongol Empire)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the Mongol Empire at its greatest extent across Eurasia, showing the khanates that emerged from the conquests of Genghis Khan.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.04",
+  "title": "Growth of the Mongol Empire under Genghis Khan",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=mongol+empire",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Historical map showing the phases of Mongol expansion across Central Asia, China, Persia, and Russia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.05",
+  "title": "The Yuan Empire under Kublai Khan",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the Yuan Dynasty showing Kublai Khan's rule over China and the western khanates of the Mongol world, with the capital at Khanbaliq (Beijing).",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.06",
+  "title": "The Silk Road and Marco Polo's route across Eurasia",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=silk+road+marco+polo",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Map tracing the overland Silk Road trade routes across Central Asia and the journey of Marco Polo from the Mediterranean to China under the Mongol Peace.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.06",
+  "title": "Asia in the Time of the Mongols — trade and travel routes",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Historical atlas map of Mongol-era Asia showing caravan routes linking China, Central Asia, Persia, and Europe.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.07",
+  "title": "China under the Ming Dynasty",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of Ming Dynasty China showing the Great Wall, the capital at Beijing (Forbidden City), and the empire's provinces.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.07",
+  "title": "The Voyages of Zheng He (Ming treasure fleets)",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=indian+ocean+china+voyages",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Map of the Indian Ocean world showing the maritime routes of Zheng He's Ming treasure fleets from China to Southeast Asia, India, Arabia, and East Africa.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.08",
+  "title": "Reference Map of Japan",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Reference map of the Japanese islands showing provinces and major shrine centers, providing geographic context for Shinto tradition.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.09",
+  "title": "Japan and Korea in relation to China (cultural diffusion)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of East Asia showing Japan, the Korean Peninsula, and China, illustrating the routes by which Buddhism, Confucianism, and the Chinese writing system reached Japan.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.12",
+  "title": "The Byzantine Empire (Eastern Roman Empire)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the Byzantine Empire showing its extent around the eastern Mediterranean with Constantinople as capital, illustrating the continuation of the Eastern Roman Empire.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.13",
+  "title": "The Byzantine Empire under Justinian (greatest extent, c. 565)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the Byzantine Empire at its greatest extent under Justinian, encircling the Mediterranean after the reconquest of Italy, North Africa, and southern Spain.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.14",
+  "title": "Plan of Constantinople and the Bosporus straits",
+  "type": "map",
+  "creator": "Library of Congress, Geography and Map Division",
+  "year": 1900,
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — Library of Congress",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=constantinople+bosporus",
+  "download_url": "",
+  "citation": "Library of Congress, Geography and Map Division, Washington, D.C. Public domain.",
+  "alt_text": "City plan of Constantinople showing its location on the Bosporus between the Black Sea and Mediterranean, illustrating why the site controlled European and Asian trade.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.15",
+  "title": "Physical map of Southwest Asia and North Africa",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1892,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=arabia+persia+physical",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Physical map showing the Arabian Peninsula, Red Sea, Persian Gulf, Arabian Sea, Black Sea, Caspian Sea, Mediterranean Sea, and the Tigris and Euphrates Rivers, with Mecca marked.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.16",
+  "title": "Arabia at the time of Muhammad (origins of Islam)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the Arabian Peninsula in the early 7th century showing Mecca and Medina, the setting for the origins of Islam.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.17",
+  "title": "The Expansion of Islam and the Caliphate, c. 750",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map showing the expansion of Islam from Arabia across North Africa, the Middle East, Persia, and into Spain by about 750 CE, with phases of conquest shaded.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.17",
+  "title": "The Muslim World about 750 (spread of Islam)",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=mohammedan+world+caliphate",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Historical map of the Muslim world at its early height showing the reach of the Umayyad and Abbasid caliphates.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.18",
+  "title": "The Abbasid Caliphate and centers of Islamic learning",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the Abbasid Caliphate showing Baghdad, Cordoba, Cairo, and other centers where scholars advanced mathematics, medicine, science, and philosophy.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.19",
+  "title": "Growth of the Ottoman Empire and the fall of Constantinople",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map showing the expansion of the Ottoman Empire around the eastern Mediterranean, including the conquest of Constantinople in 1453 under Mehmed II.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.20",
+  "title": "Medieval trade routes of Asia, Africa, and Europe",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=medieval+trade+routes",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Map of the interconnected medieval trade routes linking Europe, the Mediterranean, the Islamic world, the Indian Ocean, and East Asia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.21",
+  "title": "Physical map of West Africa",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1892,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=west+africa+niger+physical",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Physical map of West Africa showing the Atlantic Ocean, Gulf of Guinea, Niger River, the Sahara, and the sites of Djenne and Timbuktu.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.23",
+  "title": "The West African Empires of Ghana, Mali, and Songhai",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of West Africa showing the successive empires of Ghana, Mali, and Songhai, with trading and learning centers such as Djenne and Timbuktu.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.24",
+  "title": "Trans-Saharan caravan trade routes (salt and gold)",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=sahara+caravan+trade+africa",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Map of the trans-Saharan caravan routes connecting West African trading cities to North Africa across the desert, carrying salt, gold, and enslaved people.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.24",
+  "title": "The Catalan Atlas — West Africa and the trans-Saharan world (Mansa Musa)",
+  "type": "map",
+  "creator": "Abraham Cresques (facsimile in David Rumsey Map Collection)",
+  "year": 1375,
+  "repository": "David Rumsey Map Collection",
+  "rights": "Public domain — created before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=catalan+atlas",
+  "download_url": "",
+  "citation": "Abraham Cresques, Catalan Atlas, 1375; facsimile in the David Rumsey Map Collection, davidrumsey.com. Public domain.",
+  "alt_text": "Panel of the 1375 Catalan Atlas depicting West Africa, trans-Saharan caravan routes, and the Malian king holding a gold nugget.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.25",
+  "title": "The Mali Empire and its cities (context for the griot tradition)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the Mali Empire showing the West African heartland where griots preserved and transmitted oral history and culture.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.26",
+  "title": "Mansa Musa's pilgrimage route from Mali to Mecca (1324)",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=africa+arabia+pilgrimage+mecca",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Map of North Africa and Arabia showing the route of Mansa Musa's 1324 pilgrimage from Mali across the Sahara and through Cairo to Mecca.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.27",
+  "title": "Physical map of Europe",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1892,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=europe+physical",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Physical map of Europe showing the Alps, Ural Mountains, North European Plain, Atlantic Ocean, English Channel, Mediterranean Sea, and the path of the North Atlantic Drift.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.28",
+  "title": "The spread of monasticism and the Church in early medieval Europe",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of early medieval Europe showing the spread of Christianity and monastic foundations north of the Alps.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.29",
+  "title": "The Empire of Charlemagne, c. 814",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the Frankish empire of Charlemagne at its height around 814, spanning much of Western and Central Europe, the core of the later Holy Roman Empire.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.30",
+  "title": "Plan of a medieval manor and open-field village",
+  "type": "map",
+  "creator": "Library of Congress, Geography and Map Division",
+  "year": 1910,
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — Library of Congress",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=medieval+manor+plan",
+  "download_url": "",
+  "citation": "Library of Congress, Geography and Map Division, Washington, D.C. Public domain.",
+  "alt_text": "Schematic plan of a medieval manor showing the lord's demesne, peasant strips in open fields, common land, mill, and village, illustrating feudal and manorial land use.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.31",
+  "title": "England and Northern France at the Norman Conquest (1066)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of England and northern France around 1066 showing the Duchy of Normandy, the English Channel crossing, and the site of the Battle of Hastings.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.32",
+  "title": "The Holy Roman Empire and the Papacy in medieval Europe",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Political map of medieval Central Europe showing the Holy Roman Empire, the Papal States, and the Italian territories contested between popes and emperors.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.33",
+  "title": "England in the time of Magna Carta (early 13th century)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of early 13th-century England and its French possessions under King John, the political setting of Magna Carta in 1215.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.34",
+  "title": "Europe and the Mediterranean Lands at the First Crusade, c. 1097",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of Europe and the Mediterranean at the time of the First Crusade showing crusader routes toward the Holy Land and the Crusader States of the Levant.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.34",
+  "title": "The Crusader States of the Latin East",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=crusades+syria+palestine",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Map of the eastern Mediterranean showing the Crusader States, key cities such as Jerusalem and Antioch, and the campaigns of Saladin and Richard I.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.35",
+  "title": "Routes of the Crusades between Europe and the Holy Land",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map tracing the land and sea routes of the major Crusades from Western Europe through the Byzantine Empire to the Levant, showing points of cross-cultural contact.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.36",
+  "title": "The spread of the Black Death from Central Asia to Europe, 1347-1351",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=black+death+plague+europe",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Map showing the diffusion of the Black Death along trade routes from Central Asia through the Middle East to Europe, with dated advance lines.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.38",
+  "title": "France during the Hundred Years War (English and French holdings)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of France during the Hundred Years War showing English-held and French-held territory and key battle sites of the conflict between England and France.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.39",
+  "title": "The Reconquista of the Iberian Peninsula",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the Iberian Peninsula showing the stages of the Christian Reconquista against Muslim states and the rise of the kingdoms of Spain and Portugal.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.40",
+  "title": "Italy about 1494 (independent trade cities)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the Italian Peninsula around 1494 showing the independent city-states of Florence, Venice, Milan, Genoa, and Rome and their Mediterranean position.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.41",
+  "title": "Renaissance Florence — city plan and the Medici city",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1600,
+  "repository": "David Rumsey Map Collection",
+  "rights": "Public domain — created before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=florence+firenze+plan",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Public domain.",
+  "alt_text": "Early city view and plan of Florence showing the Arno River, the cathedral, and the urban center of Medici patronage during the Renaissance.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.43",
+  "title": "Renaissance Italy — centers of art and patronage",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of Renaissance Italy identifying Florence, Rome, Venice, and Milan as centers of artistic production and systems of patronage.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.44",
+  "title": "The spread of printing in Europe after Gutenberg",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=printing+press+europe+diffusion",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Map of Europe showing the diffusion of printing presses from Mainz across the continent in the decades after Gutenberg, illustrating the spread of books and literacy.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.47",
+  "title": "England under the Tudors (16th century)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of 16th-century England under the Tudors, the setting for Henry VIII and Mary I's shifts between Catholicism and Protestantism.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.50",
+  "title": "Geocentric and heliocentric systems — Cellarius planispheres",
+  "type": "map",
+  "creator": "Andreas Cellarius (David Rumsey Map Collection)",
+  "year": 1661,
+  "repository": "David Rumsey Map Collection",
+  "rights": "Public domain — created before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=cellarius+ptolemaic+copernican",
+  "download_url": "",
+  "citation": "Andreas Cellarius, Harmonia Macrocosmica, 1660-61; David Rumsey Map Collection, davidrumsey.com. Public domain.",
+  "alt_text": "Celestial plates from Cellarius's Harmonia Macrocosmica contrasting the Ptolemaic geocentric planisphere with the Copernican heliocentric planisphere.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.51",
+  "title": "Early telescopic map of the Moon (post-Galileo lunar cartography)",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1700,
+  "repository": "David Rumsey Map Collection",
+  "rights": "Public domain — created before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=moon+lunar+map+selenographia",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Public domain.",
+  "alt_text": "Early telescopic map of the Moon showing craters and maria observed after Galileo's improvements to the telescope.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.52",
+  "title": "Celestial chart of the Newtonian solar system",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1720,
+  "repository": "David Rumsey Map Collection",
+  "rights": "Public domain — created before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=solar+system+copernican+celestial+chart",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Public domain.",
+  "alt_text": "18th-century celestial chart depicting the sun-centered solar system with planetary orbits, reflecting the Scientific Revolution and Newtonian mechanics.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.53",
+  "title": "Physical map of North and South America",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1892,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=americas+physical+relief",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Physical map of the Americas showing the Andes, Appalachian, and Rocky Mountains, the Great Plains, Central Mexican Plateau, Mississippi River, Yucatan Peninsula, Caribbean Sea, and Gulf of Mexico.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.53",
+  "title": "Relief map of the Americas",
+  "type": "map",
+  "creator": "Library of Congress, Geography and Map Division",
+  "year": 1900,
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — Library of Congress",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=north+america+south+america+physical",
+  "download_url": "",
+  "citation": "Library of Congress, Geography and Map Division, Washington, D.C. Public domain.",
+  "alt_text": "Full-resolution relief map of North and South America for annotating major landforms, rivers, and seas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.54",
+  "title": "North American Indian culture areas (Northeast, Southeast, Plains)",
+  "type": "map",
+  "creator": "Library of Congress, Geography and Map Division",
+  "year": 1900,
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — Library of Congress",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=indian+tribes+north+america",
+  "download_url": "",
+  "citation": "Library of Congress, Geography and Map Division, Washington, D.C. Public domain.",
+  "alt_text": "Map of North America showing Native American culture areas, including the Northeast, Southeast, and Plains regions and their environmental settings.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.55",
+  "title": "Distribution of North American Indian tribes and language families",
+  "type": "map",
+  "creator": "Library of Congress, Geography and Map Division",
+  "year": 1890,
+  "repository": "Library of Congress Geography & Map Division",
+  "rights": "Public domain — Library of Congress",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/maps/?q=indian+linguistic+tribes+distribution",
+  "download_url": "",
+  "citation": "Library of Congress, Geography and Map Division, Washington, D.C. Public domain.",
+  "alt_text": "Map showing the distribution of North American Indian tribes and linguistic families across the present-day United States.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.56",
+  "title": "Mesoamerica and the Andes — Maya, Aztec, and Inca lands",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the Maya, Aztec, and Inca regions showing the tropical lowlands, Central Mexican Plateau, and Andean highlands that shaped their agriculture and settlement.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.57",
+  "title": "The Aztec and Inca Empires at their height",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the Aztec Empire in central Mexico and the Inca Empire along the Andes, showing capitals, road networks, and imperial extent.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.58",
+  "title": "The Age of Discovery — overview of European exploration",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "World map of the Age of Discovery showing the major European exploration routes reaching Africa, Asia, and the Americas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.59",
+  "title": "Voyages and routes of discovery of the major explorers",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "World map tracing the voyages of Columbus, da Gama, Dias, Magellan, Vespucci, Cartier, Hudson, and de Soto, color-coded by sponsoring country.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.59",
+  "title": "Chart of the principal voyages of discovery, 15th-16th centuries",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=voyages+discovery+explorers",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Full-resolution chart showing the tracks of the major explorers' voyages across the Atlantic, around Africa, and around the world.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.60",
+  "title": "Early Portuguese exploration and a Renaissance-era world chart",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1502,
+  "repository": "David Rumsey Map Collection",
+  "rights": "Public domain — created before 1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=portolan+world+chart+portuguese",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Public domain.",
+  "alt_text": "Early portolan-style world chart with rhumb lines and compass roses, illustrating the cartographic and navigational advances of Prince Henry the Navigator's era.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.61",
+  "title": "European colonies and the Line of Demarcation in the Americas",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the Americas showing French, Spanish, English, Portuguese, and Dutch colonial claims and the Treaty of Tordesillas line of demarcation.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.62",
+  "title": "Spanish conquest of the Aztec and Inca empires (Cortes and Pizarro)",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of the routes of the Spanish conquistadors Hernan Cortes in Mexico and Francisco Pizarro in Peru, showing the fall of the Aztec and Inca empires.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.63",
+  "title": "Religious divisions of Europe after the Reformation, c. 1560",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of Europe around 1560 showing regions that remained Catholic and those that became Protestant (Lutheran, Calvinist, Anglican) after the Reformation.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.64",
+  "title": "The Columbian Exchange across the Atlantic world",
+  "type": "map",
+  "creator": "David Rumsey Map Collection",
+  "year": 1900,
+  "repository": "David Rumsey Map Collection",
+  "rights": "CC BY — David Rumsey",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.davidrumsey.com/luna/servlet/allSearch?q=atlantic+world+trade+exchange",
+  "download_url": "",
+  "citation": "David Rumsey Map Collection, davidrumsey.com. Licensed CC BY 4.0.",
+  "alt_text": "Map of the Atlantic world showing the exchange of plants, animals, people, and diseases between Europe, Africa, Asia, and the Americas after 1492.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.64",
+  "title": "Atlantic trade routes connecting Europe, Africa, and the Americas",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of early modern Atlantic trade routes linking European ports, West Africa, and the American colonies.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.65",
+  "title": "Spanish America — New Spain, Peru, and the mission frontier",
+  "type": "map",
+  "creator": "William R. Shepherd",
+  "year": 1911,
+  "repository": "Perry-Castaneda Library Map Collection (University of Texas)",
+  "rights": "Public domain — published pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://legacy.lib.utexas.edu/maps/historical/history_shepherd_1911.html",
+  "download_url": "",
+  "citation": "William R. Shepherd, Historical Atlas (New York: Henry Holt, 1911). Perry-Castaneda Library Map Collection, University of Texas. Public domain.",
+  "alt_text": "Map of Spanish colonial America showing the Viceroyalties of New Spain and Peru and the spread of the mission and encomienda systems.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ }
+]
