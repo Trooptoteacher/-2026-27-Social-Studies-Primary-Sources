@@ -33,6 +33,8 @@ APPROVED = {
     "govinfo.gov": "U.S. Government Publishing Office",
     "supremecourt.gov": "Supreme Court of the United States",
     "uspto.gov": "U.S. Patent and Trademark Office",
+    "davidrumsey.com": "David Rumsey Map Collection (CC BY)",
+    "loc.gov/maps": "Library of Congress — Geography & Map Division",
     "patents.google.com": "Google Patents (hosts public-domain U.S. patents)",
     "jfklibrary.org": "JFK Presidential Library",
     "hoover.archives.gov": "Hoover Presidential Library (NARA)",
@@ -114,7 +116,7 @@ NAME_APPROVED = ("library of congress", "national archives", "office of the hist
                  "national gallery of art", "getty", "rijksmuseum", "new york public library",
                  "nypl", "hathitrust", "gilder lehrman", "bureau of labor statistics",
                  "bureau of economic analysis", "geological survey", "noaa", "nasa",
-                 "federal reserve", "our world in data", "patent and trademark",
+                 "federal reserve", "our world in data", "david rumsey", "perry-casta", "patent and trademark",
                  "google patents", "uspto")
 NAME_PREFER = ("wikimedia commons", "wikimedia", "digital public library", "dpla",
                "internet archive", "flickr commons", "picryl", "getarchive")
