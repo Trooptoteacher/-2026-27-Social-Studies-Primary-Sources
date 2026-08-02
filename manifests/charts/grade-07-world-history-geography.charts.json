@@ -1,0 +1,332 @@
+[
+ {
+  "standard": "7.03",
+  "title": "China's Population Boom During the Tang and Song Dynasties (600-1300 CE)",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/population",
+  "download_url": "",
+  "citation": "Our World in Data (2024), 'Population,' based on HYDE (2023), Gapminder (2022), and UN World Population Prospects (2022). Licensed CC BY 4.0.",
+  "alt_text": "Line chart of China's estimated population from roughly 600 to 1300 CE, showing rapid growth during the Tang and especially Song dynasties as wet-rice agriculture and commerce expanded.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Our World in Data population data (based on HYDE 3.3, Gapminder, and UN), long-run series for China",
+  "data_source_url": "https://ourworldindata.org/grapher/population"
+ },
+ {
+  "standard": "7.03",
+  "title": "China's GDP per Capita in the Long Run: The Song Economic Peak",
+  "type": "chart",
+  "repository": "Maddison Project / University of Groningen (GGDC)",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2020",
+  "download_url": "",
+  "citation": "Bolt, J. and van Zanden, J.L. (2020), 'Maddison Project Database, version 2020.' University of Groningen, GGDC. Licensed CC BY 4.0.",
+  "alt_text": "Line chart of estimated real GDP per capita for China across the medieval and early modern eras, highlighting the relatively high Song-era standard of living.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Maddison Project Database 2020 (real GDP per capita, historical estimates for China)",
+  "data_source_url": "https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2020"
+ },
+ {
+  "standard": "7.04",
+  "title": "Land Area of the Mongol Empire Compared to Other Great Empires at Their Peak",
+  "type": "chart",
+  "repository": "International Studies Quarterly (peer-reviewed, factual data)",
+  "rights": "Academic factual data (empire areas are facts, not copyrightable); cite source",
+  "commercial_use_ok": true,
+  "catalog_url": "https://doi.org/10.1111/0020-8833.00053",
+  "download_url": "",
+  "citation": "Taagepera, R. (1997), 'Expansion and Contraction Patterns of Large Polities: Context for Russia,' International Studies Quarterly 41(3): 475-504.",
+  "alt_text": "Bar chart comparing the peak land area (in millions of square kilometers) of the Mongol Empire against the Umayyad Caliphate, Byzantine, Han, and Roman empires, with the Mongol Empire as the largest contiguous land empire.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Taagepera, R. (1997), empire territorial-size estimates (millions of km^2 at peak)",
+  "data_source_url": "https://doi.org/10.1111/0020-8833.00053"
+ },
+ {
+  "standard": "7.12",
+  "title": "The Long Decline of the Byzantine Empire's Territory, 550-1450 CE",
+  "type": "chart",
+  "repository": "International Studies Quarterly (peer-reviewed, factual data)",
+  "rights": "Academic factual data (empire areas are facts, not copyrightable); cite source",
+  "commercial_use_ok": true,
+  "catalog_url": "https://doi.org/10.1111/0020-8833.00053",
+  "download_url": "",
+  "citation": "Taagepera, R. (1997), 'Expansion and Contraction Patterns of Large Polities: Context for Russia,' International Studies Quarterly 41(3): 475-504.",
+  "alt_text": "Line chart of Byzantine Empire territory from the Justinian peak around 550 CE to the fall of Constantinople in 1453, showing a long-run contraction punctuated by brief recoveries.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Taagepera, R. (1997), Byzantine (Eastern Roman) territorial-size estimates over time",
+  "data_source_url": "https://doi.org/10.1111/0020-8833.00053"
+ },
+ {
+  "standard": "7.17",
+  "title": "Expansion of the Early Islamic Caliphate, 632-750 CE",
+  "type": "chart",
+  "repository": "International Studies Quarterly (peer-reviewed, factual data)",
+  "rights": "Academic factual data (empire areas are facts, not copyrightable); cite source",
+  "commercial_use_ok": true,
+  "catalog_url": "https://doi.org/10.1111/0020-8833.00053",
+  "download_url": "",
+  "citation": "Taagepera, R. (1997), 'Expansion and Contraction Patterns of Large Polities: Context for Russia,' International Studies Quarterly 41(3): 475-504.",
+  "alt_text": "Area chart showing the territorial expansion of the Islamic Caliphate from the death of Muhammad in 632 CE through the Umayyad peak around 750 CE, rising from the Arabian Peninsula to span from Iberia to Central Asia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Taagepera, R. (1997), territorial-size estimates for the Rashidun and Umayyad Caliphates over time",
+  "data_source_url": "https://doi.org/10.1111/0020-8833.00053"
+ },
+ {
+  "standard": "7.19",
+  "title": "Growth of the Ottoman Empire's Territory, 1300-1683 CE",
+  "type": "chart",
+  "repository": "International Studies Quarterly (peer-reviewed, factual data)",
+  "rights": "Academic factual data (empire areas are facts, not copyrightable); cite source",
+  "commercial_use_ok": true,
+  "catalog_url": "https://doi.org/10.1111/0020-8833.00053",
+  "download_url": "",
+  "citation": "Taagepera, R. (1997), 'Expansion and Contraction Patterns of Large Polities: Context for Russia,' International Studies Quarterly 41(3): 475-504.",
+  "alt_text": "Line chart of Ottoman Empire land area from about 1300 to its peak in the late 1600s, with the 1453 conquest of Constantinople marked as an inflection point.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Taagepera, R. (1997), Ottoman Empire territorial-size estimates over time",
+  "data_source_url": "https://doi.org/10.1111/0020-8833.00053"
+ },
+ {
+  "standard": "7.36",
+  "title": "European Population Before and After the Black Death (1300 vs. 1400)",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/population",
+  "download_url": "",
+  "citation": "Our World in Data (2024), 'Population,' based on HYDE (2023), Gapminder (2022), UN WPP (2022). Licensed CC BY 4.0.",
+  "alt_text": "Before-and-after bar chart of Europe's estimated population around 1300 versus 1400, showing the sharp drop associated with the Black Death.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Our World in Data population data (based on HYDE 3.3, Gapminder, UN), Europe long-run series",
+  "data_source_url": "https://ourworldindata.org/grapher/population"
+ },
+ {
+  "standard": "7.36",
+  "title": "World Population Over the Long Run: The 14th-Century Plague Dip",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/population",
+  "download_url": "",
+  "citation": "Our World in Data (2024), 'Population,' based on HYDE (2023), Gapminder (2022), UN WPP (2022). Licensed CC BY 4.0.",
+  "alt_text": "Line chart of world population from antiquity through 1600 CE, with a visible plateau and dip in the mid-1300s reflecting the global reach of the Black Death.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Our World in Data world population long-run series (HYDE 3.3, Gapminder, UN)",
+  "data_source_url": "https://ourworldindata.org/grapher/population"
+ },
+ {
+  "standard": "7.37",
+  "title": "Growth of Towns: Urbanization in Europe Since 1500",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/urbanization",
+  "download_url": "",
+  "citation": "Our World in Data (2024), 'Urbanization,' based on Reba, Reitsma & Seto (2016) and historical estimates. Licensed CC BY 4.0.",
+  "alt_text": "Line chart of the share of Europe's population living in urban areas from 1500 onward, illustrating the post-plague growth of towns and a merchant economy.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Our World in Data urbanization series (based on Reba, Reitsma & Seto; and historical urban-share estimates)",
+  "data_source_url": "https://ourworldindata.org/urbanization"
+ },
+ {
+  "standard": "7.40",
+  "title": "Renaissance Italy's GDP per Capita Compared to the Rest of Europe",
+  "type": "chart",
+  "repository": "Maddison Project / University of Groningen (GGDC)",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2020",
+  "download_url": "",
+  "citation": "Bolt, J. and van Zanden, J.L. (2020), 'Maddison Project Database, version 2020.' University of Groningen, GGDC. Licensed CC BY 4.0.",
+  "alt_text": "Line chart comparing estimated real GDP per capita of Italy against England, the Netherlands, and Spain from about 1300 to 1600, showing Italy's relative wealth during the Renaissance.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Maddison Project Database 2020 (real GDP per capita for Italy and other European economies, 1300-1600)",
+  "data_source_url": "https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2020"
+ },
+ {
+  "standard": "7.44",
+  "title": "Explosion of Book Production in Europe After the Printing Press",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/books",
+  "download_url": "",
+  "citation": "Buringh, E. and van Zanden, J.L. (2009), 'Charting the Rise of the West: Manuscripts and Printed Books in Europe,' Journal of Economic History 69(2): 409-445; via Our World in Data (CC BY 4.0).",
+  "alt_text": "Line chart of the number of books produced in Europe per century, showing a dramatic jump after Gutenberg's movable-type press in the mid-1400s.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Buringh, E. & van Zanden, J.L. (2009), manuscript and printed-book production in Europe by century, republished by Our World in Data",
+  "data_source_url": "https://ourworldindata.org/books"
+ },
+ {
+  "standard": "7.44",
+  "title": "The Rise of Literacy in Western Europe After Print",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/literacy",
+  "download_url": "",
+  "citation": "Our World in Data (2023), 'Literacy,' based on van Zanden et al. historical literacy estimates. Licensed CC BY 4.0.",
+  "alt_text": "Line chart of estimated literacy rates in Western Europe from the late medieval period onward, rising after the spread of printed books and vernacular Bibles.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Our World in Data historical literacy estimates (based on Buringh & van Zanden and others)",
+  "data_source_url": "https://ourworldindata.org/literacy"
+ },
+ {
+  "standard": "7.59",
+  "title": "Timeline of the Major Voyages of the Age of Exploration (1487-1610)",
+  "type": "chart",
+  "repository": "Public domain (documented, dated historical events)",
+  "rights": "Public Domain (verifiable historical dates, not copyrightable)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/exhibitions/exploring-the-early-americas/",
+  "download_url": "",
+  "citation": "Voyage dates compiled from established public-domain historical record; see Library of Congress, 'Exploring the Early Americas.'",
+  "alt_text": "Horizontal timeline plotting the major exploration voyages from Bartolomeu Dias (1488) through Henry Hudson (1609-10), color-coded by sponsoring country (Portugal, Spain, France, England).",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.05"
+   ]
+  },
+  "data_source": "Documented voyage dates by explorer and sponsoring country (Dias 1488, Columbus 1492, Vespucci 1499, da Gama 1498, Cabral 1500, Magellan 1519-22, Cartier 1534, de Soto 1539, Hudson 1609-10)",
+  "data_source_url": "https://www.loc.gov/exhibitions/exploring-the-early-americas/"
+ },
+ {
+  "standard": "7.64",
+  "title": "The Great Dying: Collapse of the Indigenous American Population After 1492",
+  "type": "chart",
+  "repository": "Our World in Data (population of the Americas, Koch et al., CC BY)",
+  "rights": "CC BY — Our World in Data",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/population-sources",
+  "download_url": "",
+  "citation": "Koch, A., Brierley, C., Maslin, M.M., Lewis, S.L. (2019), 'Earth system impacts of the European arrival and Great Dying in the Americas after 1492,' Quaternary Science Reviews 207: 13-36. Licensed CC BY 4.0.",
+  "alt_text": "Line chart of the estimated Indigenous population of the Americas dropping from roughly 60 million in 1492 to about 6 million by 1600, driven largely by Old World diseases in the Columbian Exchange.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Koch et al. (2019), reconstructed pre-contact and post-contact population of the Americas (supplementary data)",
+  "data_source_url": "https://ourworldindata.org/population-sources"
+ },
+ {
+  "standard": "7.65",
+  "title": "Enslaved Africans Transported Across the Atlantic Over Time",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/slave-trade",
+  "download_url": "",
+  "citation": "Our World in Data (2024), 'Slave Trade,' based on the Trans-Atlantic Slave Trade Database (slavevoyages.org). OWID text and charts licensed CC BY 4.0.",
+  "alt_text": "Line chart of the number of enslaved Africans embarked on transatlantic voyages by period, beginning in the early 1500s and rising through the following centuries.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Trans-Atlantic Slave Trade Database (SlaveVoyages, Emory University), republished by Our World in Data",
+  "data_source_url": "https://ourworldindata.org/slave-trade"
+ }
+]

@@ -39,3 +39,6 @@ Every source is guaranteed public domain by category — pre-1929 published, U.S
 
 ## Maps crosswalks (downloadable PD maps) — Wave 1 of the visual-sources phase
 `crosswalk/maps/` — **315 downloadable public-domain maps** across all geo-flagged standards in five courses (Grade 6: 59, Grade 7: 66, Grade 8: 56, World: 96, Tennessee: 38). Repositories: LOC Geography & Map Division, David Rumsey (CC BY), Perry-Castañeda/Shepherd 1911 atlas, U.S. Army Center of Military History + CIA maps (20th-c., US-gov PD), Census/USGS/NPS. All Rule 7 clean (0 blockers); `verified:false` for the download agent. (Charts and political cartoons follow as Waves 2–3.)
+
+## Chart-opportunity crosswalks (build from PD data) — Wave 2
+`crosswalk/charts/` — **101 chart/graph opportunities** across the 5 courses (G6:10, G7:15, G8:24, World:35, TN:17), each paired with a real public-domain / CC-BY dataset to BUILD it from (per Rule 6): Our World in Data & Maddison (CC BY), U.S. Census & Historical Statistics of the US, FRED, BLS, NOAA (incl. the Keeling Curve), Fox's Regimental Losses (PD). Only proposed where honest data exists — narrative/biography standards were skipped, not padded. Charts are original graphics we generate, so they're copyright-clean by construction; the validator treats them chart-aware (Rule 4 + Rule 6 only). All validate at 0 blockers.

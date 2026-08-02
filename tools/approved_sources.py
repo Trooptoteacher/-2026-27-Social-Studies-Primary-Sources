@@ -65,6 +65,9 @@ APPROVED = {
     "nasa.gov": "NASA",
     "stlouisfed.org": "Federal Reserve (FRED economic data)",
     "ourworldindata.org": "Our World in Data (CC BY)",
+    "rug.nl": "Maddison Project / Groningen (CC BY historical GDP data)",
+    "ggdc.net": "Groningen Growth & Development Centre (Maddison, CC BY)",
+    "tva.com": "Tennessee Valley Authority (U.S. gov corporation)",
 }
 # Any *.gov and *.edu host is treated as approved even if not listed above.
 APPROVED_TLDS = (".gov", ".edu")

@@ -64,6 +64,28 @@ def check(rec, i, known_codes, release):
     tag = rec.get("standard") or rec.get("Standard") or f"row {i}"
     g = lambda *ks: next((rec[k] for k in ks if rec.get(k) not in (None, "")), "")
 
+    # Charts/graphs are ORIGINAL graphics we build from cited factual data — they don't
+    # redistribute a copyrighted image, and facts aren't copyrightable. So the image-source
+    # rules (repository allowlist, per-item license, verified download) don't apply; only
+    # Rule 4 (tied to a standard) and Rule 6 (cite a real, non-tertiary dataset) do.
+    if str(g("type", "Type")).lower() in CHART_TYPES:
+        std = g("standard", "Standard")
+        if not std or not STD_RE.match(str(std).strip()):
+            blockers.append(f"chart standard '{std}' missing/invalid (Rule 4)")
+        ds = g("data_source", "Data source")
+        dsu = g("data_source_url", "Data source URL") or g("catalog_url", "Catalog URL")
+        if not ds:
+            blockers.append("chart has no cited dataset (Rule 6)")
+        if not dsu:
+            blockers.append("chart has no data_source_url (Rule 6)")
+        elif classify(dsu) == "blocked":
+            blockers.append(f"chart data source is a tertiary/encyclopedia source '{dsu}' (Rule 6)")
+        elif classify(dsu) == "unknown":
+            warns.append(f"chart data source '{dsu}' is an academic/uncatalogued host — confirm the dataset is real; the chart is original (Rule 6)")
+        if not g("citation", "Citation"):
+            warns.append("chart missing citation")
+        return tag, blockers, warns
+
     std = g("standard", "Standard")
     if not std:
         blockers.append("no standard code (Rule 4)")
@@ -116,8 +138,13 @@ def check(rec, i, known_codes, release):
             blockers.append("chart has no cited primary-source dataset (Rule 6)")
         if not dsu:
             blockers.append("chart has no data_source_url (Rule 6)")
-        elif classify(dsu) in ("blocked", "unknown"):
-            blockers.append(f"chart data_source_url '{dsu}' not an approved repository (Rule 6)")
+        elif classify(dsu) == "blocked":
+            blockers.append(f"chart data_source is a tertiary/encyclopedia source '{dsu}' (Rule 6)")
+        elif classify(dsu) == "unknown":
+            # A chart WE build from factual data does not redistribute the source, and facts
+            # are not copyrightable — so an academic/journal (e.g. doi.org) data source is
+            # acceptable as long as the dataset is real and cited. Flag to confirm, not block.
+            warns.append(f"chart data source '{dsu}' is an academic/uncatalogued host — confirm the dataset is real; the chart itself is original (Rule 6)")
     return tag, blockers, warns
 
 

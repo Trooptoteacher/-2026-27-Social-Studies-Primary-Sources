@@ -1,0 +1,547 @@
+[
+ {
+  "standard": "8.01",
+  "title": "Growth of the Virginia Colony, 1610-1780",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States, Colonial Times to 1970",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (Washington, DC: GPO, 1975), Series Z 1-19.",
+  "alt_text": "Line chart showing the estimated population of the Virginia colony climbing from a few hundred settlers around 1610 to several hundred thousand by 1780.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, Series Z 1-19 (Estimated population of American Colonies: Virginia)",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.08",
+  "title": "Population of the Thirteen Colonies by Region, 1650-1770",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States, Colonial Times to 1970",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (Washington, DC: GPO, 1975), Series Z 1-19.",
+  "alt_text": "Stacked bar chart of colonial population at 1650, 1700, 1750, and 1770, grouped into New England, Middle, and Southern colonies.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, Series Z 1-19 (Estimated population of the American Colonies, by colony)",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.10",
+  "title": "Volume of the Transatlantic Slave Trade by Decade, 1601-1800",
+  "type": "chart",
+  "repository": "Our World in Data (republishing SlaveVoyages, CC BY)",
+  "rights": "CC BY — Our World in Data",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/slave-trade-atlantic",
+  "download_url": "",
+  "citation": "Slave Voyages, Trans-Atlantic Slave Trade Database, https://www.slavevoyages.org (accessed 2026).",
+  "alt_text": "Bar chart of the estimated number of enslaved Africans embarked on transatlantic voyages per decade from 1601 to 1800, peaking in the 18th century.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Trans-Atlantic Slave Trade Database — captives embarked, aggregated by decade (Estimates dashboard)",
+  "data_source_url": "https://ourworldindata.org/grapher/slave-trade-atlantic"
+ },
+ {
+  "standard": "8.10",
+  "title": "Where Captives of the Middle Passage Arrived, by Region",
+  "type": "chart",
+  "repository": "Our World in Data (republishing SlaveVoyages, CC BY)",
+  "rights": "CC BY — Our World in Data",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/slave-trade-atlantic",
+  "download_url": "",
+  "citation": "Slave Voyages, Trans-Atlantic Slave Trade Database, https://www.slavevoyages.org (accessed 2026).",
+  "alt_text": "Horizontal bar chart comparing the estimated number of enslaved Africans disembarked in mainland North America versus the Caribbean and South America, showing North America received a small share.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Trans-Atlantic Slave Trade Database — captives disembarked by broad region of arrival (Mainland North America, Caribbean, Brazil, etc.)",
+  "data_source_url": "https://ourworldindata.org/grapher/slave-trade-atlantic"
+ },
+ {
+  "standard": "8.28",
+  "title": "Tennessee Population Growth, 1790-1860",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States, Colonial Times to 1970 / Decennial Census",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (Washington, DC: GPO, 1975), Series A 195-209.",
+  "alt_text": "Line chart of Tennessee's population at each census from 1790 to 1860, rising steeply as westward settlement accelerated after statehood in 1796.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, Series A 195-209 (Population of states); decennial census counts for Tennessee",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.34",
+  "title": "U.S. Cotton Production, 1790-1860",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States, Colonial Times to 1970",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (Washington, DC: GPO, 1975), Series K 550-563.",
+  "alt_text": "Line chart of U.S. cotton production in bales from 1790 to 1860, rising sharply after the cotton gin toward roughly four million bales by 1860.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, Series K 550-563 (Cotton — acreage, production, and price)",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.34",
+  "title": "Cotton as a Share of U.S. Exports, 1815-1860",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States, Colonial Times to 1970",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (Washington, DC: GPO, 1975), Series U 274-294.",
+  "alt_text": "Area chart showing raw cotton's value as a share of total U.S. exports from 1815 to 1860, hovering around half of all export value.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, Series U 274-294 (Value of exports of selected commodities, incl. raw cotton) and total merchandise exports",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.35",
+  "title": "Enslaved Population by Southern State, 1860",
+  "type": "chart",
+  "repository": "Census.gov historical decennial publications",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1864/dec/1860a.html",
+  "download_url": "",
+  "citation": "U.S. Census Office, Population of the United States in 1860: Eighth Census (Washington, DC: GPO, 1864).",
+  "alt_text": "Bar chart ranking Southern states by number of enslaved people in 1860, led by Virginia, Georgia, Mississippi, Alabama, and South Carolina.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Population of the United States in 1860 (Eighth Census), slave population tables by state",
+  "data_source_url": "https://www.census.gov/library/publications/1864/dec/1860a.html"
+ },
+ {
+  "standard": "8.36",
+  "title": "Growth of the Enslaved Population in the United States, 1790-1860",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States, Colonial Times to 1970",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (Washington, DC: GPO, 1975), Series A 91-104.",
+  "alt_text": "Line chart of the total enslaved population of the United States at each census from 1790 to 1860, rising from under 700,000 to roughly four million.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, Series A 91-104 (Population, by race and status: free and enslaved), decennial 1790-1860",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.37",
+  "title": "Rise of the U.S. Cotton Textile Industry, 1810-1860",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States, Colonial Times to 1970",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (Washington, DC: GPO, 1975), Series P 265-277.",
+  "alt_text": "Line chart of active cotton-spinning spindles in U.S. textile mills from 1810 to 1860, climbing rapidly as the Lowell System spread.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, Series P 265-277 (Cotton consumed and cotton-spinning spindles in place)",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.38",
+  "title": "Growth of Northern Cities, 1790-1860",
+  "type": "chart",
+  "repository": "Census.gov — Population of the 100 Largest Urban Places",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/working-papers/1998/demo/POP-twps0027.html",
+  "download_url": "",
+  "citation": "Campbell Gibson, Population of the 100 Largest Cities and Other Urban Places in the United States: 1790 to 1990, U.S. Census Bureau Working Paper No. 27 (1998).",
+  "alt_text": "Line chart comparing the populations of New York, Philadelphia, and Boston at each census from 1790 to 1860, all rising steeply.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  },
+  "data_source": "U.S. Census Bureau, Population of the 100 Largest Urban Places, 1790-1990 (New York, Philadelphia, Boston)",
+  "data_source_url": "https://www.census.gov/library/working-papers/1998/demo/POP-twps0027.html"
+ },
+ {
+  "standard": "8.39",
+  "title": "Irish and German Immigration to the U.S., 1820-1860",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States, Colonial Times to 1970",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (Washington, DC: GPO, 1975), Series C 89-119.",
+  "alt_text": "Two-line chart of annual immigration from Ireland and from the German states, 1820-1860, both surging in the late 1840s and 1850s.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, Series C 89-119 (Immigrants, by country of last residence — Ireland and Germany)",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.40",
+  "title": "U.S. Railroad Mileage in Operation, 1830-1860",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States, Colonial Times to 1970",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (Washington, DC: GPO, 1975), Series Q 321-328.",
+  "alt_text": "Line chart of total miles of railroad in operation in the United States from 1830 to 1860, rising from a few dozen miles to about 30,000.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, Series Q 321-328 (Railroad mileage operated)",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.49",
+  "title": "Territorial Growth of the United States by Acquisition",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States, Colonial Times to 1970",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (Washington, DC: GPO, 1975), Series J 1-16.",
+  "alt_text": "Bar chart comparing land area in square miles added by each U.S. territorial acquisition, with the Louisiana Purchase and Mexican Cession largest.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, Series J 1-16 (Area acquired by the United States, by accession — Louisiana Purchase, Florida/Adams-Onis, Texas Annexation, Oregon, Mexican Cession, Gadsden Purchase)",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.50",
+  "title": "Balance of Free and Slave States, 1789-1860",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States / official record of state admissions",
+  "rights": "Public domain (U.S. federal government work / public record)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "Compiled from U.S. state admission acts (public record) and U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (1975).",
+  "alt_text": "Step chart tracking the running count of free versus slave states from 1789 to 1860, showing the deliberate one-for-one balance around the Missouri Compromise.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Dates and free/slave status of state admissions (public statutory record); cross-checked with Historical Statistics population-by-state series",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.55",
+  "title": "U.S. Gold Production During the Rush, 1847-1860",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States, Colonial Times to 1970",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (Washington, DC: GPO, 1975), Series M 270-283.",
+  "alt_text": "Bar chart of the annual value of U.S. gold production from 1847 to 1860, jumping sharply after the 1848 California discovery.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, Series M 270-283 (Gold production, value)",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.61",
+  "title": "The Election of 1860: Popular Vote by Candidate",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States, Colonial Times to 1970",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (Washington, DC: GPO, 1975), Series Y 27-78.",
+  "alt_text": "Bar chart of the 1860 popular vote for Lincoln, Douglas, Breckinridge, and Bell, showing Lincoln's plurality despite a divided field.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, Series Y 27-78 (Popular vote cast for President, by party — 1860: Lincoln, Douglas, Breckinridge, Bell)",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.62",
+  "title": "Union vs. Confederacy: Population in 1860",
+  "type": "chart",
+  "repository": "Census.gov historical decennial publications",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1864/dec/1860a.html",
+  "download_url": "",
+  "citation": "U.S. Census Office, Population of the United States in 1860: Eighth Census (Washington, DC: GPO, 1864).",
+  "alt_text": "Grouped bar chart comparing Union and Confederate 1860 populations, split into free and enslaved, showing the Union's large free-population advantage.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Population of the United States in 1860 (Eighth Census) — free and enslaved population by state, aggregated to Union vs Confederate states",
+  "data_source_url": "https://www.census.gov/library/publications/1864/dec/1860a.html"
+ },
+ {
+  "standard": "8.62",
+  "title": "Union vs. Confederacy: Railroad Mileage and Industry, 1860",
+  "type": "chart",
+  "repository": "Census.gov historical decennial publications (Eighth Census — Manufactures)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1865/dec/1860c.html",
+  "download_url": "",
+  "citation": "U.S. Census Office, Manufactures of the United States in 1860 (Eighth Census) (Washington, DC: GPO, 1865).",
+  "alt_text": "Grouped bar chart contrasting Union and Confederate shares of 1860 railroad mileage, factories, and value of manufactured goods, dominated by the Union.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Eighth Census (1860): Manufactures of the United States and railroad statistics — value of manufactures, factories, and rail mileage by state, aggregated Union vs Confederate",
+  "data_source_url": "https://www.census.gov/library/publications/1865/dec/1860c.html"
+ },
+ {
+  "standard": "8.63",
+  "title": "Casualties at Major Civil War Battles",
+  "type": "chart",
+  "repository": "Regimental Losses in the American Civil War, 1861-1865 (PD); War of the Rebellion: Official Records",
+  "rights": "Public domain (pre-1929 works; U.S. government records)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ehistory.osu.edu/books/regimental-losses",
+  "download_url": "",
+  "citation": "William F. Fox, Regimental Losses in the American Civil War, 1861-1865 (Albany, NY: Albany Publishing Co., 1889).",
+  "alt_text": "Bar chart of total killed, wounded, and missing at major Civil War battles, ranking Gettysburg, Chickamauga, Antietam, and Shiloh among the costliest.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "William F. Fox, Regimental Losses in the American Civil War (1889); U.S. War Dept., The War of the Rebellion: Official Records — battle casualty tables (Gettysburg, Antietam, Shiloh, Chickamauga, etc.)",
+  "data_source_url": "https://ehistory.osu.edu/books/regimental-losses"
+ },
+ {
+  "standard": "8.63",
+  "title": "Civil War Military Deaths: Battle vs. Disease",
+  "type": "chart",
+  "repository": "Historical Statistics of the United States / Official Records",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970 (Washington, DC: GPO, 1975), Series Y 856-903.",
+  "alt_text": "Stacked bar chart of Union (and estimated Confederate) military deaths, separating battle deaths from deaths by disease, with disease the larger share.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, Series Y 856-903 (Military personnel and casualties, Civil War) — Union deaths by cause; Confederate estimates from Official Records",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "8.65",
+  "title": "U.S. Colored Troops Enlistment by State of Recruitment",
+  "type": "chart",
+  "repository": "War of the Rebellion: Official Records / Adjutant General reports (PD)",
+  "rights": "Public domain (U.S. government records, pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://collections.library.cornell.edu/moa_new/waro.html",
+  "download_url": "",
+  "citation": "U.S. War Dept., The War of the Rebellion: Official Records of the Union and Confederate Armies (Washington, DC: GPO, 1880-1901).",
+  "alt_text": "Bar chart of the number of United States Colored Troops credited to each state of recruitment, with border and occupied Southern states contributing large shares.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  },
+  "data_source": "U.S. War Dept., The War of the Rebellion: A Compilation of the Official Records — United States Colored Troops enrollment tabulated by state of recruitment",
+  "data_source_url": "https://collections.library.cornell.edu/moa_new/waro.html"
+ },
+ {
+  "standard": "8.68",
+  "title": "Registered Voters in the South Under the Reconstruction Acts, 1867",
+  "type": "chart",
+  "repository": "Congressional/Executive documents, 40th Congress (PD)",
+  "rights": "Public domain (U.S. government records)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://memory.loc.gov/ammem/amlaw/lwsllink.html",
+  "download_url": "",
+  "citation": "Report of the Secretary of War (1867-68), 40th Congress; military-district voter-registration returns, reproduced in U.S. Congressional documents.",
+  "alt_text": "Grouped bar chart of registered white and Black voters by former Confederate state in 1867, showing Black-registered majorities or near-majorities in several states.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  },
+  "data_source": "1867 voter-registration returns compiled by military district commanders under the Reconstruction Acts (Report of the Secretary of War; House/Senate Executive Documents, 40th Cong.) — registered voters by state, white and Black",
+  "data_source_url": "https://memory.loc.gov/ammem/amlaw/lwsllink.html"
+ },
+ {
+  "standard": "8.72",
+  "title": "Freedmen's Bureau Schools and Students, 1865-1870",
+  "type": "chart",
+  "repository": "Freedmen's Bureau Superintendent of Education reports (PD)",
+  "rights": "Public domain (U.S. government records)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.archives.gov/research/african-americans/freedmens-bureau",
+  "download_url": "",
+  "citation": "Bureau of Refugees, Freedmen, and Abandoned Lands, Semi-Annual Reports on Schools for Freedmen (Washington, DC: GPO, 1866-1870).",
+  "alt_text": "Line chart of the number of Freedmen's Bureau schools and enrolled pupils from 1865 to 1870, rising steadily as freedpeople pursued education.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Semiannual Reports of the Superintendent of Education, Freedmen's Bureau — number of schools, teachers, and pupils, 1865-1870",
+  "data_source_url": "https://www.archives.gov/research/african-americans/freedmens-bureau"
+ }
+]

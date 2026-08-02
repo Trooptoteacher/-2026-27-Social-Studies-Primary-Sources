@@ -1,0 +1,377 @@
+[
+ {
+  "standard": "TN.14",
+  "title": "Tennessee Population Growth by Decade, 1790-1860",
+  "type": "chart",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/working-papers/2002/dec/working-paper-56.html",
+  "download_url": "",
+  "citation": "U.S. Census Bureau, Historical Census Statistics on Population Totals by Race, 1790-1990, and by Hispanic Origin, 1970-1990, for the United States, Regions, Divisions, and States (Working Paper No. 56).",
+  "alt_text": "Line chart showing Tennessee's total population rising each decade from the first federal census in 1790 through 1860.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "U.S. Decennial Census, total resident population of Tennessee, 1790-1860 (Campbell Gibson & Kay Jung, 'Historical Census Statistics on Population Totals')",
+  "data_source_url": "https://www.census.gov/library/working-papers/2002/dec/working-paper-56.html"
+ },
+ {
+  "standard": "TN.15",
+  "title": "Enslaved and Free Black Population of Tennessee, 1790-1820",
+  "type": "chart",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/decennial.html",
+  "download_url": "",
+  "citation": "U.S. Census Bureau, Return of the Whole Number of Persons... (First through Fourth Censuses, 1790-1820), Tennessee tables.",
+  "alt_text": "Grouped bar chart comparing the number of enslaved people and free Black Tennesseans at each early census from 1790 through 1820.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "U.S. Decennial Census population schedules for Tennessee (Southwest Territory 1790/95, then 1800, 1810, 1820), counts of enslaved persons and free persons of color",
+  "data_source_url": "https://www.census.gov/library/publications/decennial.html"
+ },
+ {
+  "standard": "TN.20",
+  "title": "The Rise of Memphis: Population Growth, 1820-1900",
+  "type": "chart",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/working-papers/1998/demo/pop-twps0027.html",
+  "download_url": "",
+  "citation": "Campbell Gibson, Population of the 100 Largest Cities and Other Urban Places in the United States: 1790 to 1990 (U.S. Census Bureau Working Paper No. 27, 1998).",
+  "alt_text": "Line chart tracing Memphis's steep population climb from a small river town in 1820 to a major city by 1900.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "U.S. Census Bureau population of the 100 largest urban places / decennial census municipal population for Memphis, TN, 1820-1900",
+  "data_source_url": "https://www.census.gov/library/working-papers/1998/demo/pop-twps0027.html"
+ },
+ {
+  "standard": "TN.21",
+  "title": "Tennessee Cash Crops: Cotton and Tobacco Production, 1840-1860",
+  "type": "chart",
+  "repository": "USDA / National Agricultural Statistics Service historical archive",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://agcensus.library.cornell.edu/census_parts/",
+  "download_url": "",
+  "citation": "U.S. Census Office, Agriculture of the United States in 1860 (and 1850, 1840 census compendia), Tennessee state tables.",
+  "alt_text": "Grouped bar chart comparing Tennessee's cotton and tobacco output across the 1840, 1850, and 1860 agricultural censuses.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "U.S. Census of Agriculture, Tennessee cotton (bales) and tobacco (pounds) output, 1840, 1850, 1860",
+  "data_source_url": "https://agcensus.library.cornell.edu/census_parts/"
+ },
+ {
+  "standard": "TN.26",
+  "title": "Growth of Slavery in Tennessee: Enslaved Population by Decade, 1800-1860",
+  "type": "chart",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1864/dec/1860a.html",
+  "download_url": "",
+  "citation": "U.S. Census Office, Population of the United States in 1860 (and prior decennial compendia), Tennessee slave population tables.",
+  "alt_text": "Area chart showing the steady rise in Tennessee's enslaved population from 1800 through its peak in 1860.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "U.S. Decennial Census, enslaved population of Tennessee, 1800-1860",
+  "data_source_url": "https://www.census.gov/library/publications/1864/dec/1860a.html"
+ },
+ {
+  "standard": "TN.28",
+  "title": "Enslaved Share of Population by Grand Division, 1860",
+  "type": "chart",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1864/dec/1860a.html",
+  "download_url": "",
+  "citation": "U.S. Census Office, Population of the United States in 1860, Tennessee county tables (grouped by grand division).",
+  "alt_text": "Bar chart comparing the enslaved population as a percentage of total population in East, Middle, and West Tennessee in 1860.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.04",
+    "SSP.06"
+   ]
+  },
+  "data_source": "U.S. 1860 Census county-level population, aggregated to East, Middle, and West Tennessee grand divisions (enslaved persons as a share of total population)",
+  "data_source_url": "https://www.census.gov/library/publications/1864/dec/1860a.html"
+ },
+ {
+  "standard": "TN.29",
+  "title": "Major Civil War Engagements in Tennessee by Year, 1861-1865",
+  "type": "chart",
+  "repository": "National Park Service",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.nps.gov/subjects/civilwar/battle-summaries.htm",
+  "download_url": "",
+  "citation": "National Park Service, American Battlefield Protection Program, CWSAC Report on the Nation's Civil War Battlefields, Tennessee battle summaries.",
+  "alt_text": "Bar chart showing the number of significant Civil War engagements fought in Tennessee in each year from 1861 to 1865.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "NPS Civil War Sites Advisory Commission (CWSAC) battle summaries, engagements located in Tennessee, counted by year",
+  "data_source_url": "https://www.nps.gov/subjects/civilwar/battle-summaries.htm"
+ },
+ {
+  "standard": "TN.31",
+  "title": "Tennessee Population by Race, 1860 vs. 1870",
+  "type": "chart",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1872/dec/1870a.html",
+  "download_url": "",
+  "citation": "U.S. Census Office, The Statistics of the Population of the United States (Ninth Census, 1870), Tennessee tables; Population of the United States in 1860.",
+  "alt_text": "Grouped bar chart comparing Tennessee's white and Black populations in 1860 and 1870, before and after emancipation.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "U.S. Decennial Census, Tennessee population by race (white and Black/'colored'), 1860 and 1870",
+  "data_source_url": "https://www.census.gov/library/publications/1872/dec/1870a.html"
+ },
+ {
+  "standard": "TN.39",
+  "title": "Tennessee Farms after the Civil War: Number of Farms and Average Size, 1860-1900",
+  "type": "chart",
+  "repository": "USDA / National Agricultural Statistics Service historical archive",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://agcensus.library.cornell.edu/census_parts/",
+  "download_url": "",
+  "citation": "U.S. Census Office, Census of Agriculture reports for Tennessee, 1860-1900.",
+  "alt_text": "Combination chart showing Tennessee's rising number of farms alongside falling average farm size from 1860 to 1900.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.04"
+   ]
+  },
+  "data_source": "U.S. Census of Agriculture, Tennessee number of farms and average farm acreage, 1860, 1870, 1880, 1890, 1900",
+  "data_source_url": "https://agcensus.library.cornell.edu/census_parts/"
+ },
+ {
+  "standard": "TN.39",
+  "title": "Railroad Expansion in Tennessee: Track Mileage, 1850-1900",
+  "type": "chart",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "download_url": "",
+  "citation": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970 (Bicentennial Edition, 1975), railroad mileage series.",
+  "alt_text": "Line chart showing the growth of railroad track mileage in Tennessee from mid-century through 1900.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Historical Statistics of the United States, railroad mileage operated (state/regional series), with Census railroad statistics for Tennessee, 1850-1900",
+  "data_source_url": "https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+ },
+ {
+  "standard": "TN.41",
+  "title": "Memphis Population Collapse During the Yellow Fever Era, 1870-1880",
+  "type": "chart",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/working-papers/1998/demo/pop-twps0027.html",
+  "download_url": "",
+  "citation": "Campbell Gibson, Population of the 100 Largest Cities... 1790 to 1990 (U.S. Census Bureau Working Paper No. 27, 1998); Population of the United States, Ninth and Tenth Censuses.",
+  "alt_text": "Line chart showing Memphis's population before and after the 1878 yellow fever epidemic, highlighting the sharp mid-decade decline.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "U.S. Census Bureau municipal population for Memphis, 1870 and 1880 (bracketing the 1878 yellow fever epidemic)",
+  "data_source_url": "https://www.census.gov/library/working-papers/1998/demo/pop-twps0027.html"
+ },
+ {
+  "standard": "TN.42",
+  "title": "Tennessee Coal Production, 1880-1900",
+  "type": "chart",
+  "repository": "U.S. Geological Survey",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://pubs.usgs.gov/publication/mineralResources",
+  "download_url": "",
+  "citation": "U.S. Geological Survey, Mineral Resources of the United States (annual volumes), coal production by state, Tennessee.",
+  "alt_text": "Line chart showing rising annual coal production in Tennessee through the 1880s and 1890s.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "USGS Mineral Resources of the United States, annual Tennessee coal output (short tons), 1880s-1900",
+  "data_source_url": "https://pubs.usgs.gov/publication/mineralResources"
+ },
+ {
+  "standard": "TN.51",
+  "title": "The TVA and Rural Electrification of Tennessee, 1930s-1950s",
+  "type": "chart",
+  "repository": "Tennessee Valley Authority",
+  "rights": "Public domain (work of the U.S. federal government / wholly owned U.S. government corporation)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.tva.com/about-tva/our-history",
+  "download_url": "",
+  "citation": "Tennessee Valley Authority historical/annual reports; U.S. Census of Agriculture, Tennessee farms reporting electricity, 1930-1954.",
+  "alt_text": "Line chart showing the rising share of Tennessee farms with electric power from the early 1930s through the 1950s after the TVA's creation.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.04"
+   ]
+  },
+  "data_source": "TVA power program statistics and U.S. Census of Agriculture, percentage of Tennessee farms with electricity (or TVA electric customers served), 1930s-1950s",
+  "data_source_url": "https://www.tva.com/about-tva/our-history"
+ },
+ {
+  "standard": "TN.53",
+  "title": "The Secret City: Oak Ridge Population, 1943-1945",
+  "type": "chart",
+  "repository": "U.S. Department of Energy / National Archives",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.osti.gov/opennet/manhattan-project-history",
+  "download_url": "",
+  "citation": "U.S. Army, Manhattan District History (Office of Scientific and Technical Information/DOE OpenNet); U.S. Census Bureau population data for Oak Ridge, TN.",
+  "alt_text": "Line chart showing Oak Ridge growing from open farmland to one of Tennessee's largest cities within about two years during World War II.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Manhattan District History and U.S. government records, Oak Ridge (Clinton Engineer Works) resident population, 1943-1945",
+  "data_source_url": "https://www.osti.gov/opennet/manhattan-project-history"
+ },
+ {
+  "standard": "TN.54",
+  "title": "The Farm Exodus: Number of Tennessee Farms, 1945-1974",
+  "type": "chart",
+  "repository": "USDA / National Agricultural Statistics Service historical archive",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://agcensus.library.cornell.edu/census_parts/",
+  "download_url": "",
+  "citation": "U.S. Census Bureau / USDA, Census of Agriculture, Tennessee farm counts, 1945-1974.",
+  "alt_text": "Line chart showing the sharp decline in the number of Tennessee farms in the decades after World War II.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.04"
+   ]
+  },
+  "data_source": "U.S. Census of Agriculture, number of farms in Tennessee, 1945, 1950, 1954, 1959, 1964, 1969, 1974",
+  "data_source_url": "https://agcensus.library.cornell.edu/census_parts/"
+ },
+ {
+  "standard": "TN.54",
+  "title": "Tennessee Urbanizes: Growth of the Four Major Cities, 1900-1980",
+  "type": "chart",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/library/working-papers/1998/demo/pop-twps0027.html",
+  "download_url": "",
+  "citation": "Campbell Gibson, Population of the 100 Largest Cities and Other Urban Places in the United States: 1790 to 1990 (U.S. Census Bureau Working Paper No. 27, 1998).",
+  "alt_text": "Multi-line chart tracing the twentieth-century population growth of Memphis, Nashville, Knoxville, and Chattanooga from 1900 to 1980.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "U.S. Census Bureau municipal population, 1900-1980, for Memphis, Nashville, Knoxville, and Chattanooga",
+  "data_source_url": "https://www.census.gov/library/working-papers/1998/demo/pop-twps0027.html"
+ },
+ {
+  "standard": "TN.63",
+  "title": "From Farm to Factory: Tennessee Manufacturing and Nonfarm Employment Growth",
+  "type": "chart",
+  "repository": "U.S. Bureau of Labor Statistics",
+  "rights": "Public domain (work of the U.S. federal government)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.bls.gov/sae/",
+  "download_url": "",
+  "citation": "U.S. Bureau of Labor Statistics, Current Employment Statistics (State and Metro Area Employment), Tennessee.",
+  "alt_text": "Line chart showing long-run growth in Tennessee's total nonfarm and manufacturing employment.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "BLS Current Employment Statistics (State and Metro Area), Tennessee total nonfarm and manufacturing employment time series",
+  "data_source_url": "https://www.bls.gov/sae/"
+ }
+]

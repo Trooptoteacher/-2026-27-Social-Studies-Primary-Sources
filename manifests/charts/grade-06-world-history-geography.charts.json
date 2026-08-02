@@ -1,0 +1,223 @@
+[
+ {
+  "standard": "6.01",
+  "title": "When Did They Rise and Fall? A Comparative Timeline of the Ancient Civilizations",
+  "type": "chart",
+  "repository": "TDOE Grade 6 World History & Geography standards (cluster date ranges)",
+  "rights": "Public domain - U.S. government",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.tn.gov/education/educators/academic-standards.html",
+  "download_url": "",
+  "citation": "Tennessee Department of Education, Grade 6 World History and Geography academic standards (public domain).",
+  "alt_text": "Horizontal timeline with one bar per civilization (Mesopotamia, Egypt, Israel, India, China, Greece, Rome) spanning its BCE/CE date range, so students can compare which overlapped and which came first.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.05"
+   ]
+  },
+  "data_source": "TDOE Grade 6 standards cluster date ranges (Mesopotamia c. 3500-1700 BCE; Egypt c. 3000-700 BCE; Israel c. 2000-500 BCE; India c. 2500-400 BCE; China c. 2500 BCE-200 CE; Greece c. 800-300 BCE; Rome c. 500 BCE-500 CE)",
+  "data_source_url": "https://www.tn.gov/education/educators/academic-standards.html"
+ },
+ {
+  "standard": "6.03",
+  "title": "Farming Changed Everything: World Population Over the Last 12,000 Years",
+  "type": "chart",
+  "repository": "ourworldindata.org (HYDE 3.3 / Gapminder / UN, processed by OWID)",
+  "rights": "CC BY - Our World in Data",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/population",
+  "download_url": "",
+  "citation": "HYDE (2023); Gapminder (2022); UN (2022) - with major processing by Our World in Data, 'Population.' CC BY.",
+  "alt_text": "Line chart of estimated world population from 10,000 BCE onward, nearly flat during hunter-gatherer times and rising after the Agricultural Revolution as food surpluses appear.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.04",
+    "SSP.05"
+   ]
+  },
+  "data_source": "Our World in Data - Population (long-run series)",
+  "data_source_url": "https://ourworldindata.org/grapher/population"
+ },
+ {
+  "standard": "6.06",
+  "title": "Why They Needed the Rivers: Climate of the Fertile Crescent (Baghdad)",
+  "type": "chart",
+  "repository": "NOAA NCEI (GHCN / World Meteorological Organization climate normals)",
+  "rights": "Public domain - U.S. government",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.ncei.noaa.gov/access/monitoring/wmo/",
+  "download_url": "",
+  "citation": "NOAA National Centers for Environmental Information, WMO/GHCN climate normals for Baghdad (public domain).",
+  "alt_text": "Climograph of Baghdad: bars of very low monthly rainfall (near zero in summer) with a temperature line peaking above 40C, showing an arid environment that required river irrigation to farm.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "NOAA NCEI monthly climate normals for Baghdad, Iraq (mean monthly precipitation and temperature)",
+  "data_source_url": "https://www.ncei.noaa.gov/access/monitoring/wmo/"
+ },
+ {
+  "standard": "6.14",
+  "title": "The Gift of the Nile: The River's Annual Flood Cycle",
+  "type": "chart",
+  "repository": "Internet Archive (public-domain scan)",
+  "rights": "pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://archive.org/search?query=Willcocks+Egyptian+Irrigation",
+  "download_url": "",
+  "citation": "W. Willcocks, Egyptian Irrigation (London/New York: Spon, 1899), Nile discharge tables (public domain, pre-1929). Corroborated by O. Toussoun, Memoire sur l'histoire du Nil (1925).",
+  "alt_text": "Line chart of mean monthly Nile River flow across the year, low in spring and surging to a peak in August-September, illustrating the predictable annual flood that deposited silt and set the farming calendar.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Willcocks, 'Egyptian Irrigation' (mean monthly Nile discharge / gauge readings tables)",
+  "data_source_url": "https://archive.org/search?query=Willcocks+Egyptian+Irrigation"
+ },
+ {
+  "standard": "6.18",
+  "title": "How Tall Were the Pyramids of Giza? Comparing the Three Great Pyramids",
+  "type": "chart",
+  "repository": "Internet Archive / UCL Petrie Museum (public-domain text)",
+  "rights": "pre-1929",
+  "commercial_use_ok": true,
+  "catalog_url": "https://archive.org/details/pyramidstempleso00petruoft",
+  "download_url": "",
+  "citation": "W. M. Flinders Petrie, The Pyramids and Temples of Gizeh (London: Field & Tuer, 1883), survey measurements (public domain).",
+  "alt_text": "Bar chart comparing the original heights of the three main Giza pyramids (Khufu ~146 m, Khafre ~143 m, Menkaure ~65 m), with a small human/modern-building reference bar for scale.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01"
+   ]
+  },
+  "data_source": "Petrie, 'The Pyramids and Temples of Gizeh' (measured original heights and base lengths of Khufu, Khafre, Menkaure)",
+  "data_source_url": "https://archive.org/details/pyramidstempleso00petruoft"
+ },
+ {
+  "standard": "6.25",
+  "title": "Life on the Monsoon: Mumbai's Rainfall Concentrated in Four Months",
+  "type": "chart",
+  "repository": "NOAA NCEI (GHCN / WMO climate normals)",
+  "rights": "Public domain - U.S. government",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.ncei.noaa.gov/access/monitoring/wmo/",
+  "download_url": "",
+  "citation": "NOAA National Centers for Environmental Information, WMO/GHCN climate normals for Mumbai (public domain).",
+  "alt_text": "Bar chart of mean monthly rainfall for Mumbai showing almost all precipitation falling June-September, illustrating the summer monsoon that shaped agriculture in ancient India.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "NOAA NCEI monthly climate normals for Mumbai, India (mean monthly precipitation)",
+  "data_source_url": "https://www.ncei.noaa.gov/access/monitoring/wmo/"
+ },
+ {
+  "standard": "6.32",
+  "title": "The Yellow River's World: Climate of the North China Plain (Zhengzhou)",
+  "type": "chart",
+  "repository": "NOAA NCEI (GHCN / WMO climate normals)",
+  "rights": "Public domain - U.S. government",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.ncei.noaa.gov/access/monitoring/wmo/",
+  "download_url": "",
+  "citation": "NOAA National Centers for Environmental Information, WMO/GHCN climate normals for Zhengzhou (public domain).",
+  "alt_text": "Climograph for a Yellow River city showing warm-summer, cold-winter conditions with rain concentrated in summer, the seasonal pattern that shaped early Chinese farming on the loess plain.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "NOAA NCEI monthly climate normals for Zhengzhou, China (Yellow River valley; mean monthly precipitation and temperature)",
+  "data_source_url": "https://www.ncei.noaa.gov/access/monitoring/wmo/"
+ },
+ {
+  "standard": "6.36",
+  "title": "The Han Peak: China's Population Over the Long Run",
+  "type": "chart",
+  "repository": "ourworldindata.org (HYDE 3.3 / Gapminder / UN, processed by OWID)",
+  "rights": "CC BY - Our World in Data",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/population?country=~CHN",
+  "download_url": "",
+  "citation": "HYDE (2023); Gapminder (2022); UN (2022) - with major processing by Our World in Data, 'Population' (China). CC BY.",
+  "alt_text": "Line chart of China's estimated population over the long run, showing an early rise toward a peak around the Han Dynasty (c. 200 BCE-200 CE).",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.05"
+   ]
+  },
+  "data_source": "Our World in Data - Population, China (long-run series)",
+  "data_source_url": "https://ourworldindata.org/grapher/population?country=~CHN"
+ },
+ {
+  "standard": "6.56",
+  "title": "The Roman World in Context: Population by Region Around 1 CE",
+  "type": "chart",
+  "repository": "ourworldindata.org (HYDE 3.3, processed by OWID)",
+  "rights": "CC BY - Our World in Data",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/population?time=1",
+  "download_url": "",
+  "citation": "HYDE (2023) - with major processing by Our World in Data, 'Population' (regional, 1 CE). CC BY.",
+  "alt_text": "Bar chart of estimated population by world region around 1 CE, letting students see how populous the Roman/Mediterranean world and Han-era Asia were during the Pax Romana.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Our World in Data - Population by region/continent, year 1 CE",
+  "data_source_url": "https://ourworldindata.org/grapher/population?time=1"
+ },
+ {
+  "standard": "6.62",
+  "title": "After Rome Fell: Population of Europe, 1-1000 CE",
+  "type": "chart",
+  "repository": "ourworldindata.org (HYDE 3.3, processed by OWID)",
+  "rights": "CC BY - Our World in Data",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/population?country=~Europe",
+  "download_url": "",
+  "citation": "HYDE (2023) - with major processing by Our World in Data, 'Population' (Europe). CC BY.",
+  "alt_text": "Line chart of Europe's estimated population from 1 CE to 1000 CE, showing stagnation and decline in the centuries surrounding the fall of the Western Roman Empire.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.04",
+    "SSP.05"
+   ]
+  },
+  "data_source": "Our World in Data - Population, Europe (long-run series)",
+  "data_source_url": "https://ourworldindata.org/grapher/population?country=~Europe"
+ }
+]

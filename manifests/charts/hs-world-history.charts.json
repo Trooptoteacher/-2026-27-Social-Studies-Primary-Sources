@@ -1,0 +1,772 @@
+[
+ {
+  "standard": "W.10",
+  "title": "Share of the World's Population Living in Urban Areas, 1500–Present",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/share-of-population-urban",
+  "download_url": "",
+  "citation": "Our World in Data, 'Urbanization,' based on HYDE (History Database of the Global Environment) and UN World Urbanization Prospects. CC BY 4.0.",
+  "alt_text": "Line chart showing the rising share of the global population living in cities from under 10 percent before 1800 to over half today, illustrating rural-to-urban migration during and after the Industrial Revolution.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Our World in Data (based on HYDE and UN World Urbanization Prospects)",
+  "data_source_url": "https://ourworldindata.org/grapher/share-of-population-urban"
+ },
+ {
+  "standard": "W.10",
+  "title": "World Population Growth, 10,000 BCE–Present",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/population",
+  "download_url": "",
+  "citation": "Our World in Data, 'Population Growth,' based on HYDE and UN World Population Prospects. CC BY 4.0.",
+  "alt_text": "Line chart of global population showing the sharp upward bend beginning around 1800, when agricultural and industrial change triggered rapid population growth.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Our World in Data (based on HYDE and UN World Population Prospects)",
+  "data_source_url": "https://ourworldindata.org/grapher/population"
+ },
+ {
+  "standard": "W.11",
+  "title": "GDP per Capita: United Kingdom vs. World, 1700–1900",
+  "type": "chart",
+  "repository": "Groningen Growth and Development Centre",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2023",
+  "download_url": "",
+  "citation": "Bolt, Jutta and Jan Luiten van Zanden (2024), 'Maddison Project Database 2023,' Groningen Growth and Development Centre. CC BY 4.0.",
+  "alt_text": "Line chart comparing real GDP per capita in Britain against the world average from 1700 to 1900, showing Britain pulling sharply ahead as industrialization begins.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Maddison Project Database 2023",
+  "data_source_url": "https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2023"
+ },
+ {
+  "standard": "W.12",
+  "title": "GDP per Capita by World Region, 1820–2000",
+  "type": "chart",
+  "repository": "Groningen Growth and Development Centre",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison",
+  "download_url": "",
+  "citation": "Maddison Project Database 2023; Our World in Data, 'Economic Growth.' CC BY 4.0.",
+  "alt_text": "Line chart of GDP per capita for Western Europe, North America, Asia, Africa, and Latin America from 1820 to 2000, showing the 'great divergence' as industrialization spread unevenly.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Maddison Project Database 2023 (via Our World in Data)",
+  "data_source_url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison"
+ },
+ {
+  "standard": "W.13",
+  "title": "Number of Enslaved Africans Transported Across the Atlantic by Year, 1500–1866",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/number-of-slaves",
+  "download_url": "",
+  "citation": "Our World in Data, based on the Trans-Atlantic Slave Trade Database (SlaveVoyages.org). CC BY 4.0.",
+  "alt_text": "Area chart showing the number of enslaved Africans embarked each year on transatlantic voyages, peaking in the late 18th century as plantation and industrial economies expanded.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Our World in Data (based on Slave Voyages / Trans-Atlantic Slave Trade Database)",
+  "data_source_url": "https://ourworldindata.org/grapher/number-of-slaves"
+ },
+ {
+  "standard": "W.14",
+  "title": "Coal Production in the United Kingdom, 1700–1970",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/coal-production-by-country",
+  "download_url": "",
+  "citation": "Our World in Data, 'Coal Production.' CC BY 4.0.",
+  "alt_text": "Line chart of British coal output rising steeply through the 19th century, the fuel behind steam engines, steel, and railways.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Our World in Data / Energy Institute Statistical Review",
+  "data_source_url": "https://ourworldindata.org/grapher/coal-production-by-country"
+ },
+ {
+  "standard": "W.15",
+  "title": "Life Expectancy in Europe Since 1770",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/life-expectancy",
+  "download_url": "",
+  "citation": "Our World in Data, 'Life Expectancy,' based on Riley (2005) and UN estimates. CC BY 4.0.",
+  "alt_text": "Line chart showing life expectancy in Europe rising from around 35 years before industrialization to over 75 today, reflecting the social benefits and later public-health reforms of industrial society.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Our World in Data (based on Riley 2005 and UN)",
+  "data_source_url": "https://ourworldindata.org/grapher/life-expectancy"
+ },
+ {
+  "standard": "W.15",
+  "title": "Decline of Child Labor Over the Long Run",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/share-of-children-in-employment",
+  "download_url": "",
+  "citation": "Our World in Data, 'Child Labor.' CC BY 4.0.",
+  "alt_text": "Line chart showing the share of children in employment falling over the 19th and 20th centuries as labor and education reforms took hold.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.02",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Our World in Data (historical child labor statistics)",
+  "data_source_url": "https://ourworldindata.org/grapher/share-of-children-in-employment"
+ },
+ {
+  "standard": "W.19",
+  "title": "Share of the World Governed by Colonial Empires, 1500–2000",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/number-of-colonies",
+  "download_url": "",
+  "citation": "Our World in Data, based on the Colonial Dates Dataset (COLDAT, Becker 2020). CC BY 4.0.",
+  "alt_text": "Line chart showing the number of colonized territories worldwide rising to a peak in the early 20th century, the high tide of imperialism.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Our World in Data (based on Colonial Dates Dataset, COLDAT)",
+  "data_source_url": "https://ourworldindata.org/grapher/number-of-colonies"
+ },
+ {
+  "standard": "W.24",
+  "title": "China's Share of World GDP, 1820–1950",
+  "type": "chart",
+  "repository": "Groningen Growth and Development Centre",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/share-of-world-gdp-over-the-long-run",
+  "download_url": "",
+  "citation": "Maddison Project Database 2023; Our World in Data. CC BY 4.0.",
+  "alt_text": "Line chart showing China's share of world economic output declining steeply through the era of the Opium Wars and foreign intervention.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Maddison Project Database 2023",
+  "data_source_url": "https://ourworldindata.org/grapher/share-of-world-gdp-over-the-long-run"
+ },
+ {
+  "standard": "W.26",
+  "title": "GDP per Capita in Japan After the Meiji Restoration, 1870–1940",
+  "type": "chart",
+  "repository": "Groningen Growth and Development Centre",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison",
+  "download_url": "",
+  "citation": "Maddison Project Database 2023, Groningen Growth and Development Centre. CC BY 4.0.",
+  "alt_text": "Line chart showing Japan's GDP per capita climbing after 1868 as Meiji-era modernization and industrialization took hold.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Maddison Project Database 2023",
+  "data_source_url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison"
+ },
+ {
+  "standard": "W.28",
+  "title": "GDP per Capita: Latin America vs. Western Europe and the U.S., 1820–1950",
+  "type": "chart",
+  "repository": "Groningen Growth and Development Centre",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison",
+  "download_url": "",
+  "citation": "Maddison Project Database 2023, Groningen Growth and Development Centre. CC BY 4.0.",
+  "alt_text": "Line chart comparing Latin American GDP per capita with Western Europe and the United States, showing a widening gap under economic imperialism.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Maddison Project Database 2023",
+  "data_source_url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison"
+ },
+ {
+  "standard": "W.31",
+  "title": "Military Deaths in World War I by Country",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/deaths-in-world-war-one",
+  "download_url": "",
+  "citation": "Our World in Data, 'War and Peace.' CC BY 4.0.",
+  "alt_text": "Bar chart ranking World War I military deaths by country, showing the enormous human cost of trench warfare and attrition.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Our World in Data (based on Correlates of War / historical casualty estimates)",
+  "data_source_url": "https://ourworldindata.org/grapher/deaths-in-world-war-one"
+ },
+ {
+  "standard": "W.35",
+  "title": "Estimated Global Deaths from the 1918 Influenza Pandemic",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history",
+  "download_url": "",
+  "citation": "Our World in Data, 'The Spanish Flu.' CC BY 4.0.",
+  "alt_text": "Bar chart of estimated deaths by world region during the 1918 influenza pandemic, illustrating the 'spread of disease' effect of World War I.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.02",
+    "SSP.03"
+   ]
+  },
+  "data_source": "Our World in Data (based on Spreeuwenberg et al. and historical estimates)",
+  "data_source_url": "https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history"
+ },
+ {
+  "standard": "W.40",
+  "title": "U.S. Unemployment Rate During the Great Depression, 1929–1941",
+  "type": "chart",
+  "repository": "FRED (Federal Reserve Economic Data)",
+  "rights": "Public Domain (U.S. Government / Federal Reserve data)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://fred.stlouisfed.org/series/M0892AUSM156SNBR",
+  "download_url": "",
+  "citation": "Federal Reserve Bank of St. Louis (FRED), U.S. unemployment rate, NBER historical series. Public domain.",
+  "alt_text": "Line chart showing U.S. unemployment spiking to roughly one-quarter of the workforce by 1933 before recovering through the 1930s.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.04"
+   ]
+  },
+  "data_source": "FRED / NBER historical macroeconomic series",
+  "data_source_url": "https://fred.stlouisfed.org/series/M0892AUSM156SNBR"
+ },
+ {
+  "standard": "W.40",
+  "title": "U.S. Industrial Production Collapse and Recovery, 1928–1939",
+  "type": "chart",
+  "repository": "FRED (Federal Reserve Economic Data)",
+  "rights": "Public Domain (U.S. Government / Federal Reserve data)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://fred.stlouisfed.org/series/INDPRO",
+  "download_url": "",
+  "citation": "Federal Reserve Bank of St. Louis (FRED), Industrial Production Index (INDPRO). Public domain.",
+  "alt_text": "Line chart showing U.S. industrial output falling sharply after 1929 and slowly recovering, illustrating overproduction and collapse.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.04"
+   ]
+  },
+  "data_source": "FRED / Federal Reserve Board Industrial Production Index",
+  "data_source_url": "https://fred.stlouisfed.org/series/INDPRO"
+ },
+ {
+  "standard": "W.40",
+  "title": "The Contracting Spiral of World Trade, 1929–1933",
+  "type": "chart",
+  "repository": "League of Nations statistical publications (pre-1945, public domain)",
+  "rights": "Public Domain (pre-1945 statistical tables)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/trade-and-globalization",
+  "download_url": "",
+  "citation": "League of Nations, Monthly Bulletin of Statistics (1933), world trade value by month; public domain. Contextualized via Our World in Data 'Trade and Globalization' (CC BY 4.0).",
+  "alt_text": "Spiral/line chart showing the total value of world trade shrinking month by month from 1929 to 1933 as tariffs and depression choked commerce.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.02",
+    "SSP.04"
+   ]
+  },
+  "data_source": "League of Nations trade statistics (Kindleberger 'spiral'); mirrored in Our World in Data trade data",
+  "data_source_url": "https://ourworldindata.org/trade-and-globalization"
+ },
+ {
+  "standard": "W.53",
+  "title": "World War II Deaths by Country (Military and Civilian)",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/deaths-world-war-two-by-country",
+  "download_url": "",
+  "citation": "Our World in Data, 'War and Peace.' CC BY 4.0.",
+  "alt_text": "Bar chart ranking total World War II deaths by country, highlighting the immense losses of the Soviet Union and China.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  },
+  "data_source": "Our World in Data (based on historical WWII casualty estimates)",
+  "data_source_url": "https://ourworldindata.org/grapher/deaths-world-war-two-by-country"
+ },
+ {
+  "standard": "W.53",
+  "title": "World War II: Military vs. Civilian Deaths",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/deaths-world-war-two-by-country",
+  "download_url": "",
+  "citation": "Our World in Data, 'War and Peace.' CC BY 4.0.",
+  "alt_text": "Stacked bar chart splitting World War II deaths into military and civilian categories, underscoring the toll of total war on civilians.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Our World in Data (based on historical WWII casualty estimates)",
+  "data_source_url": "https://ourworldindata.org/grapher/deaths-world-war-two-by-country"
+ },
+ {
+  "standard": "W.57",
+  "title": "Excess Mortality During China's Great Leap Forward Famine, 1958–1962",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/famine-deaths-by-decade",
+  "download_url": "",
+  "citation": "Our World in Data, 'Famines.' CC BY 4.0.",
+  "alt_text": "Line chart showing a sharp spike in Chinese mortality during the Great Leap Forward famine of the early 1960s.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.02",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Our World in Data (based on famine mortality estimates)",
+  "data_source_url": "https://ourworldindata.org/grapher/famine-deaths-by-decade"
+ },
+ {
+  "standard": "W.61",
+  "title": "Nuclear Warhead Stockpiles: United States vs. Soviet Union/Russia, 1945–Present",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/nuclear-warhead-stockpiles",
+  "download_url": "",
+  "citation": "Our World in Data, 'Nuclear Weapons,' based on the Federation of American Scientists Nuclear Notebook. CC BY 4.0.",
+  "alt_text": "Line chart showing U.S. and Soviet/Russian nuclear warhead stockpiles climbing through the Cold War arms race to a 1980s peak, then declining under arms-control treaties.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Our World in Data (based on Federation of American Scientists Nuclear Notebook)",
+  "data_source_url": "https://ourworldindata.org/grapher/nuclear-warhead-stockpiles"
+ },
+ {
+  "standard": "W.65",
+  "title": "Collapse of Russian GDP per Capita After the Fall of the Soviet Union, 1989–1998",
+  "type": "chart",
+  "repository": "Groningen Growth and Development Centre",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison",
+  "download_url": "",
+  "citation": "Maddison Project Database 2023, Groningen Growth and Development Centre. CC BY 4.0.",
+  "alt_text": "Line chart showing Russian GDP per capita falling sharply in the 1990s after the collapse of communism, before a later recovery.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Maddison Project Database 2023",
+  "data_source_url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison"
+ },
+ {
+  "standard": "W.66",
+  "title": "Number of International Migrants Worldwide, 1990–Present",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/international-migrants-by-world-region",
+  "download_url": "",
+  "citation": "Our World in Data, 'Migration,' based on UN DESA International Migrant Stock. CC BY 4.0.",
+  "alt_text": "Line chart of the growing number of international migrants worldwide, illustrating the scale of modern migration and its push-pull drivers.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "Our World in Data (based on UN DESA International Migrant Stock)",
+  "data_source_url": "https://ourworldindata.org/grapher/international-migrants-by-world-region"
+ },
+ {
+  "standard": "W.69",
+  "title": "Number of Sovereign States in the World, 1800–Present (Decolonization Timeline)",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/number-of-countries",
+  "download_url": "",
+  "citation": "Our World in Data, based on the Correlates of War state system membership data. CC BY 4.0.",
+  "alt_text": "Step/line chart showing the number of independent states jumping sharply in the 1950s-1960s as African and Asian colonies won independence.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.05"
+   ]
+  },
+  "data_source": "Our World in Data (based on Correlates of War / Gleditsch & Ward state system membership)",
+  "data_source_url": "https://ourworldindata.org/grapher/number-of-countries"
+ },
+ {
+  "standard": "W.77",
+  "title": "Population Pyramids: Japan vs. Nigeria (Age-Sex Structure)",
+  "type": "chart",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public Domain (U.S. Government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/data-tools/demo/idb/",
+  "download_url": "",
+  "citation": "U.S. Census Bureau, International Database (IDB). Public domain.",
+  "alt_text": "Side-by-side population pyramids contrasting Japan's top-heavy aging structure with Nigeria's broad-based youthful structure.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "U.S. Census Bureau International Database (IDB)",
+  "data_source_url": "https://www.census.gov/data-tools/demo/idb/"
+ },
+ {
+  "standard": "W.78",
+  "title": "Total Fertility Rate: China and India vs. Germany, Japan, and Sweden, 1950–Present",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/children-per-woman-un",
+  "download_url": "",
+  "citation": "Our World in Data, 'Fertility Rate,' based on UN World Population Prospects. CC BY 4.0.",
+  "alt_text": "Line chart comparing births per woman in rapidly growing developing countries with the below-replacement rates of Germany, Japan, and Sweden.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Our World in Data (based on UN World Population Prospects)",
+  "data_source_url": "https://ourworldindata.org/grapher/children-per-woman-un"
+ },
+ {
+  "standard": "W.78",
+  "title": "Projected Population of China and India, 1950–2100",
+  "type": "chart",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public Domain (U.S. Government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/data-tools/demo/idb/",
+  "download_url": "",
+  "citation": "U.S. Census Bureau, International Database (IDB). Public domain.",
+  "alt_text": "Line chart of Chinese and Indian population over time and into projection, showing India overtaking China amid diverging growth paths.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.04"
+   ]
+  },
+  "data_source": "U.S. Census Bureau International Database (IDB)",
+  "data_source_url": "https://www.census.gov/data-tools/demo/idb/"
+ },
+ {
+  "standard": "W.79",
+  "title": "Global Literacy Rate, 1800–Present",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/literate-and-illiterate-world-population",
+  "download_url": "",
+  "citation": "Our World in Data, 'Literacy,' based on UNESCO and historical estimates. CC BY 4.0.",
+  "alt_text": "Line chart showing the global literacy rate climbing from roughly 12 percent in 1800 to over 85 percent today.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Our World in Data (based on UNESCO and historical estimates)",
+  "data_source_url": "https://ourworldindata.org/grapher/literate-and-illiterate-world-population"
+ },
+ {
+  "standard": "W.79",
+  "title": "Global Life Expectancy, 1770–Present",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/life-expectancy",
+  "download_url": "",
+  "citation": "Our World in Data, 'Life Expectancy,' based on Riley (2005) and UN estimates. CC BY 4.0.",
+  "alt_text": "Line chart of global average life expectancy roughly doubling since 1800, driven by medical and public-health breakthroughs.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.05"
+   ]
+  },
+  "data_source": "Our World in Data (based on Riley 2005 and UN)",
+  "data_source_url": "https://ourworldindata.org/grapher/life-expectancy"
+ },
+ {
+  "standard": "W.82",
+  "title": "World Trade as a Share of Global GDP, 1800–Present",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/trade-openness",
+  "download_url": "",
+  "citation": "Our World in Data, 'Trade and Globalization,' based on Klasing & Milionis (2014) and World Bank. CC BY 4.0.",
+  "alt_text": "Line chart showing trade as a share of world GDP rising in waves, with a steep climb during late-20th-century globalization.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Our World in Data (based on Klasing & Milionis and World Bank)",
+  "data_source_url": "https://ourworldindata.org/grapher/trade-openness"
+ },
+ {
+  "standard": "W.85",
+  "title": "Share of World GDP: China and India Rising, 1950–Present",
+  "type": "chart",
+  "repository": "Groningen Growth and Development Centre",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/share-of-world-gdp-over-the-long-run",
+  "download_url": "",
+  "citation": "Maddison Project Database 2023, Groningen Growth and Development Centre. CC BY 4.0.",
+  "alt_text": "Line chart showing China's and India's share of world economic output climbing steeply from the late 20th century onward.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Maddison Project Database 2023",
+  "data_source_url": "https://ourworldindata.org/grapher/share-of-world-gdp-over-the-long-run"
+ },
+ {
+  "standard": "W.86",
+  "title": "Crude Oil Production by Persian Gulf Producers, 1980–Present",
+  "type": "chart",
+  "repository": "U.S. Energy Information Administration",
+  "rights": "Public Domain (U.S. Government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.eia.gov/international/data/world",
+  "download_url": "",
+  "citation": "U.S. Energy Information Administration (EIA), International Energy Statistics. Public domain.",
+  "alt_text": "Line chart of crude oil production by Saudi Arabia, Iran, Iraq, Kuwait, and the UAE, showing the scale of Persian Gulf output.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  },
+  "data_source": "U.S. Energy Information Administration, International Energy Statistics",
+  "data_source_url": "https://www.eia.gov/international/data/world"
+ },
+ {
+  "standard": "W.87",
+  "title": "Global Energy Consumption by Source, 1800–Present (Fossil vs. Renewable)",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/global-energy-substitution",
+  "download_url": "",
+  "citation": "Our World in Data, 'Energy,' based on the Energy Institute Statistical Review and Vaclav Smil. CC BY 4.0.",
+  "alt_text": "Stacked area chart of world energy consumption by source, showing fossil fuels dominating with renewables emerging as a growing share.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.03",
+    "SSP.04"
+   ]
+  },
+  "data_source": "Our World in Data (based on Energy Institute Statistical Review and Smil)",
+  "data_source_url": "https://ourworldindata.org/grapher/global-energy-substitution"
+ },
+ {
+  "standard": "W.87",
+  "title": "Atmospheric CO2 Concentration (Keeling Curve), 1958–Present",
+  "type": "chart",
+  "repository": "NOAA Global Monitoring Laboratory (Mauna Loa)",
+  "rights": "Public Domain (U.S. Government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://gml.noaa.gov/ccgg/trends/data.html",
+  "download_url": "",
+  "citation": "NOAA Global Monitoring Laboratory, Mauna Loa Observatory CO2 record (Keeling Curve). Public domain.",
+  "alt_text": "Line chart of rising atmospheric carbon dioxide concentration measured at Mauna Loa since 1958, the classic Keeling Curve.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.02",
+    "SSP.04"
+   ]
+  },
+  "data_source": "NOAA Global Monitoring Laboratory, Mauna Loa CO2 record",
+  "data_source_url": "https://gml.noaa.gov/ccgg/trends/data.html"
+ },
+ {
+  "standard": "W.89",
+  "title": "Deaths from Terrorism Worldwide Over Time",
+  "type": "chart",
+  "repository": "Our World in Data",
+  "rights": "CC BY 4.0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://ourworldindata.org/grapher/fatalities-from-terrorism",
+  "download_url": "",
+  "citation": "Our World in Data, 'Terrorism,' based on the Global Terrorism Database (START, University of Maryland). CC BY 4.0.",
+  "alt_text": "Line chart showing worldwide deaths from terrorism over time, with visible spikes around major events of the 2000s and 2010s.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.02",
+    "SSP.03"
+   ]
+  },
+  "data_source": "Our World in Data (based on the Global Terrorism Database)",
+  "data_source_url": "https://ourworldindata.org/grapher/fatalities-from-terrorism"
+ }
+]
