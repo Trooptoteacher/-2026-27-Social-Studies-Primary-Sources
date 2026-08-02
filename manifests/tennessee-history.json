@@ -25,25 +25,24 @@
  },
  {
   "standard": "TN.01",
-  "title": "First Peoples: Paleoindian and Archaic artifacts (Tennessee State Museum)",
-  "type": "artifact/photograph",
-  "creator": "Tennessee State Museum",
-  "year": "n.d.",
-  "repository": "Tennessee State Museum (tnmuseum.org)",
-  "rights": "Museum-held artifacts; verify individual image rights",
-  "commercial_use_ok": false,
-  "catalog_url": "https://tnmuseum.org/search?q=Paleoindian%20Archaic%20artifacts",
+  "title": "Paleoindian and Archaic stone tools and projectile points from the Southeastern U.S. (Smithsonian Open Access, CC0)",
+  "type": "artifact photograph",
+  "creator": "Smithsonian National Museum of Natural History, Department of Anthropology",
+  "year": 1930,
+  "repository": "Smithsonian Institution (collections.si.edu)",
+  "rights": "Public domain / CC0 (filter results to Smithsonian Open Access, CC0)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search/collection-images?edan_q=Tennessee+Archaic+projectile+point&edan_fq%5B0%5D=media_usage%3A%22CC0%22",
   "download_url": "",
-  "citation": "Tennessee State Museum, First Peoples collection.",
-  "alt_text": "Photographs of Paleoindian and Archaic stone artifacts excavated in Tennessee.",
+  "citation": "Chipped-stone projectile points and tools, Archaic period, Southeastern United States, Department of Anthropology, Smithsonian National Museum of Natural History, Smithsonian Open Access (CC0).",
+  "alt_text": "Fluted and stemmed chipped-stone projectile points and hafted tools from the Paleoindian and Archaic periods, showing the hunting technology of the region's earliest peoples.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05",
-    "SSP.06"
+    "SSP.05"
    ]
   }
  },
@@ -73,25 +72,24 @@
  },
  {
   "standard": "TN.02",
-  "title": "Mississippian stone effigy statues and shell gorgets from Tennessee",
-  "type": "artifact/photograph",
-  "creator": "Tennessee State Museum / Frank H. McClung Museum",
-  "year": "c. 1000-1500 CE",
-  "repository": "Tennessee State Museum (tnmuseum.org)",
-  "rights": "Museum-held artifacts; verify image rights",
-  "commercial_use_ok": false,
-  "catalog_url": "https://tnmuseum.org/search?q=Mississippian%20stone%20statue%20shell%20gorget",
+  "title": "Engraved shell gorgets of the Mississippian Southeast (Holmes, 'Art in Shell of the Ancient Americans,' 2nd Annual Report, Bureau of Ethnology)",
+  "type": "illustrated government report (plates)",
+  "creator": "William Henry Holmes, Bureau of Ethnology, Smithsonian Institution",
+  "year": 1883,
+  "repository": "Smithsonian Institution / Bureau of American Ethnology (via si.edu; also HathiTrust)",
+  "rights": "Public domain (U.S. government publication, published 1883)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://library.si.edu/digital-library/search?edan_q=Holmes+Art+in+Shell+Ancient+Americans",
   "download_url": "",
-  "citation": "Tennessee State Museum, Mississippian collection (stone effigy figures, engraved shell gorgets).",
-  "alt_text": "Kneeling Mississippian stone effigy statues and engraved marine-shell gorgets from Tennessee mound sites.",
+  "citation": "William H. Holmes, \"Art in Shell of the Ancient Americans,\" Second Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1880-81 (Washington: GPO, 1883), engraved shell gorget plates.",
+  "alt_text": "Nineteenth-century engraved plates depicting Mississippian-period marine-shell gorgets incised with spider, rattlesnake, and cross motifs excavated from Tennessee-region mounds.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05",
-    "SSP.06"
+    "SSP.05"
    ]
   }
  },
@@ -258,17 +256,17 @@
  },
  {
   "standard": "TN.06",
-  "title": "Records and images of Fort Loudoun (British fort, 1756-1760)",
-  "type": "document/photograph",
-  "creator": "Tennessee State Library & Archives",
-  "year": "1756-1760",
-  "repository": "Tennessee Virtual Archive / TeVA",
-  "rights": "Verify per item; historical records often PD",
-  "commercial_use_ok": false,
-  "catalog_url": "https://teva.contentdm.oclc.org/digital/search/searchterm/Fort%20Loudoun",
+  "title": "Henry Timberlake, 'A Draught of the Cherokee Country' (1765 map of the Overhill Cherokee towns and the Little Tennessee valley)",
+  "type": "map",
+  "creator": "Lt. Henry Timberlake",
+  "year": 1765,
+  "repository": "Library of Congress (loc.gov)",
+  "rights": "Public domain (published 1765)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Timberlake+Draught+of+the+Cherokee+Country",
   "download_url": "",
-  "citation": "Tennessee Virtual Archive, Fort Loudoun materials.",
-  "alt_text": "Documents and site images relating to British Fort Loudoun in the Overhill Cherokee country.",
+  "citation": "Henry Timberlake, A Draught of the Cherokee Country... (London, 1765), Geography and Map Division, Library of Congress.",
+  "alt_text": "A 1765 manuscript-style map of the Overhill Cherokee towns along the Little Tennessee River near Fort Loudoun, drawn by British Lieutenant Henry Timberlake.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
@@ -694,17 +692,17 @@
  },
  {
   "standard": "TN.16",
-  "title": "Photographs and sketches of early Tennessee farm and community life",
-  "type": "photograph/illustration",
-  "creator": "Tennessee State Library & Archives",
-  "year": "19th c.",
-  "repository": "Tennessee Virtual Archive / TeVA",
-  "rights": "Verify per item; pre-1929 items PD",
-  "commercial_use_ok": false,
-  "catalog_url": "https://teva.contentdm.oclc.org/digital/search/searchterm/early%20Tennessee%20farm%20life%20frontier%20cabin",
+  "title": "Historic American Buildings Survey (HABS) documentation of early Tennessee log farmsteads and dwellings",
+  "type": "measured drawings and documentary photographs",
+  "creator": "Historic American Buildings Survey, National Park Service",
+  "year": 1934,
+  "repository": "Library of Congress / National Park Service (loc.gov HABS collection)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?q=Tennessee+log+house+farm",
   "download_url": "",
-  "citation": "TSLA/TeVA, early Tennessee rural life images.",
-  "alt_text": "Images of log cabins, farms, and community gatherings in early Tennessee.",
+  "citation": "Historic American Buildings Survey, log dwellings and farm outbuildings, Tennessee, Prints and Photographs Division, Library of Congress (HABS).",
+  "alt_text": "HABS measured drawings and photographs of an early Tennessee log farmhouse, barn, and outbuildings documenting frontier-era rural family life and work.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
@@ -1215,24 +1213,24 @@
  },
  {
   "standard": "TN.27",
-  "title": "Free Hill / Free Hills community records and imagery (Clay County)",
-  "type": "document/photograph",
-  "creator": "Tennessee State Library & Archives",
-  "year": "19th-20th c.",
-  "repository": "Tennessee Virtual Archive / TeVA",
-  "rights": "Verify per item",
-  "commercial_use_ok": false,
-  "catalog_url": "https://teva.contentdm.oclc.org/digital/search/searchterm/Free%20Hill%20freed%20slaves%20community",
+  "title": "Frances Wright, 'Explanatory Notes Respecting the Nature and Objects of the Institution of Nashoba' (and related Nashoba writings)",
+  "type": "printed pamphlet / primary document",
+  "creator": "Frances (Fanny) Wright",
+  "year": 1830,
+  "repository": "HathiTrust Digital Library / Library of Congress (public-domain works)",
+  "rights": "Public domain (published c. 1828-1830)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Frances+Wright+Nashoba&type=all",
   "download_url": "",
-  "citation": "TeVA, Free Hill/Free Hills community materials.",
-  "alt_text": "Records and images of the Free Hill settlement of freed African Americans.",
+  "citation": "Frances Wright, Explanatory Notes Respecting the Nature and Objects of the Institution of Nashoba (New-Harmony, Ind., 1830).",
+  "alt_text": "Printed pages of Frances Wright's own explanation of the Nashoba community near Memphis, her experimental settlement intended to prepare enslaved people for emancipation.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.06"
+    "SSP.04"
    ]
   }
  },
@@ -1601,23 +1599,24 @@
  },
  {
   "standard": "TN.36",
-  "title": "Portrait of Sampson W. Keeble, first Black Tennessee legislator (1873)",
-  "type": "portrait/document",
-  "creator": "Tennessee State Library & Archives",
-  "year": "1873",
-  "repository": "Tennessee Virtual Archive / TeVA",
-  "rights": "Verify per item; pre-1929 likely PD",
-  "commercial_use_ok": false,
-  "catalog_url": "https://teva.contentdm.oclc.org/digital/search/searchterm/Sampson%20Keeble%20legislator",
+  "title": "House Journal of the Thirty-Eighth General Assembly of the State of Tennessee (1873) — session in which Sampson W. Keeble served",
+  "type": "official legislative record",
+  "creator": "Tennessee General Assembly",
+  "year": 1873,
+  "repository": "HathiTrust / Tennessee State Library and Archives (tn.gov)",
+  "rights": "Public domain (state government edict / official record)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Tennessee+House+Journal+1873&type=all",
   "download_url": "",
-  "citation": "TeVA/TSLA, Sampson W. Keeble materials.",
-  "alt_text": "Portrait and records of Sampson Keeble, elected to the Tennessee legislature in 1873.",
+  "citation": "House Journal of the Thirty-Eighth General Assembly of the State of Tennessee, 1873, listing Representative Sampson W. Keeble of Davidson County.",
+  "alt_text": "Printed pages of the 1873 Tennessee House Journal recording the membership and proceedings of the General Assembly in which Sampson W. Keeble, the first African American elected to the Tennessee legislature, served.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
-    "SSP.02"
+    "SSP.02",
+    "SSP.04"
    ]
   }
  },
@@ -1871,24 +1870,24 @@
  },
  {
   "standard": "TN.42",
-  "title": "Photographs and reports of the Coal Creek War (Anderson County, 1891-1892)",
-  "type": "photograph/document",
-  "creator": "Tennessee State Library & Archives",
-  "year": "1891-1892",
-  "repository": "Tennessee Virtual Archive / TeVA",
-  "rights": "Verify per item; pre-1929 likely PD",
-  "commercial_use_ok": false,
-  "catalog_url": "https://teva.contentdm.oclc.org/digital/search/searchterm/Coal%20Creek%20War%20convict%20lease%20miners",
+  "title": "Contemporary newspaper coverage of the Coal Creek War / convict-lease uprising, Anderson County, 1891-1892",
+  "type": "newspaper",
+  "creator": "Contemporary Tennessee and U.S. newspaper press (various)",
+  "year": 1892,
+  "repository": "Chronicling America, Library of Congress (loc.gov)",
+  "rights": "Public domain (pre-1929 U.S. newspapers)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/collections/chronicling-america/?q=Coal+Creek+miners+convict+lease+1892",
   "download_url": "",
-  "citation": "TeVA/TSLA, Coal Creek War materials, 1891-1892.",
-  "alt_text": "Images of miners, militia, and stockades from the convict-lease uprising.",
+  "citation": "Coverage of the Coal Creek troubles, Tennessee newspapers, 1891-1892, via Chronicling America, Library of Congress.",
+  "alt_text": "Front-page newspaper reporting from 1891-1892 on Anderson County miners revolting against the state's replacement of free labor with leased convicts at Coal Creek.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.06"
+    "SSP.03"
    ]
   }
  },
@@ -2074,23 +2073,24 @@
  },
  {
   "standard": "TN.46",
-  "title": "Harry Burn / Anne Dallas Dudley suffrage materials (Tennessee)",
-  "type": "document/photograph",
-  "creator": "Tennessee State Library & Archives",
-  "year": "1918-1920",
-  "repository": "Tennessee Virtual Archive / TeVA",
-  "rights": "Verify per item; 1920 materials likely PD",
-  "commercial_use_ok": false,
-  "catalog_url": "https://teva.contentdm.oclc.org/digital/search/searchterm/suffrage%20Harry%20Burn%20Anne%20Dallas%20Dudley",
+  "title": "Records and photographs of the 1920 Tennessee ratification of the 19th Amendment (National Woman's Party / suffrage collections)",
+  "type": "photographs and government ratification records",
+  "creator": "National Woman's Party; U.S. Government (records of ratification)",
+  "year": 1920,
+  "repository": "Library of Congress (loc.gov); U.S. National Archives (archives.gov)",
+  "rights": "Public domain (pre-1929 images; U.S. federal ratification records)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Tennessee+suffrage+ratification+nineteenth+amendment+1920",
   "download_url": "",
-  "citation": "TeVA/TSLA, Tennessee suffrage collection (Burn, Dudley, ratification).",
-  "alt_text": "Photographs and documents of Tennessee suffrage leaders and the ratification vote.",
+  "citation": "Tennessee ratification of the Nineteenth Amendment, August 1920; National Woman's Party Records / suffrage photographs, Library of Congress, and 19th Amendment ratification records, U.S. National Archives.",
+  "alt_text": "1920 suffrage photographs and the federal record of Tennessee becoming the 'Perfect 36th' state to ratify the Nineteenth Amendment, the vote that secured women's suffrage.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
-    "SSP.02"
+    "SSP.02",
+    "SSP.04"
    ]
   }
  },
@@ -2118,46 +2118,47 @@
  },
  {
   "standard": "TN.47",
-  "title": "WWI-era photographs of the Alcoa aluminum plant (Blount County, Tennessee)",
-  "type": "photograph",
-  "creator": "various",
-  "year": "1914-1920",
-  "repository": "Tennessee Virtual Archive / TeVA",
-  "rights": "Verify per item; pre-1929 likely PD",
-  "commercial_use_ok": false,
-  "catalog_url": "https://teva.contentdm.oclc.org/digital/search/searchterm/Alcoa%20aluminum%20plant%20Blount%20County%20World%20War",
+  "title": "Contemporary newspaper coverage of the Aluminum Company of America (Alcoa) plant and Blount County during World War I",
+  "type": "newspaper",
+  "creator": "Contemporary Tennessee newspaper press (various)",
+  "year": 1919,
+  "repository": "Chronicling America, Library of Congress (loc.gov)",
+  "rights": "Public domain (pre-1929 U.S. newspapers)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/collections/chronicling-america/?q=Alcoa+aluminum+Maryville+Tennessee+war",
   "download_url": "",
-  "citation": "TeVA/TSLA, Alcoa plant photographs.",
-  "alt_text": "Photographs of the Alcoa aluminum works that expanded during WWI.",
+  "citation": "Coverage of the Alcoa aluminum works and wartime production, Tennessee newspapers, c. 1914-1919, via Chronicling America, Library of Congress.",
+  "alt_text": "World War I-era Tennessee newspaper reporting on the Aluminum Company of America plant and the boomtown of Alcoa in Blount County.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.06"
+    "SSP.03"
    ]
   }
  },
  {
   "standard": "TN.48",
-  "title": "Governor Austin Peay portrait and messages to the General Assembly",
-  "type": "portrait/document",
-  "creator": "Tennessee State Library & Archives / Austin Peay",
-  "year": "1923-1927",
-  "repository": "Tennessee Virtual Archive / TeVA",
-  "rights": "Verify per item; 1920s likely PD",
-  "commercial_use_ok": false,
-  "catalog_url": "https://teva.contentdm.oclc.org/digital/search/searchterm/Austin%20Peay%20governor%20messages",
+  "title": "Portrait of Governor Austin Peay (Harris & Ewing) and his published messages to the Tennessee General Assembly",
+  "type": "portrait photograph and official state messages",
+  "creator": "Harris & Ewing (portrait); Governor Austin Peay (messages)",
+  "year": 1923,
+  "repository": "Library of Congress (loc.gov, Harris & Ewing Collection); HathiTrust for the messages",
+  "rights": "Public domain (Harris & Ewing pre-1929 collection; state government publications)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Austin+Peay+Tennessee+governor+Harris+Ewing",
   "download_url": "",
-  "citation": "TeVA/TSLA, Governor Austin Peay portrait and legislative messages, 1923-1927.",
-  "alt_text": "Portrait and official messages of Governor Austin Peay.",
+  "citation": "Austin Peay, Governor of Tennessee, Harris & Ewing Collection, Prints and Photographs Division, Library of Congress; and Messages of Governor Austin Peay to the General Assembly (Nashville, 1923-1927).",
+  "alt_text": "1920s photographic portrait of Tennessee Governor Austin Peay, whose administration reorganized state government and expanded roads and schools.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
-    "SSP.02"
+    "SSP.02",
+    "SSP.04"
    ]
   }
  },
@@ -2253,24 +2254,24 @@
  },
  {
   "standard": "TN.50",
-  "title": "Photographs of the Grand Ole Opry / WSM and early country and blues performers",
-  "type": "photograph",
-  "creator": "Tennessee State Library & Archives / various",
-  "year": "1920s-1940s",
-  "repository": "Tennessee Virtual Archive / TeVA",
-  "rights": "Verify per item; some may be restricted",
-  "commercial_use_ok": false,
-  "catalog_url": "https://teva.contentdm.oclc.org/digital/search/searchterm/Grand%20Ole%20Opry%20WSM%20country%20music%20Nashville",
+  "title": "Contemporary newspaper coverage of WSM radio and the WSM Barn Dance / Grand Ole Opry founding, 1925-1927",
+  "type": "newspaper",
+  "creator": "Contemporary Tennessee newspaper press (various)",
+  "year": 1927,
+  "repository": "Chronicling America, Library of Congress (loc.gov)",
+  "rights": "Public domain (pre-1929 U.S. newspapers)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/collections/chronicling-america/?q=WSM+radio+barn+dance+Nashville+1926",
   "download_url": "",
-  "citation": "TeVA/TSLA, Grand Ole Opry / WSM photographs.",
-  "alt_text": "Photographs of the Grand Ole Opry, WSM radio, and early performers.",
+  "citation": "Coverage of WSM radio and the WSM Barn Dance (later Grand Ole Opry), Tennessee newspapers, 1925-1927, via Chronicling America, Library of Congress.",
+  "alt_text": "Mid-1920s Nashville newspaper coverage of WSM radio and its Barn Dance program, the broadcast that became the Grand Ole Opry.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.06"
+    "SSP.03"
    ]
   }
  },
@@ -2479,159 +2480,162 @@
  },
  {
   "standard": "TN.55",
-  "title": "Photographs of Governor Frank Clement and Memphis boss Ed Crump",
-  "type": "photograph",
-  "creator": "Tennessee State Library & Archives",
-  "year": "1930s-1960s",
-  "repository": "Tennessee Virtual Archive / TeVA",
-  "rights": "Verify per item; likely restricted",
-  "commercial_use_ok": false,
-  "catalog_url": "https://teva.contentdm.oclc.org/digital/search/searchterm/Frank%20Clement%20Ed%20Crump%20governor%20politics",
+  "title": "Hearings and reports of the U.S. Senate Special Committee to Investigate Organized Crime in Interstate Commerce (Kefauver Committee)",
+  "type": "congressional hearings / government report",
+  "creator": "U.S. Senate (Sen. Estes Kefauver, chairman)",
+  "year": 1951,
+  "repository": "U.S. National Archives (archives.gov) / GPO (govinfo.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.archives.gov/research/search?q=Kefauver+committee+organized+crime",
   "download_url": "",
-  "citation": "TeVA/TSLA, Frank Clement and Ed Crump photographs.",
-  "alt_text": "Photographs of Governor Frank Clement and political boss E.H. Crump.",
+  "citation": "U.S. Senate Special Committee to Investigate Organized Crime in Interstate Commerce (Kefauver Committee), Hearings and Final Report, 1950-1951, U.S. National Archives / GPO.",
+  "alt_text": "Records of Tennessee Senator Estes Kefauver's nationally televised 1950-51 committee investigating organized crime, which made him a national figure.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
-    "SSP.02"
+    "SSP.02",
+    "SSP.04"
    ]
   }
  },
  {
   "standard": "TN.56",
-  "title": "Photographs of the Nashville sit-ins and Diane Nash (1960)",
-  "type": "photograph",
-  "creator": "various press / archives",
-  "year": "1960",
-  "repository": "Library of Congress / National Archives",
-  "rights": "Verify per item; many press photos under copyright",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=Nashville+sit-ins+1960+civil+rights+lunch+counter",
+  "title": "U.S. Commission on Civil Rights report documenting Southern lunch-counter sit-ins and student nonviolent protest (1961)",
+  "type": "government report",
+  "creator": "U.S. Commission on Civil Rights",
+  "year": 1961,
+  "repository": "U.S. Government Publishing Office (govinfo.gov) / U.S. National Archives (archives.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.archives.gov/research/search?q=Commission+on+Civil+Rights+1961+report+sit-ins",
   "download_url": "",
-  "citation": "Library of Congress / NARA, Nashville sit-in photographs, 1960.",
-  "alt_text": "Photographs of the 1960 Nashville lunch-counter sit-in movement.",
+  "citation": "U.S. Commission on Civil Rights, Report (Washington: GPO, 1961), sections on student sit-in demonstrations and public-accommodations desegregation.",
+  "alt_text": "Federal civil-rights report from 1961 documenting the wave of student lunch-counter sit-ins, including the Nashville movement, and official responses to them.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05"
+    "SSP.04"
    ]
   }
  },
  {
   "standard": "TN.56",
-  "title": "Photographs of the Clinton Twelve / Clinton High School desegregation (1956)",
-  "type": "photograph",
-  "creator": "various press / archives",
-  "year": "1956",
-  "repository": "Tennessee Virtual Archive / TeVA",
-  "rights": "Verify per item; likely under copyright",
-  "commercial_use_ok": false,
-  "catalog_url": "https://teva.contentdm.oclc.org/digital/search/searchterm/Clinton%20Twelve%20desegregation%201956%20Highlander",
+  "title": "Federal court desegregation order in McSwain v. County Board of Education of Anderson County, Tennessee (1956)",
+  "type": "federal court record",
+  "creator": "U.S. District Court for the Eastern District of Tennessee",
+  "year": 1956,
+  "repository": "U.S. National Archives (archives.gov)",
+  "rights": "Public domain (U.S. federal court record / government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=McSwain%20Anderson%20County%20Board%20of%20Education%20Clinton",
   "download_url": "",
-  "citation": "TeVA/TSLA, Clinton desegregation and Highlander Folk School materials.",
-  "alt_text": "Photographs of the 1956 Clinton High School desegregation and Highlander Folk School.",
+  "citation": "McSwain v. County Board of Education of Anderson County, Tennessee (E.D. Tenn., 1956), court order requiring desegregation of Clinton High School, Records of U.S. District Courts, National Archives.",
+  "alt_text": "The 1956 federal court order desegregating Clinton High School, the legal action that opened the school to the twelve Black students known as the Clinton Twelve.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.06"
+    "SSP.04"
    ]
   }
  },
  {
   "standard": "TN.57",
-  "title": "Photographs of Rev. James Lawson and the Nashville nonviolence workshops",
-  "type": "photograph",
-  "creator": "various press / archives",
-  "year": "1959-1961",
-  "repository": "Library of Congress / TeVA",
-  "rights": "Verify per item; likely under copyright",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=James+Lawson+Nashville+nonviolence+civil+rights",
+  "title": "U.S. Commission on Civil Rights records on Nashville and Tennessee desegregation and nonviolent protest",
+  "type": "government report / records",
+  "creator": "U.S. Commission on Civil Rights",
+  "year": 1961,
+  "repository": "U.S. National Archives (archives.gov) / GPO (govinfo.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.archives.gov/research/search?q=Commission+on+Civil+Rights+Tennessee+Nashville",
   "download_url": "",
-  "citation": "Library of Congress / TeVA, James Lawson and Nashville movement materials.",
-  "alt_text": "Photographs of Rev. James Lawson, architect of Nashville nonviolent protest.",
+  "citation": "U.S. Commission on Civil Rights, reports and records on desegregation and nonviolent protest in Tennessee, c. 1959-1963, U.S. National Archives / GPO.",
+  "alt_text": "Federal civil-rights records documenting Nashville's nonviolent desegregation movement, the setting for the workshops Rev. James Lawson led.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
-    "SSP.02"
+    "SSP.02",
+    "SSP.04"
    ]
   }
  },
  {
   "standard": "TN.57",
-  "title": "Kelly Miller Smith and First Baptist Church Capitol Hill records",
-  "type": "document/photograph",
-  "creator": "Tennessee State Library & Archives / community archives",
-  "year": "1950s-1960s",
-  "repository": "Tennessee Virtual Archive / TeVA",
-  "rights": "Verify per item",
-  "commercial_use_ok": false,
-  "catalog_url": "https://teva.contentdm.oclc.org/digital/search/searchterm/Kelly%20Miller%20Smith%20First%20Baptist%20Capitol%20Hill",
+  "title": "National Register of Historic Places nomination for First Baptist Church, Capitol Hill, Nashville",
+  "type": "government documentation (NRHP nomination with photographs)",
+  "creator": "National Park Service (National Register of Historic Places)",
+  "year": 1972,
+  "repository": "National Park Service (nps.gov) / U.S. National Archives (archives.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://npgallery.nps.gov/NRHP/SearchResults?view=list&q=First+Baptist+Church+Capitol+Hill+Nashville",
   "download_url": "",
-  "citation": "TeVA/TSLA, Kelly Miller Smith / First Baptist Capitol Hill materials.",
-  "alt_text": "Records of Rev. Kelly Miller Smith and his Nashville congregation's civil-rights role.",
-  "verified": false,
-  "schedule_f": {
-   "table1_standard": true,
-   "table3_ssp": [
-    "SSP.01",
-    "SSP.02"
-   ]
-  }
- },
- {
-  "standard": "TN.58",
-  "title": "'I've Been to the Mountaintop' speech (Martin Luther King Jr., Memphis, April 3, 1968)",
-  "type": "document/speech",
-  "creator": "Martin Luther King Jr.",
-  "year": "1968",
-  "repository": "Library of Congress / National Archives",
-  "rights": "Under copyright (King estate) — cite/link only, do not reproduce commercially",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=Martin+Luther+King+Memphis+1968+mountaintop+sanitation",
-  "download_url": "",
-  "citation": "Martin Luther King Jr., 'I've Been to the Mountaintop,' Memphis, April 3, 1968.",
-  "alt_text": "MLK's final speech, delivered in Memphis during the sanitation workers' strike.",
+  "citation": "First Baptist Church, Capitol Hill, Nashville, National Register of Historic Places Nomination Form, National Park Service.",
+  "alt_text": "Federal National Register documentation and photographs of First Baptist Church Capitol Hill, the Nashville congregation Rev. Kelly Miller Smith pastored and a hub of the civil rights movement.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05"
+    "SSP.04"
    ]
   }
  },
  {
   "standard": "TN.58",
-  "title": "Photographs of the 1968 Memphis Sanitation Workers' Strike ('I AM A MAN')",
-  "type": "photograph",
-  "creator": "various press photographers",
-  "year": "1968",
-  "repository": "Library of Congress / National Archives",
-  "rights": "Verify per item; many under copyright",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=Memphis+sanitation+strike+1968+I+AM+A+MAN",
+  "title": "National Register of Historic Places nomination for the Lorraine Motel (National Civil Rights Museum site), Memphis",
+  "type": "government documentation (NRHP nomination with photographs)",
+  "creator": "National Park Service (National Register of Historic Places)",
+  "year": 1982,
+  "repository": "National Park Service (nps.gov) / U.S. National Archives (archives.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://npgallery.nps.gov/NRHP/SearchResults?view=list&q=Lorraine+Motel+Memphis",
   "download_url": "",
-  "citation": "Library of Congress / NARA, Memphis sanitation strike photographs, 1968.",
-  "alt_text": "Photographs of striking Memphis sanitation workers carrying 'I AM A MAN' placards.",
+  "citation": "Lorraine Motel, Memphis, Tennessee, National Register of Historic Places Nomination Form, National Park Service.",
+  "alt_text": "Federal National Register documentation and photographs of the Lorraine Motel in Memphis, site of Dr. Martin Luther King Jr.'s assassination and now the National Civil Rights Museum.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.06"
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "TN.58",
+  "title": "Federal records of the 1968 Memphis sanitation workers' strike (Community Relations Service / Dept. of Labor mediation files)",
+  "type": "government records",
+  "creator": "U.S. Community Relations Service / U.S. Department of Labor",
+  "year": 1968,
+  "repository": "U.S. National Archives (archives.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Memphis%20sanitation%20strike%201968",
+  "download_url": "",
+  "citation": "Records relating to the 1968 Memphis sanitation workers' strike, U.S. Community Relations Service / Department of Labor, Records at the U.S. National Archives.",
+  "alt_text": "Federal government records documenting the 1968 Memphis sanitation workers' strike and its mediation, the labor dispute that brought Dr. King to Memphis.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
    ]
   }
  },
@@ -2747,23 +2751,24 @@
  },
  {
   "standard": "TN.61",
-  "title": "Photographs of Wilma Rudolph at the 1960 Rome Olympics",
-  "type": "photograph",
-  "creator": "various (some U.S. government / news agency)",
-  "year": "1960",
-  "repository": "National Archives / Library of Congress",
-  "rights": "Verify per item; some PD, some restricted",
-  "commercial_use_ok": false,
-  "catalog_url": "https://catalog.archives.gov/search?q=Wilma%20Rudolph%201960%20Olympics",
+  "title": "Congressional Record tribute honoring Wilma Rudolph (U.S. Congress)",
+  "type": "congressional record / government document",
+  "creator": "U.S. Congress",
+  "year": 1960,
+  "repository": "U.S. Government Publishing Office (govinfo.gov) / U.S. National Archives (archives.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.govinfo.gov/app/search/%7B%22query%22%3A%22Wilma%20Rudolph%22%2C%22offset%22%3A0%7D",
   "download_url": "",
-  "citation": "National Archives / LOC, Wilma Rudolph Olympic photographs, 1960.",
-  "alt_text": "Photographs of Tennessee sprinter Wilma Rudolph winning three Olympic golds.",
+  "citation": "Tribute to Wilma Rudolph, Congressional Record, U.S. Congress (Washington: GPO), 1960s.",
+  "alt_text": "A public-domain Congressional Record tribute recognizing Clarksville, Tennessee, athlete Wilma Rudolph after her three gold medals at the 1960 Rome Olympics.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
-    "SSP.02"
+    "SSP.02",
+    "SSP.04"
    ]
   }
  },

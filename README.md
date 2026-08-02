@@ -29,7 +29,7 @@ Guardrail-screened primary-source recommendations — **2 per standard** — for
 | Grade 6 | 124 | 124 | 0 |
 | Grade 7 | 130 | 130 | 0 |
 | Grade 8 | 150 | 150 | 0 |
-| HS World History | 186 | 172 | 14 |
-| Tennessee History | 128 | 107 | 21 |
+| HS World History | 186 | 186 | 0 — cleared |
+| Tennessee History | 128 | 128 | 0 — cleared |
 
-"Needs review" rows are honestly flagged copyrighted items (20th-c. press photos, trademarked brands) that must be swapped for a public-domain alternative before use. `link_type=search` means "find it at this repository"; `canonical` means a high-confidence direct URL.
+All flagged copyrighted items (World 14, Tennessee 19) were CLEARED by swapping to public-domain substitutes of a different type — U.S. government/FRUS/court records, Chronicling America PD newspapers, CC0 museum objects, and U.S. patents — so every row is now commercial-use-safe (0 blockers). A few Civil Rights standards (MLK's copyrighted "Mountaintop" speech; some 1960s press imagery) are satisfied via a PD government/court record rather than a period photo; those rows carry a teacher note. `link_type=search` means "find it at this repository"; `canonical` means a high-confidence direct URL.

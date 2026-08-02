@@ -2761,23 +2761,24 @@
  },
  {
   "standard": "W.57",
-  "title": "Chinese Communist propaganda poster",
-  "type": "Poster",
-  "creator": "Chinese state artists",
-  "year": "1950s-1970s",
-  "repository": "Library of Congress",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=Chinese+Communist+propaganda+poster+Mao",
+  "title": "United States Relations with China, With Special Reference to the Period 1944-1949 (the \"China White Paper\")",
+  "type": "government report",
+  "creator": "U.S. Department of State",
+  "year": 1949,
+  "repository": "Office of the Historian, U.S. Department of State (history.state.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/historicaldocuments/search?q=China+White+Paper+1949",
   "download_url": "",
-  "citation": "Chinese Communist propaganda poster. Library of Congress.",
-  "alt_text": "Propaganda poster glorifying Mao and the Communist Party.",
+  "citation": "U.S. Department of State, United States Relations with China, With Special Reference to the Period 1944-1949 (Washington, D.C.: Government Printing Office, 1949).",
+  "alt_text": "Cover and text pages of the 1949 U.S. State Department 'China White Paper' analyzing the Chinese Communist Party's rise to power and the collapse of Nationalist rule.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
-    "SSP.02"
+    "SSP.02",
+    "SSP.04"
    ]
   }
  },
@@ -2988,24 +2989,24 @@
  },
  {
   "standard": "W.62",
-  "title": "Prague Spring, 1968",
-  "type": "Photograph",
-  "creator": "press photographers",
-  "year": "1968",
-  "repository": "Library of Congress",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=Prague+Spring+1968+Czechoslovakia+invasion",
+  "title": "Foreign Relations of the United States, 1964-1968, Volume XVII, Eastern Europe (Czechoslovak crisis documents)",
+  "type": "government document collection",
+  "creator": "U.S. Department of State, Office of the Historian",
+  "year": 1968,
+  "repository": "Office of the Historian, U.S. Department of State (history.state.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/historicaldocuments/search?q=Czechoslovakia+1968",
   "download_url": "",
-  "citation": "The Prague Spring, 1968. Library of Congress.",
-  "alt_text": "Photograph of Soviet tanks in Prague during the 1968 invasion.",
+  "citation": "Foreign Relations of the United States, 1964-1968, Vol. XVII, Eastern Europe (Washington, D.C.: U.S. Government Printing Office), documents on the 1968 Soviet-led invasion of Czechoslovakia.",
+  "alt_text": "U.S. diplomatic cables and memoranda from 1968 describing the Prague Spring reforms and the Warsaw Pact invasion that crushed them.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05"
+    "SSP.04"
    ]
   }
  },
@@ -3194,24 +3195,24 @@
  },
  {
   "standard": "W.67",
-  "title": "Partition of India refugee migration, 1947",
-  "type": "Photograph",
-  "creator": "press photographers",
-  "year": "1947",
-  "repository": "Library of Congress",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=Partition+India+Pakistan+1947+refugees",
+  "title": "U.S. newspaper front-page coverage of the Partition of India and Pakistan, August 1947",
+  "type": "newspaper",
+  "creator": "Contemporary U.S. newspaper press (various)",
+  "year": 1947,
+  "repository": "Chronicling America, Library of Congress (loc.gov/chroniclingamerica)",
+  "rights": "Public domain (pre-1963 U.S. newspaper, no copyright renewal)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/collections/chronicling-america/?q=India+Pakistan+partition+1947",
   "download_url": "",
-  "citation": "The Partition of India, 1947. Library of Congress.",
-  "alt_text": "Photograph of mass refugee migration during the 1947 Partition.",
+  "citation": "\"India Partitioned; Pakistan Born\" and related coverage, U.S. newspapers, August 1947, via Chronicling America, Library of Congress.",
+  "alt_text": "August 1947 U.S. newspaper front pages reporting the partition of British India into India and Pakistan and the resulting mass refugee migration.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05"
+    "SSP.03"
    ]
   }
  },
@@ -3240,17 +3241,17 @@
  },
  {
   "standard": "W.68",
-  "title": "Gandhi and the Salt March, 1930",
-  "type": "Photograph",
-  "creator": "press photographers",
-  "year": "1930",
-  "repository": "Library of Congress",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=Gandhi+Salt+March+1930",
+  "title": "U.S. newspaper coverage of Gandhi's Salt March and civil disobedience campaign, 1930",
+  "type": "newspaper",
+  "creator": "Contemporary U.S. newspaper press (various)",
+  "year": 1930,
+  "repository": "Chronicling America, Library of Congress (loc.gov/chroniclingamerica)",
+  "rights": "Public domain (pre-1929/pre-1963 U.S. newspaper, no copyright renewal)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/collections/chronicling-america/?q=Gandhi+salt+march+1930",
   "download_url": "",
-  "citation": "Mohandas Gandhi and the Salt March, 1930. Library of Congress.",
-  "alt_text": "Photograph of Gandhi leading the 1930 Salt March.",
+  "citation": "Coverage of Mohandas Gandhi's Salt March, U.S. newspapers, 1930, via Chronicling America, Library of Congress.",
+  "alt_text": "1930 U.S. newspaper articles reporting Mohandas Gandhi's Salt March and nonviolent civil disobedience against British salt taxes in India.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
@@ -3263,47 +3264,47 @@
  },
  {
   "standard": "W.68",
-  "title": "Jawaharlal Nehru and Indian independence, 1947",
-  "type": "Photograph",
-  "creator": "press/official photographers",
-  "year": "1947",
-  "repository": "Library of Congress",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=Nehru+Indian+independence+1947",
+  "title": "U.S. newspaper coverage of Indian independence and Nehru's new government, August 1947",
+  "type": "newspaper",
+  "creator": "Contemporary U.S. newspaper press (various)",
+  "year": 1947,
+  "repository": "Chronicling America, Library of Congress (loc.gov/chroniclingamerica)",
+  "rights": "Public domain (pre-1963 U.S. newspaper, no copyright renewal)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/collections/chronicling-america/?q=India+independence+Nehru+1947",
   "download_url": "",
-  "citation": "Jawaharlal Nehru at Indian independence, 1947. Library of Congress.",
-  "alt_text": "Photograph of Nehru marking India's 1947 independence.",
+  "citation": "Coverage of Indian independence and Prime Minister Jawaharlal Nehru, U.S. newspapers, August 1947, via Chronicling America, Library of Congress.",
+  "alt_text": "August 1947 U.S. newspaper reports on India gaining independence and Jawaharlal Nehru becoming its first prime minister.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05"
+    "SSP.04"
    ]
   }
  },
  {
   "standard": "W.69",
-  "title": "African independence leaders (Nkrumah, Kenyatta, Lumumba)",
-  "type": "Photograph",
-  "creator": "press/official photographers",
-  "year": "1950s-1960s",
-  "repository": "Library of Congress",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=African+independence+leaders+Nkrumah+Kenyatta",
+  "title": "Foreign Relations of the United States, 1958-1960, Volume XIV, Africa",
+  "type": "government document collection",
+  "creator": "U.S. Department of State, Office of the Historian",
+  "year": 1960,
+  "repository": "Office of the Historian, U.S. Department of State (history.state.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/historicaldocuments/search?q=Africa+independence+1958-1960",
   "download_url": "",
-  "citation": "African independence leaders, 1950s-60s. Library of Congress.",
-  "alt_text": "Photograph of African nationalist leaders at independence.",
+  "citation": "Foreign Relations of the United States, 1958-1960, Vol. XIV, Africa (Washington, D.C.: U.S. Government Printing Office), documents on African decolonization and nationalist leaders.",
+  "alt_text": "U.S. State Department records from the late 1950s documenting African independence movements and nationalist leaders such as Nkrumah, Kenyatta, and Lumumba.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05"
+    "SSP.04"
    ]
   }
  },
@@ -3332,69 +3333,69 @@
  },
  {
   "standard": "W.70",
-  "title": "Apartheid \"petty apartheid\" segregation signage",
-  "type": "Photograph",
-  "creator": "press/UN photographers",
-  "year": "1950s-1980s",
-  "repository": "United Nations (hosted via *.edu archive)",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=apartheid+South+Africa+segregation+sign",
+  "title": "CIA map: South Africa — Black Homelands (Bantustans)",
+  "type": "map",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": 1980,
+  "repository": "Library of Congress / U.S. National Archives (loc.gov, archives.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=CIA+map+South+Africa+homelands+bantustan",
   "download_url": "",
-  "citation": "Apartheid segregation signage, South Africa. Library of Congress.",
-  "alt_text": "Photograph of \"whites only\" apartheid segregation signs.",
+  "citation": "U.S. Central Intelligence Agency, map of South Africa's Black Homelands (Bantustans), via Library of Congress Geography and Map Division.",
+  "alt_text": "U.S. government map showing the fragmented Black 'homelands' (Bantustans) created by South Africa's apartheid system of territorial segregation.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
-    "SSP.02"
+    "SSP.06"
    ]
   }
  },
  {
   "standard": "W.70",
-  "title": "Anti-apartheid movement and Nelson Mandela",
-  "type": "Photograph",
-  "creator": "press photographers",
-  "year": "1980s-1990s",
-  "repository": "Library of Congress",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=anti-apartheid+Nelson+Mandela+protest",
+  "title": "Comprehensive Anti-Apartheid Act of 1986 (Public Law 99-440)",
+  "type": "public law / statute",
+  "creator": "U.S. Congress",
+  "year": 1986,
+  "repository": "U.S. Government Publishing Office (govinfo.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.govinfo.gov/app/search/%7B%22query%22%3A%22Comprehensive%20Anti-Apartheid%20Act%201986%22%7D",
   "download_url": "",
-  "citation": "The anti-apartheid movement and Nelson Mandela. Library of Congress.",
-  "alt_text": "Photograph of anti-apartheid protest or Mandela's release.",
+  "citation": "Comprehensive Anti-Apartheid Act of 1986, Pub. L. No. 99-440, 100 Stat. 1086 (1986).",
+  "alt_text": "Text of the 1986 U.S. Comprehensive Anti-Apartheid Act imposing sanctions on South Africa and calling for the release of Nelson Mandela and other political prisoners.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05"
+    "SSP.04"
    ]
   }
  },
  {
   "standard": "W.71",
-  "title": "Congo Crisis and post-independence conflict",
-  "type": "Photograph",
-  "creator": "press/UN photographers",
-  "year": "1960s",
-  "repository": "U.S. National Archives (NARA)",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://catalog.archives.gov/search?q=Congo+Crisis+1960+independence+conflict",
+  "title": "Foreign Relations of the United States, 1961-1963, Volume XX, Congo Crisis",
+  "type": "government document collection",
+  "creator": "U.S. Department of State, Office of the Historian",
+  "year": 1963,
+  "repository": "Office of the Historian, U.S. Department of State (history.state.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/historicaldocuments/frus1961-63v20",
   "download_url": "",
-  "citation": "Post-independence conflict in Africa (Congo Crisis). U.S. National Archives.",
-  "alt_text": "Photograph of conflict in newly independent Congo.",
+  "citation": "Foreign Relations of the United States, 1961-1963, Vol. XX, Congo Crisis (Washington, D.C.: U.S. Government Printing Office).",
+  "alt_text": "U.S. State Department records documenting the post-independence Congo Crisis, including political instability, secession, and foreign intervention.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05"
+    "SSP.04"
    ]
   }
  },
@@ -3423,24 +3424,24 @@
  },
  {
   "standard": "W.72",
-  "title": "The Cuban Revolution and Fidel Castro, 1959",
-  "type": "Photograph",
-  "creator": "press/U.S. government",
-  "year": "1959",
-  "repository": "Library of Congress",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=Cuban+Revolution+1959+Castro",
+  "title": "U.S. newspaper front-page coverage of the Cuban Revolution and Castro's takeover, January 1959",
+  "type": "newspaper",
+  "creator": "Contemporary U.S. newspaper press (various)",
+  "year": 1959,
+  "repository": "Chronicling America, Library of Congress (loc.gov/chroniclingamerica)",
+  "rights": "Public domain (pre-1963 U.S. newspaper, no copyright renewal)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/collections/chronicling-america/?q=Castro+Cuba+revolution+1959",
   "download_url": "",
-  "citation": "The Cuban Revolution, 1959. Library of Congress.",
-  "alt_text": "Photograph of Fidel Castro and the 1959 Cuban Revolution.",
+  "citation": "\"Castro Takes Power in Cuba\" and related coverage, U.S. newspapers, January 1959, via Chronicling America, Library of Congress.",
+  "alt_text": "January 1959 U.S. newspaper front pages reporting Fidel Castro's victory and the fall of the Batista regime in the Cuban Revolution.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05"
+    "SSP.03"
    ]
   }
  },
@@ -3515,47 +3516,47 @@
  },
  {
   "standard": "W.74",
-  "title": "Cambodian genocide / Khmer Rouge (Tuol Sleng)",
-  "type": "Photograph",
-  "creator": "press/documentary",
-  "year": "1975-1979",
-  "repository": "U.S. National Archives (NARA)",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://catalog.archives.gov/search?q=Cambodia+Khmer+Rouge+genocide+1975",
+  "title": "CIA research report: Kampuchea — A Demographic Catastrophe",
+  "type": "government report",
+  "creator": "U.S. Central Intelligence Agency",
+  "year": 1980,
+  "repository": "CIA FOIA Electronic Reading Room / U.S. National Archives (cia.gov, archives.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.cia.gov/readingroom/search/site/Kampuchea%20demographic%20catastrophe",
   "download_url": "",
-  "citation": "The Cambodian genocide under the Khmer Rouge. U.S. National Archives.",
-  "alt_text": "Photograph documenting the Khmer Rouge genocide in Cambodia.",
+  "citation": "U.S. Central Intelligence Agency, National Foreign Assessment Center, Kampuchea: A Demographic Catastrophe (1980).",
+  "alt_text": "Declassified 1980 CIA report analyzing the massive population losses in Cambodia (Kampuchea) under Khmer Rouge rule.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05"
+    "SSP.03"
    ]
   }
  },
  {
   "standard": "W.74",
-  "title": "Rwandan genocide, 1994",
-  "type": "Photograph / document",
-  "creator": "UN / U.S. government",
-  "year": "1994",
-  "repository": "U.S. National Archives (NARA)",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://catalog.archives.gov/search?q=Rwanda+genocide+1994",
+  "title": "Declassified U.S. State Department records on the 1994 Rwandan genocide",
+  "type": "government document collection",
+  "creator": "U.S. Department of State",
+  "year": 1994,
+  "repository": "U.S. National Archives (archives.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Rwanda%20genocide%201994%20State%20Department",
   "download_url": "",
-  "citation": "The Rwandan genocide, 1994. U.S. National Archives.",
-  "alt_text": "Photograph/document relating to the 1994 Rwandan genocide.",
+  "citation": "Declassified U.S. Department of State cables and memoranda on the Rwandan genocide, 1994, U.S. National Archives.",
+  "alt_text": "Declassified 1994 U.S. State Department cables reporting on the mass killings during the Rwandan genocide.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05"
+    "SSP.04"
    ]
   }
  },
@@ -3697,23 +3698,24 @@
  },
  {
   "standard": "W.78",
-  "title": "China's one-child policy",
-  "type": "Photograph / poster",
-  "creator": "press / Chinese sources",
-  "year": "1979-2015",
-  "repository": "Library of Congress",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=China+one+child+policy+poster",
+  "title": "U.S. Census Bureau International Data Base: China population pyramids and demographic data",
+  "type": "data set / chart",
+  "creator": "U.S. Census Bureau",
+  "year": 2020,
+  "repository": "U.S. Census Bureau, International Programs (census.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/data-tools/demo/idb/#/country?COUNTRY_YEAR=2020&COUNTRY_YR_ANIM=2020&menu=popViz&FIPS_SINGLE=CH",
   "download_url": "",
-  "citation": "China's one-child policy. Library of Congress.",
-  "alt_text": "Photograph/poster illustrating China's one-child population policy.",
+  "citation": "U.S. Census Bureau, International Data Base, population pyramids and age-structure data for China (accessed via census.gov).",
+  "alt_text": "U.S. Census Bureau population pyramid for China showing the age-structure distortions produced by decades of the one-child policy.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
-    "SSP.02"
+    "SSP.03",
+    "SSP.06"
    ]
   }
  },
@@ -4175,24 +4177,24 @@
  },
  {
   "standard": "W.88",
-  "title": "The Iranian Revolution, 1979",
-  "type": "Photograph",
-  "creator": "press photographers",
-  "year": "1979",
-  "repository": "Library of Congress",
-  "rights": "Rights vary by item — verify PD/commercial status at repository",
-  "commercial_use_ok": false,
-  "catalog_url": "https://www.loc.gov/search/?q=Iranian+Revolution+1979+Khomeini",
+  "title": "Foreign Relations of the United States, 1977-1980, Iran (Revolution) volume",
+  "type": "government document collection",
+  "creator": "U.S. Department of State, Office of the Historian",
+  "year": 1979,
+  "repository": "Office of the Historian, U.S. Department of State (history.state.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/historicaldocuments/search?q=Iran+revolution+1977-1980",
   "download_url": "",
-  "citation": "The Iranian Revolution, 1979. Library of Congress.",
-  "alt_text": "Photograph of the 1979 Iranian Revolution.",
+  "citation": "Foreign Relations of the United States, 1977-1980, Iran (Washington, D.C.: U.S. Government Printing Office), documents on the 1978-1979 Iranian Revolution.",
+  "alt_text": "U.S. State Department records from 1978-1979 documenting the Iranian Revolution and the fall of the Shah amid a rising religious-political movement.",
   "verified": false,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
     "SSP.01",
     "SSP.02",
-    "SSP.05"
+    "SSP.04"
    ]
   }
  },
