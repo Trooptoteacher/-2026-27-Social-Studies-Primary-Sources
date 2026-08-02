@@ -76,10 +76,10 @@
   "rights": "Public domain — official document text (Magna Carta, 1215)",
   "commercial_use_ok": true,
   "catalog_url": "https://avalon.law.yale.edu/medieval/magna.asp",
-  "download_url": "",
+  "download_url": "https://avalon.law.yale.edu/medieval/magna.asp",
   "citation": "Magna Carta, 1215. The Avalon Project, Yale Law School.",
   "alt_text": "Transcribed English text of the 1215 Magna Carta charter.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
@@ -99,10 +99,10 @@
   "rights": "Public domain — official document text (1689)",
   "commercial_use_ok": true,
   "catalog_url": "https://avalon.law.yale.edu/17th_century/england.asp",
-  "download_url": "",
+  "download_url": "https://avalon.law.yale.edu/17th_century/england.asp",
   "citation": "English Bill of Rights, 1689. The Avalon Project, Yale Law School.",
   "alt_text": "Transcribed text of the 1689 English Bill of Rights limiting the crown.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
@@ -258,11 +258,11 @@
   "repository": "Library of Congress",
   "rights": "Public domain (published pre-1929)",
   "commercial_use_ok": true,
-  "catalog_url": "https://www.loc.gov/search/?q=Third+Estate+French+Revolution+caricature",
-  "download_url": "",
+  "catalog_url": "https://www.loc.gov/item/2004676889/",
+  "download_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/05800/05897v.jpg#h=1024&w=778",
   "citation": "The Third Estate carrying the clergy and nobility, French caricature, 1789. Library of Congress.",
   "alt_text": "Caricature of a peasant bearing a clergyman and noble on his back.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
@@ -281,10 +281,10 @@
   "rights": "Public domain — official document text (1789)",
   "commercial_use_ok": true,
   "catalog_url": "https://avalon.law.yale.edu/18th_century/rightsof.asp",
-  "download_url": "",
+  "download_url": "https://avalon.law.yale.edu/18th_century/rightsof.asp",
   "citation": "Declaration of the Rights of Man and of the Citizen, 1789. The Avalon Project, Yale Law School.",
   "alt_text": "Text of the 1789 French Declaration of the Rights of Man.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
@@ -441,10 +441,10 @@
   "rights": "Public domain (U.S. federal government work)",
   "commercial_use_ok": true,
   "catalog_url": "https://www.archives.gov/founding-docs/declaration-transcript",
-  "download_url": "",
+  "download_url": "https://www.archives.gov/founding-docs/declaration-transcript",
   "citation": "Declaration of Independence, 1776. U.S. National Archives.",
   "alt_text": "Transcript of the 1776 Declaration of Independence.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
@@ -464,10 +464,10 @@
   "rights": "Public domain — official document text (1789)",
   "commercial_use_ok": true,
   "catalog_url": "https://avalon.law.yale.edu/18th_century/rightsof.asp",
-  "download_url": "",
+  "download_url": "https://avalon.law.yale.edu/18th_century/rightsof.asp",
   "citation": "Declaration of the Rights of Man and of the Citizen, 1789. The Avalon Project, Yale Law School.",
   "alt_text": "Text of the 1789 French Declaration for side-by-side comparison with the U.S. Declaration.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
@@ -1785,10 +1785,10 @@
   "rights": "Public domain — U.S. government work (1918)",
   "commercial_use_ok": true,
   "catalog_url": "https://avalon.law.yale.edu/20th_century/wilson14.asp",
-  "download_url": "",
+  "download_url": "https://avalon.law.yale.edu/20th_century/wilson14.asp",
   "citation": "Woodrow Wilson, Fourteen Points, 1918. The Avalon Project, Yale Law School.",
   "alt_text": "Text of Wilson's Fourteen Points peace program.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
@@ -1831,10 +1831,10 @@
   "rights": "Public domain — treaty text (League Covenant, 1919)",
   "commercial_use_ok": true,
   "catalog_url": "https://avalon.law.yale.edu/20th_century/leagcov.asp",
-  "download_url": "",
+  "download_url": "https://avalon.law.yale.edu/20th_century/leagcov.asp",
   "citation": "Covenant of the League of Nations, 1919. The Avalon Project, Yale Law School.",
   "alt_text": "Text of the League of Nations Covenant establishing the mandate system.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
@@ -2175,10 +2175,10 @@
   "rights": "Public domain — official agreement text (1938)",
   "commercial_use_ok": true,
   "catalog_url": "https://avalon.law.yale.edu/imt/munich1.asp",
-  "download_url": "",
+  "download_url": "https://avalon.law.yale.edu/imt/munich1.asp",
   "citation": "Munich Agreement, 1938. The Avalon Project, Yale Law School.",
   "alt_text": "Text of the 1938 Munich Agreement embodying appeasement.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
@@ -2450,10 +2450,10 @@
   "rights": "Public domain — official document text (1941)",
   "commercial_use_ok": true,
   "catalog_url": "https://avalon.law.yale.edu/wwii/atlantic.asp",
-  "download_url": "",
+  "download_url": "https://avalon.law.yale.edu/wwii/atlantic.asp",
   "citation": "The Atlantic Charter, 1941. The Avalon Project, Yale Law School.",
   "alt_text": "Text of the 1941 Atlantic Charter.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
@@ -2473,10 +2473,10 @@
   "rights": "Public domain — official agreement text (Yalta Protocol, 1945)",
   "commercial_use_ok": true,
   "catalog_url": "https://avalon.law.yale.edu/wwii/yalta.asp",
-  "download_url": "",
+  "download_url": "https://avalon.law.yale.edu/wwii/yalta.asp",
   "citation": "Yalta Conference Agreement, 1945. The Avalon Project, Yale Law School.",
   "alt_text": "Text of the Yalta Conference protocol.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
@@ -2792,10 +2792,10 @@
   "rights": "Public domain — U.S. government work (1947)",
   "commercial_use_ok": true,
   "catalog_url": "https://avalon.law.yale.edu/20th_century/trudoc.asp",
-  "download_url": "",
+  "download_url": "https://avalon.law.yale.edu/20th_century/trudoc.asp",
   "citation": "Harry S. Truman, Truman Doctrine speech, 1947. The Avalon Project, Yale Law School.",
   "alt_text": "Text of the 1947 Truman Doctrine speech on containment.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
@@ -2838,10 +2838,10 @@
   "rights": "Public domain — treaty text (1949)",
   "commercial_use_ok": true,
   "catalog_url": "https://avalon.law.yale.edu/20th_century/nato.asp",
-  "download_url": "",
+  "download_url": "https://avalon.law.yale.edu/20th_century/nato.asp",
   "citation": "The North Atlantic Treaty, 1949. The Avalon Project, Yale Law School.",
   "alt_text": "Text of the 1949 treaty establishing NATO.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
@@ -2861,10 +2861,10 @@
   "rights": "Public domain — treaty text (1955)",
   "commercial_use_ok": true,
   "catalog_url": "https://avalon.law.yale.edu/20th_century/warsaw.asp",
-  "download_url": "",
+  "download_url": "https://avalon.law.yale.edu/20th_century/warsaw.asp",
   "citation": "The Warsaw Pact, 1955. The Avalon Project, Yale Law School.",
   "alt_text": "Text of the 1955 treaty establishing the Warsaw Pact.",
-  "verified": false,
+  "verified": true,
   "schedule_f": {
    "table1_standard": true,
    "table3_ssp": [
