@@ -1,0 +1,842 @@
+[
+  {
+    "standard": "GC.01",
+    "title": "Portrait of John Locke",
+    "type": "portrait",
+    "creator": "Godfrey Kneller",
+    "year": "1697",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — artist d.1723 (PD-old/PD-US)",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Godfrey_Kneller_-_Portrait_of_John_Locke_(Hermitage).jpg",
+    "download_url": "",
+    "citation": "Godfrey Kneller. \"Portrait of John Locke.\" 1697. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Godfrey_Kneller_-_Portrait_of_John_Locke_(Hermitage).jpg",
+    "alt_text": "Portrait: Portrait of John Locke (Godfrey Kneller, 1697).",
+    "verified": true,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.02",
+    "title": "U.S. Declaration of Independence (engrossed)",
+    "type": "document",
+    "creator": "2nd Continental Congress",
+    "year": "1776",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. gov document, 1776",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:United_States_Declaration_of_Independence.jpg",
+    "download_url": "",
+    "citation": "2nd Continental Congress. \"U.S. Declaration of Independence (engrossed).\" 1776. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:United_States_Declaration_of_Independence.jpg",
+    "alt_text": "Document: U.S. Declaration of Independence (engrossed) (2nd Continental Congress, 1776).",
+    "verified": true,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.03",
+    "title": "Join, or Die",
+    "type": "cartoon",
+    "creator": "Benjamin Franklin",
+    "year": "1754",
+    "repository": "Library of Congress",
+    "rights": "Public domain — published 1754 (pre-1929)",
+    "commercial_use_ok": true,
+    "catalog_url": "https://www.loc.gov/item/2002695523/",
+    "download_url": "",
+    "citation": "Benjamin Franklin. \"Join, or Die.\" 1754. Library of Congress. https://www.loc.gov/item/2002695523/",
+    "alt_text": "Cartoon: Join, or Die (Benjamin Franklin, 1754).",
+    "verified": true,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.04",
+    "title": "The Looking Glass for 1787",
+    "type": "cartoon",
+    "creator": "Amos Doolittle",
+    "year": "1787",
+    "repository": "Library of Congress",
+    "rights": "Public domain — 1787 engraving (pre-1929)",
+    "commercial_use_ok": true,
+    "catalog_url": "https://www.loc.gov/item/2008661778/",
+    "download_url": "",
+    "citation": "Amos Doolittle. \"The Looking Glass for 1787.\" 1787. Library of Congress. https://www.loc.gov/item/2008661778/",
+    "alt_text": "Cartoon: The Looking Glass for 1787 (Amos Doolittle, 1787).",
+    "verified": true,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.05",
+    "title": "U.S. Constitution, Page 1 (We the People)",
+    "type": "document",
+    "creator": "Constitutional Convention",
+    "year": "1787",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. gov document, 1787",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_(page_1).jpg",
+    "download_url": "",
+    "citation": "Constitutional Convention. \"U.S. Constitution, Page 1 (We the People).\" 1787. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_(page_1).jpg",
+    "alt_text": "Document: U.S. Constitution, Page 1 (We the People) (Constitutional Convention, 1787).",
+    "verified": true,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.06",
+    "title": "The Federalist (1st ed., 1788, Vol. I) — title page",
+    "type": "document",
+    "creator": "Hamilton, Madison, Jay",
+    "year": "1788",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — published 1788 (pre-1929)",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:The_Federalist_(1st_ed,_1788,_vol_I,_title_page).jpg",
+    "download_url": "",
+    "citation": "Hamilton, Madison, Jay. \"The Federalist (1st ed., 1788, Vol. I) — title page.\" 1788. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:The_Federalist_(1st_ed,_1788,_vol_I,_title_page).jpg",
+    "alt_text": "Document: The Federalist (1st ed., 1788, Vol. I) — title page (Hamilton, Madison, Jay, 1788).",
+    "verified": true,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.07",
+    "title": "The Federal Pillars (Grand Federal Edifice)",
+    "type": "cartoon",
+    "creator": "Massachusetts Centinel",
+    "year": "1788",
+    "repository": "Library of Congress",
+    "rights": "Public domain — published 1788 (pre-1929)",
+    "commercial_use_ok": true,
+    "catalog_url": "https://www.loc.gov/item/2004676796/",
+    "download_url": "",
+    "citation": "Massachusetts Centinel. \"The Federal Pillars (Grand Federal Edifice).\" 1788. Library of Congress. https://www.loc.gov/item/2004676796/",
+    "alt_text": "Cartoon: The Federal Pillars (Grand Federal Edifice) (Massachusetts Centinel, 1788).",
+    "verified": true,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.08",
+    "title": "U.S. Bill of Rights (engrossed)",
+    "type": "document",
+    "creator": "1st U.S. Congress",
+    "year": "1789",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. gov document, 1789",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Bill_of_Rights_Pg1of1_AC.jpg",
+    "download_url": "",
+    "citation": "1st U.S. Congress. \"U.S. Bill of Rights (engrossed).\" 1789. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Bill_of_Rights_Pg1of1_AC.jpg",
+    "alt_text": "Document: U.S. Bill of Rights (engrossed) (1st U.S. Congress, 1789).",
+    "verified": true,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.09",
+    "title": "Great Seal of the United States (obverse)",
+    "type": "emblem",
+    "creator": "Thomson/Barton design",
+    "year": "1782",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. federal government work",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Great_Seal_of_the_United_States_(obverse).svg",
+    "download_url": "",
+    "citation": "Thomson/Barton design. \"Great Seal of the United States (obverse).\" 1782. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Great_Seal_of_the_United_States_(obverse).svg",
+    "alt_text": "Emblem: Great Seal of the United States (obverse) (Thomson/Barton design, 1782).",
+    "verified": true,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.31",
+    "title": "I Want YOU for U.S. Army (Uncle Sam)",
+    "type": "cartoon",
+    "creator": "James Montgomery Flagg",
+    "year": "1917",
+    "repository": "Library of Congress",
+    "rights": "Public domain — no known restrictions; no copyright renewal",
+    "commercial_use_ok": true,
+    "catalog_url": "https://www.loc.gov/item/96507165/",
+    "download_url": "",
+    "citation": "James Montgomery Flagg. \"I Want YOU for U.S. Army (Uncle Sam).\" 1917. Library of Congress. https://www.loc.gov/item/96507165/",
+    "alt_text": "Cartoon: I Want YOU for U.S. Army (Uncle Sam) (James Montgomery Flagg, 1917).",
+    "verified": true,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.32",
+    "title": "The Third-Term Panic (elephant/donkey)",
+    "type": "cartoon",
+    "creator": "Thomas Nast",
+    "year": "1874",
+    "repository": "Library of Congress",
+    "rights": "Public domain — no known restrictions",
+    "commercial_use_ok": true,
+    "catalog_url": "https://www.loc.gov/item/2004682001/",
+    "download_url": "",
+    "citation": "Thomas Nast. \"The Third-Term Panic (elephant/donkey).\" 1874. Library of Congress. https://www.loc.gov/item/2004682001/",
+    "alt_text": "Cartoon: The Third-Term Panic (elephant/donkey) (Thomas Nast, 1874).",
+    "verified": true,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.33",
+    "title": "The Yellow Press",
+    "type": "cartoon",
+    "creator": "L.M. Glackens",
+    "year": "1910",
+    "repository": "Library of Congress",
+    "rights": "Public domain — no known restrictions",
+    "commercial_use_ok": true,
+    "catalog_url": "https://www.loc.gov/item/2011647630/",
+    "download_url": "",
+    "citation": "L.M. Glackens. \"The Yellow Press.\" 1910. Library of Congress. https://www.loc.gov/item/2011647630/",
+    "alt_text": "Cartoon: The Yellow Press (L.M. Glackens, 1910).",
+    "verified": true,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.34",
+    "title": "Woman Suffrage Parade, Washington D.C.",
+    "type": "photo",
+    "creator": "LOC (photographer unknown)",
+    "year": "1913",
+    "repository": "Library of Congress",
+    "rights": "Public domain — no known restrictions",
+    "commercial_use_ok": true,
+    "catalog_url": "https://www.loc.gov/item/2013648100/",
+    "download_url": "",
+    "citation": "LOC (photographer unknown). \"Woman Suffrage Parade, Washington D.C..\" 1913. Library of Congress. https://www.loc.gov/item/2013648100/",
+    "alt_text": "Photo: Woman Suffrage Parade, Washington D.C. (LOC (photographer unknown), 1913).",
+    "verified": true,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.10",
+    "title": "17th Amendment — Direct Election of Senators (1913)",
+    "type": "document",
+    "creator": "U.S. Congress (NARA)",
+    "year": "1913",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. federal record (NARA)",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:17th_Amendment_to_the_U.S._Constitution-_Direct_Election_of_U.S._Senators_(1913)_(5553720882).jpg",
+    "download_url": "",
+    "citation": "U.S. Congress (NARA). \"17th Amendment — Direct Election of Senators (1913).\" 1913. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:17th_Amendment_to_the_U.S._Constitution-_Direct_Election_of_U.S._Senators_(1913)_(5553720882).jpg",
+    "alt_text": "Document: 17th Amendment — Direct Election of Senators (1913) (U.S. Congress (NARA), 1913).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.11",
+    "title": "The Gerry-Mander",
+    "type": "cartoon",
+    "creator": "Elkanah Tisdale",
+    "year": "1812",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — published 1812",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:The_Gerry-Mander.png",
+    "download_url": "",
+    "citation": "Elkanah Tisdale. \"The Gerry-Mander.\" 1812. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:The_Gerry-Mander.png",
+    "alt_text": "Cartoon: The Gerry-Mander (Elkanah Tisdale, 1812).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.12",
+    "title": "United States Capitol, c.1846 (Plumbe daguerreotype)",
+    "type": "photo",
+    "creator": "John Plumbe Jr.",
+    "year": "c.1846",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — 1846 (pre-1929)",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:United_States_Capitol,_circa_1846,_by_John_Plumbe.jpg",
+    "download_url": "",
+    "citation": "John Plumbe Jr.. \"United States Capitol, c.1846 (Plumbe daguerreotype).\" c.1846. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:United_States_Capitol,_circa_1846,_by_John_Plumbe.jpg",
+    "alt_text": "Photo: United States Capitol, c.1846 (Plumbe daguerreotype) (John Plumbe Jr., c.1846).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.13",
+    "title": "Congress in session (pre-1929) — bill/legislative process",
+    "type": "photo",
+    "creator": "U.S. Government",
+    "year": "1920s",
+    "repository": "Wikimedia Commons",
+    "rights": "VERIFY — pick a pre-1929 file (PD). NOTE: Mike Wirth 'How a Bill Becomes Law' diagram is CC-BY 3.0, NOT public domain",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/Category:Joint_sessions_of_the_United_States_Congress",
+    "download_url": "",
+    "citation": "U.S. Government. \"Congress in session (pre-1929) — bill/legislative process.\" 1920s. Wikimedia Commons. https://commons.wikimedia.org/wiki/Category:Joint_sessions_of_the_United_States_Congress",
+    "alt_text": "Photo: Congress in session (pre-1929) — bill/legislative process (U.S. Government, 1920s).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.14",
+    "title": "Seal of Tennessee",
+    "type": "emblem",
+    "creator": "State of Tennessee",
+    "year": "1802 design",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. state government insignia",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Seal_of_Tennessee.svg",
+    "download_url": "",
+    "citation": "State of Tennessee. \"Seal of Tennessee.\" 1802 design. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Seal_of_Tennessee.svg",
+    "alt_text": "Emblem: Seal of Tennessee (State of Tennessee, 1802 design).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.15",
+    "title": "Chief Justice John Marshall (McCulloch v. Maryland)",
+    "type": "portrait",
+    "creator": "(artist unconfirmed)",
+    "year": "19th c.",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — portrait pre-1929 (Marshall d.1835)",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Chief_Justice_John_Marshall.jpg",
+    "download_url": "",
+    "citation": "(artist unconfirmed). \"Chief Justice John Marshall (McCulloch v. Maryland).\" 19th c.. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Chief_Justice_John_Marshall.jpg",
+    "alt_text": "Portrait: Chief Justice John Marshall (McCulloch v. Maryland) ((artist unconfirmed), 19th c.).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.35",
+    "title": "Inspectors examining eyes of immigrants, Ellis Island",
+    "type": "photo",
+    "creator": "LOC",
+    "year": "c.1913",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. photo pre-1929; LOC no known restrictions",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:U.S._inspectors_examining_eyes_of_immigrants,_Ellis_Island,_New_York_Harbor_LCCN97501532.jpg",
+    "download_url": "",
+    "citation": "LOC. \"Inspectors examining eyes of immigrants, Ellis Island.\" c.1913. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:U.S._inspectors_examining_eyes_of_immigrants,_Ellis_Island,_New_York_Harbor_LCCN97501532.jpg",
+    "alt_text": "Photo: Inspectors examining eyes of immigrants, Ellis Island (LOC, c.1913).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.16",
+    "title": "George Washington (Athenaeum Portrait)",
+    "type": "portrait",
+    "creator": "Gilbert Stuart",
+    "year": "1796",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — artist d.1828; painting 1796",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_-_George_Washington_(The_Athenaeum_Portrait)_-_Google_Art_Project.jpg",
+    "download_url": "",
+    "citation": "Gilbert Stuart. \"George Washington (Athenaeum Portrait).\" 1796. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_-_George_Washington_(The_Athenaeum_Portrait)_-_Google_Art_Project.jpg",
+    "alt_text": "Portrait: George Washington (Athenaeum Portrait) (Gilbert Stuart, 1796).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.17",
+    "title": "Seal of the U.S. Department of State (1900)",
+    "type": "emblem",
+    "creator": "U.S. Dept. of State",
+    "year": "1900",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. federal government work; pre-1929",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_State_(1900).png",
+    "download_url": "",
+    "citation": "U.S. Dept. of State. \"Seal of the U.S. Department of State (1900).\" 1900. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_State_(1900).png",
+    "alt_text": "Emblem: Seal of the U.S. Department of State (1900) (U.S. Dept. of State, 1900).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.18",
+    "title": "The Political Farce of 1876 (Hayes–Tilden)",
+    "type": "cartoon",
+    "creator": "(unattributed)",
+    "year": "1876",
+    "repository": "Library of Congress",
+    "rights": "Public domain — 1876 lithograph (pre-1929)",
+    "commercial_use_ok": true,
+    "catalog_url": "https://www.loc.gov/item/2006677483/",
+    "download_url": "",
+    "citation": "(unattributed). \"The Political Farce of 1876 (Hayes–Tilden).\" 1876. Library of Congress. https://www.loc.gov/item/2006677483/",
+    "alt_text": "Cartoon: The Political Farce of 1876 (Hayes–Tilden) ((unattributed), 1876).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.19",
+    "title": "Judiciary Act of 1789",
+    "type": "document",
+    "creator": "1st U.S. Congress",
+    "year": "1789",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. federal statute, 1789",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Judiciary_Act_of_1789.jpg",
+    "download_url": "",
+    "citation": "1st U.S. Congress. \"Judiciary Act of 1789.\" 1789. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Judiciary_Act_of_1789.jpg",
+    "alt_text": "Document: Judiciary Act of 1789 (1st U.S. Congress, 1789).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.20",
+    "title": "John Jay",
+    "type": "portrait",
+    "creator": "Gilbert Stuart",
+    "year": "1794",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — pre-1929; National Gallery of Art",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Gilbert_Stuart,_John_Jay,_1794,_NGA_75023.jpg",
+    "download_url": "",
+    "citation": "Gilbert Stuart. \"John Jay.\" 1794. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Gilbert_Stuart,_John_Jay,_1794,_NGA_75023.jpg",
+    "alt_text": "Portrait: John Jay (Gilbert Stuart, 1794).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.21",
+    "title": "Chief Justice John Marshall (judicial review / Marbury)",
+    "type": "portrait",
+    "creator": "(artist unconfirmed)",
+    "year": "19th c.",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — portrait pre-1929 (Marshall d.1835)",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Chief_Justice_John_Marshall.jpg",
+    "download_url": "",
+    "citation": "(artist unconfirmed). \"Chief Justice John Marshall (judicial review / Marbury).\" 19th c.. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Chief_Justice_John_Marshall.jpg",
+    "alt_text": "Portrait: Chief Justice John Marshall (judicial review / Marbury) ((artist unconfirmed), 19th c.).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.22",
+    "title": "U.S. Supreme Court Building",
+    "type": "photo",
+    "creator": "Ken Hammond (USDA)",
+    "year": "modern",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. federal (USDA) work",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Supreme_Court.jpg",
+    "download_url": "",
+    "citation": "Ken Hammond (USDA). \"U.S. Supreme Court Building.\" modern. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Supreme_Court.jpg",
+    "alt_text": "Photo: U.S. Supreme Court Building (Ken Hammond (USDA), modern).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.23",
+    "title": "Bill of Rights (First Amendment detail)",
+    "type": "document",
+    "creator": "1st U.S. Congress (NARA)",
+    "year": "1789",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. gov document; NARA scan",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Bill_of_Rights_Pg1of1_AC.jpg",
+    "download_url": "",
+    "citation": "1st U.S. Congress (NARA). \"Bill of Rights (First Amendment detail).\" 1789. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Bill_of_Rights_Pg1of1_AC.jpg",
+    "alt_text": "Document: Bill of Rights (First Amendment detail) (1st U.S. Congress (NARA), 1789).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.24",
+    "title": "Second Amendment (document detail)",
+    "type": "document",
+    "creator": "1st U.S. Congress (NARA)",
+    "year": "1789",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. gov document; NARA scan",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:SecondAmendentoftheUnitedStatesConstitution.jpg",
+    "download_url": "",
+    "citation": "1st U.S. Congress (NARA). \"Second Amendment (document detail).\" 1789. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:SecondAmendentoftheUnitedStatesConstitution.jpg",
+    "alt_text": "Document: Second Amendment (document detail) (1st U.S. Congress (NARA), 1789).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.25",
+    "title": "Clarence Gideon's handwritten cert. petition",
+    "type": "document",
+    "creator": "Clarence Earl Gideon (NARA RG 267)",
+    "year": "1962",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. federal court record (NARA)",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Gideon_petition_for_certiorari.jpg",
+    "download_url": "",
+    "citation": "Clarence Earl Gideon (NARA RG 267). \"Clarence Gideon's handwritten cert. petition.\" 1962. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Gideon_petition_for_certiorari.jpg",
+    "alt_text": "Document: Clarence Gideon's handwritten cert. petition (Clarence Earl Gideon (NARA RG 267), 1962).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.26",
+    "title": "14th Amendment (engrossed, page 1)",
+    "type": "document",
+    "creator": "39th U.S. Congress (NARA)",
+    "year": "1868",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. gov document; NARA scan",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:14th_Amendment_Pg1of2_AC.jpg",
+    "download_url": "",
+    "citation": "39th U.S. Congress (NARA). \"14th Amendment (engrossed, page 1).\" 1868. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:14th_Amendment_Pg1of2_AC.jpg",
+    "alt_text": "Document: 14th Amendment (engrossed, page 1) (39th U.S. Congress (NARA), 1868).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.27",
+    "title": "Japanese-American incarceration, Lodi CA (WRA)",
+    "type": "photo",
+    "creator": "Dorothea Lange (WRA)",
+    "year": "1942",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — U.S. federal (WRA) photograph",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Lodi,_California._A_family_of_Japanese_ancestry_lived_in_this_house_and_operated_the_surrounding_vi_._._._-_NARA_-_537623.jpg",
+    "download_url": "",
+    "citation": "Dorothea Lange (WRA). \"Japanese-American incarceration, Lodi CA (WRA).\" 1942. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Lodi,_California._A_family_of_Japanese_ancestry_lived_in_this_house_and_operated_the_surrounding_vi_._._._-_NARA_-_537623.jpg",
+    "alt_text": "Photo: Japanese-American incarceration, Lodi CA (WRA) (Dorothea Lange (WRA), 1942).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.28",
+    "title": "Tennessee State Capitol, Nashville",
+    "type": "photo",
+    "creator": "Carol M. Highsmith",
+    "year": "1980–2006",
+    "repository": "Library of Congress",
+    "rights": "Public domain — Highsmith Archive dedicated to public domain",
+    "commercial_use_ok": true,
+    "catalog_url": "https://www.loc.gov/item/2011630997/",
+    "download_url": "",
+    "citation": "Carol M. Highsmith. \"Tennessee State Capitol, Nashville.\" 1980–2006. Library of Congress. https://www.loc.gov/item/2011630997/",
+    "alt_text": "Photo: Tennessee State Capitol, Nashville (Carol M. Highsmith, 1980–2006).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.29",
+    "title": "Tennessee county map (Census cb 500k)",
+    "type": "map",
+    "creator": "U.S. Census Bureau (derivative)",
+    "year": "n/a",
+    "repository": "Wikimedia Commons",
+    "rights": "VERIFY — Census-derived (PD-USGov by origin); confirm file tag",
+    "commercial_use_ok": false,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Tennessee_county_map,_cb_500k.svg",
+    "download_url": "",
+    "citation": "U.S. Census Bureau (derivative). \"Tennessee county map (Census cb 500k).\" n/a. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Tennessee_county_map,_cb_500k.svg",
+    "alt_text": "Map: Tennessee county map (Census cb 500k) (U.S. Census Bureau (derivative), n/a).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  },
+  {
+    "standard": "GC.30",
+    "title": "Flag of Tennessee",
+    "type": "emblem",
+    "creator": "State of Tennessee",
+    "year": "1905 design",
+    "repository": "Wikimedia Commons",
+    "rights": "Public domain — search reported CC0; confirm on page",
+    "commercial_use_ok": true,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Tennessee.svg",
+    "download_url": "",
+    "citation": "State of Tennessee. \"Flag of Tennessee.\" 1905 design. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Flag_of_Tennessee.svg",
+    "alt_text": "Emblem: Flag of Tennessee (State of Tennessee, 1905 design).",
+    "verified": false,
+    "schedule_f": {
+      "table1_standard": true,
+      "table3_ssp": [
+        "SSP.01",
+        "SSP.02"
+      ]
+    },
+    "data_source": null,
+    "data_source_url": null
+  }
+]
