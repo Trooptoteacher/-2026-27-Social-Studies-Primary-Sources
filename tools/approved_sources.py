@@ -33,6 +33,11 @@ APPROVED = {
     "govinfo.gov": "U.S. Government Publishing Office",
     "supremecourt.gov": "Supreme Court of the United States",
     "uspto.gov": "U.S. Patent and Trademark Office",
+    # Video authorities (repository trust; per-item rights still enforced by Rule 2).
+    # C-SPAN House/Senate FLOOR proceedings are public domain; C-SPAN-produced
+    # programming is not — the rights field on each record must reflect that.
+    "c-span.org": "C-SPAN Video Library (House/Senate floor = public domain)",
+    "c-spanvideo.org": "C-SPAN Video Library",
     "davidrumsey.com": "David Rumsey Map Collection (CC BY)",
     "loc.gov/maps": "Library of Congress — Geography & Map Division",
     "patents.google.com": "Google Patents (hosts public-domain U.S. patents)",
