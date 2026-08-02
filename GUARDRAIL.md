@@ -32,6 +32,12 @@ Any chart or graph is a **derived primary resource** and is held to the same bar
 - The record must include `data_source` (the dataset), `data_source_url` (classified **approved** by Rule 1), the **year/series**, and a citation. The rendered chart must show the data source on-figure.
 - ❌ BLOCKER: a chart with no cited primary-source dataset, or a `data_source_url` that is blocked/unknown, or any value not traceable to the cited dataset.
 
+## Rule 7 — No hedged rights; guaranteed public domain only (no teacher copyright risk)
+A source is acceptable only when its public-domain basis is **guaranteed by category**, stated plainly with **no hedging language**:
+- **Published pre-1929** (public domain by U.S. copyright term), **U.S. government work**, official document/statute/treaty **text**, or explicit **CC0**.
+- ❌ **BLOCKER**: rights that hedge — "verify individual item", "confirm rights", "copyright status unclear", "may be under copyright", "varies by item". A recommendation the fetcher still has to gamble on is not acceptable.
+- **20th-century photographs, posters, films, artworks, and speeches** are assumed **in copyright** unless they are a U.S. government work or clearly pre-1929. When the only iconic source is a copyrighted modern work, **replace it** with a guaranteed-PD substitute (a government document, treaty, map, or data series) — there is plenty of safe content. Do **not** ship a questionable item for teachers to reproduce.
+
 ---
 
 ## Required record schema (per source)

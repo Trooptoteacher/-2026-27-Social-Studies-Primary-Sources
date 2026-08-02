@@ -83,10 +83,17 @@ def check(rec, i, known_codes, release):
         warns.append(f"'{repo or url}' is a PD host — prefer the original repository (Rule 1)")
 
     rights = str(g("rights", "Rights / License", "license")).lower()
+    HEDGE = ("verify individual", "verify the", "verify each", "verify item", "verify rights",
+             "confirm rights", "confirm the copyright", "confirm cc0", "confirm open",
+             "rights unclear", "copyright status unclear", "may be under copyright",
+             "possibly copyright", "if pd", "if public domain", "check copyright",
+             "check rights", "varies by item", "varies", "depends on")
     if not rights:
         blockers.append("no rights/license recorded (Rule 2)")
     elif not any(a in rights for a in APPROVED_LICENSES):
         blockers.append(f"rights '{rights}' not a cleared academic/commercial license (Rule 2)")
+    elif any(h in rights for h in HEDGE):
+        blockers.append(f"rights are HEDGED ('{rights[:60]}') — needs a guaranteed PD basis, no teacher copyright risk (Rule 7)")
     if not truthy(g("commercial_use_ok", "Commercial Use OK?")):
         (blockers if rights and not any(a in rights for a in APPROVED_LICENSES) else warns).append(
             "commercial_use_ok not affirmed (Rule 2)")
