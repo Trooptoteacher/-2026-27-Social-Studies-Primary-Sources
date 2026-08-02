@@ -1,0 +1,90 @@
+[
+ {
+  "standard": "7.45",
+  "title": "Passional Christi und Antichristi — Christ washing the disciples' feet contrasted with the Pope having his feet kissed",
+  "type": "cartoon",
+  "creator": "Lucas Cranach the Elder (workshop woodcuts); commentary by Philipp Melanchthon and Johann Schwertfeger; published in Wittenberg",
+  "year": "1521",
+  "repository": "The Metropolitan Museum of Art (Open Access, CC0)",
+  "rights": "CC0 / Public domain — pre-1929 print",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Passional%20Christi%20und%20Antichristi%20%E2%80%94%20Christ%20washing%20the%20disci&showOnly=openAccess",
+  "download_url": "",
+  "citation": "Lucas Cranach the Elder (workshop), Passional Christi und Antichristi, Wittenberg, 1521. British Museum; public domain.",
+  "alt_text": "Paired anti-papal woodcuts: on the left, a humble Christ kneels to wash a disciple's foot; on the right, the enthroned Pope in tiara extends his foot to be kissed by kneeling courtiers, mocking clerical worldliness.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.46",
+  "title": "Der Papstesel (The Pope-Ass of Rome), from 'Deutung der zwei greulichen Figuren'",
+  "type": "cartoon",
+  "creator": "Lucas Cranach the Elder (workshop woodcut); pamphlet text by Philipp Melanchthon and Martin Luther",
+  "year": "1523",
+  "repository": "The Metropolitan Museum of Art (Open Access, CC0)",
+  "rights": "CC0 / Public domain — pre-1929 print",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Der%20Papstesel%20%28The%20Pope-Ass%20of%20Rome%29%2C%20from%20%27Deutung%20der%20zwei&showOnly=openAccess",
+  "download_url": "",
+  "citation": "Lucas Cranach the Elder (workshop), Der Papstesel (Pope-Ass of Rome), in Deutung der zwei greulichen Figuren, Wittenberg, 1523. British Museum; public domain.",
+  "alt_text": "A grotesque satirical monster with a donkey's head, a woman's scaled body, one clawed hand and one hoofed foot, an ox-leg, and a dragon-headed tail, standing before the Tiber and Castel Sant'Angelo in Rome — Protestant propaganda depicting the papacy as an unnatural beast.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.47",
+  "title": "King Henry VIII Enthroned Treading upon Pope Clement VII",
+  "type": "cartoon",
+  "creator": "Woodcut from John Foxe, Acts and Monuments ('Book of Martyrs')",
+  "year": "1563 (first edition; woodcut reused in later 16th–17th-c. editions)",
+  "repository": "HathiTrust — digitized public-domain pre-1929 editions of Foxe's Acts and Monuments",
+  "rights": "Public domain — 1563 woodcut",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Foxe+Acts+and+Monuments&type=all",
+  "download_url": "",
+  "citation": "Woodcut, 'Henry VIII treading on Pope Clement VII,' in John Foxe, Acts and Monuments, London, 1563. Public domain; digitized editions at HathiTrust.",
+  "alt_text": "Protestant propaganda woodcut: King Henry VIII sits enthroned in majesty, sword and orb in hand, with his feet planted on the prostrate body of Pope Clement VII, while bishops look on — visualizing England's break from Rome and royal supremacy over the Church.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.48",
+  "title": "Sieben Köpffe Martini Luthers (The Seven-Headed Luther)",
+  "type": "cartoon",
+  "creator": "Hans Brosamer (woodcut) for the Catholic polemicist Johannes Cochlaeus",
+  "year": "1529",
+  "repository": "The Metropolitan Museum of Art (Open Access, CC0)",
+  "rights": "CC0 / Public domain — pre-1929 print",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Sieben%20K%C3%B6pffe%20Martini%20Luthers%20%28The%20Seven-Headed%20Luther%29&showOnly=openAccess",
+  "download_url": "",
+  "citation": "Hans Brosamer (for Johannes Cochlaeus), Sieben Köpffe Martini Luthers (Seven-Headed Luther), 1529. British Museum; public domain.",
+  "alt_text": "Catholic counter-satire: Martin Luther drawn with seven heads sprouting from a single monk's body — each labeled as a contradictory role (Doctor, Martin, Luther, Ecclesiast, Fanatic, Church Visitor, and Barabbas) — attacking Luther as self-contradictory and heretical.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ }
+]
