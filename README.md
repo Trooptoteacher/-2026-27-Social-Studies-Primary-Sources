@@ -20,3 +20,16 @@ Academically-accepted, TDOE Schedule F–compliant primary sources for the Histo
 | Grade 6 / 7 / 8, Tennessee, World, U.S. History | 350 | scaffolded — standards mapped, sources pending |
 
 The non-Government sets are pending because the archive hosts (LoC / NARA / Smithsonian) are firewalled from the current build environment; the crosswalk rows are ready to fill once those are reachable. The Government set is populated from real, verified records — note two open items the validator flags: GC.29 rights need final confirmation, and several images are Wikimedia PD scans that should be swapped to the original LoC/NARA copy (Rule 1 "prefer original").
+
+## Recommendation crosswalks (candidate sources for the download agent)
+Guardrail-screened primary-source recommendations — **2 per standard** — for Grades 6–8, World History, and Tennessee (US History is maintained separately; Government is already downloaded/embedded). Excel in `crosswalk/xlsx/`, CSV alongside, machine-readable in `manifests/`. Every row is `verified: false` and carries a **Guardrail Check** column; the download agent fetches canonical items, confirms per-item rights, and sets verified.
+
+| Course | Rows | Clean | Needs review (not commercial-safe) |
+|---|---|---|---|
+| Grade 6 | 124 | 124 | 0 |
+| Grade 7 | 130 | 130 | 0 |
+| Grade 8 | 150 | 150 | 0 |
+| HS World History | 186 | 172 | 14 |
+| Tennessee History | 128 | 107 | 21 |
+
+"Needs review" rows are honestly flagged copyrighted items (20th-c. press photos, trademarked brands) that must be swapped for a public-domain alternative before use. `link_type=search` means "find it at this repository"; `canonical` means a high-confidence direct URL.

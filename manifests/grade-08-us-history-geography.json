@@ -1,0 +1,3308 @@
+[
+ {
+  "standard": "8.01",
+  "title": "Map of Virginia (Ould Virginia)",
+  "type": "Map / engraving",
+  "creator": "Captain John Smith (engraved by William Hole)",
+  "year": "1612",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=John+Smith+map+Virginia+1612",
+  "download_url": "",
+  "citation": "John Smith, 'Virginia' (map), 1612. Library of Congress, Geography and Map Division.",
+  "alt_text": "Early 17th-century engraved map of the Virginia Chesapeake region showing rivers, Powhatan villages, and a large figure of a Powhatan leader.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.01",
+  "title": "Pocahontas (Matoaka) engraving",
+  "type": "Portrait engraving",
+  "creator": "Simon van de Passe",
+  "year": "1616",
+  "repository": "Smithsonian National Portrait Gallery",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Pocahontas+Simon+van+de+Passe+engraving",
+  "download_url": "",
+  "citation": "Simon van de Passe, engraved portrait of Pocahontas, 1616.",
+  "alt_text": "Engraved formal portrait of Pocahontas in English court dress with a lace ruff and tall hat.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.02",
+  "title": "Of Plymouth Plantation (Mayflower Compact text)",
+  "type": "Manuscript / printed book",
+  "creator": "William Bradford",
+  "year": "1620/1650s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Bradford+Of+Plymouth+Plantation+Mayflower+Compact",
+  "download_url": "",
+  "citation": "William Bradford, 'Of Plymouth Plantation,' containing the text of the Mayflower Compact, 1620.",
+  "alt_text": "Page of early manuscript/printed text recording the Pilgrims' 1620 governing agreement.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.02",
+  "title": "The Landing of the Pilgrims",
+  "type": "Print / lithograph",
+  "creator": "Currier & Ives (after Sartain)",
+  "year": "1846",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=landing+of+the+pilgrims+Plymouth+print",
+  "download_url": "",
+  "citation": "'The Landing of the Pilgrims at Plymouth, 11th Dec. 1620,' 19th-century print, Library of Congress.",
+  "alt_text": "Illustration of Pilgrims stepping ashore from small boats onto a rocky coast in winter.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.03",
+  "title": "Charter of the Massachusetts Bay Colony",
+  "type": "Charter document",
+  "creator": "King Charles I / Crown",
+  "year": "1629",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Massachusetts+Bay+Colony+charter+1629",
+  "download_url": "",
+  "citation": "The Charter of the Massachusetts Bay Colony, 1629.",
+  "alt_text": "Old handwritten/printed royal charter granting governance of the Massachusetts Bay Colony.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.03",
+  "title": "Examination of a Witch (Salem)",
+  "type": "Court records / print",
+  "creator": "Salem court / T.H. Matteson (later depiction)",
+  "year": "1692",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Salem+witch+trials+examination+1692",
+  "download_url": "",
+  "citation": "Salem witchcraft trial examination records, 1692, Library of Congress.",
+  "alt_text": "Scene of a woman being examined before Puritan magistrates during the Salem witch trials.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.04",
+  "title": "Fundamental Orders of Connecticut",
+  "type": "Founding document",
+  "creator": "Connecticut colonists (Thomas Hooker's influence)",
+  "year": "1639",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Fundamental+Orders+of+Connecticut+1639",
+  "download_url": "",
+  "citation": "The Fundamental Orders of Connecticut, 1639.",
+  "alt_text": "Printed text of the 1639 Connecticut frame of government, an early written constitution.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.04",
+  "title": "A Key into the Language of America",
+  "type": "Book (title page)",
+  "creator": "Roger Williams",
+  "year": "1643",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Roger+Williams+Key+into+the+Language+of+America+1643",
+  "download_url": "",
+  "citation": "Roger Williams, 'A Key into the Language of America,' 1643.",
+  "alt_text": "Title page of Roger Williams's 1643 book on the language of New England's Native peoples.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.05",
+  "title": "Novi Belgii (New Netherland) Map",
+  "type": "Map / engraving",
+  "creator": "Nicolaes Visscher",
+  "year": "1655",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Novi+Belgii+New+Netherland+Visscher+map",
+  "download_url": "",
+  "citation": "Nicolaes Visscher, 'Novi Belgii' map of New Netherland, c. 1655, Library of Congress.",
+  "alt_text": "Decorative 17th-century Dutch map of New Netherland with an inset view of New Amsterdam.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.05",
+  "title": "View of New Amsterdam",
+  "type": "Print / view",
+  "creator": "Dutch engraver",
+  "year": "1650s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=New+Amsterdam+view+1650+New+Netherland",
+  "download_url": "",
+  "citation": "View of New Amsterdam, mid-17th century, Library of Congress.",
+  "alt_text": "Waterfront view of the Dutch settlement of New Amsterdam with ships and windmills.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.06",
+  "title": "Charter of Privileges of Pennsylvania",
+  "type": "Founding document",
+  "creator": "William Penn",
+  "year": "1701",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=William+Penn+Charter+of+Privileges+Pennsylvania+1701",
+  "download_url": "",
+  "citation": "William Penn, Charter of Privileges for Pennsylvania, 1701.",
+  "alt_text": "Printed text of William Penn's 1701 charter guaranteeing religious liberty in Pennsylvania.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.06",
+  "title": "Penn's Treaty with the Indians",
+  "type": "Painting / engraving",
+  "creator": "after Benjamin West",
+  "year": "1771 (engravings later)",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Penn%27s+treaty+with+the+Indians+Benjamin+West",
+  "download_url": "",
+  "citation": "'Penn's Treaty with the Indians,' engraving after Benjamin West, Library of Congress.",
+  "alt_text": "William Penn in Quaker dress meeting Lenape leaders beneath a large elm to exchange goods.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.07",
+  "title": "A View of Savannah as it stood the 29th of March 1734",
+  "type": "Print / engraving",
+  "creator": "Peter Gordon (engraved by P. Fourdrinier)",
+  "year": "1734",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=View+of+Savannah+1734+Peter+Gordon+Georgia",
+  "download_url": "",
+  "citation": "Peter Gordon, 'A View of Savannah as it stood the 29th of March 1734,' Library of Congress.",
+  "alt_text": "Bird's-eye view of the newly laid-out town of Savannah with its grid of streets and squares.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.07",
+  "title": "Charter of the Colony of Georgia",
+  "type": "Charter document",
+  "creator": "King George II / Crown",
+  "year": "1732",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Charter+of+Georgia+1732+Oglethorpe",
+  "download_url": "",
+  "citation": "The Charter of the Colony of Georgia, 1732.",
+  "alt_text": "Printed royal charter of 1732 establishing the trustee colony of Georgia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.08",
+  "title": "Mitchell Map: British and French Dominions in North America",
+  "type": "Map",
+  "creator": "John Mitchell",
+  "year": "1755",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Mitchell+map+British+and+French+dominions+North+America+1755",
+  "download_url": "",
+  "citation": "John Mitchell, 'A Map of the British and French Dominions in North America,' 1755, Library of Congress.",
+  "alt_text": "Large detailed colonial-era map of eastern North America showing the thirteen colonies and rival claims.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.08",
+  "title": "A Map of the Most Inhabited Part of Virginia (Fry-Jefferson)",
+  "type": "Map",
+  "creator": "Joshua Fry and Peter Jefferson",
+  "year": "1755",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Fry+Jefferson+map+Virginia+Maryland+1755",
+  "download_url": "",
+  "citation": "Fry-Jefferson Map of the most inhabited part of Virginia, 1755, Library of Congress.",
+  "alt_text": "Detailed 18th-century map of Virginia showing rivers, counties, and coastal geography.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.09",
+  "title": "A New Map of North America (colonial claims)",
+  "type": "Map",
+  "creator": "18th-century cartographer",
+  "year": "c. 1750-1763",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+North+America+British+French+Spanish+claims+1750",
+  "download_url": "",
+  "citation": "Map of North America showing British, French, and Spanish claims, mid-18th century, Library of Congress.",
+  "alt_text": "Colonial map of North America with color-coded British, French, and Spanish territorial claims.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.09",
+  "title": "Map of Louisiana and the Course of the Mississippi",
+  "type": "Map",
+  "creator": "Guillaume Delisle",
+  "year": "1718",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Delisle+Carte+de+la+Louisiane+Mississippi+1718",
+  "download_url": "",
+  "citation": "Guillaume Delisle, 'Carte de la Louisiane,' 1718, Library of Congress.",
+  "alt_text": "Early French map of the Mississippi valley and Gulf coast French colonial claims.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.10",
+  "title": "Stowage of the British Slave Ship Brookes",
+  "type": "Diagram / broadside",
+  "creator": "British abolitionists (Plymouth Committee)",
+  "year": "1788",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=slave+ship+Brookes+stowage+diagram+1788",
+  "download_url": "",
+  "citation": "'Stowage of the British Slave Ship Brookes under the Regulated Slave Trade Act of 1788,' Library of Congress.",
+  "alt_text": "Overhead diagram of a slave ship packed with rows of enslaved African captives lying side by side.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.10",
+  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
+  "type": "Book / frontispiece",
+  "creator": "Olaudah Equiano",
+  "year": "1789",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Olaudah+Equiano+Interesting+Narrative+1789",
+  "download_url": "",
+  "citation": "Olaudah Equiano, 'The Interesting Narrative of the Life of Olaudah Equiano,' 1789.",
+  "alt_text": "Frontispiece portrait and title page of Equiano's autobiography describing enslavement and the Middle Passage.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.11",
+  "title": "George Whitefield preaching",
+  "type": "Portrait / mezzotint",
+  "creator": "John Wollaston / engravers",
+  "year": "c. 1742",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=George+Whitefield+preaching+mezzotint+Great+Awakening",
+  "download_url": "",
+  "citation": "Portrait of the Rev. George Whitefield, itinerant preacher of the Great Awakening, Library of Congress.",
+  "alt_text": "Engraved portrait of the cross-eyed evangelist George Whitefield preaching with an outstretched hand.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.11",
+  "title": "Sinners in the Hands of an Angry God",
+  "type": "Printed sermon",
+  "creator": "Jonathan Edwards",
+  "year": "1741",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Jonathan+Edwards+Sinners+in+the+Hands+of+an+Angry+God+1741",
+  "download_url": "",
+  "citation": "Jonathan Edwards, 'Sinners in the Hands of an Angry God,' 1741.",
+  "alt_text": "Title page of Jonathan Edwards's famous 1741 revival sermon.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.12",
+  "title": "The Navigation Acts / colonial trade regulation",
+  "type": "Document",
+  "creator": "British Parliament",
+  "year": "1651-1673",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Navigation+Acts+colonial+trade+mercantilism",
+  "download_url": "",
+  "citation": "The Navigation Acts and colonial trade regulations, Library of Congress.",
+  "alt_text": "Printed text of British Navigation Acts regulating colonial shipping and trade.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.12",
+  "title": "Chart of the Atlantic trade routes",
+  "type": "Map / chart",
+  "creator": "18th-century cartographer",
+  "year": "18th century",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Atlantic+trade+routes+triangular+trade+map",
+  "download_url": "",
+  "citation": "Map of Atlantic Ocean trade routes, 18th century, Library of Congress.",
+  "alt_text": "Map of the Atlantic showing shipping routes among Europe, Africa, and the American colonies.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.13",
+  "title": "Royal Proclamation of 1763",
+  "type": "Proclamation document",
+  "creator": "King George III",
+  "year": "1763",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Royal+Proclamation+of+1763+Proclamation+Line",
+  "download_url": "",
+  "citation": "The Royal Proclamation of 1763.",
+  "alt_text": "Printed royal proclamation establishing the 1763 boundary line limiting colonial settlement.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.13",
+  "title": "A Map of the British and French Settlements in North America (Ohio Valley)",
+  "type": "Map",
+  "creator": "18th-century cartographer",
+  "year": "c. 1755",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Ohio+River+Valley+French+and+Indian+War+map+1755",
+  "download_url": "",
+  "citation": "Map of the contested Ohio River Valley during the French and Indian War, Library of Congress.",
+  "alt_text": "Colonial map highlighting the Ohio River Valley disputed by Britain and France.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.14",
+  "title": "Join, or Die",
+  "type": "Political cartoon",
+  "creator": "Benjamin Franklin",
+  "year": "1754",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Join+or+Die+Benjamin+Franklin+1754+snake+cartoon",
+  "download_url": "",
+  "citation": "Benjamin Franklin, 'Join, or Die,' 1754, Library of Congress.",
+  "alt_text": "Woodcut of a snake cut into segments labeled with colonial initials, urging colonial unity.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.14",
+  "title": "Portrait of Benjamin Franklin",
+  "type": "Portrait",
+  "creator": "Joseph Siffred Duplessis",
+  "year": "1785",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Benjamin+Franklin+Duplessis+portrait",
+  "download_url": "",
+  "citation": "Joseph Siffred Duplessis, portrait of Benjamin Franklin, The Metropolitan Museum of Art.",
+  "alt_text": "Formal painted portrait of an aging Benjamin Franklin in a plain brown coat.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.15",
+  "title": "The Bloody Massacre in King-Street (Boston Massacre)",
+  "type": "Engraving",
+  "creator": "Paul Revere",
+  "year": "1770",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Paul+Revere+Bloody+Massacre+Boston+1770+engraving",
+  "download_url": "",
+  "citation": "Paul Revere, 'The Bloody Massacre perpetrated in King-Street, Boston,' 1770, Library of Congress.",
+  "alt_text": "Colored engraving of British soldiers firing in a line into a crowd of Boston colonists.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.15",
+  "title": "The Repeal, or the Funeral of Miss Ame-Stamp",
+  "type": "Political cartoon",
+  "creator": "Benjamin Wilson",
+  "year": "1766",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=The+Repeal+Funeral+of+Miss+Ame-Stamp+Stamp+Act+cartoon+1766",
+  "download_url": "",
+  "citation": "'The Repeal, or the Funeral of Miss Ame-Stamp,' 1766, Library of Congress.",
+  "alt_text": "Satirical cartoon of a mock funeral procession carrying a small coffin for the repealed Stamp Act.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.16",
+  "title": "Common Sense",
+  "type": "Pamphlet (title page)",
+  "creator": "Thomas Paine",
+  "year": "1776",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Thomas+Paine+Common+Sense+1776+pamphlet",
+  "download_url": "",
+  "citation": "Thomas Paine, 'Common Sense,' 1776.",
+  "alt_text": "Title page of the 1776 pamphlet 'Common Sense; Addressed to the Inhabitants of America.'",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.16",
+  "title": "Portrait of Thomas Paine",
+  "type": "Portrait engraving",
+  "creator": "after George Romney",
+  "year": "late 18th c.",
+  "repository": "Smithsonian National Portrait Gallery",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Thomas+Paine+portrait+engraving",
+  "download_url": "",
+  "citation": "Portrait of Thomas Paine, Smithsonian National Portrait Gallery.",
+  "alt_text": "Engraved portrait of Thomas Paine seated at a writing desk.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.17",
+  "title": "The Battle of Lexington (Doolittle engraving)",
+  "type": "Engraving",
+  "creator": "Amos Doolittle",
+  "year": "1775",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Amos+Doolittle+Battle+of+Lexington+1775+engraving",
+  "download_url": "",
+  "citation": "Amos Doolittle, 'The Battle of Lexington,' 1775, Library of Congress.",
+  "alt_text": "Engraving of British troops firing on colonial militia on Lexington Green in April 1775.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.17",
+  "title": "The Death of General Warren at the Battle of Bunker's Hill",
+  "type": "Painting / engraving",
+  "creator": "John Trumbull",
+  "year": "1786 (later engravings)",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Death+of+General+Warren+Bunker+Hill+Trumbull",
+  "download_url": "",
+  "citation": "John Trumbull, 'The Death of General Warren at the Battle of Bunker's Hill,' engraving, Library of Congress.",
+  "alt_text": "Dramatic battle scene of the dying General Warren amid soldiers on Bunker (Breed's) Hill.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.18",
+  "title": "Declaration of Independence",
+  "type": "Founding document",
+  "creator": "Continental Congress (Thomas Jefferson, drafter)",
+  "year": "1776",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.archives.gov/founding-docs/declaration-transcript",
+  "download_url": "",
+  "citation": "Declaration of Independence, 1776. National Archives, founding documents.",
+  "alt_text": "Engrossed parchment of the 1776 Declaration of Independence with signatures.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.18",
+  "title": "Declaration of Independence (Trumbull painting)",
+  "type": "History painting",
+  "creator": "John Trumbull",
+  "year": "1818",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Trumbull+Declaration+of+Independence+painting+engraving",
+  "download_url": "",
+  "citation": "John Trumbull, 'Declaration of Independence,' engraving after the painting, Library of Congress.",
+  "alt_text": "Painting of the drafting committee presenting the Declaration to the Continental Congress.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.19",
+  "title": "A Society of Patriotic Ladies at Edenton",
+  "type": "Political cartoon",
+  "creator": "Philip Dawe",
+  "year": "1775",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Society+of+Patriotic+Ladies+Edenton+cartoon+1775",
+  "download_url": "",
+  "citation": "'A Society of Patriotic Ladies, at Edenton in North Carolina,' 1775, Library of Congress.",
+  "alt_text": "British satirical cartoon mocking American women signing a boycott agreement.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "8.19",
+  "title": "The Alternative of Williams-Burg",
+  "type": "Political cartoon",
+  "creator": "Philip Dawe",
+  "year": "1775",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=The+Alternative+of+Williams-Burg+cartoon+1775",
+  "download_url": "",
+  "citation": "'The Alternative of Williams-Burg,' 1775, Library of Congress.",
+  "alt_text": "Cartoon of colonists being pressured to sign a boycott association under threat of tar and feathers.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "8.20",
+  "title": "Washington Crossing the Delaware",
+  "type": "History painting",
+  "creator": "Emanuel Leutze",
+  "year": "1851",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/art/collection/search/11417",
+  "download_url": "",
+  "citation": "Emanuel Leutze, 'Washington Crossing the Delaware,' 1851, The Metropolitan Museum of Art (public domain, CC0).",
+  "alt_text": "Washington standing in a boat crossing the ice-filled Delaware River with soldiers rowing.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.20",
+  "title": "Surrender of Lord Cornwallis at Yorktown",
+  "type": "Painting / engraving",
+  "creator": "John Trumbull",
+  "year": "1820 (later engravings)",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Surrender+of+Cornwallis+Yorktown+Trumbull",
+  "download_url": "",
+  "citation": "John Trumbull, 'Surrender of Lord Cornwallis at Yorktown,' engraving, Library of Congress.",
+  "alt_text": "Rows of American and French troops receiving the British surrender at Yorktown.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.21",
+  "title": "Northwest Ordinance of 1787",
+  "type": "Founding document",
+  "creator": "Confederation Congress",
+  "year": "1787",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Northwest+Ordinance+1787",
+  "download_url": "",
+  "citation": "Northwest Ordinance, 1787. National Archives.",
+  "alt_text": "Printed text of the 1787 Northwest Ordinance organizing territory north of the Ohio River.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.21",
+  "title": "Articles of Confederation",
+  "type": "Founding document",
+  "creator": "Continental Congress",
+  "year": "1777/1781",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Articles+of+Confederation",
+  "download_url": "",
+  "citation": "Articles of Confederation, ratified 1781. National Archives.",
+  "alt_text": "Handwritten parchment of the Articles of Confederation, the first U.S. governing document.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.22",
+  "title": "Portrait of James Madison",
+  "type": "Portrait",
+  "creator": "Gilbert Stuart",
+  "year": "c. 1821",
+  "repository": "National Gallery of Art",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=James+Madison+Gilbert+Stuart+portrait",
+  "download_url": "",
+  "citation": "Gilbert Stuart, portrait of James Madison, National Gallery of Art.",
+  "alt_text": "Painted head-and-shoulders portrait of James Madison in a dark coat with white hair.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.22",
+  "title": "Portrait of George Washington (Athenaeum)",
+  "type": "Portrait",
+  "creator": "Gilbert Stuart",
+  "year": "1796",
+  "repository": "National Gallery of Art",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=George+Washington+Gilbert+Stuart+Athenaeum+portrait",
+  "download_url": "",
+  "citation": "Gilbert Stuart, 'George Washington' (Athenaeum portrait), 1796.",
+  "alt_text": "Unfinished bust portrait of George Washington against a plain background.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.23",
+  "title": "Constitution of the United States",
+  "type": "Founding document",
+  "creator": "Constitutional Convention",
+  "year": "1787",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.archives.gov/founding-docs/constitution-transcript",
+  "download_url": "",
+  "citation": "Constitution of the United States, 1787. National Archives, founding documents.",
+  "alt_text": "Engrossed parchment of the U.S. Constitution beginning 'We the People.'",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.23",
+  "title": "The Federalist No. 51",
+  "type": "Essay",
+  "creator": "James Madison",
+  "year": "1788",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Federalist+Papers+No+51+separation+of+powers+Madison",
+  "download_url": "",
+  "citation": "James Madison, The Federalist No. 51, 1788, Library of Congress.",
+  "alt_text": "Printed page of Federalist No. 51 discussing separation of powers and checks and balances.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.24",
+  "title": "Bill of Rights",
+  "type": "Founding document",
+  "creator": "First Federal Congress",
+  "year": "1789/1791",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+  "download_url": "",
+  "citation": "The Bill of Rights, 1791. National Archives, founding documents.",
+  "alt_text": "Engrossed parchment listing the first ten amendments to the U.S. Constitution.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.24",
+  "title": "The Federalist (1788 title page)",
+  "type": "Book",
+  "creator": "Alexander Hamilton, James Madison, John Jay",
+  "year": "1788",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=The+Federalist+1788+Hamilton+Madison+Jay+title+page",
+  "download_url": "",
+  "citation": "'The Federalist,' 1788, Library of Congress.",
+  "alt_text": "Title page of the 1788 collected edition of the Federalist essays.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.25",
+  "title": "Washington's Farewell Address",
+  "type": "Printed address",
+  "creator": "George Washington",
+  "year": "1796",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Washington+Farewell+Address+1796",
+  "download_url": "",
+  "citation": "George Washington, Farewell Address, 1796, Library of Congress.",
+  "alt_text": "Newspaper printing of Washington's 1796 Farewell Address to the nation.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.25",
+  "title": "Washington Reviewing the Western Army at Fort Cumberland",
+  "type": "Painting / print",
+  "creator": "attributed to Frederick Kemmelmeyer",
+  "year": "c. 1795",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Washington+reviewing+western+army+Whiskey+Rebellion",
+  "download_url": "",
+  "citation": "'Washington Reviewing the Western Army at Fort Cumberland,' c. 1795, The Metropolitan Museum of Art.",
+  "alt_text": "Washington on horseback reviewing rows of militia mobilized against the Whiskey Rebellion.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.26",
+  "title": "Portrait of Alexander Hamilton",
+  "type": "Portrait",
+  "creator": "John Trumbull",
+  "year": "1806",
+  "repository": "National Gallery of Art",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Alexander+Hamilton+John+Trumbull+portrait",
+  "download_url": "",
+  "citation": "John Trumbull, portrait of Alexander Hamilton, National Gallery of Art.",
+  "alt_text": "Standing portrait of Alexander Hamilton in a black coat beside a table.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.26",
+  "title": "Portrait of Thomas Jefferson",
+  "type": "Portrait",
+  "creator": "Rembrandt Peale",
+  "year": "1805",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Thomas+Jefferson+Rembrandt+Peale+portrait",
+  "download_url": "",
+  "citation": "Rembrandt Peale, portrait of Thomas Jefferson, The Metropolitan Museum of Art.",
+  "alt_text": "Painted portrait of Thomas Jefferson in a fur-collared coat.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.27",
+  "title": "Congressional Pugilists",
+  "type": "Political cartoon",
+  "creator": "Anonymous",
+  "year": "1798",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Congressional+Pugilists+1798+Griswold+Lyon+cartoon",
+  "download_url": "",
+  "citation": "'Congressional Pugilists,' 1798, Library of Congress.",
+  "alt_text": "Cartoon of congressmen brawling on the House floor with cane and fire tongs.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.27",
+  "title": "The Alien and Sedition Acts",
+  "type": "Statute / document",
+  "creator": "U.S. Congress",
+  "year": "1798",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Alien+and+Sedition+Acts+1798+text",
+  "download_url": "",
+  "citation": "The Alien and Sedition Acts, 1798, Library of Congress.",
+  "alt_text": "Printed text of the 1798 Alien and Sedition Acts.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.28",
+  "title": "Constitution of the State of Tennessee (1796)",
+  "type": "Founding document",
+  "creator": "Tennessee constitutional convention",
+  "year": "1796",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Tennessee+Constitution+1796",
+  "download_url": "",
+  "citation": "Constitution of the State of Tennessee, 1796.",
+  "alt_text": "Printed text of Tennessee's first state constitution of 1796.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.28",
+  "title": "Map of the State of Tennessee",
+  "type": "Map",
+  "creator": "early 19th-century cartographer",
+  "year": "c. 1796-1810",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=early+map+of+Tennessee+state+1796",
+  "download_url": "",
+  "citation": "Early map of the State of Tennessee, Library of Congress.",
+  "alt_text": "Early map of Tennessee showing counties, rivers, and the Appalachian frontier.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.29",
+  "title": "Marbury v. Madison",
+  "type": "Supreme Court opinion",
+  "creator": "Chief Justice John Marshall",
+  "year": "1803",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Marbury+v+Madison+1803+opinion+judicial+review",
+  "download_url": "",
+  "citation": "Marbury v. Madison, 5 U.S. 137 (1803), Library of Congress.",
+  "alt_text": "Printed page of the 1803 Supreme Court opinion establishing judicial review.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.29",
+  "title": "Portrait of John Marshall",
+  "type": "Portrait",
+  "creator": "Henry Inman / engravers",
+  "year": "1830s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=John+Marshall+Chief+Justice+portrait",
+  "download_url": "",
+  "citation": "Portrait of Chief Justice John Marshall, Library of Congress.",
+  "alt_text": "Formal portrait of Chief Justice John Marshall in judicial robes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.30",
+  "title": "Louisiana Purchase Treaty",
+  "type": "Treaty document",
+  "creator": "United States and France",
+  "year": "1803",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Louisiana+Purchase+Treaty+1803",
+  "download_url": "",
+  "citation": "Treaty for the Cession of Louisiana (Louisiana Purchase), 1803. National Archives.",
+  "alt_text": "Handwritten 1803 treaty transferring the Louisiana Territory to the United States.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.30",
+  "title": "Map from the Lewis and Clark Expedition",
+  "type": "Manuscript map",
+  "creator": "William Clark",
+  "year": "1814",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Lewis+and+Clark+expedition+Clark+map+1814",
+  "download_url": "",
+  "citation": "William Clark, map of the Lewis and Clark Expedition, Library of Congress.",
+  "alt_text": "Hand-drawn map tracing the Lewis and Clark route across the western rivers and mountains.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.31",
+  "title": "The Star-Spangled Banner (manuscript)",
+  "type": "Manuscript / song",
+  "creator": "Francis Scott Key",
+  "year": "1814",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Star-Spangled+Banner+Francis+Scott+Key+1814+manuscript",
+  "download_url": "",
+  "citation": "Francis Scott Key, 'The Star-Spangled Banner,' 1814, Library of Congress.",
+  "alt_text": "Early printed broadside of the poem written during the British bombardment of Fort McHenry.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.31",
+  "title": "The Taking of the City of Washington in America",
+  "type": "Print / engraving",
+  "creator": "G. Thompson (British publisher)",
+  "year": "1814",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=taking+of+the+city+of+Washington+burning+1814+War+of+1812",
+  "download_url": "",
+  "citation": "'The Taking of the City of Washington in America,' 1814, Library of Congress.",
+  "alt_text": "Print of the British burning of Washington, D.C., with flames rising from public buildings.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.32",
+  "title": "Map of the United States boundary (Adams-Onis Treaty)",
+  "type": "Map",
+  "creator": "19th-century cartographer",
+  "year": "c. 1819",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Adams-Onis+Treaty+1819+boundary+Florida+map",
+  "download_url": "",
+  "citation": "Map showing the U.S.-Spanish boundary under the Adams-Onis Treaty of 1819, Library of Congress.",
+  "alt_text": "Map of the southern and western U.S. boundary line set by the 1819 Adams-Onis Treaty.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.32",
+  "title": "Adams-Onis (Transcontinental) Treaty",
+  "type": "Treaty document",
+  "creator": "United States and Spain",
+  "year": "1819",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Adams-Onis+Treaty+1819+Spain+Florida",
+  "download_url": "",
+  "citation": "Adams-Onis Treaty (Transcontinental Treaty), 1819. National Archives.",
+  "alt_text": "Handwritten 1819 treaty ceding Florida and defining the western boundary.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.33",
+  "title": "Monroe Doctrine (Seventh Annual Message)",
+  "type": "Presidential message",
+  "creator": "President James Monroe",
+  "year": "1823",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Monroe+Doctrine+1823+message+to+Congress",
+  "download_url": "",
+  "citation": "President James Monroe, message to Congress articulating the Monroe Doctrine, 1823, Library of Congress.",
+  "alt_text": "Printed page of Monroe's 1823 message warning European powers against New World colonization.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.33",
+  "title": "Portrait of James Monroe",
+  "type": "Portrait",
+  "creator": "Samuel Morse / engravers",
+  "year": "c. 1819",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=James+Monroe+portrait+president",
+  "download_url": "",
+  "citation": "Portrait of President James Monroe, Library of Congress.",
+  "alt_text": "Formal portrait of James Monroe in a dark coat.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.34",
+  "title": "Eli Whitney Cotton Gin Patent",
+  "type": "Patent document / drawing",
+  "creator": "Eli Whitney",
+  "year": "1794",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Eli+Whitney+cotton+gin+patent+1794",
+  "download_url": "",
+  "citation": "Eli Whitney, patent for the cotton gin, 1794. National Archives.",
+  "alt_text": "Patent drawing and description of Whitney's cotton gin machine.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.34",
+  "title": "Map of the cotton-growing region of the South",
+  "type": "Map",
+  "creator": "19th-century cartographer",
+  "year": "mid-19th century",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=cotton+production+Southern+states+map+slavery+Memphis",
+  "download_url": "",
+  "citation": "Map of cotton production in the Southern United States, Library of Congress.",
+  "alt_text": "Map shading the cotton-belt states of the antebellum South.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.35",
+  "title": "A Cotton Plantation on the Mississippi",
+  "type": "Print / lithograph",
+  "creator": "Currier & Ives",
+  "year": "1884",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=cotton+plantation+Mississippi+Currier+Ives+print",
+  "download_url": "",
+  "citation": "Currier & Ives, 'A Cotton Plantation on the Mississippi,' Library of Congress.",
+  "alt_text": "Print of a Southern plantation with enslaved laborers picking cotton and loading a steamboat.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.35",
+  "title": "Slave auction / sale broadside",
+  "type": "Broadside",
+  "creator": "Southern slave dealer",
+  "year": "antebellum",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=slave+sale+auction+broadside+antebellum+South",
+  "download_url": "",
+  "citation": "Broadside advertising a sale of enslaved people, antebellum South, Library of Congress.",
+  "alt_text": "Printed broadside advertising an auction of enslaved men, women, and children.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.36",
+  "title": "Horrid Massacre in Virginia (Nat Turner's revolt)",
+  "type": "Woodcut / print",
+  "creator": "Anonymous",
+  "year": "1831",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Nat+Turner+revolt+Horrid+Massacre+Virginia+1831+woodcut",
+  "download_url": "",
+  "citation": "'Horrid Massacre in Virginia,' 1831, Library of Congress.",
+  "alt_text": "Woodcut depicting scenes of Nat Turner's 1831 slave rebellion in Southampton County.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.36",
+  "title": "The Confessions of Nat Turner",
+  "type": "Pamphlet",
+  "creator": "Thomas R. Gray (recording Nat Turner)",
+  "year": "1831",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Confessions+of+Nat+Turner+1831+pamphlet",
+  "download_url": "",
+  "citation": "'The Confessions of Nat Turner,' 1831, Library of Congress.",
+  "alt_text": "Title page of the 1831 pamphlet recording Nat Turner's statement after the revolt.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.37",
+  "title": "Lowell textile mills, Massachusetts",
+  "type": "Print / view",
+  "creator": "19th-century engraver",
+  "year": "c. 1834-1850",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Lowell+Massachusetts+textile+mills+view+19th+century",
+  "download_url": "",
+  "citation": "View of the textile mills at Lowell, Massachusetts, Library of Congress.",
+  "alt_text": "Panorama of multistory brick textile factories lining a river at Lowell, Massachusetts.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.37",
+  "title": "The Lowell Offering",
+  "type": "Periodical",
+  "creator": "Lowell mill workers ('mill girls')",
+  "year": "1840s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Lowell+Offering+mill+girls+magazine+1840s",
+  "download_url": "",
+  "citation": "'The Lowell Offering,' magazine written by Lowell mill workers, 1840s, Library of Congress.",
+  "alt_text": "Cover of a magazine written by the young women workers of the Lowell mills.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.38",
+  "title": "View of an American industrial city",
+  "type": "Print / lithograph",
+  "creator": "19th-century lithographer",
+  "year": "mid-19th century",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Northern+industrial+city+view+factories+19th+century+lithograph",
+  "download_url": "",
+  "citation": "Lithographic view of a Northern industrial city, mid-19th century, Library of Congress.",
+  "alt_text": "Bird's-eye lithograph of a growing Northern city crowded with factories and smokestacks.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.38",
+  "title": "Telegraph / early industrial technology illustration",
+  "type": "Print / illustration",
+  "creator": "19th-century engraver",
+  "year": "mid-19th century",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=telegraph+Morse+invention+illustration+19th+century+industry",
+  "download_url": "",
+  "citation": "Illustration of early telegraph technology, Library of Congress.",
+  "alt_text": "Engraving of a 19th-century telegraph apparatus and operators.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.39",
+  "title": "Emigrant ship / immigrants landing at Castle Garden",
+  "type": "Print",
+  "creator": "19th-century engraver",
+  "year": "c. 1850s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=immigrants+landing+Castle+Garden+Irish+German+1850s",
+  "download_url": "",
+  "citation": "Immigrants landing at Castle Garden, New York, mid-19th century, Library of Congress.",
+  "alt_text": "Crowd of newly arrived immigrants with baggage entering the Castle Garden depot in New York.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.39",
+  "title": "Know-Nothing / anti-immigrant cartoon",
+  "type": "Political cartoon",
+  "creator": "19th-century artist",
+  "year": "1850s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Know+Nothing+nativist+anti-immigrant+cartoon+1850s+Irish+German",
+  "download_url": "",
+  "citation": "Nativist ('Know-Nothing') cartoon on Irish and German immigration, 1850s, Library of Congress.",
+  "alt_text": "Cartoon caricaturing Irish and German immigrants amid nativist political fears.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "8.40",
+  "title": "View of the Erie Canal",
+  "type": "Print / aquatint",
+  "creator": "19th-century artist",
+  "year": "c. 1825-1832",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Erie+Canal+view+Lockport+aquatint+1825",
+  "download_url": "",
+  "citation": "View of the Erie Canal, Library of Congress.",
+  "alt_text": "Print of boats moving through locks on the Erie Canal with crowds celebrating.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.40",
+  "title": "Baltimore & Ohio Railroad / early railroad print",
+  "type": "Print / lithograph",
+  "creator": "19th-century lithographer",
+  "year": "c. 1830s-1850s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=early+railroad+Baltimore+Ohio+locomotive+print+1830s",
+  "download_url": "",
+  "citation": "Print of an early American railroad, Library of Congress.",
+  "alt_text": "Lithograph of an early steam locomotive pulling cars along a rail line.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.41",
+  "title": "Camp Meeting / Second Great Awakening revival",
+  "type": "Print / lithograph",
+  "creator": "Kennedy & Lucas (after A. Rider)",
+  "year": "c. 1829",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=camp+meeting+religious+revival+Second+Great+Awakening+print+1829",
+  "download_url": "",
+  "citation": "'Camp Meeting,' lithograph of a religious revival, c. 1829, Library of Congress.",
+  "alt_text": "Outdoor revival scene of a preacher addressing a large crowd of worshippers in a forest clearing.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.41",
+  "title": "Methodist camp meeting engraving",
+  "type": "Engraving",
+  "creator": "19th-century engraver",
+  "year": "1830s-1840s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Methodist+camp+meeting+engraving+revival+19th+century",
+  "download_url": "",
+  "citation": "Engraving of a Methodist camp meeting, Library of Congress.",
+  "alt_text": "Engraving of tents and worshippers gathered at an outdoor Methodist camp meeting.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.42",
+  "title": "Declaration of Sentiments (Seneca Falls)",
+  "type": "Convention document",
+  "creator": "Elizabeth Cady Stanton / Seneca Falls Convention",
+  "year": "1848",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Declaration+of+Sentiments+Seneca+Falls+1848",
+  "download_url": "",
+  "citation": "'Declaration of Sentiments,' Seneca Falls Convention, 1848, Library of Congress.",
+  "alt_text": "Printed text of the 1848 Declaration of Sentiments modeled on the Declaration of Independence.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.42",
+  "title": "Portrait of Sojourner Truth (carte-de-visite)",
+  "type": "Photograph",
+  "creator": "Sojourner Truth (published)",
+  "year": "c. 1864",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Sojourner+Truth+carte+de+visite+photograph",
+  "download_url": "",
+  "citation": "Carte-de-visite portrait of Sojourner Truth, c. 1864, Library of Congress.",
+  "alt_text": "Seated photographic portrait of Sojourner Truth with knitting and a book.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.43",
+  "title": "Narrative of the Life of Frederick Douglass",
+  "type": "Autobiography (title page)",
+  "creator": "Frederick Douglass",
+  "year": "1845",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Narrative+of+the+Life+of+Frederick+Douglass+1845",
+  "download_url": "",
+  "citation": "Frederick Douglass, 'Narrative of the Life of Frederick Douglass, an American Slave,' 1845.",
+  "alt_text": "Frontispiece portrait and title page of Douglass's 1845 autobiography.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.43",
+  "title": "Masthead of The Liberator",
+  "type": "Newspaper",
+  "creator": "William Lloyd Garrison",
+  "year": "1831-1865",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=The+Liberator+masthead+William+Lloyd+Garrison+abolitionist+newspaper",
+  "download_url": "",
+  "citation": "'The Liberator,' abolitionist newspaper of William Lloyd Garrison, Library of Congress.",
+  "alt_text": "Illustrated masthead of Garrison's antislavery newspaper The Liberator.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.44",
+  "title": "McCulloch v. Maryland",
+  "type": "Supreme Court opinion",
+  "creator": "Chief Justice John Marshall",
+  "year": "1819",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=McCulloch+v+Maryland+1819+opinion+Marshall",
+  "download_url": "",
+  "citation": "McCulloch v. Maryland, 17 U.S. 316 (1819), Library of Congress.",
+  "alt_text": "Printed page of the 1819 Supreme Court opinion upholding federal implied powers.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.44",
+  "title": "Gibbons v. Ogden",
+  "type": "Supreme Court opinion",
+  "creator": "Chief Justice John Marshall",
+  "year": "1824",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Gibbons+v+Ogden+1824+opinion+commerce+clause",
+  "download_url": "",
+  "citation": "Gibbons v. Ogden, 22 U.S. 1 (1824), Library of Congress.",
+  "alt_text": "Printed page of the 1824 Supreme Court opinion on the commerce clause.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.45",
+  "title": "The Coffin Handbill (John Quincy Adams campaign attack on Jackson)",
+  "type": "Broadside",
+  "creator": "John Binns",
+  "year": "1828",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Coffin+Handbill+Andrew+Jackson+1828+election+broadside",
+  "download_url": "",
+  "citation": "'Coffin Handbill' attacking Andrew Jackson, 1828 election, Library of Congress.",
+  "alt_text": "Campaign broadside lined with black coffins accusing Andrew Jackson of executing militiamen.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.45",
+  "title": "Symptoms of a Locked Jaw",
+  "type": "Political cartoon",
+  "creator": "19th-century artist",
+  "year": "c. 1834",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Jacksonian+democracy+cartoon+Andrew+Jackson+1830s",
+  "download_url": "",
+  "citation": "Cartoon on Andrew Jackson and Jacksonian politics, Library of Congress.",
+  "alt_text": "Political cartoon commenting on Andrew Jackson and the politics of the Jacksonian era.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.46",
+  "title": "King Andrew the First",
+  "type": "Political cartoon",
+  "creator": "Anonymous",
+  "year": "1833",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=King+Andrew+the+First+cartoon+Jackson+bank+veto+1833",
+  "download_url": "",
+  "citation": "'King Andrew the First,' 1833, Library of Congress.",
+  "alt_text": "Cartoon of Andrew Jackson dressed as a king trampling the Constitution while holding a veto.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.46",
+  "title": "Jackson's Proclamation on Nullification",
+  "type": "Presidential proclamation",
+  "creator": "President Andrew Jackson",
+  "year": "1832",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Andrew+Jackson+nullification+proclamation+1832+South+Carolina",
+  "download_url": "",
+  "citation": "President Andrew Jackson, Proclamation on Nullification, 1832, Library of Congress.",
+  "alt_text": "Printed text of Jackson's 1832 proclamation opposing South Carolina's nullification.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.47",
+  "title": "Indian Removal Act",
+  "type": "Statute / document",
+  "creator": "U.S. Congress",
+  "year": "1830",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Indian+Removal+Act+1830",
+  "download_url": "",
+  "citation": "Indian Removal Act, 1830. National Archives.",
+  "alt_text": "Printed text of the 1830 Indian Removal Act authorizing removal of eastern tribes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.47",
+  "title": "Map of the Trail of Tears / Cherokee removal routes",
+  "type": "Map",
+  "creator": "National Park Service / 19th-century sources",
+  "year": "1838-1839",
+  "repository": "National Park Service",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.nps.gov/trte/index.htm",
+  "download_url": "",
+  "citation": "Trail of Tears National Historic Trail, National Park Service.",
+  "alt_text": "Map showing the routes of the forced Cherokee removal from the Southeast to Indian Territory.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.48",
+  "title": "Constitution of the State of Tennessee (1834)",
+  "type": "Founding document",
+  "creator": "Tennessee constitutional convention",
+  "year": "1834",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Tennessee+Constitution+1834",
+  "download_url": "",
+  "citation": "Constitution of the State of Tennessee, 1834.",
+  "alt_text": "Printed text of Tennessee's 1834 state constitution.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.48",
+  "title": "Tennessee voting / suffrage broadside (1830s)",
+  "type": "Broadside",
+  "creator": "Tennessee source",
+  "year": "1830s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Tennessee+1834+constitution+voting+rights+suffrage",
+  "download_url": "",
+  "citation": "Tennessee document on voting rights under the 1834 constitution, Library of Congress.",
+  "alt_text": "Printed Tennessee political document from the 1830s concerning voting rights.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.49",
+  "title": "American Progress",
+  "type": "Painting / chromolithograph",
+  "creator": "John Gast",
+  "year": "1872",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=American+Progress+John+Gast+Manifest+Destiny+1872",
+  "download_url": "",
+  "citation": "John Gast, 'American Progress,' 1872 (chromolithograph), Library of Congress.",
+  "alt_text": "Allegorical figure of Columbia floating westward stringing telegraph wire ahead of settlers and trains.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.49",
+  "title": "Across the Continent: Westward the Course of Empire",
+  "type": "Print / lithograph",
+  "creator": "Currier & Ives (Frances Palmer)",
+  "year": "1868",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Across+the+Continent+Westward+Course+of+Empire+Currier+Ives+1868",
+  "download_url": "",
+  "citation": "Currier & Ives, 'Across the Continent: Westward the Course of Empire Takes its Way,' 1868, Library of Congress.",
+  "alt_text": "Print of a railroad and pioneer town pushing west across the plains toward the mountains.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.50",
+  "title": "Map of the Missouri Compromise line",
+  "type": "Map",
+  "creator": "19th-century cartographer",
+  "year": "c. 1820",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Missouri+Compromise+1820+map+free+slave+states+line",
+  "download_url": "",
+  "citation": "Map illustrating the Missouri Compromise of 1820, Library of Congress.",
+  "alt_text": "Map dividing western territories into free and slave areas along the 36°30' line.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.50",
+  "title": "Missouri Compromise / Act authorizing Missouri statehood",
+  "type": "Statute / document",
+  "creator": "U.S. Congress",
+  "year": "1820",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Missouri+Compromise+1820+act",
+  "download_url": "",
+  "citation": "The Missouri Compromise, 1820. National Archives.",
+  "alt_text": "Printed text of the 1820 congressional act admitting Missouri and Maine.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.51",
+  "title": "Travis's 'Victory or Death' letter from the Alamo",
+  "type": "Manuscript letter",
+  "creator": "William Barret Travis",
+  "year": "1836",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=William+Travis+Victory+or+Death+Alamo+letter+1836",
+  "download_url": "",
+  "citation": "William Barret Travis, letter from the Alamo ('Victory or Death'), 1836.",
+  "alt_text": "Handwritten 1836 appeal for help written by Travis during the siege of the Alamo.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "8.51",
+  "title": "Portrait of Sam Houston",
+  "type": "Portrait",
+  "creator": "19th-century artist / photographer",
+  "year": "1840s-1850s",
+  "repository": "Smithsonian National Portrait Gallery",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Sam+Houston+portrait+Texas",
+  "download_url": "",
+  "citation": "Portrait of Sam Houston, Smithsonian National Portrait Gallery.",
+  "alt_text": "Portrait of Sam Houston, leader of the Texas independence movement.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.52",
+  "title": "Map of the Oregon and Santa Fe Trails",
+  "type": "Map",
+  "creator": "19th-century cartographer",
+  "year": "1840s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Oregon+Trail+Santa+Fe+Trail+emigrant+routes+map+1840s",
+  "download_url": "",
+  "citation": "Map of western emigrant trails, 1840s, Library of Congress.",
+  "alt_text": "Map tracing the Oregon and Santa Fe overland trails across the western United States.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.52",
+  "title": "Emigrants on the Oregon Trail / wagon train",
+  "type": "Print",
+  "creator": "19th-century artist",
+  "year": "mid-19th century",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Oregon+Trail+wagon+train+emigrants+pioneers+print",
+  "download_url": "",
+  "citation": "Print of emigrant wagon trains on the western trails, Library of Congress.",
+  "alt_text": "Line of covered wagons and pioneers crossing the plains heading west.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.53",
+  "title": "Portrait of James K. Polk",
+  "type": "Portrait / photograph",
+  "creator": "Mathew Brady studio",
+  "year": "c. 1849",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=James+K+Polk+portrait+photograph+Brady",
+  "download_url": "",
+  "citation": "Portrait of President James K. Polk, Library of Congress.",
+  "alt_text": "Formal photographic portrait of President James K. Polk.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.53",
+  "title": "Joint Resolution for Annexing Texas to the United States",
+  "type": "Statute / document",
+  "creator": "U.S. Congress",
+  "year": "1845",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=joint+resolution+annexing+Texas+1845",
+  "download_url": "",
+  "citation": "Joint Resolution for Annexing Texas to the United States, 1845. National Archives.",
+  "alt_text": "Printed text of the 1845 joint resolution annexing Texas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.54",
+  "title": "Treaty of Guadalupe Hidalgo",
+  "type": "Treaty document",
+  "creator": "United States and Mexico",
+  "year": "1848",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Treaty+of+Guadalupe+Hidalgo+1848",
+  "download_url": "",
+  "citation": "Treaty of Guadalupe Hidalgo, 1848. National Archives.",
+  "alt_text": "Handwritten 1848 treaty ending the Mexican War and ceding the Mexican Cession.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.54",
+  "title": "Map of the Mexican Cession",
+  "type": "Map",
+  "creator": "19th-century cartographer",
+  "year": "c. 1848",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Mexican+Cession+1848+map+Rio+Grande+boundary",
+  "download_url": "",
+  "citation": "Map of the Mexican Cession and Rio Grande boundary, 1848, Library of Congress.",
+  "alt_text": "Map showing the vast southwestern territory ceded by Mexico in 1848.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.55",
+  "title": "California gold miners (daguerreotype)",
+  "type": "Photograph / daguerreotype",
+  "creator": "19th-century photographer",
+  "year": "c. 1850-1852",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=California+gold+rush+miners+daguerreotype+forty-niners+1850",
+  "download_url": "",
+  "citation": "Daguerreotype of California gold miners, c. 1850, Library of Congress.",
+  "alt_text": "Early photograph of forty-niner miners working a sluice at a California gold claim.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.55",
+  "title": "Gold Rush emigration broadside",
+  "type": "Broadside",
+  "creator": "1849 California promoters",
+  "year": "1849",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=California+gold+rush+1849+broadside+emigration+ho+for+California",
+  "download_url": "",
+  "citation": "Broadside promoting emigration to the California gold fields, 1849, Library of Congress.",
+  "alt_text": "Printed broadside advertising ships and routes to the California gold rush.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.56",
+  "title": "Uncle Tom's Cabin (first edition)",
+  "type": "Novel (title page)",
+  "creator": "Harriet Beecher Stowe",
+  "year": "1852",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Uncle+Tom%27s+Cabin+Harriet+Beecher+Stowe+1852+first+edition",
+  "download_url": "",
+  "citation": "Harriet Beecher Stowe, 'Uncle Tom's Cabin,' 1852.",
+  "alt_text": "Illustrated title page of the 1852 first edition of Uncle Tom's Cabin.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.56",
+  "title": "Caution!! Colored People of Boston (Fugitive Slave Act broadside)",
+  "type": "Broadside",
+  "creator": "Theodore Parker",
+  "year": "1851",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Caution+Colored+People+of+Boston+1851+fugitive+slave+broadside",
+  "download_url": "",
+  "citation": "'Caution!! Colored People of Boston,' 1851, Library of Congress.",
+  "alt_text": "Broadside warning Black Bostonians about slave catchers under the Fugitive Slave Act.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.57",
+  "title": "Map of the Gadsden Purchase",
+  "type": "Map",
+  "creator": "19th-century cartographer",
+  "year": "c. 1853-1854",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Gadsden+Purchase+1853+map+Arizona+New+Mexico",
+  "download_url": "",
+  "citation": "Map showing the Gadsden Purchase, 1853, Library of Congress.",
+  "alt_text": "Map highlighting the strip of southern Arizona and New Mexico added by the Gadsden Purchase.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.57",
+  "title": "Gadsden Purchase Treaty",
+  "type": "Treaty document",
+  "creator": "United States and Mexico",
+  "year": "1853",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Gadsden+Purchase+treaty+1853",
+  "download_url": "",
+  "citation": "Gadsden Purchase Treaty, 1853. National Archives.",
+  "alt_text": "Handwritten 1853 treaty transferring the Gadsden Purchase territory.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.58",
+  "title": "Southern Chivalry — Argument versus Club's (caning of Sumner)",
+  "type": "Political cartoon",
+  "creator": "John L. Magee",
+  "year": "1856",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Southern+Chivalry+caning+Charles+Sumner+Preston+Brooks+1856+cartoon",
+  "download_url": "",
+  "citation": "John L. Magee, 'Southern Chivalry — Argument versus Club's,' 1856, Library of Congress.",
+  "alt_text": "Cartoon of Preston Brooks caning Senator Charles Sumner at his Senate desk.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.58",
+  "title": "Forcing Slavery Down the Throat of a Freesoiler",
+  "type": "Political cartoon",
+  "creator": "John L. Magee",
+  "year": "1856",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Forcing+Slavery+Down+the+Throat+of+a+Freesoiler+cartoon+1856+Kansas",
+  "download_url": "",
+  "citation": "'Forcing Slavery Down the Throat of a Freesoiler,' 1856, Library of Congress.",
+  "alt_text": "Cartoon of Democratic leaders forcing a bound free-soil settler onto a Kansas platform.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.59",
+  "title": "Dred Scott decision (opinion)",
+  "type": "Supreme Court opinion",
+  "creator": "Chief Justice Roger B. Taney",
+  "year": "1857",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Dred+Scott+v+Sandford+1857+opinion+Taney",
+  "download_url": "",
+  "citation": "Dred Scott v. Sandford, 60 U.S. 393 (1857), Library of Congress.",
+  "alt_text": "Printed page of the 1857 Supreme Court opinion in the Dred Scott case.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.59",
+  "title": "Portraits of Dred Scott and his family",
+  "type": "Print / engraving",
+  "creator": "Frank Leslie's Illustrated Newspaper",
+  "year": "1857",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Dred+Scott+and+family+portraits+Frank+Leslie+1857",
+  "download_url": "",
+  "citation": "Portraits of Dred Scott and his family, Frank Leslie's Illustrated Newspaper, 1857, Library of Congress.",
+  "alt_text": "Engraved portraits of Dred Scott, his wife Harriet, and their daughters.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.60",
+  "title": "Abraham Lincoln (1858 portrait)",
+  "type": "Photograph",
+  "creator": "19th-century photographer",
+  "year": "1858",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Abraham+Lincoln+1858+photograph+portrait",
+  "download_url": "",
+  "citation": "Portrait of Abraham Lincoln, 1858, Library of Congress.",
+  "alt_text": "Photographic portrait of a beardless Abraham Lincoln around the time of the 1858 debates.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.60",
+  "title": "Political Debates Between Hon. Abraham Lincoln and Hon. Stephen A. Douglas",
+  "type": "Book / printed debates",
+  "creator": "Lincoln and Douglas",
+  "year": "1860 (of 1858 debates)",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Lincoln+Douglas+debates+1858+printed+text",
+  "download_url": "",
+  "citation": "'Political Debates Between Hon. Abraham Lincoln and Hon. Stephen A. Douglas,' Library of Congress.",
+  "alt_text": "Title page of the published Lincoln-Douglas debate transcripts.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.61",
+  "title": "The National Game. Three 'Outs' and One 'Run'",
+  "type": "Political cartoon",
+  "creator": "Currier & Ives (Louis Maurer)",
+  "year": "1860",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=National+Game+Three+Outs+One+Run+1860+election+Lincoln+baseball+cartoon",
+  "download_url": "",
+  "citation": "Currier & Ives, 'The National Game. Three \"Outs\" and One \"Run,\"' 1860, Library of Congress.",
+  "alt_text": "Cartoon of the four 1860 presidential candidates as baseball players with Lincoln winning.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.61",
+  "title": "1860 presidential election electoral map",
+  "type": "Map",
+  "creator": "19th-century source",
+  "year": "1860",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=1860+presidential+election+map+Lincoln+Breckinridge+Bell+Douglas",
+  "download_url": "",
+  "citation": "Map of the 1860 presidential election results, Library of Congress.",
+  "alt_text": "Map showing the sectional split of the 1860 vote among Lincoln, Breckinridge, Bell, and Douglas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "8.62",
+  "title": "Bombardment of Fort Sumter",
+  "type": "Print / lithograph",
+  "creator": "Currier & Ives",
+  "year": "1861",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=bombardment+of+Fort+Sumter+1861+Currier+Ives",
+  "download_url": "",
+  "citation": "Currier & Ives, 'Bombardment of Fort Sumter,' 1861, Library of Congress.",
+  "alt_text": "Print of Confederate shells bursting over Fort Sumter in Charleston Harbor.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.62",
+  "title": "Portrait of Jefferson Davis",
+  "type": "Photograph",
+  "creator": "Mathew Brady studio",
+  "year": "c. 1861",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Jefferson+Davis+portrait+photograph+Confederate+president",
+  "download_url": "",
+  "citation": "Portrait of Jefferson Davis, Library of Congress.",
+  "alt_text": "Photographic portrait of Confederate President Jefferson Davis.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.63",
+  "title": "A Harvest of Death, Gettysburg",
+  "type": "Photograph",
+  "creator": "Timothy H. O'Sullivan",
+  "year": "1863",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Harvest+of+Death+Gettysburg+O%27Sullivan+1863+photograph",
+  "download_url": "",
+  "citation": "Timothy H. O'Sullivan, 'A Harvest of Death, Gettysburg,' 1863, Library of Congress.",
+  "alt_text": "Battlefield photograph of Union and Confederate dead lying in a field after Gettysburg.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.63",
+  "title": "Portraits of Ulysses S. Grant and Robert E. Lee",
+  "type": "Photographs",
+  "creator": "Mathew Brady studio",
+  "year": "1860s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Ulysses+Grant+Robert+E+Lee+portraits+Civil+War+generals",
+  "download_url": "",
+  "citation": "Portraits of Generals Ulysses S. Grant and Robert E. Lee, Library of Congress.",
+  "alt_text": "Wartime photographic portraits of the opposing commanding generals.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.64",
+  "title": "Emancipation Proclamation",
+  "type": "Presidential proclamation",
+  "creator": "President Abraham Lincoln",
+  "year": "1863",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Emancipation+Proclamation+1863",
+  "download_url": "",
+  "citation": "Emancipation Proclamation, January 1, 1863. National Archives.",
+  "alt_text": "Handwritten 1863 proclamation declaring enslaved people in rebelling states free.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.64",
+  "title": "Gettysburg Address (Nicolay copy)",
+  "type": "Manuscript / speech",
+  "creator": "President Abraham Lincoln",
+  "year": "1863",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Gettysburg+Address+Nicolay+copy+Lincoln+manuscript+1863",
+  "download_url": "",
+  "citation": "Abraham Lincoln, Gettysburg Address (Nicolay copy), 1863, Library of Congress.",
+  "alt_text": "Handwritten manuscript of Lincoln's Gettysburg Address.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.65",
+  "title": "Come and Join Us Brothers (USCT recruiting poster)",
+  "type": "Recruiting poster",
+  "creator": "P.S. Duval & Son",
+  "year": "1863",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Come+and+Join+Us+Brothers+USCT+recruiting+poster+colored+troops",
+  "download_url": "",
+  "citation": "'Come and Join Us Brothers,' U.S. Colored Troops recruiting poster, Library of Congress.",
+  "alt_text": "Recruiting poster showing Black Union soldiers gathered around the flag inviting others to enlist.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.65",
+  "title": "Storming Fort Wagner (54th Massachusetts)",
+  "type": "Print / lithograph",
+  "creator": "Kurz & Allison",
+  "year": "1890",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Storming+Fort+Wagner+54th+Massachusetts+Kurz+Allison",
+  "download_url": "",
+  "citation": "Kurz & Allison, 'Storming Fort Wagner,' 1890, Library of Congress.",
+  "alt_text": "Dramatic print of the 54th Massachusetts Regiment assaulting Fort Wagner.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.66",
+  "title": "Co. Aytch: A Side Show of the Big Show",
+  "type": "Memoir",
+  "creator": "Sam R. Watkins",
+  "year": "1882",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Sam+Watkins+Co+Aytch+Confederate+memoir",
+  "download_url": "",
+  "citation": "Sam R. Watkins, 'Co. Aytch,' 1882.",
+  "alt_text": "Title page of Sam Watkins's memoir of life as a common Confederate soldier.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "8.66",
+  "title": "Union soldier's letter / diary and camp photograph",
+  "type": "Manuscript / photograph",
+  "creator": "Union soldier (e.g., Elisha Hunt Rhodes tradition)",
+  "year": "1861-1865",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Civil+War+soldier+diary+letter+camp+life+photograph",
+  "download_url": "",
+  "citation": "Civil War soldier's letters and camp-life photographs, Library of Congress.",
+  "alt_text": "Handwritten soldier's letter alongside a photograph of a Union army camp.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "8.67",
+  "title": "Assassination of President Lincoln",
+  "type": "Print / lithograph",
+  "creator": "Currier & Ives",
+  "year": "1865",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=assassination+of+President+Lincoln+Ford%27s+Theatre+Currier+Ives+1865",
+  "download_url": "",
+  "citation": "Currier & Ives, 'The Assassination of President Lincoln,' 1865, Library of Congress.",
+  "alt_text": "Print of Booth shooting Lincoln in the presidential box at Ford's Theatre.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.67",
+  "title": "$100,000 Reward! The Murderer of President Lincoln",
+  "type": "Broadside",
+  "creator": "War Department",
+  "year": "1865",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=reward+broadside+Lincoln+assassin+Booth+1865",
+  "download_url": "",
+  "citation": "'$100,000 Reward! The Murderer of Our Late Beloved President,' 1865. National Archives.",
+  "alt_text": "Wanted broadside with photographs offering a reward for John Wilkes Booth and accomplices.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.68",
+  "title": "13th Amendment to the U.S. Constitution",
+  "type": "Founding document / amendment",
+  "creator": "U.S. Congress",
+  "year": "1865",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=13th+Amendment+1865+abolition+slavery",
+  "download_url": "",
+  "citation": "Thirteenth Amendment to the U.S. Constitution, 1865. National Archives.",
+  "alt_text": "Engrossed resolution of the Thirteenth Amendment abolishing slavery.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.68",
+  "title": "The Fifteenth Amendment Celebrated",
+  "type": "Print / lithograph",
+  "creator": "Thomas Kelly",
+  "year": "1870",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Fifteenth+Amendment+celebrated+1870+print",
+  "download_url": "",
+  "citation": "'The Fifteenth Amendment Celebrated,' 1870, Library of Congress.",
+  "alt_text": "Commemorative print celebrating Black male suffrage under the Fifteenth Amendment with parade scenes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.69",
+  "title": "Proclamation of Amnesty and Reconstruction (Ten Percent Plan)",
+  "type": "Presidential proclamation",
+  "creator": "President Abraham Lincoln",
+  "year": "1863",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Lincoln+Proclamation+of+Amnesty+and+Reconstruction+Ten+Percent+Plan+1863",
+  "download_url": "",
+  "citation": "President Abraham Lincoln, Proclamation of Amnesty and Reconstruction, 1863, Library of Congress.",
+  "alt_text": "Printed text of Lincoln's 1863 Ten Percent Plan for Reconstruction.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.69",
+  "title": "Reconstruction and how it works (Nast cartoon)",
+  "type": "Political cartoon",
+  "creator": "Thomas Nast",
+  "year": "1866",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Thomas+Nast+Reconstruction+cartoon+1866+Harper%27s+Weekly",
+  "download_url": "",
+  "citation": "Thomas Nast, Reconstruction cartoon, Harper's Weekly, 1866, Library of Congress.",
+  "alt_text": "Political cartoon commenting on competing plans and conflicts of Reconstruction.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.70",
+  "title": "Constitution of the State of Tennessee (1870)",
+  "type": "Founding document",
+  "creator": "Tennessee constitutional convention",
+  "year": "1870",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Tennessee+Constitution+1870+poll+tax+voting",
+  "download_url": "",
+  "citation": "Constitution of the State of Tennessee, 1870.",
+  "alt_text": "Printed text of Tennessee's 1870 state constitution.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.70",
+  "title": "Tennessee poll tax / election law document",
+  "type": "Document",
+  "creator": "State of Tennessee",
+  "year": "1870s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Tennessee+poll+tax+1870+constitution+election+law",
+  "download_url": "",
+  "citation": "Tennessee poll tax and election law document, Library of Congress.",
+  "alt_text": "Printed Tennessee document establishing or administering the poll tax.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.71",
+  "title": "Ticket of admission to the impeachment of President Andrew Johnson",
+  "type": "Artifact / ticket",
+  "creator": "U.S. Senate",
+  "year": "1868",
+  "repository": "National Archives",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Andrew+Johnson+impeachment+trial+ticket+1868+Senate",
+  "download_url": "",
+  "citation": "Admission ticket to the impeachment trial of President Andrew Johnson, 1868. National Archives.",
+  "alt_text": "Printed ticket admitting a spectator to the 1868 Senate impeachment trial of Andrew Johnson.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.71",
+  "title": "The Senate as a Court of Impeachment (Johnson trial)",
+  "type": "Print / engraving",
+  "creator": "Theodore R. Davis (Harper's Weekly)",
+  "year": "1868",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Andrew+Johnson+impeachment+trial+Senate+1868+Harper%27s+Weekly+print",
+  "download_url": "",
+  "citation": "'The Senate as a Court of Impeachment for the Trial of Andrew Johnson,' Harper's Weekly, 1868, Library of Congress.",
+  "alt_text": "Engraving of the packed Senate chamber during Johnson's impeachment trial.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.72",
+  "title": "The Freedmen's Bureau",
+  "type": "Print / illustration",
+  "creator": "Alfred R. Waud (Harper's Weekly)",
+  "year": "1868",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Freedmen%27s+Bureau+Alfred+Waud+Harper%27s+Weekly+1868",
+  "download_url": "",
+  "citation": "Alfred R. Waud, 'The Freedmen's Bureau,' Harper's Weekly, 1868, Library of Congress.",
+  "alt_text": "Illustration of a Freedmen's Bureau agent standing between armed white and Black crowds to keep peace.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.72",
+  "title": "Mississippi Black Code (1865) / freedmen restrictions",
+  "type": "Statute / document",
+  "creator": "Southern state legislature",
+  "year": "1865-1866",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Black+Codes+1865+Mississippi+freedmen+laws+Reconstruction",
+  "download_url": "",
+  "citation": "Black Codes restricting freedmen, 1865-1866, Library of Congress.",
+  "alt_text": "Printed text of postwar Southern Black Codes limiting the rights of freed people.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.73",
+  "title": "Visit of the Ku-Klux",
+  "type": "Print / engraving",
+  "creator": "Frank Bellew (Harper's Weekly)",
+  "year": "1872",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Visit+of+the+Ku-Klux+Frank+Bellew+Harper%27s+Weekly+1872",
+  "download_url": "",
+  "citation": "Frank Bellew, 'Visit of the Ku-Klux,' Harper's Weekly, 1872, Library of Congress.",
+  "alt_text": "Engraving of hooded Klansmen threatening a Black family in their cabin at night.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.73",
+  "title": "Portrait of Governor William G. Brownlow",
+  "type": "Portrait / photograph",
+  "creator": "19th-century photographer",
+  "year": "1860s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=William+Brownlow+Tennessee+governor+portrait+Reconstruction",
+  "download_url": "",
+  "citation": "Portrait of Tennessee Governor William G. Brownlow, Library of Congress.",
+  "alt_text": "Photographic portrait of Tennessee's Reconstruction-era Governor William G. Brownlow.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.74",
+  "title": "This is a White Man's Government",
+  "type": "Political cartoon",
+  "creator": "Thomas Nast (Harper's Weekly)",
+  "year": "1868",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=This+is+a+White+Man%27s+Government+Thomas+Nast+1868+cartoon",
+  "download_url": "",
+  "citation": "Thomas Nast, 'This is a White Man's Government,' Harper's Weekly, 1868, Library of Congress.",
+  "alt_text": "Cartoon of three figures pressing down a Black Union veteran, condemning white supremacist politics.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.74",
+  "title": "Carpetbagger cartoon (Nast)",
+  "type": "Political cartoon",
+  "creator": "Thomas Nast (Harper's Weekly)",
+  "year": "1870s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=carpetbagger+scalawag+Reconstruction+cartoon+Thomas+Nast+Harper%27s",
+  "download_url": "",
+  "citation": "Thomas Nast, cartoon depicting the 'carpetbagger,' Harper's Weekly, Library of Congress.",
+  "alt_text": "Cartoon caricaturing a Northern carpetbagger arriving in the postwar South with a carpet-bag.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.75",
+  "title": "A Truce — Not a Compromise",
+  "type": "Political cartoon",
+  "creator": "Thomas Nast (Harper's Weekly)",
+  "year": "1877",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=A+Truce+Not+a+Compromise+Thomas+Nast+1877+cartoon",
+  "download_url": "",
+  "citation": "Thomas Nast, 'A Truce — Not a Compromise,' Harper's Weekly, 1877, Library of Congress.",
+  "alt_text": "Cartoon of North and South figures in an uneasy standoff over the disputed 1876 election.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "8.75",
+  "title": "Portrait of Rutherford B. Hayes",
+  "type": "Portrait / photograph",
+  "creator": "Mathew Brady studio",
+  "year": "1870s",
+  "repository": "Library of Congress",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Rutherford+B+Hayes+portrait+president+1877",
+  "download_url": "",
+  "citation": "Portrait of President Rutherford B. Hayes, Library of Congress.",
+  "alt_text": "Photographic portrait of Rutherford B. Hayes, who took office after the 1877 compromise.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ }
+]

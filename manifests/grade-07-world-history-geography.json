@@ -1,0 +1,2862 @@
+[
+ {
+  "standard": "7.01",
+  "title": "Historic map of East Asia (China, Japan, Korea)",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1600-1800",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+east+asia+china+japan+korea",
+  "download_url": "",
+  "citation": "Library of Congress, Geography and Map Division, historic map of East Asia.",
+  "alt_text": "Antique map showing China, the Korean Peninsula, Japan, and surrounding seas of East Asia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.01",
+  "title": "Map of China and the Chinese Empire",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1700-1850",
+  "repository": "New York Public Library Digital Collections",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=map+china+east+asia",
+  "download_url": "",
+  "citation": "NYPL Digital Collections, historical map of China and East Asia.",
+  "alt_text": "Old engraved map of China showing rivers, mountains, and neighboring lands.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.02",
+  "title": "Seated Buddha, Tang dynasty",
+  "type": "sculpture",
+  "creator": "Unknown",
+  "year": "c. 618-907 CE",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Tang+dynasty+Buddha",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Tang dynasty Buddhist sculpture.",
+  "alt_text": "Gilded stone or bronze seated Buddha figure from Tang dynasty China.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.02",
+  "title": "Dunhuang Buddhist cave painting / silk banner",
+  "type": "painting",
+  "creator": "Unknown",
+  "year": "c. 700-900 CE",
+  "repository": "Smithsonian (National Museum of Asian Art / Freer)",
+  "rights": "CC0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=Dunhuang+Buddhist+painting",
+  "download_url": "",
+  "citation": "Smithsonian National Museum of Asian Art, Dunhuang-style Buddhist painting.",
+  "alt_text": "Painted silk banner depicting a bodhisattva in early medieval Chinese Buddhist style.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.03",
+  "title": "Song dynasty landscape handscroll",
+  "type": "painting",
+  "creator": "Unknown (Song court painter)",
+  "year": "c. 960-1279 CE",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Song+dynasty+landscape+painting",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Song dynasty landscape painting.",
+  "alt_text": "Ink landscape handscroll showing mountains, rivers, and villages of Song China.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.03",
+  "title": "Song dynasty celadon (Longquan) ceramic vessel",
+  "type": "ceramic",
+  "creator": "Unknown",
+  "year": "c. 1100-1279 CE",
+  "repository": "Cleveland Museum of Art",
+  "rights": "CC0 (Cleveland Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.clevelandart.org/art/collection/search?search=Song+dynasty+celadon",
+  "download_url": "",
+  "citation": "Cleveland Museum of Art, Song dynasty celadon ceramic.",
+  "alt_text": "Pale green glazed porcelain bowl or vase from Song dynasty China.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.04",
+  "title": "Illustrated Mongol horseman / Jami al-Tawarikh folio",
+  "type": "manuscript",
+  "creator": "Rashid al-Din (attributed workshop)",
+  "year": "c. 1300-1430",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Mongol+horseman+Jami+al-Tawarikh",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, illustrated folio depicting Mongol warriors.",
+  "alt_text": "Manuscript painting of mounted Mongol warriors with bows on horseback.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.04",
+  "title": "Mongol cavalry archer figure / horse trappings",
+  "type": "artifact",
+  "creator": "Unknown",
+  "year": "c. 1200-1300",
+  "repository": "Smithsonian",
+  "rights": "CC0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=Mongol+empire+Genghis+Khan+horse",
+  "download_url": "",
+  "citation": "Smithsonian, Mongol-era equestrian artifact.",
+  "alt_text": "Mongol horse-riding equipment or figurine associated with steppe cavalry.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.05",
+  "title": "Yuan dynasty court painting",
+  "type": "painting",
+  "creator": "Unknown (Yuan court)",
+  "year": "c. 1279-1368",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Yuan+dynasty+Kublai+Khan",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Yuan dynasty painting.",
+  "alt_text": "Painting from the Yuan (Mongol) dynasty of China showing court or hunting scene.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.05",
+  "title": "Yuan dynasty blue-and-white porcelain",
+  "type": "ceramic",
+  "creator": "Unknown (Jingdezhen kilns)",
+  "year": "c. 1300-1368",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Yuan+dynasty+blue+and+white+porcelain",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Yuan dynasty blue-and-white porcelain.",
+  "alt_text": "White porcelain jar painted with cobalt-blue dragons and floral motifs.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.06",
+  "title": "Tang camel with musicians (Silk Road)",
+  "type": "sculpture",
+  "creator": "Unknown",
+  "year": "c. 700-750 CE",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=camel+sancai+silk+road",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, ceramic camel figure, Silk Road trade.",
+  "alt_text": "Glazed ceramic Bactrian camel carrying goods and musicians along a trade route.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.06",
+  "title": "Portolan / Silk Road trade route map",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1375-1500",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=silk+road+trade+route+map+asia",
+  "download_url": "",
+  "citation": "Library of Congress, historical map of Eurasian trade routes.",
+  "alt_text": "Old map tracing overland trade routes across Asia connecting China to Europe.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.07",
+  "title": "Ming dynasty blue-and-white porcelain",
+  "type": "ceramic",
+  "creator": "Unknown (Jingdezhen kilns)",
+  "year": "c. 1400-1600",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Ming+dynasty+blue+and+white+porcelain",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Ming dynasty porcelain.",
+  "alt_text": "Ming dynasty white porcelain vase with blue painted dragons and clouds.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.07",
+  "title": "Historic view/map of the Great Wall and Ming China",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1500-1700",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Ming+china+great+wall+map",
+  "download_url": "",
+  "citation": "Library of Congress, historic map/view of Ming China and the Great Wall.",
+  "alt_text": "Early map or engraving showing the Great Wall of China and Ming territory.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.08",
+  "title": "Shinto Kami (deity) sculpture, Japan",
+  "type": "sculpture",
+  "creator": "Unknown",
+  "year": "c. 900-1300",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Shinto+kami+deity+Japan",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Shinto deity (kami) sculpture.",
+  "alt_text": "Carved wooden figure of a Shinto kami in Japanese court dress.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.08",
+  "title": "Shinto shrine object / Japanese ritual artifact",
+  "type": "artifact",
+  "creator": "Unknown",
+  "year": "c. 1100-1500",
+  "repository": "Smithsonian (National Museum of Asian Art)",
+  "rights": "CC0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=Shinto+shrine+Japan+kami",
+  "download_url": "",
+  "citation": "Smithsonian National Museum of Asian Art, Shinto ritual object.",
+  "alt_text": "Japanese Shinto shrine ritual object associated with kami veneration.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.09",
+  "title": "Portrait of Prince Shotoku, Japan",
+  "type": "painting",
+  "creator": "Unknown",
+  "year": "c. 1300-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Prince+Shotoku+Japan",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, image of Prince Shotoku.",
+  "alt_text": "Painted portrait of Prince Shotoku, promoter of Buddhism in early Japan.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.09",
+  "title": "Japanese Buddhist sculpture with Chinese influence",
+  "type": "sculpture",
+  "creator": "Unknown",
+  "year": "c. 700-900 CE",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Japanese+Buddhist+sculpture+Nara",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, early Japanese Buddhist sculpture.",
+  "alt_text": "Wooden Buddhist bodhisattva figure showing continental (Chinese) stylistic influence.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.10",
+  "title": "Tale of Genji handscroll illustration",
+  "type": "painting",
+  "creator": "Unknown (after Murasaki Shikibu)",
+  "year": "c. 1130-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Tale+of+Genji+handscroll",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, illustration from The Tale of Genji.",
+  "alt_text": "Handscroll painting of Heian court nobles in elaborate silk robes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.10",
+  "title": "Heian-period Japanese calligraphy",
+  "type": "manuscript",
+  "creator": "Unknown",
+  "year": "c. 900-1185",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Heian+calligraphy+Japan",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Heian-era Japanese calligraphy.",
+  "alt_text": "Elegant flowing Japanese kana calligraphy on decorated paper.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.11",
+  "title": "Samurai armor (yoroi), Japan",
+  "type": "arms and armor",
+  "creator": "Unknown armorer",
+  "year": "c. 1300-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=samurai+armor+Japan",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Japanese samurai armor.",
+  "alt_text": "Full suit of laced-plate samurai armor with helmet and mask.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.11",
+  "title": "Japanese sword (katana) and mountings",
+  "type": "arms and armor",
+  "creator": "Unknown swordsmith",
+  "year": "c. 1300-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=samurai+sword+katana+Japan",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Japanese sword.",
+  "alt_text": "Curved steel samurai sword with decorated hilt and scabbard.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.12",
+  "title": "Byzantine icon or mosaic panel",
+  "type": "painting",
+  "creator": "Unknown",
+  "year": "c. 500-1200",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Byzantine+icon+Christ",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Byzantine Christian icon.",
+  "alt_text": "Gold-ground Byzantine icon of Christ or the Virgin and Child.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.12",
+  "title": "Byzantine gold solidus coin",
+  "type": "coin",
+  "creator": "Byzantine imperial mint",
+  "year": "c. 500-1000",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Byzantine+gold+solidus+coin",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Byzantine gold solidus.",
+  "alt_text": "Gold Byzantine coin stamped with an emperor and a Christian cross.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.13",
+  "title": "Interior of Hagia Sophia, Constantinople (photograph/print)",
+  "type": "photograph",
+  "creator": "Various",
+  "year": "c. 1850-1920",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Hagia+Sophia+Constantinople+interior",
+  "download_url": "",
+  "citation": "Library of Congress, photograph of Hagia Sophia, Istanbul.",
+  "alt_text": "Vast domed interior of Hagia Sophia, built under Emperor Justinian.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.13",
+  "title": "Corpus Juris Civilis (Justinian's Code), printed edition",
+  "type": "printed book",
+  "creator": "Emperor Justinian I (compiled)",
+  "year": "printed c. 1500-1600 (from 6th c. law)",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Corpus+Juris+Civilis+Justinian&type=all",
+  "download_url": "",
+  "citation": "HathiTrust, Corpus Juris Civilis (Code of Justinian).",
+  "alt_text": "Title page of a printed edition of Justinian's Roman law code.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.14",
+  "title": "Map / plan of Constantinople",
+  "type": "map",
+  "creator": "Cristoforo Buondelmonti (attributed tradition)",
+  "year": "c. 1420-1600",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Constantinople+map+plan",
+  "download_url": "",
+  "citation": "Library of Congress, historic map of Constantinople.",
+  "alt_text": "Early map of Constantinople showing its peninsula, harbor, and walls.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.14",
+  "title": "View of Constantinople and the Bosporus",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1500-1700",
+  "repository": "New York Public Library Digital Collections",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=Constantinople+view+Bosporus",
+  "download_url": "",
+  "citation": "NYPL Digital Collections, view of Constantinople.",
+  "alt_text": "Panoramic engraving of Constantinople between Europe and Asia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.15",
+  "title": "Historic map of Arabia and the Middle East",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1600-1800",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+arabia+middle+east+red+sea+persian+gulf",
+  "download_url": "",
+  "citation": "Library of Congress, historic map of Southwest Asia and North Africa.",
+  "alt_text": "Antique map of the Arabian Peninsula, Red Sea, and Persian Gulf.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.15",
+  "title": "Map of the Ottoman Empire / Near East",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1650-1800",
+  "repository": "New York Public Library Digital Collections",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=map+arabia+mesopotamia+near+east",
+  "download_url": "",
+  "citation": "NYPL Digital Collections, historic map of the Near East.",
+  "alt_text": "Old map showing Mesopotamia's Tigris and Euphrates rivers and the Mediterranean.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.16",
+  "title": "Illuminated Qur'an manuscript folio",
+  "type": "manuscript",
+  "creator": "Unknown",
+  "year": "c. 900-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Quran+manuscript+folio",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, folio from a Qur'an.",
+  "alt_text": "Illuminated page of Arabic Qur'anic script with gold ornamentation.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.16",
+  "title": "Mihrab / prayer niche tile panel",
+  "type": "ceramic",
+  "creator": "Unknown",
+  "year": "c. 1300-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=mihrab+prayer+niche+tile",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, tile mihrab (prayer niche).",
+  "alt_text": "Islamic tiled prayer niche with Arabic calligraphy and geometric design.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.17",
+  "title": "Arabic calligraphy panel / inscribed object",
+  "type": "manuscript",
+  "creator": "Unknown",
+  "year": "c. 1000-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Arabic+calligraphy+Islamic",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Arabic calligraphy.",
+  "alt_text": "Ornamental Arabic script demonstrating the spread of the Arabic language.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.17",
+  "title": "Islamic lusterware bowl with Arabic inscription",
+  "type": "ceramic",
+  "creator": "Unknown",
+  "year": "c. 900-1200",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Islamic+bowl+Arabic+inscription+lusterware",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, inscribed Islamic bowl.",
+  "alt_text": "Earthenware bowl decorated with a border of Arabic proverb calligraphy.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.18",
+  "title": "Al-Jazari, Book of Knowledge of Ingenious Mechanical Devices (folio)",
+  "type": "manuscript",
+  "creator": "Al-Jazari",
+  "year": "c. 1315 (copy of 1206 text)",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=al-Jazari+automata+mechanical+devices",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, folio from al-Jazari's book of mechanical devices.",
+  "alt_text": "Manuscript diagram of an elaborate water clock or automaton with labels.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.18",
+  "title": "Islamic astrolabe (astronomical instrument)",
+  "type": "scientific instrument",
+  "creator": "Unknown",
+  "year": "c. 1100-1500",
+  "repository": "Smithsonian (National Museum of American History)",
+  "rights": "CC0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=Islamic+astrolabe",
+  "download_url": "",
+  "citation": "Smithsonian, Islamic brass astrolabe.",
+  "alt_text": "Engraved brass astrolabe used for astronomy and navigation.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.19",
+  "title": "Portrait medal / image of Mehmed II the Conqueror",
+  "type": "print",
+  "creator": "After Gentile Bellini",
+  "year": "c. 1480-1600",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Mehmed+II+Ottoman+sultan+portrait",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, portrait of Sultan Mehmed II.",
+  "alt_text": "Portrait of Ottoman Sultan Mehmed II, conqueror of Constantinople.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.19",
+  "title": "Ottoman tughra (imperial calligraphic monogram)",
+  "type": "manuscript",
+  "creator": "Ottoman court calligrapher",
+  "year": "c. 1500-1560",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Ottoman+tughra+Suleiman",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Ottoman imperial tughra.",
+  "alt_text": "Ornate Ottoman sultan's monogram in blue and gold calligraphy.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.20",
+  "title": "Catalan-style portolan trade map of the medieval world",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1375-1500",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=portolan+chart+medieval+trade+routes",
+  "download_url": "",
+  "citation": "Library of Congress, medieval portolan trade chart.",
+  "alt_text": "Portolan sea chart with rhumb lines linking Europe, Africa, and Asia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.20",
+  "title": "Silk textile / traded luxury good",
+  "type": "textile",
+  "creator": "Unknown",
+  "year": "c. 1200-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=medieval+silk+textile+trade",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, medieval traded silk textile.",
+  "alt_text": "Patterned silk cloth of the kind carried along medieval trade routes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.21",
+  "title": "Historic map of West Africa",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1600-1800",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+west+africa+niger+river+guinea",
+  "download_url": "",
+  "citation": "Library of Congress, historic map of West Africa.",
+  "alt_text": "Antique map showing the Niger River, Sahara, Gulf of Guinea, and Timbuktu.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.21",
+  "title": "Map of Africa (Guinea coast and Sudan)",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1650-1800",
+  "repository": "New York Public Library Digital Collections",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=map+west+africa+guinea+niger",
+  "download_url": "",
+  "citation": "NYPL Digital Collections, historic map of West Africa.",
+  "alt_text": "Old engraved map of the West African coast and interior.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.22",
+  "title": "West African / Mali ritual figure sculpture",
+  "type": "sculpture",
+  "creator": "Unknown (Mali region)",
+  "year": "c. 1200-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Mali+Djenne+figure+sculpture",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, West African ritual sculpture.",
+  "alt_text": "Terracotta or wood African figure connected to ancestor and spirit veneration.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.22",
+  "title": "African ancestral / spiritual object",
+  "type": "artifact",
+  "creator": "Unknown",
+  "year": "c. 1300-1600",
+  "repository": "Smithsonian (National Museum of African Art)",
+  "rights": "CC0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=African+ancestor+spirit+figure",
+  "download_url": "",
+  "citation": "Smithsonian National Museum of African Art, ancestral figure.",
+  "alt_text": "Carved African object used in rituals honoring ancestors and deities.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.23",
+  "title": "Djenne terracotta equestrian figure, Mali",
+  "type": "sculpture",
+  "creator": "Unknown (Inland Niger Delta)",
+  "year": "c. 1200-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Djenne+terracotta+equestrian+Mali",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Djenne terracotta figure.",
+  "alt_text": "Terracotta horse-and-rider figure from the Djenne region of Mali.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.23",
+  "title": "Great Mosque of Djenne / Timbuktu (photograph)",
+  "type": "photograph",
+  "creator": "Various",
+  "year": "c. 1900-1920",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Djenne+mosque+Timbuktu",
+  "download_url": "",
+  "citation": "Library of Congress, photograph of Djenne / Timbuktu.",
+  "alt_text": "Mud-brick Great Mosque of Djenne, a center of trade and Islamic learning.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.24",
+  "title": "West African gold ornament / trade gold object",
+  "type": "artifact",
+  "creator": "Unknown",
+  "year": "c. 1300-1600",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=African+gold+Akan+trans-saharan",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, West African gold object.",
+  "alt_text": "Gold ornament representing the West African gold that fueled Saharan trade.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.24",
+  "title": "Trans-Saharan trade route map",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1600-1800",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=trans-saharan+trade+route+africa+map",
+  "download_url": "",
+  "citation": "Library of Congress, map of trans-Saharan trade routes.",
+  "alt_text": "Map tracing caravan routes across the Sahara linking North and West Africa.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.25",
+  "title": "West African kora (griot's harp-lute)",
+  "type": "artifact",
+  "creator": "Unknown",
+  "year": "c. 1850-1920",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=kora+West+Africa+instrument",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, West African kora.",
+  "alt_text": "Large gourd-bodied stringed instrument played by West African griots.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.25",
+  "title": "Photograph of a West African griot / musician",
+  "type": "photograph",
+  "creator": "Various",
+  "year": "c. 1890-1920",
+  "repository": "Smithsonian",
+  "rights": "CC0 / Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=griot+west+africa+musician",
+  "download_url": "",
+  "citation": "Smithsonian, photograph of a West African griot.",
+  "alt_text": "Griot storyteller-musician performing with a traditional instrument.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.26",
+  "title": "Catalan Atlas panel depicting Mansa Musa",
+  "type": "map",
+  "creator": "Abraham Cresques (workshop)",
+  "year": "1375",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Catalan+Atlas+Mansa+Musa+Mali",
+  "download_url": "",
+  "citation": "Library of Congress, image of the Catalan Atlas showing Mansa Musa.",
+  "alt_text": "Medieval map panel showing Mansa Musa of Mali holding a gold nugget.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.26",
+  "title": "Gold dinar / medieval West African gold coinage",
+  "type": "coin",
+  "creator": "Unknown mint",
+  "year": "c. 1300-1400",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=gold+dinar+medieval+islamic+coin",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, medieval gold dinar.",
+  "alt_text": "Gold coin of the era when Mansa Musa's Mali dominated the gold supply.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.27",
+  "title": "Historic map of Europe",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1600-1800",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+europe+alps+mediterranean",
+  "download_url": "",
+  "citation": "Library of Congress, historic map of Europe.",
+  "alt_text": "Antique map of Europe showing the Alps, English Channel, and Ural Mountains.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.27",
+  "title": "Map of Europe (physical/political)",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1650-1850",
+  "repository": "New York Public Library Digital Collections",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=map+europe+alps+ural",
+  "download_url": "",
+  "citation": "NYPL Digital Collections, historic map of Europe.",
+  "alt_text": "Old map of Europe with mountains, plains, and coastlines labeled.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.28",
+  "title": "Medieval illuminated manuscript (monastic)",
+  "type": "manuscript",
+  "creator": "Unknown monastic scribe",
+  "year": "c. 800-1200",
+  "repository": "The Metropolitan Museum of Art (The Cloisters)",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=illuminated+manuscript+medieval",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, The Cloisters, illuminated manuscript.",
+  "alt_text": "Hand-copied medieval manuscript page with decorated initials and gold leaf.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.28",
+  "title": "Medieval monastery / abbey view (print)",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1500-1700",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=medieval+monastery+abbey",
+  "download_url": "",
+  "citation": "Library of Congress, view of a medieval monastery.",
+  "alt_text": "Engraving of a European abbey with church, cloister, and scriptorium.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.29",
+  "title": "Carolingian ivory / manuscript from Charlemagne's era",
+  "type": "sculpture",
+  "creator": "Unknown (Carolingian workshop)",
+  "year": "c. 800-900",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Carolingian+ivory+Charlemagne",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Carolingian ivory plaque.",
+  "alt_text": "Carved ivory panel from the Carolingian court of Charlemagne.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.29",
+  "title": "Coin / denier of Charlemagne",
+  "type": "coin",
+  "creator": "Carolingian mint",
+  "year": "c. 768-814",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Charlemagne+coin+denier+Carolingian",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Carolingian coin.",
+  "alt_text": "Silver coin bearing the name of Charlemagne, ruler of the Holy Roman Empire.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.30",
+  "title": "Book of Hours calendar page (labors of the months)",
+  "type": "manuscript",
+  "creator": "Unknown illuminator",
+  "year": "c. 1400-1500",
+  "repository": "The Metropolitan Museum of Art (The Cloisters)",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Book+of+Hours+labors+months+calendar",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Book of Hours calendar illumination.",
+  "alt_text": "Manuscript painting of peasants plowing and harvesting on a manor.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.30",
+  "title": "Medieval manor / village scene (print)",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1500-1600",
+  "repository": "New York Public Library Digital Collections",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=medieval+manor+feudal+village",
+  "download_url": "",
+  "citation": "NYPL Digital Collections, medieval manorial scene.",
+  "alt_text": "Engraving of a medieval manor with lord's hall, fields, and peasant houses.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.31",
+  "title": "Bayeux Tapestry scene (facsimile/engraving)",
+  "type": "print",
+  "creator": "After the Bayeux Tapestry",
+  "year": "original c. 1070s; reproduction c. 1730-1900",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Bayeux+Tapestry+Battle+of+Hastings",
+  "download_url": "",
+  "citation": "Library of Congress, reproduction of the Bayeux Tapestry.",
+  "alt_text": "Embroidered scene of Norman knights at the Battle of Hastings, 1066.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.31",
+  "title": "Norman arms and armor (11th-12th century)",
+  "type": "arms and armor",
+  "creator": "Unknown",
+  "year": "c. 1050-1150",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Norman+medieval+sword+armor",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, medieval European arms and armor.",
+  "alt_text": "Medieval sword and mail-armor of the type used by Norman knights.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.32",
+  "title": "Illuminated manuscript of pope and emperor",
+  "type": "manuscript",
+  "creator": "Unknown",
+  "year": "c. 1200-1400",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=medieval+pope+emperor+manuscript",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, medieval manuscript of Church and crown.",
+  "alt_text": "Manuscript image of a pope and a king representing Church-state relations.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.32",
+  "title": "Papal bull / seal (medieval document)",
+  "type": "manuscript",
+  "creator": "Papal chancery",
+  "year": "c. 1100-1400",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=papal+bull+medieval+seal",
+  "download_url": "",
+  "citation": "Library of Congress, medieval papal document.",
+  "alt_text": "Parchment papal document with a lead seal (bulla) attached.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.33",
+  "title": "Magna Carta (1215) manuscript",
+  "type": "manuscript",
+  "creator": "King John of England (issued)",
+  "year": "1215 (later copies)",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Magna+Carta",
+  "download_url": "",
+  "citation": "Library of Congress, Magna Carta.",
+  "alt_text": "Parchment of the Magna Carta in dense medieval Latin script.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.33",
+  "title": "Seal of King John of England",
+  "type": "artifact",
+  "creator": "English royal chancery",
+  "year": "c. 1199-1216",
+  "repository": "New York Public Library Digital Collections",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=King+John+Magna+Carta+seal",
+  "download_url": "",
+  "citation": "NYPL Digital Collections, image relating to King John and Magna Carta.",
+  "alt_text": "Royal seal or portrait of King John, who sealed the Magna Carta.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.34",
+  "title": "Illuminated manuscript of the Crusades",
+  "type": "manuscript",
+  "creator": "Unknown",
+  "year": "c. 1250-1400",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Crusades+medieval+manuscript+knights",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Crusades-era manuscript.",
+  "alt_text": "Manuscript image of crusader knights in battle in the Holy Land.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.34",
+  "title": "Crusader sword / arms and armor",
+  "type": "arms and armor",
+  "creator": "Unknown",
+  "year": "c. 1100-1250",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=crusader+sword+medieval+arms",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, medieval crusader-era arms.",
+  "alt_text": "Cross-hilted medieval sword of the Crusading era.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.35",
+  "title": "Manuscript showing Christian-Muslim contact",
+  "type": "manuscript",
+  "creator": "Unknown",
+  "year": "c. 1250-1400",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Crusades+Muslim+Christian+encounter+manuscript",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, manuscript of cross-cultural contact.",
+  "alt_text": "Medieval image showing encounter between Christian and Muslim figures.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.35",
+  "title": "Islamic luxury object brought to Europe via the Crusades",
+  "type": "artifact",
+  "creator": "Unknown",
+  "year": "c. 1200-1400",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Islamic+glass+metalwork+crusader",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Islamic luxury object.",
+  "alt_text": "Enameled Islamic glass or inlaid metalwork traded into Europe.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.36",
+  "title": "Danse Macabre (Dance of Death) woodcuts",
+  "type": "print",
+  "creator": "Hans Holbein the Younger",
+  "year": "c. 1526-1538",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Holbein+Dance+of+Death+Danse+Macabre",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Holbein's Dance of Death.",
+  "alt_text": "Woodcut of a skeleton leading people away, symbolizing plague death.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.36",
+  "title": "Manuscript depicting the plague / burial of victims",
+  "type": "manuscript",
+  "creator": "Unknown",
+  "year": "c. 1350-1450",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Black+Death+plague+medieval+illustration",
+  "download_url": "",
+  "citation": "Library of Congress, medieval depiction of the Black Death.",
+  "alt_text": "Medieval illustration of townspeople burying plague victims.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.37",
+  "title": "Merchant / banking scene manuscript or painting",
+  "type": "painting",
+  "creator": "Unknown",
+  "year": "c. 1400-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=medieval+merchant+banker+moneychanger",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, image of merchants/money changers.",
+  "alt_text": "Painting of a money changer or merchant weighing coins.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.37",
+  "title": "Late medieval European gold coin / florin",
+  "type": "coin",
+  "creator": "Unknown mint",
+  "year": "c. 1350-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=florin+medieval+gold+coin+Italy",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, medieval European gold coin.",
+  "alt_text": "Gold florin coin used in expanding late-medieval commerce and banking.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.38",
+  "title": "Late-medieval plate armor (Hundred Years War era)",
+  "type": "arms and armor",
+  "creator": "Unknown armorer",
+  "year": "c. 1400-1450",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=plate+armor+15th+century+knight",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, 15th-century European armor.",
+  "alt_text": "Full steel plate armor of the Hundred Years War period.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.38",
+  "title": "Image of Joan of Arc",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1450-1600",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Joan+of+Arc",
+  "download_url": "",
+  "citation": "Library of Congress, depiction of Joan of Arc.",
+  "alt_text": "Engraving of Joan of Arc in armor carrying a banner.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.39",
+  "title": "The Alhambra, Granada (photograph/print)",
+  "type": "photograph",
+  "creator": "Various",
+  "year": "c. 1860-1920",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Alhambra+Granada+Spain",
+  "download_url": "",
+  "citation": "Library of Congress, view of the Alhambra, Granada.",
+  "alt_text": "Moorish palace of the Alhambra, last Muslim stronghold before the Reconquista.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.39",
+  "title": "Portraits / heraldry of Ferdinand and Isabella",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1490-1600",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Ferdinand+Isabella+Spain+Catholic+monarchs",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, image of the Catholic Monarchs of Spain.",
+  "alt_text": "Portrait or emblem of Ferdinand and Isabella of Spain.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.40",
+  "title": "Historic map / view of Venice and the Italian Peninsula",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1500-1700",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+italy+venice+italian+peninsula",
+  "download_url": "",
+  "citation": "Library of Congress, historic map/view of Italy.",
+  "alt_text": "Old map showing Italy's peninsula and Mediterranean trade cities.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.40",
+  "title": "Venetian trade object (glass or textile)",
+  "type": "artifact",
+  "creator": "Unknown (Venice)",
+  "year": "c. 1400-1550",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Venetian+glass+Renaissance+trade",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Venetian trade good.",
+  "alt_text": "Fine Venetian glass vessel produced for Mediterranean trade.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.41",
+  "title": "Portrait of a Medici family member",
+  "type": "painting",
+  "creator": "Florentine school",
+  "year": "c. 1450-1550",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Medici+portrait+Florence+Renaissance",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Medici-era Florentine portrait.",
+  "alt_text": "Renaissance portrait of a member of Florence's Medici family.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.41",
+  "title": "View of Florence (Nuremberg Chronicle / early print)",
+  "type": "print",
+  "creator": "Hartmann Schedel (Nuremberg Chronicle)",
+  "year": "1493",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Florence+view+Nuremberg+Chronicle",
+  "download_url": "",
+  "citation": "Library of Congress, early printed view of Florence.",
+  "alt_text": "Woodcut cityscape of Renaissance Florence with its cathedral dome.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.42",
+  "title": "Manuscript of Thomas Aquinas's Summa Theologica",
+  "type": "manuscript",
+  "creator": "Thomas Aquinas",
+  "year": "c. 1265-1274 (later copies/printings)",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Thomas+Aquinas+Summa+Theologica&type=all",
+  "download_url": "",
+  "citation": "HathiTrust, Summa Theologica of Thomas Aquinas.",
+  "alt_text": "Page of Aquinas's Summa Theologica reconciling faith and reason.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.42",
+  "title": "Printed Renaissance humanist text",
+  "type": "printed book",
+  "creator": "Various humanists",
+  "year": "c. 1470-1550",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Renaissance+humanism+Petrarch+Erasmus&type=all",
+  "download_url": "",
+  "citation": "HathiTrust, Renaissance humanist printed work.",
+  "alt_text": "Title page of an early printed Renaissance humanist book.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.43",
+  "title": "Michelangelo drawing (Studies for the Libyan Sibyl)",
+  "type": "drawing",
+  "creator": "Michelangelo Buonarroti",
+  "year": "c. 1510-1511",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Michelangelo+Studies+Libyan+Sibyl",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Michelangelo, Studies for the Libyan Sibyl.",
+  "alt_text": "Red-chalk anatomical study drawing by Michelangelo.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.43",
+  "title": "Shakespeare, First Folio (1623)",
+  "type": "printed book",
+  "creator": "William Shakespeare",
+  "year": "1623",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Shakespeare+First+Folio+1623",
+  "download_url": "",
+  "citation": "Library of Congress, Shakespeare's First Folio.",
+  "alt_text": "Title page of the 1623 First Folio of Shakespeare's plays.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.44",
+  "title": "Gutenberg Bible (c. 1455)",
+  "type": "printed book",
+  "creator": "Johannes Gutenberg",
+  "year": "c. 1455",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Gutenberg+Bible",
+  "download_url": "",
+  "citation": "Library of Congress, Gutenberg Bible.",
+  "alt_text": "Page of the Gutenberg Bible, the first major printed book in Europe.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.44",
+  "title": "Tyndale New Testament (English translation)",
+  "type": "printed book",
+  "creator": "William Tyndale",
+  "year": "c. 1525-1536",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Tyndale+New+Testament+English&type=all",
+  "download_url": "",
+  "citation": "HathiTrust, Tyndale's English New Testament.",
+  "alt_text": "Page of William Tyndale's early printed English Bible translation.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.45",
+  "title": "Portrait of Martin Luther",
+  "type": "painting",
+  "creator": "Lucas Cranach the Elder",
+  "year": "c. 1528-1546",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Cranach+Martin+Luther+portrait",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Cranach portrait of Martin Luther.",
+  "alt_text": "Painted portrait of the reformer Martin Luther in dark robes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.45",
+  "title": "Luther's Ninety-Five Theses (printed)",
+  "type": "printed book",
+  "creator": "Martin Luther",
+  "year": "1517 (later printings)",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Luther+Ninety-Five+Theses+indulgences&type=all",
+  "download_url": "",
+  "citation": "HathiTrust, Martin Luther's Ninety-Five Theses.",
+  "alt_text": "Printed text of Luther's 95 Theses against the sale of indulgences.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.46",
+  "title": "Luther Bible (German translation)",
+  "type": "printed book",
+  "creator": "Martin Luther",
+  "year": "c. 1534",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Luther+Bible+German+1534&type=all",
+  "download_url": "",
+  "citation": "HathiTrust, Luther's German Bible.",
+  "alt_text": "Page from Luther's German-language Bible emphasizing scripture alone.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.46",
+  "title": "Portrait of John Calvin",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1550-1600",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=John+Calvin+portrait+reformer",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, portrait of John Calvin.",
+  "alt_text": "Engraved portrait of the reformer John Calvin.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.47",
+  "title": "Portrait of Henry VIII of England",
+  "type": "painting",
+  "creator": "After Hans Holbein the Younger",
+  "year": "c. 1537-1600",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Henry+VIII+portrait+England",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, portrait of Henry VIII.",
+  "alt_text": "Portrait of King Henry VIII in richly embroidered Tudor dress.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.47",
+  "title": "Portrait / coinage of Mary I of England",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1553-1600",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Mary+I+Tudor+queen+England+portrait",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, image of Mary I of England.",
+  "alt_text": "Portrait or coin of Queen Mary I, who restored Catholicism.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.48",
+  "title": "Portrait of St. Ignatius of Loyola",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1550-1650",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Ignatius+Loyola+Jesuit+portrait",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, image of Ignatius of Loyola.",
+  "alt_text": "Engraved portrait of Ignatius of Loyola, founder of the Jesuits.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.48",
+  "title": "Council of Trent (print / decrees)",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1545-1600",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Council+of+Trent",
+  "download_url": "",
+  "citation": "Library of Congress, image/decrees of the Council of Trent.",
+  "alt_text": "Engraving of the assembled churchmen at the Council of Trent.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.49",
+  "title": "Portrait of Queen Elizabeth I",
+  "type": "painting",
+  "creator": "English school",
+  "year": "c. 1580-1600",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Elizabeth+I+portrait+Tudor",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, portrait of Elizabeth I.",
+  "alt_text": "Portrait of Queen Elizabeth I in an ornate ruff and jeweled gown.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.49",
+  "title": "The Spanish Armada (map / commemorative print or medal)",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1588-1620",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Spanish+Armada+1588",
+  "download_url": "",
+  "citation": "Library of Congress, depiction of the Spanish Armada, 1588.",
+  "alt_text": "Engraving or chart of the 1588 English defeat of the Spanish Armada.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.50",
+  "title": "Copernicus, De revolutionibus orbium coelestium",
+  "type": "printed book",
+  "creator": "Nicolaus Copernicus",
+  "year": "1543",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Copernicus+De+revolutionibus",
+  "download_url": "",
+  "citation": "Library of Congress, Copernicus's De revolutionibus.",
+  "alt_text": "Diagram of the heliocentric solar system from Copernicus's 1543 book.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.50",
+  "title": "Armillary sphere / celestial model",
+  "type": "scientific instrument",
+  "creator": "Unknown",
+  "year": "c. 1550-1650",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=armillary+sphere+celestial+globe",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, armillary sphere.",
+  "alt_text": "Brass armillary sphere modeling the motions of the heavens.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.51",
+  "title": "Galileo, Sidereus Nuncius (Starry Messenger)",
+  "type": "printed book",
+  "creator": "Galileo Galilei",
+  "year": "1610",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Galileo+Sidereus+Nuncius",
+  "download_url": "",
+  "citation": "Library of Congress, Galileo's Sidereus Nuncius.",
+  "alt_text": "Galileo's engraved drawings of the Moon and Jupiter's moons.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.51",
+  "title": "Early telescope / microscope instrument",
+  "type": "scientific instrument",
+  "creator": "Unknown",
+  "year": "c. 1610-1700",
+  "repository": "Smithsonian (National Museum of American History)",
+  "rights": "CC0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=early+telescope+microscope+17th+century",
+  "download_url": "",
+  "citation": "Smithsonian, early telescope/microscope.",
+  "alt_text": "Antique optical instrument like those Galileo improved.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.52",
+  "title": "Newton, Philosophiae Naturalis Principia Mathematica",
+  "type": "printed book",
+  "creator": "Sir Isaac Newton",
+  "year": "1687",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Newton+Principia+Mathematica",
+  "download_url": "",
+  "citation": "Library of Congress, Newton's Principia Mathematica.",
+  "alt_text": "Title page of Newton's Principia, stating the laws of motion.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.52",
+  "title": "Francis Bacon, Novum Organum",
+  "type": "printed book",
+  "creator": "Sir Francis Bacon",
+  "year": "1620",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Francis+Bacon+Novum+Organum&type=all",
+  "download_url": "",
+  "citation": "HathiTrust, Bacon's Novum Organum.",
+  "alt_text": "Title page of Bacon's Novum Organum outlining the scientific method.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.53",
+  "title": "Waldseemuller / early map of the Americas",
+  "type": "map",
+  "creator": "Martin Waldseemuller (and successors)",
+  "year": "1507 (and later maps)",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Waldseemuller+map+America+1507",
+  "download_url": "",
+  "citation": "Library of Congress, early map of the Americas.",
+  "alt_text": "Early 16th-century map naming and depicting the American continents.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.53",
+  "title": "Historic map of North and South America",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1600-1800",
+  "repository": "New York Public Library Digital Collections",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=map+north+south+america",
+  "download_url": "",
+  "citation": "NYPL Digital Collections, historic map of the Americas.",
+  "alt_text": "Old map showing the Andes, Rockies, Mississippi River, and coastlines.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.01"
+   ]
+  }
+ },
+ {
+  "standard": "7.54",
+  "title": "North American Indian object (Northeast/Southeast/Plains)",
+  "type": "artifact",
+  "creator": "Unknown (Native North American)",
+  "year": "c. 1500-1850",
+  "repository": "Smithsonian (National Museum of the American Indian)",
+  "rights": "CC0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=Plains+Woodland+Native+American+clothing+housing",
+  "download_url": "",
+  "citation": "Smithsonian NMAI, Native North American artifact.",
+  "alt_text": "Native North American clothing or tool shaped by regional environment.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.54",
+  "title": "Depiction of Eastern Woodland / Plains Indian life",
+  "type": "print",
+  "creator": "Theodor de Bry (after John White)",
+  "year": "c. 1590",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=de+Bry+John+White+Indian+village+Virginia",
+  "download_url": "",
+  "citation": "Library of Congress, de Bry engraving of Native American life.",
+  "alt_text": "16th-century engraving of a Native American village with houses and fields.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.55",
+  "title": "Wampum belt / Native diplomatic object",
+  "type": "artifact",
+  "creator": "Unknown (Eastern Woodlands)",
+  "year": "c. 1600-1800",
+  "repository": "Smithsonian (National Museum of the American Indian)",
+  "rights": "CC0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=wampum+belt+Haudenosaunee",
+  "download_url": "",
+  "citation": "Smithsonian NMAI, wampum belt.",
+  "alt_text": "Beaded wampum belt used in Native political and diplomatic exchange.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.55",
+  "title": "Map of North American Indian nations / languages",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1700-1900",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+Indian+tribes+north+america+languages",
+  "download_url": "",
+  "citation": "Library of Congress, map of Native American nations.",
+  "alt_text": "Map showing the distribution of Native American nations and language groups.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.56",
+  "title": "Machu Picchu / Inca terraces (photograph)",
+  "type": "photograph",
+  "creator": "Various",
+  "year": "c. 1911-1925",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Machu+Picchu+Inca+terraces",
+  "download_url": "",
+  "citation": "Library of Congress, photograph of Inca terraces at Machu Picchu.",
+  "alt_text": "Mountainside Inca agricultural terraces adapted to steep Andean terrain.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.56",
+  "title": "Maya / Aztec agricultural or landscape artifact",
+  "type": "artifact",
+  "creator": "Unknown (Mesoamerican)",
+  "year": "c. 600-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Maya+Aztec+agriculture+maize",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Mesoamerican object.",
+  "alt_text": "Mesoamerican artifact relating to maize agriculture and settlement.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.57",
+  "title": "Aztec / Maya sculpture (deity or ruler)",
+  "type": "sculpture",
+  "creator": "Unknown (Aztec/Maya)",
+  "year": "c. 600-1500",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Aztec+Maya+stone+sculpture+deity",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Aztec/Maya stone sculpture.",
+  "alt_text": "Carved stone Mesoamerican figure of a deity or ruler.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.57",
+  "title": "Inca quipu (knotted record-keeping cords)",
+  "type": "artifact",
+  "creator": "Unknown (Inca)",
+  "year": "c. 1400-1532",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Inca+quipu+khipu",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Inca quipu.",
+  "alt_text": "Bundle of knotted colored cords used by the Inca to record data.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.58",
+  "title": "Age of Exploration world map / portolan chart",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1500-1600",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=age+of+exploration+world+map+16th+century",
+  "download_url": "",
+  "citation": "Library of Congress, 16th-century world map.",
+  "alt_text": "Early modern world map used to plan voyages of exploration.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.58",
+  "title": "Engraving of European merchant / trading ship",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1550-1650",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=exploration+merchant+ship+engraving",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, engraving of a trading ship.",
+  "alt_text": "Engraving of a European sailing ship used in exploration and trade.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.59",
+  "title": "Map of the voyages of discovery",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1550-1700",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=voyages+discovery+explorers+routes+map",
+  "download_url": "",
+  "citation": "Library of Congress, map of explorers' routes.",
+  "alt_text": "Map tracing the ocean routes of Columbus, Magellan, and da Gama.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.59",
+  "title": "Portrait / engraving of a European explorer",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1550-1700",
+  "repository": "New York Public Library Digital Collections",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=explorer+Columbus+Magellan+portrait",
+  "download_url": "",
+  "citation": "NYPL Digital Collections, portrait of an Age of Discovery explorer.",
+  "alt_text": "Engraved portrait of a 15th-16th century European explorer.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.60",
+  "title": "Mariner's astrolabe / navigation instrument",
+  "type": "scientific instrument",
+  "creator": "Unknown",
+  "year": "c. 1500-1650",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=astrolabe+navigation+mariner",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, navigational astrolabe.",
+  "alt_text": "Brass mariner's astrolabe used to determine latitude at sea.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.60",
+  "title": "Harrison's marine chronometer",
+  "type": "scientific instrument",
+  "creator": "After John Harrison",
+  "year": "c. 1760-1800",
+  "repository": "Smithsonian (National Museum of American History)",
+  "rights": "CC0",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=marine+chronometer+Harrison+navigation",
+  "download_url": "",
+  "citation": "Smithsonian, marine chronometer.",
+  "alt_text": "Precision marine chronometer used to find longitude at sea.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.61",
+  "title": "Map of European colonies in the Americas",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1600-1750",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+european+colonies+america+new+france+new+spain",
+  "download_url": "",
+  "citation": "Library of Congress, map of colonial America.",
+  "alt_text": "Map showing French, Spanish, English, Portuguese, and Dutch colonies.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.61",
+  "title": "Early view of a colonial settlement",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1600-1700",
+  "repository": "New York Public Library Digital Collections",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=colonial+settlement+america+17th+century",
+  "download_url": "",
+  "citation": "NYPL Digital Collections, view of a colonial settlement.",
+  "alt_text": "Engraving of an early European colonial town in the Americas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.62",
+  "title": "Florentine Codex / Lienzo depicting the Spanish conquest",
+  "type": "manuscript",
+  "creator": "Bernardino de Sahagun (and Nahua artists)",
+  "year": "c. 1540-1585",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Florentine+Codex+conquest+Mexico+Cortes",
+  "download_url": "",
+  "citation": "Library of Congress, image from the Florentine Codex.",
+  "alt_text": "Indigenous manuscript image of Aztec and Spanish forces in battle.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.62",
+  "title": "Engraving of the conquest of the Inca / Aztec",
+  "type": "print",
+  "creator": "Theodor de Bry",
+  "year": "c. 1590-1620",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=de+Bry+conquest+Pizarro+Cortes+Peru",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, de Bry engraving of the conquest.",
+  "alt_text": "Engraving of Spanish conquistadors confronting Aztec or Inca peoples.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.63",
+  "title": "Map of Catholic and Protestant Europe",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1600-1750",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+religion+catholic+protestant+europe+reformation",
+  "download_url": "",
+  "citation": "Library of Congress, map of religious divisions in Europe.",
+  "alt_text": "Map showing which regions of Europe were Catholic and which Protestant.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.63",
+  "title": "Map of colonial religion in the Americas",
+  "type": "map",
+  "creator": "Unknown cartographer",
+  "year": "c. 1650-1800",
+  "repository": "New York Public Library Digital Collections",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=colonial+america+religion+catholic+protestant+map",
+  "download_url": "",
+  "citation": "NYPL Digital Collections, map of colonial America.",
+  "alt_text": "Map linking European colonizers to religious settlement in the Americas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.06",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.64",
+  "title": "Botanical illustration of New World plants (Columbian Exchange)",
+  "type": "print",
+  "creator": "Unknown",
+  "year": "c. 1550-1700",
+  "repository": "Smithsonian",
+  "rights": "CC0 / Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=maize+potato+tobacco+Columbian+exchange+botanical",
+  "download_url": "",
+  "citation": "Smithsonian, botanical illustration of New World crops.",
+  "alt_text": "Early illustration of maize, potatoes, or tobacco from the Americas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.64",
+  "title": "Early herbal / natural history of the Americas",
+  "type": "printed book",
+  "creator": "Various (e.g., after Oviedo/Monardes)",
+  "year": "c. 1535-1650",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public Domain",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=natural+history+west+indies+new+world+plants&type=all",
+  "download_url": "",
+  "citation": "HathiTrust, early natural history of the New World.",
+  "alt_text": "Page of an early printed natural history describing American plants and animals.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.65",
+  "title": "Las Casas, Brevisima relacion de la destruccion de las Indias (de Bry engravings)",
+  "type": "printed book",
+  "creator": "Bartolome de las Casas; Theodor de Bry (illustrations)",
+  "year": "1552 (text); 1598 (de Bry edition)",
+  "repository": "Library of Congress",
+  "rights": "Public Domain (no known restrictions)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Las+Casas+Brevisima+relacion+destruction+indies",
+  "download_url": "",
+  "citation": "Library of Congress, Las Casas's account of the destruction of the Indies.",
+  "alt_text": "Engraving from Las Casas's book depicting Spanish treatment of Native peoples.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "7.65",
+  "title": "Spanish colonial mission / casta painting",
+  "type": "painting",
+  "creator": "Unknown (Spanish colonial)",
+  "year": "c. 1600-1750",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "CC0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Spanish+colonial+mission+casta+painting",
+  "download_url": "",
+  "citation": "The Metropolitan Museum of Art, Spanish colonial painting.",
+  "alt_text": "Spanish colonial painting depicting mission life or colonial social castes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ }
+]

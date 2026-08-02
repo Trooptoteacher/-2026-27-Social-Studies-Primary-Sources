@@ -1,0 +1,2779 @@
+[
+ {
+  "standard": "6.01",
+  "title": "Fasti Antiates Maiores (Roman calendar / consular dating inscription)",
+  "type": "inscription",
+  "creator": "Ancient Roman (unknown)",
+  "year": "c. 60 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=roman+calendar+inscription+fasti",
+  "download_url": "",
+  "citation": "Roman calendar inscription (Fasti), c. 60 BCE. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Ancient Roman stone slab carved with grid-like columns of month and day markings used to track the calendar year.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.01",
+  "title": "Egyptian astronomical / calendrical ceiling or water clock (clepsydra)",
+  "type": "artifact",
+  "creator": "Ancient Egyptian (unknown)",
+  "year": "c. 1400-300 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=egyptian+water+clock+clepsydra+calendar",
+  "download_url": "",
+  "citation": "Egyptian water clock (clepsydra), New Kingdom / Late Period. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Ancient Egyptian carved stone or bronze vessel used to measure the passage of hours by draining water.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.02",
+  "title": "Paleolithic hand axe (Acheulean stone tool)",
+  "type": "artifact",
+  "creator": "Prehistoric hunter-gatherer (unknown)",
+  "year": "c. 1,000,000-100,000 BP",
+  "repository": "Smithsonian",
+  "rights": "Public Domain / CC0 (Smithsonian Open Access, verify item)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=paleolithic+hand+axe+stone+tool",
+  "download_url": "",
+  "citation": "Paleolithic hand axe, Smithsonian National Museum of Natural History, Human Origins collection.",
+  "alt_text": "Teardrop-shaped chipped stone hand axe with sharpened flaked edges made by early humans.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.02",
+  "title": "Neolithic flint spear point / scraper",
+  "type": "artifact",
+  "creator": "Prehistoric hunter-gatherer (unknown)",
+  "year": "c. 10,000-5000 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=flint+spear+point+neolithic",
+  "download_url": "",
+  "citation": "Flint projectile point, Neolithic. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Sharpened flint spear point knapped to a fine edge for hunting.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.03",
+  "title": "Neolithic sickle blade and grinding stone (early agriculture)",
+  "type": "artifact",
+  "creator": "Neolithic farmer (unknown)",
+  "year": "c. 8000-4000 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=neolithic+sickle+grinding+stone",
+  "download_url": "",
+  "citation": "Neolithic sickle blade / grinding stone. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Ancient curved harvesting blade set with flint teeth and a stone quern used to grind grain.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.03",
+  "title": "Early Neolithic pottery vessel (settled village life / food storage)",
+  "type": "artifact",
+  "creator": "Neolithic potter (unknown)",
+  "year": "c. 6000-4000 BCE",
+  "repository": "Smithsonian",
+  "rights": "Public Domain / CC0 (Smithsonian Open Access, verify item)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=neolithic+pottery+vessel",
+  "download_url": "",
+  "citation": "Neolithic storage jar, Smithsonian National Museum of Asian Art.",
+  "alt_text": "Hand-built clay storage jar from an early farming village used to hold grain surplus.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.04",
+  "title": "Sumerian cuneiform administrative tablet (writing + government)",
+  "type": "inscription",
+  "creator": "Sumerian scribe (unknown)",
+  "year": "c. 3100-2000 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=cuneiform+tablet+sumerian",
+  "download_url": "",
+  "citation": "Cuneiform administrative tablet, Sumerian. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Small clay tablet impressed with wedge-shaped cuneiform signs recording goods and quantities.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.04",
+  "title": "Mesopotamian cylinder seal and modern impression",
+  "type": "artifact",
+  "creator": "Mesopotamian (unknown)",
+  "year": "c. 3000-2000 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=cylinder+seal+mesopotamia",
+  "download_url": "",
+  "citation": "Cylinder seal with impression, Mesopotamian. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Small carved stone cylinder and the raised clay impression it produces showing figures and symbols.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.05",
+  "title": "Historical map of ancient Mesopotamia / the Fertile Crescent",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "19th-early 20th c.",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+ancient+mesopotamia+tigris+euphrates",
+  "download_url": "",
+  "citation": "Map of ancient Mesopotamia, Library of Congress Geography and Map Division.",
+  "alt_text": "Historical map showing the Tigris and Euphrates rivers, the Persian Gulf, and surrounding mountains.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.05",
+  "title": "Antique map of the Near East / Mesopotamia region",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "18th-19th c.",
+  "repository": "NYPL",
+  "rights": "Public Domain (NYPL Digital Collections)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=map+mesopotamia+tigris+euphrates",
+  "download_url": "",
+  "citation": "Map of Mesopotamia and the Near East, The New York Public Library Digital Collections.",
+  "alt_text": "Old printed map of the region between the Tigris and Euphrates rivers labeled in period script.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.06",
+  "title": "Historical physical map of the Fertile Crescent",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "19th-early 20th c.",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=fertile+crescent+map",
+  "download_url": "",
+  "citation": "Map of the Fertile Crescent, Library of Congress Geography and Map Division.",
+  "alt_text": "Crescent-shaped band of fertile river land arcing from the Persian Gulf to the Mediterranean.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.06",
+  "title": "Sumerian votive plaque depicting agriculture / offerings",
+  "type": "artifact",
+  "creator": "Sumerian (unknown)",
+  "year": "c. 2600-2350 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=sumerian+votive+relief+offering",
+  "download_url": "",
+  "citation": "Sumerian votive relief, Early Dynastic. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Carved stone plaque showing figures bearing agricultural offerings.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.07",
+  "title": "Mesopotamian model / depiction of a wheeled cart or plow",
+  "type": "artifact",
+  "creator": "Mesopotamian (unknown)",
+  "year": "c. 3000-2000 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=mesopotamia+wheel+chariot+model",
+  "download_url": "",
+  "citation": "Model of a wheeled vehicle, Mesopotamian. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Terracotta model of an early wheeled cart illustrating the invention of the wheel.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.07",
+  "title": "Bronze/copper tools from ancient Mesopotamia (metallurgy)",
+  "type": "artifact",
+  "creator": "Mesopotamian (unknown)",
+  "year": "c. 3000-1500 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=mesopotamia+bronze+tool+axe",
+  "download_url": "",
+  "citation": "Bronze tools, Mesopotamian. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Cast copper-alloy axe heads and implements showing early metallurgy.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.08",
+  "title": "Sumerian votive statue from a temple (city-state religion/economy)",
+  "type": "sculpture",
+  "creator": "Sumerian (unknown)",
+  "year": "c. 2900-2600 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=sumerian+standing+male+worshiper+statue",
+  "download_url": "",
+  "citation": "Standing male worshiper, Sumerian, Early Dynastic. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Small stone statue of a standing worshiper with clasped hands and large inlaid eyes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.08",
+  "title": "Cylinder seal depicting trade / banquet scene",
+  "type": "artifact",
+  "creator": "Sumerian (unknown)",
+  "year": "c. 2600-2350 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=cylinder+seal+banquet+sumerian",
+  "download_url": "",
+  "citation": "Cylinder seal, Early Dynastic. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Carved seal impression showing seated figures at a banquet, reflecting economic surplus.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.09",
+  "title": "Head of an Akkadian ruler / Akkadian royal sculpture (first empire)",
+  "type": "sculpture",
+  "creator": "Akkadian (unknown)",
+  "year": "c. 2300-2200 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=akkadian+ruler+sculpture",
+  "download_url": "",
+  "citation": "Akkadian royal sculpture, Akkadian period. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Bronze or stone head of an Akkadian king with braided beard, symbol of imperial monarchy.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.09",
+  "title": "Assyrian royal relief from a palace (imperial power)",
+  "type": "relief",
+  "creator": "Assyrian (unknown)",
+  "year": "c. 883-859 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=assyrian+palace+relief+ashurnasirpal",
+  "download_url": "",
+  "citation": "Assyrian palace relief of Ashurnasirpal II, Nimrud. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Carved alabaster panel showing an enthroned Assyrian king with attendants.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.10",
+  "title": "Cylinder seal with Mesopotamian deities (polytheism)",
+  "type": "artifact",
+  "creator": "Mesopotamian (unknown)",
+  "year": "c. 2300-1800 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=cylinder+seal+god+deity+mesopotamia",
+  "download_url": "",
+  "citation": "Cylinder seal with presentation to a deity, Akkadian. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Seal impression showing a worshiper led before a seated Mesopotamian god.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.10",
+  "title": "Statuette of a Mesopotamian deity or demon (Pazuzu / god figure)",
+  "type": "sculpture",
+  "creator": "Mesopotamian (unknown)",
+  "year": "c. 1000-500 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=mesopotamian+deity+statuette+pazuzu",
+  "download_url": "",
+  "citation": "Statuette of a deity, Mesopotamian. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Small bronze figure of a Mesopotamian supernatural being tied to everyday belief.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.11",
+  "title": "Cuneiform clay tablet (writing achievement)",
+  "type": "inscription",
+  "creator": "Babylonian/Sumerian scribe (unknown)",
+  "year": "c. 2000-1700 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=cuneiform+tablet",
+  "download_url": "",
+  "citation": "Cuneiform tablet. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Clay tablet densely covered in wedge-shaped cuneiform script.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.11",
+  "title": "Inscribed foundation cone / brick from a ziggurat",
+  "type": "artifact",
+  "creator": "Sumerian/Babylonian (unknown)",
+  "year": "c. 2100-1800 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=foundation+cone+brick+cuneiform+ziggurat",
+  "download_url": "",
+  "citation": "Inscribed foundation cone, Mesopotamian. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Clay cone or brick stamped with cuneiform commemorating a temple or ziggurat's construction.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.12",
+  "title": "Cast of the Law Code of Hammurabi stele",
+  "type": "inscription",
+  "creator": "Babylonian (reign of Hammurabi)",
+  "year": "c. 1754 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=hammurabi+law+code+cast+stele",
+  "download_url": "",
+  "citation": "Cast of the stele of Hammurabi's law code. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Tall black stone stele topped by a relief of Hammurabi before a god, covered in cuneiform laws.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.12",
+  "title": "Babylonian cuneiform legal / contract tablet",
+  "type": "inscription",
+  "creator": "Babylonian scribe (unknown)",
+  "year": "c. 1800-1600 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=babylonian+legal+contract+tablet+cuneiform",
+  "download_url": "",
+  "citation": "Cuneiform legal contract tablet, Old Babylonian. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Clay tablet recording a legal contract in cuneiform with witness seals.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.13",
+  "title": "Historical map of ancient Egypt and the Nile",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "19th-early 20th c.",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+ancient+egypt+nile",
+  "download_url": "",
+  "citation": "Map of ancient Egypt, Library of Congress Geography and Map Division.",
+  "alt_text": "Historical map showing the Nile River, delta, Upper and Lower Egypt, and the Red and Mediterranean Seas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.13",
+  "title": "Antique map of Egypt and the Nile Valley",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "18th-19th c.",
+  "repository": "NYPL",
+  "rights": "Public Domain (NYPL Digital Collections)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=map+egypt+nile",
+  "download_url": "",
+  "citation": "Map of Egypt, The New York Public Library Digital Collections.",
+  "alt_text": "Old printed map of Egypt tracing the Nile from the cataracts to the Mediterranean delta.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.14",
+  "title": "Egyptian tomb model of a granary or plowing scene",
+  "type": "artifact",
+  "creator": "Ancient Egyptian (unknown)",
+  "year": "c. 1981-1885 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=egyptian+model+granary+plowing",
+  "download_url": "",
+  "citation": "Model granary from a tomb, Middle Kingdom. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Painted wooden model of workers measuring and storing grain in an Egyptian granary.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.14",
+  "title": "Tomb relief of Nile agricultural / harvest scene",
+  "type": "relief",
+  "creator": "Ancient Egyptian (unknown)",
+  "year": "c. 1400-1300 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=egyptian+harvest+relief+agriculture",
+  "download_url": "",
+  "citation": "Relief of agricultural scene, New Kingdom. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Carved and painted relief showing Egyptians sowing, plowing, and harvesting grain by the Nile.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.15",
+  "title": "Egyptian tomb model of workers / scribes (social hierarchy)",
+  "type": "artifact",
+  "creator": "Ancient Egyptian (unknown)",
+  "year": "c. 1981-1885 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=egyptian+model+scribe+workers+offering+bearers",
+  "download_url": "",
+  "citation": "Tomb model of laborers / offering bearers, Middle Kingdom. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Painted wooden figures of Egyptian laborers and a scribe representing different social classes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.15",
+  "title": "Seated statue of an Egyptian scribe / official",
+  "type": "sculpture",
+  "creator": "Ancient Egyptian (unknown)",
+  "year": "c. 2400-1900 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=egyptian+scribe+statue+official",
+  "download_url": "",
+  "citation": "Statue of a seated scribe/official. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Stone statue of a cross-legged Egyptian scribe, a high-status literate official.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.16",
+  "title": "Egyptian Book of the Dead papyrus",
+  "type": "manuscript",
+  "creator": "Ancient Egyptian (unknown)",
+  "year": "c. 1300-1000 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=book+of+the+dead+papyrus",
+  "download_url": "",
+  "citation": "Book of the Dead papyrus, New Kingdom / Third Intermediate Period. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Painted papyrus scroll showing the weighing of the heart and the journey to the afterlife.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.16",
+  "title": "Egyptian canopic jars / coffin (mummification)",
+  "type": "artifact",
+  "creator": "Ancient Egyptian (unknown)",
+  "year": "c. 1000-700 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=canopic+jars+coffin+mummy",
+  "download_url": "",
+  "citation": "Set of canopic jars, Egyptian. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Four canopic jars with animal- and human-headed lids used to store organs during mummification.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.17",
+  "title": "Seated statue of Queen Hatshepsut",
+  "type": "sculpture",
+  "creator": "Ancient Egyptian (unknown)",
+  "year": "c. 1479-1458 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=hatshepsut+statue",
+  "download_url": "",
+  "citation": "Statue of Hatshepsut, New Kingdom. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Large limestone statue of the female pharaoh Hatshepsut seated in royal regalia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.17",
+  "title": "Statue / relief of Ramses II (Ramses the Great)",
+  "type": "sculpture",
+  "creator": "Ancient Egyptian (unknown)",
+  "year": "c. 1279-1213 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=ramesses+ramses+ii+statue+relief",
+  "download_url": "",
+  "citation": "Sculpture of Ramesses II, New Kingdom. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Carved image of the pharaoh Ramses the Great in royal crown and regalia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.18",
+  "title": "Egyptian relief with hieroglyphic inscription",
+  "type": "relief",
+  "creator": "Ancient Egyptian (unknown)",
+  "year": "c. 1350-1200 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=egyptian+relief+hieroglyphs",
+  "download_url": "",
+  "citation": "Relief with hieroglyphic inscription, New Kingdom. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Carved stone panel covered in Egyptian hieroglyphic writing and figures.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.18",
+  "title": "Historic photograph of the Pyramids and Great Sphinx at Giza",
+  "type": "photograph",
+  "creator": "19th-c. photographer (e.g., Bonfils / Frith)",
+  "year": "c. 1860-1900",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=sphinx+pyramids+giza+photograph",
+  "download_url": "",
+  "citation": "Photograph of the Sphinx and pyramids at Giza, Library of Congress Prints and Photographs Division.",
+  "alt_text": "Vintage photograph of the Great Sphinx before the pyramids of Giza.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.19",
+  "title": "Nubian (Kushite) artifact from ancient Egypt / Nubia",
+  "type": "artifact",
+  "creator": "Nubian / Kushite (unknown)",
+  "year": "c. 1000-300 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=nubia+kush+egypt",
+  "download_url": "",
+  "citation": "Nubian (Kushite) object, Napatan/Meroitic. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Ancient Nubian artifact reflecting cultural exchange between Egypt and Nubia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.19",
+  "title": "Statue of a Kushite pharaoh / Nubian ruler",
+  "type": "sculpture",
+  "creator": "Nubian / Kushite (unknown)",
+  "year": "c. 713-664 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=kushite+pharaoh+sphinx+taharqa",
+  "download_url": "",
+  "citation": "Kushite royal sculpture, Twenty-fifth Dynasty. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Statue of a Nubian (Kushite) pharaoh in Egyptian royal style.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.20",
+  "title": "Historical map of ancient Israel / the Holy Land",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "18th-19th c.",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+ancient+israel+holy+land+palestine",
+  "download_url": "",
+  "citation": "Map of ancient Israel / the Holy Land, Library of Congress Geography and Map Division.",
+  "alt_text": "Historical map showing Jerusalem, the Jordan River, Dead Sea, Red Sea, and Sinai Peninsula.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.20",
+  "title": "Antique map of the Holy Land / ancient Canaan",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "17th-19th c.",
+  "repository": "NYPL",
+  "rights": "Public Domain (NYPL Digital Collections)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=map+holy+land+canaan+israel",
+  "download_url": "",
+  "citation": "Map of the Holy Land, The New York Public Library Digital Collections.",
+  "alt_text": "Old printed map of ancient Canaan/Israel with the twelve tribes and the Jordan valley.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.21",
+  "title": "Historical map of the Exodus / Israelite migrations",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "18th-19th c.",
+  "repository": "NYPL",
+  "rights": "Public Domain (NYPL Digital Collections)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=map+exodus+canaan+wandering",
+  "download_url": "",
+  "citation": "Map of the Exodus and Israelite journeys, The New York Public Library Digital Collections.",
+  "alt_text": "Historical map tracing routes from Mesopotamia to Canaan, Canaan to Egypt, and the Exodus back.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.21",
+  "title": "Canaanite artifact from the Levant (Bronze Age)",
+  "type": "artifact",
+  "creator": "Canaanite (unknown)",
+  "year": "c. 1800-1200 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=canaanite+levant+bronze+age",
+  "download_url": "",
+  "citation": "Canaanite artifact, Middle/Late Bronze Age Levant. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Bronze Age object from Canaan, the land the Israelites settled.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.22",
+  "title": "Hebrew Bible (Tanakh) manuscript / Torah scroll",
+  "type": "manuscript",
+  "creator": "Jewish scribe (unknown)",
+  "year": "medieval manuscript of ancient text",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=hebrew+bible+torah+manuscript",
+  "download_url": "",
+  "citation": "Hebrew Bible manuscript, Library of Congress Hebraic Section.",
+  "alt_text": "Handwritten Hebrew scriptural manuscript, the sacred text of Judaism.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.22",
+  "title": "Torah scroll or Decalogue (Ten Commandments) plaque",
+  "type": "manuscript",
+  "creator": "Jewish artisan/scribe (unknown)",
+  "year": "varies",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=torah+judaica+ten+commandments",
+  "download_url": "",
+  "citation": "Judaica (Torah ornament / Decalogue plaque). The Metropolitan Museum of Art, New York.",
+  "alt_text": "Jewish ceremonial object associated with the Torah and the Ten Commandments.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.23",
+  "title": "Engraving of King Solomon's Temple in Jerusalem",
+  "type": "print",
+  "creator": "Engraver (varies)",
+  "year": "17th-19th c.",
+  "repository": "NYPL",
+  "rights": "Public Domain (NYPL Digital Collections)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=solomon+temple+jerusalem",
+  "download_url": "",
+  "citation": "Engraving of Solomon's Temple, The New York Public Library Digital Collections.",
+  "alt_text": "Historical engraving depicting the First Temple built by King Solomon in Jerusalem.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.23",
+  "title": "Historic photograph of Jerusalem / the Temple Mount",
+  "type": "photograph",
+  "creator": "19th-c. photographer (unknown)",
+  "year": "c. 1860-1900",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=jerusalem+temple+mount+photograph+matson",
+  "download_url": "",
+  "citation": "Photograph of Jerusalem and the Temple Mount, Library of Congress Prints and Photographs Division.",
+  "alt_text": "Vintage photograph of the walls and Temple Mount of Jerusalem, David's capital.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.24",
+  "title": "Glazed brick relief from Babylon (Ishtar Gate / Processional Way)",
+  "type": "relief",
+  "creator": "Neo-Babylonian (unknown)",
+  "year": "c. 604-562 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=babylon+glazed+brick+ishtar+lion",
+  "download_url": "",
+  "citation": "Glazed brick panel from Babylon, Neo-Babylonian. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Blue-glazed brick relief of a striding lion from the processional way of Babylon.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.24",
+  "title": "Achaemenid Persian relief / artifact (Persian Empire)",
+  "type": "relief",
+  "creator": "Achaemenid Persian (unknown)",
+  "year": "c. 550-330 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=achaemenid+persian+relief+persepolis",
+  "download_url": "",
+  "citation": "Achaemenid Persian relief, The Metropolitan Museum of Art, New York.",
+  "alt_text": "Carved relief of a Persian guard or tribute bearer from the Achaemenid Empire.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.25",
+  "title": "Historical map of ancient India / the Indian subcontinent",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "18th-19th c.",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+ancient+india+indus+ganges",
+  "download_url": "",
+  "citation": "Map of ancient India, Library of Congress Geography and Map Division.",
+  "alt_text": "Historical map showing the Indus and Ganges rivers, the Himalayas, and the Indian Ocean.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.25",
+  "title": "Antique map of India and the subcontinent",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "18th-19th c.",
+  "repository": "NYPL",
+  "rights": "Public Domain (NYPL Digital Collections)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=map+india+subcontinent",
+  "download_url": "",
+  "citation": "Map of India, The New York Public Library Digital Collections.",
+  "alt_text": "Old printed map of the Indian subcontinent showing rivers and mountain ranges.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.26",
+  "title": "Indus Valley (Harappan) stamp seal",
+  "type": "artifact",
+  "creator": "Harappan (unknown)",
+  "year": "c. 2600-1900 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=indus+valley+harappan+seal",
+  "download_url": "",
+  "citation": "Indus Valley stamp seal, Harappan. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Small square steatite seal carved with an animal and undeciphered Indus script.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.26",
+  "title": "Harappan pottery or terracotta figurine",
+  "type": "artifact",
+  "creator": "Harappan (unknown)",
+  "year": "c. 2600-1900 BCE",
+  "repository": "Smithsonian",
+  "rights": "Public Domain / CC0 (Smithsonian Open Access, verify item)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=indus+valley+harappan+pottery",
+  "download_url": "",
+  "citation": "Harappan pottery, Smithsonian National Museum of Asian Art.",
+  "alt_text": "Painted terracotta vessel or figurine from the Indus Valley civilization.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.27",
+  "title": "Indian painting depicting occupational / social groups",
+  "type": "painting",
+  "creator": "Indian artist (unknown)",
+  "year": "18th-19th c.",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=india+occupations+trades+painting",
+  "download_url": "",
+  "citation": "Indian painting of trades and occupations. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Painting showing members of different Indian occupational and social groups.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.27",
+  "title": "Company School painting of Indian castes and occupations",
+  "type": "painting",
+  "creator": "Indian artist (unknown)",
+  "year": "c. 1800-1870",
+  "repository": "NYPL",
+  "rights": "Public Domain (NYPL Digital Collections)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=india+castes+occupations",
+  "download_url": "",
+  "citation": "Illustrations of Indian castes and occupations, The New York Public Library Digital Collections.",
+  "alt_text": "Series of watercolor images depicting people of different Indian castes at their trades.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.28",
+  "title": "Hindu deity sculpture (Vishnu / Shiva)",
+  "type": "sculpture",
+  "creator": "Indian artist (unknown)",
+  "year": "c. 500-1200 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=hindu+deity+vishnu+shiva+sculpture",
+  "download_url": "",
+  "citation": "Sculpture of a Hindu deity, India. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Stone or bronze sculpture of a Hindu god such as Vishnu or Shiva.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.28",
+  "title": "Illustrated manuscript of the Vedas / Hindu sacred text",
+  "type": "manuscript",
+  "creator": "Indian scribe (unknown)",
+  "year": "manuscript of ancient text",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=hindu+manuscript+vedic+india",
+  "download_url": "",
+  "citation": "Hindu religious manuscript, India. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Palm-leaf or paper manuscript page of a Hindu sacred text.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.29",
+  "title": "Gandharan / Indian seated Buddha sculpture",
+  "type": "sculpture",
+  "creator": "Gandharan / Indian artist (unknown)",
+  "year": "c. 100-500 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=seated+buddha+gandhara+india",
+  "download_url": "",
+  "citation": "Seated Buddha, Gandhara / India. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Stone sculpture of the seated Buddha in meditation with a halo.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.29",
+  "title": "Buddhist stupa relief / scenes from the Buddha's life",
+  "type": "relief",
+  "creator": "Indian artist (unknown)",
+  "year": "c. 100 BCE-200 CE",
+  "repository": "Smithsonian",
+  "rights": "Public Domain / CC0 (Smithsonian Open Access, verify item)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=buddhist+relief+buddha+life+india",
+  "download_url": "",
+  "citation": "Buddhist relief, Smithsonian National Museum of Asian Art.",
+  "alt_text": "Carved stone relief showing scenes from the life of the Buddha.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.30",
+  "title": "Indian manuscript / instrument reflecting mathematics or medicine",
+  "type": "manuscript",
+  "creator": "Indian scholar (unknown)",
+  "year": "medieval manuscript of ancient learning",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=india+astronomical+instrument+manuscript",
+  "download_url": "",
+  "citation": "Indian scientific manuscript / astronomical instrument. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Indian manuscript or instrument reflecting mathematical and scientific learning.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.30",
+  "title": "Early treatise on Hindu-Arabic numerals / Indian mathematics",
+  "type": "book",
+  "creator": "Author (varies)",
+  "year": "pre-1900 printed edition",
+  "repository": "HathiTrust",
+  "rights": "Public Domain (HathiTrust)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=hindu+arabic+numerals+history&type=all",
+  "download_url": "",
+  "citation": "History of Hindu-Arabic numerals (public-domain edition), HathiTrust Digital Library.",
+  "alt_text": "Printed page tracing the development of the Hindu-Arabic numeral system from India.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.31",
+  "title": "Historical map of ancient China",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "18th-19th c.",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+ancient+china+yellow+river+yangtze",
+  "download_url": "",
+  "citation": "Map of ancient China, Library of Congress Geography and Map Division.",
+  "alt_text": "Historical map showing the Yellow and Yangtze rivers, the Gobi Desert, Tibet, and the Himalayas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.31",
+  "title": "Antique map of China and East Asia",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "17th-19th c.",
+  "repository": "NYPL",
+  "rights": "Public Domain (NYPL Digital Collections)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=map+china+east+asia",
+  "download_url": "",
+  "citation": "Map of China, The New York Public Library Digital Collections.",
+  "alt_text": "Old printed map of China showing its major rivers and northern deserts.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.32",
+  "title": "Neolithic Chinese painted pottery jar (Yangshao / Yellow River)",
+  "type": "artifact",
+  "creator": "Neolithic Chinese (unknown)",
+  "year": "c. 3000-2000 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=neolithic+chinese+painted+pottery+jar",
+  "download_url": "",
+  "citation": "Neolithic painted pottery jar, Yellow River valley. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Round earthenware jar painted with swirling geometric designs from Neolithic China.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.32",
+  "title": "Chinese jade artifact from an early Yellow River culture",
+  "type": "artifact",
+  "creator": "Neolithic Chinese (unknown)",
+  "year": "c. 3000-1500 BCE",
+  "repository": "Smithsonian",
+  "rights": "Public Domain / CC0 (Smithsonian Open Access, verify item)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=neolithic+chinese+jade",
+  "download_url": "",
+  "citation": "Neolithic jade, Smithsonian National Museum of Asian Art.",
+  "alt_text": "Carved jade disc or blade from an early Chinese culture.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.33",
+  "title": "Zhou dynasty bronze ritual vessel (Mandate of Heaven)",
+  "type": "artifact",
+  "creator": "Zhou Chinese (unknown)",
+  "year": "c. 1046-771 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=zhou+bronze+ritual+vessel+inscription",
+  "download_url": "",
+  "citation": "Zhou dynasty inscribed bronze ritual vessel. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Cast bronze ritual vessel with an interior cast inscription from Zhou China.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.33",
+  "title": "Shang / Zhou inscribed bronze with cast text",
+  "type": "artifact",
+  "creator": "Shang/Zhou Chinese (unknown)",
+  "year": "c. 1200-771 BCE",
+  "repository": "Smithsonian",
+  "rights": "Public Domain / CC0 (Smithsonian Open Access, verify item)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=chinese+bronze+inscription+zhou",
+  "download_url": "",
+  "citation": "Inscribed Chinese bronze, Smithsonian National Museum of Asian Art.",
+  "alt_text": "Ancient Chinese bronze vessel bearing a cast inscription.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.34",
+  "title": "Portrait / depiction of Confucius",
+  "type": "painting",
+  "creator": "Chinese artist (unknown)",
+  "year": "later depiction of ancient figure",
+  "repository": "Smithsonian",
+  "rights": "Public Domain / CC0 (Smithsonian Open Access, verify item)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=confucius+portrait",
+  "download_url": "",
+  "citation": "Portrait of Confucius, Smithsonian National Museum of Asian Art.",
+  "alt_text": "Painted image of the Chinese philosopher Confucius in robes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.34",
+  "title": "The Analects of Confucius (public-domain translation)",
+  "type": "book",
+  "creator": "Confucius; trans. James Legge",
+  "year": "1861 (translation of ancient text)",
+  "repository": "HathiTrust",
+  "rights": "Public Domain (HathiTrust)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=analects+confucius+legge&type=all",
+  "download_url": "",
+  "citation": "The Analects of Confucius, trans. James Legge (public-domain edition), HathiTrust Digital Library.",
+  "alt_text": "Printed page of the Analects of Confucius in a 19th-century English translation.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.35",
+  "title": "Qin dynasty terracotta warrior (First Emperor's army)",
+  "type": "sculpture",
+  "creator": "Qin Chinese (unknown)",
+  "year": "c. 210 BCE",
+  "repository": "Smithsonian",
+  "rights": "Public Domain / CC0 (Smithsonian Open Access, verify item)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=terracotta+warrior+qin",
+  "download_url": "",
+  "citation": "Terracotta warrior, Qin dynasty, Smithsonian.",
+  "alt_text": "Life-size terracotta soldier from the tomb army of Qin Shi Huangdi.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.35",
+  "title": "Qin / early imperial Chinese artifact (standardization)",
+  "type": "artifact",
+  "creator": "Qin Chinese (unknown)",
+  "year": "c. 221-206 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=qin+dynasty+china",
+  "download_url": "",
+  "citation": "Qin dynasty artifact, China. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Object from China's Qin dynasty, era of the first unified empire.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.36",
+  "title": "Han dynasty ceramic or jade artifact",
+  "type": "artifact",
+  "creator": "Han Chinese (unknown)",
+  "year": "c. 206 BCE-220 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=han+dynasty+china+tomb+figure",
+  "download_url": "",
+  "citation": "Han dynasty tomb object, China. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Han dynasty ceramic tomb figure reflecting a stable, bureaucratic society.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.36",
+  "title": "Han dynasty bronze or lacquer object",
+  "type": "artifact",
+  "creator": "Han Chinese (unknown)",
+  "year": "c. 206 BCE-220 CE",
+  "repository": "Smithsonian",
+  "rights": "Public Domain / CC0 (Smithsonian Open Access, verify item)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=han+dynasty+bronze+lacquer",
+  "download_url": "",
+  "citation": "Han dynasty object, Smithsonian National Museum of Asian Art.",
+  "alt_text": "Finely crafted Han dynasty bronze or lacquer vessel.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.37",
+  "title": "Han dynasty silk textile",
+  "type": "artifact",
+  "creator": "Han Chinese (unknown)",
+  "year": "c. 206 BCE-220 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=han+dynasty+silk+textile",
+  "download_url": "",
+  "citation": "Han dynasty silk textile, China. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Fragment of woven Han dynasty silk with patterned designs.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.37",
+  "title": "Early Chinese porcelain / glazed ceramic (Han)",
+  "type": "artifact",
+  "creator": "Han Chinese (unknown)",
+  "year": "c. 206 BCE-220 CE",
+  "repository": "Cleveland Museum of Art",
+  "rights": "CC0 (Cleveland Museum of Art Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.clevelandart.org/art/collection/search?search=han+dynasty+ceramic",
+  "download_url": "",
+  "citation": "Han dynasty glazed ceramic, The Cleveland Museum of Art.",
+  "alt_text": "Green-glazed Han dynasty ceramic vessel, forerunner of porcelain.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.38",
+  "title": "Silk Road textile or trade object",
+  "type": "artifact",
+  "creator": "Chinese / Central Asian (unknown)",
+  "year": "c. 200 BCE-400 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=silk+road+textile+china+central+asia",
+  "download_url": "",
+  "citation": "Silk Road textile / trade object. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Woven silk textile traded along the Silk Road connecting China and the West.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.38",
+  "title": "Early Chinese Buddhist sculpture (Buddhism enters China)",
+  "type": "sculpture",
+  "creator": "Chinese artist (unknown)",
+  "year": "c. 386-580 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=chinese+buddhist+sculpture+northern+wei",
+  "download_url": "",
+  "citation": "Chinese Buddhist sculpture, Northern Wei / early period. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Gilt-bronze or stone Chinese Buddha showing Buddhism's arrival via the Silk Road.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.39",
+  "title": "Historical map of ancient Greece",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "18th-19th c.",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+ancient+greece+athens+sparta",
+  "download_url": "",
+  "citation": "Map of ancient Greece, Library of Congress Geography and Map Division.",
+  "alt_text": "Historical map showing Athens, Sparta, Macedonia, the Peloponnese, and Asia Minor.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.39",
+  "title": "Antique map of ancient Greece and the Aegean",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "18th-19th c.",
+  "repository": "NYPL",
+  "rights": "Public Domain (NYPL Digital Collections)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=map+ancient+greece",
+  "download_url": "",
+  "citation": "Map of ancient Greece, The New York Public Library Digital Collections.",
+  "alt_text": "Old printed map of Greece and the Aegean showing its city-states and peninsulas.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.40",
+  "title": "Greek vase depicting a ship / maritime scene",
+  "type": "artifact",
+  "creator": "Greek (unknown)",
+  "year": "c. 550-500 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=greek+vase+ship+black+figure",
+  "download_url": "",
+  "citation": "Greek black-figure vase with ship, Archaic. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Black-figure Greek vase painted with a sailing ship, reflecting maritime trade.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.40",
+  "title": "Greek trade amphora (maritime commerce)",
+  "type": "artifact",
+  "creator": "Greek (unknown)",
+  "year": "c. 500-400 BCE",
+  "repository": "Getty",
+  "rights": "Open Content / Public Domain (Getty)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.getty.edu/art/collection/search?q=greek+transport+amphora",
+  "download_url": "",
+  "citation": "Greek transport amphora, The J. Paul Getty Museum, Los Angeles.",
+  "alt_text": "Large two-handled Greek amphora used to ship wine and oil across the Mediterranean.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.41",
+  "title": "Athenian red-figure vase depicting civic / public life",
+  "type": "artifact",
+  "creator": "Greek (unknown)",
+  "year": "c. 480-430 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=athenian+red+figure+vase+citizens",
+  "download_url": "",
+  "citation": "Athenian red-figure vase, Classical. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Red-figure Greek vase showing citizens engaged in public activity.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.41",
+  "title": "Greek inscribed decree / civic inscription",
+  "type": "inscription",
+  "creator": "Greek (unknown)",
+  "year": "c. 450-350 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=greek+inscription+decree+marble",
+  "download_url": "",
+  "citation": "Greek inscribed marble fragment. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Marble fragment carved with a Greek public decree, reflecting rule of law.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.42",
+  "title": "Athenian silver coinage / civic object (democracy)",
+  "type": "coin",
+  "creator": "Athenian mint (unknown)",
+  "year": "c. 450-400 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=athens+silver+coin+owl+tetradrachm",
+  "download_url": "",
+  "citation": "Athenian silver tetradrachm, Classical. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Silver Athenian coin bearing the owl of Athena, emblem of the democratic city.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.42",
+  "title": "Athenian pottery scene of the assembly / voting-era public life",
+  "type": "artifact",
+  "creator": "Greek (unknown)",
+  "year": "c. 480-430 BCE",
+  "repository": "Getty",
+  "rights": "Open Content / Public Domain (Getty)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.getty.edu/art/collection/search?q=athenian+vase+public+assembly",
+  "download_url": "",
+  "citation": "Athenian vase, The J. Paul Getty Museum, Los Angeles.",
+  "alt_text": "Greek vase depicting Athenian citizens in public civic life.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.43",
+  "title": "Athenian owl tetradrachm (Athens)",
+  "type": "coin",
+  "creator": "Athenian mint (unknown)",
+  "year": "c. 450-400 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=athens+owl+tetradrachm+coin",
+  "download_url": "",
+  "citation": "Athenian silver tetradrachm with owl, Classical. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Silver coin of Athens showing Athena on one side and her owl on the other.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.43",
+  "title": "Laconian (Spartan) bronze figurine / vessel",
+  "type": "artifact",
+  "creator": "Spartan / Laconian (unknown)",
+  "year": "c. 550-500 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=laconian+spartan+bronze+figure",
+  "download_url": "",
+  "citation": "Laconian bronze figurine, Archaic. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Small Spartan (Laconian) bronze figure, such as a warrior or runner.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.44",
+  "title": "Greek vase depicting a Greek and a Persian warrior",
+  "type": "artifact",
+  "creator": "Greek (unknown)",
+  "year": "c. 480-450 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=greek+vase+greek+persian+warrior",
+  "download_url": "",
+  "citation": "Greek red-figure vase with combat scene, Classical. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Greek vase painted with a hoplite fighting a Persian soldier.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.44",
+  "title": "Greek hoplite armor / helmet",
+  "type": "artifact",
+  "creator": "Greek (unknown)",
+  "year": "c. 500-450 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=greek+bronze+helmet+hoplite",
+  "download_url": "",
+  "citation": "Greek bronze helmet, Archaic/Classical. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Bronze Corinthian-style Greek helmet worn by hoplite soldiers.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.45",
+  "title": "Greek vase / relief with hoplite battle scene",
+  "type": "artifact",
+  "creator": "Greek (unknown)",
+  "year": "c. 430-400 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=greek+vase+warriors+battle+hoplite",
+  "download_url": "",
+  "citation": "Greek vase with warriors, Classical. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Greek vase depicting armored hoplites in combat.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.45",
+  "title": "Thucydides, History of the Peloponnesian War (public-domain edition)",
+  "type": "book",
+  "creator": "Thucydides; trans. (varies)",
+  "year": "pre-1900 printed translation",
+  "repository": "HathiTrust",
+  "rights": "Public Domain (HathiTrust)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=thucydides+peloponnesian+war&type=all",
+  "download_url": "",
+  "citation": "Thucydides, History of the Peloponnesian War (public-domain translation), HathiTrust Digital Library.",
+  "alt_text": "Title page of a public-domain translation of Thucydides' history of the Peloponnesian War.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.46",
+  "title": "Panathenaic prize amphora (Olympic-style athletics / Zeus and Athena)",
+  "type": "artifact",
+  "creator": "Greek (unknown)",
+  "year": "c. 530-500 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=panathenaic+prize+amphora",
+  "download_url": "",
+  "citation": "Panathenaic prize amphora, Archaic. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Large black-figure amphora awarded for athletic games, showing athletes and a deity.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.46",
+  "title": "Greek statue of Zeus or an Olympian deity",
+  "type": "sculpture",
+  "creator": "Greek (unknown)",
+  "year": "c. 450-100 BCE",
+  "repository": "Getty",
+  "rights": "Open Content / Public Domain (Getty)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.getty.edu/art/collection/search?q=greek+statue+zeus+god",
+  "download_url": "",
+  "citation": "Greek statue of a deity, The J. Paul Getty Museum, Los Angeles.",
+  "alt_text": "Greek marble or bronze statue of an Olympian god such as Zeus.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.47",
+  "title": "Greek vase depicting a scene from the Iliad or Odyssey",
+  "type": "artifact",
+  "creator": "Greek (unknown)",
+  "year": "c. 550-480 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=greek+vase+odysseus+achilles+trojan",
+  "download_url": "",
+  "citation": "Greek vase with a Homeric scene, Archaic. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Greek vase painted with a scene from Homer, such as Odysseus or Achilles.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.47",
+  "title": "Homer, The Iliad / The Odyssey (public-domain edition)",
+  "type": "book",
+  "creator": "Homer; trans. (e.g., Pope / Butler)",
+  "year": "pre-1900 printed translation",
+  "repository": "HathiTrust",
+  "rights": "Public Domain (HathiTrust)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=homer+iliad+odyssey&type=all",
+  "download_url": "",
+  "citation": "Homer, The Iliad / The Odyssey (public-domain translation), HathiTrust Digital Library.",
+  "alt_text": "Title page of a public-domain English edition of Homer's epics.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.48",
+  "title": "Greek / Roman portrait bust of a philosopher (Socrates)",
+  "type": "sculpture",
+  "creator": "Greek / Roman (unknown)",
+  "year": "Hellenistic-Roman copy",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=portrait+bust+socrates+philosopher",
+  "download_url": "",
+  "citation": "Portrait bust of Socrates, Roman copy of a Greek original. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Marble bust of the philosopher Socrates with a broad face and full beard.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.48",
+  "title": "Plato, The Republic (public-domain edition)",
+  "type": "book",
+  "creator": "Plato; trans. Benjamin Jowett",
+  "year": "1871 (translation of ancient text)",
+  "repository": "HathiTrust",
+  "rights": "Public Domain (HathiTrust)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=plato+republic+jowett&type=all",
+  "download_url": "",
+  "citation": "Plato, The Republic, trans. Benjamin Jowett (public-domain edition), HathiTrust Digital Library.",
+  "alt_text": "Title page of a public-domain translation of Plato's Republic.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.49",
+  "title": "Historic photograph of the Parthenon on the Acropolis",
+  "type": "photograph",
+  "creator": "19th-c. photographer (unknown)",
+  "year": "c. 1860-1900",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=parthenon+acropolis+athens+photograph",
+  "download_url": "",
+  "citation": "Photograph of the Parthenon, Athens, Library of Congress Prints and Photographs Division.",
+  "alt_text": "Vintage photograph of the columned Parthenon temple atop the Athenian Acropolis.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.49",
+  "title": "Greek marble architectural fragment (temple column / capital)",
+  "type": "artifact",
+  "creator": "Greek (unknown)",
+  "year": "c. 500-330 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=greek+marble+architectural+fragment+column+capital",
+  "download_url": "",
+  "citation": "Greek marble architectural fragment. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Carved marble column capital or entablature fragment from a Greek temple.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.50",
+  "title": "Coin / portrait of Alexander the Great",
+  "type": "coin",
+  "creator": "Hellenistic mint (unknown)",
+  "year": "c. 336-300 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=alexander+the+great+coin+tetradrachm",
+  "download_url": "",
+  "citation": "Coin depicting Alexander the Great, Hellenistic. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Silver coin showing the head of Alexander the Great in the guise of Herakles.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.50",
+  "title": "Hellenistic sculpture reflecting Greek cultural diffusion",
+  "type": "sculpture",
+  "creator": "Hellenistic Greek (unknown)",
+  "year": "c. 323-100 BCE",
+  "repository": "Getty",
+  "rights": "Open Content / Public Domain (Getty)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.getty.edu/art/collection/search?q=hellenistic+sculpture",
+  "download_url": "",
+  "citation": "Hellenistic sculpture, The J. Paul Getty Museum, Los Angeles.",
+  "alt_text": "Hellenistic Greek statue showing the spread of Greek art after Alexander.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.51",
+  "title": "Historical map of ancient Rome / Italy",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "18th-19th c.",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+ancient+rome+italy+tiber",
+  "download_url": "",
+  "citation": "Map of ancient Italy / Rome, Library of Congress Geography and Map Division.",
+  "alt_text": "Historical map showing Rome, the Tiber River, the Italian peninsula, the Alps, and Constantinople.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.51",
+  "title": "Antique map of ancient Italy and the Roman world",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "18th-19th c.",
+  "repository": "NYPL",
+  "rights": "Public Domain (NYPL Digital Collections)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=map+ancient+rome+italy",
+  "download_url": "",
+  "citation": "Map of ancient Italy, The New York Public Library Digital Collections.",
+  "alt_text": "Old printed map of Italy and the Roman Mediterranean.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.52",
+  "title": "Historical map of the Roman Empire / Mediterranean trade",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "19th c.",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+roman+empire+mediterranean",
+  "download_url": "",
+  "citation": "Map of the Roman Empire, Library of Congress Geography and Map Division.",
+  "alt_text": "Historical map showing Rome's central position controlling the Mediterranean Sea.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.52",
+  "title": "Roman coin or trade artifact reflecting Mediterranean commerce",
+  "type": "coin",
+  "creator": "Roman mint (unknown)",
+  "year": "c. 100 BCE-200 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=roman+coin+trade",
+  "download_url": "",
+  "citation": "Roman coin, The Metropolitan Museum of Art, New York.",
+  "alt_text": "Roman coin used in Mediterranean-wide commerce.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.53",
+  "title": "Roman Republican coin depicting a voting scene",
+  "type": "coin",
+  "creator": "Roman Republican mint (unknown)",
+  "year": "c. 137-63 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=roman+republican+coin+voting+denarius",
+  "download_url": "",
+  "citation": "Roman Republican denarius, The Metropolitan Museum of Art, New York.",
+  "alt_text": "Silver Republican denarius showing a Roman citizen casting a ballot.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.53",
+  "title": "The Twelve Tables / Roman law (public-domain edition)",
+  "type": "book",
+  "creator": "Roman jurists; ed./trans. (varies)",
+  "year": "pre-1900 printed edition",
+  "repository": "HathiTrust",
+  "rights": "Public Domain (HathiTrust)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=twelve+tables+roman+law&type=all",
+  "download_url": "",
+  "citation": "The Twelve Tables of Roman law (public-domain edition), HathiTrust Digital Library.",
+  "alt_text": "Printed text of the Roman Twelve Tables, Rome's earliest written law code.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.54",
+  "title": "Roman funerary relief / portrait showing social classes",
+  "type": "relief",
+  "creator": "Roman (unknown)",
+  "year": "c. 50 BCE-50 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=roman+funerary+relief+portrait+family",
+  "download_url": "",
+  "citation": "Roman funerary relief, The Metropolitan Museum of Art, New York.",
+  "alt_text": "Carved Roman relief portraying members of a household of different social rank.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.54",
+  "title": "Roman relief / object depicting laborers or enslaved workers",
+  "type": "relief",
+  "creator": "Roman (unknown)",
+  "year": "c. 1-300 CE",
+  "repository": "Getty",
+  "rights": "Open Content / Public Domain (Getty)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.getty.edu/art/collection/search?q=roman+relief+workers+servants",
+  "download_url": "",
+  "citation": "Roman relief, The J. Paul Getty Museum, Los Angeles.",
+  "alt_text": "Roman relief showing laborers or servants at work.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.55",
+  "title": "Roman coin / portrait of Julius Caesar",
+  "type": "coin",
+  "creator": "Roman mint (unknown)",
+  "year": "c. 44 BCE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=julius+caesar+coin+denarius+portrait",
+  "download_url": "",
+  "citation": "Coin portrait of Julius Caesar, The Metropolitan Museum of Art, New York.",
+  "alt_text": "Silver denarius bearing the portrait of Julius Caesar, dictator of Rome.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.55",
+  "title": "Roman marble portrait bust of Julius Caesar",
+  "type": "sculpture",
+  "creator": "Roman (unknown)",
+  "year": "1st c. BCE-1st c. CE",
+  "repository": "Getty",
+  "rights": "Open Content / Public Domain (Getty)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.getty.edu/art/collection/search?q=julius+caesar+portrait+bust",
+  "download_url": "",
+  "citation": "Portrait of Julius Caesar, The J. Paul Getty Museum, Los Angeles.",
+  "alt_text": "Marble portrait bust of Julius Caesar.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.56",
+  "title": "Marble portrait of Augustus Caesar",
+  "type": "sculpture",
+  "creator": "Roman (unknown)",
+  "year": "c. 27 BCE-14 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=augustus+portrait+marble",
+  "download_url": "",
+  "citation": "Marble portrait of the emperor Augustus, Roman. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Idealized marble portrait head of Augustus, first Roman emperor.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.56",
+  "title": "Coin of Augustus proclaiming peace / empire",
+  "type": "coin",
+  "creator": "Roman imperial mint (unknown)",
+  "year": "c. 27 BCE-14 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=augustus+coin+aureus+denarius",
+  "download_url": "",
+  "citation": "Coin of Augustus, Roman imperial. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Roman coin bearing the portrait of Augustus and imperial imagery.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.57",
+  "title": "Historic photograph of the Roman Colosseum",
+  "type": "photograph",
+  "creator": "19th-c. photographer (unknown)",
+  "year": "c. 1860-1900",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=colosseum+rome+photograph",
+  "download_url": "",
+  "citation": "Photograph of the Colosseum, Rome, Library of Congress Prints and Photographs Division.",
+  "alt_text": "Vintage photograph of the arched stone exterior of the Roman Colosseum.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.57",
+  "title": "Historic photograph of a Roman aqueduct (Pont du Gard)",
+  "type": "photograph",
+  "creator": "19th-c. photographer (unknown)",
+  "year": "c. 1860-1900",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=roman+aqueduct+pont+du+gard+photograph",
+  "download_url": "",
+  "citation": "Photograph of a Roman aqueduct, Library of Congress Prints and Photographs Division.",
+  "alt_text": "Vintage photograph of a multi-tiered arched Roman aqueduct spanning a valley.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.58",
+  "title": "Roman statue of a deity (Jupiter / Venus / Roman god)",
+  "type": "sculpture",
+  "creator": "Roman (unknown)",
+  "year": "c. 1-200 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=roman+statue+god+jupiter+venus",
+  "download_url": "",
+  "citation": "Roman statue of a deity, Imperial. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Roman marble statue of a god or goddess in human form.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.58",
+  "title": "Roman household shrine (lararium) figurine of a god",
+  "type": "sculpture",
+  "creator": "Roman (unknown)",
+  "year": "c. 1-200 CE",
+  "repository": "Getty",
+  "rights": "Open Content / Public Domain (Getty)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.getty.edu/art/collection/search?q=roman+bronze+god+lar+statuette",
+  "download_url": "",
+  "citation": "Roman bronze statuette of a household god, The J. Paul Getty Museum, Los Angeles.",
+  "alt_text": "Small Roman bronze figure of a household deity used in daily worship.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.59",
+  "title": "Early Christian sarcophagus / relief with Christian imagery",
+  "type": "relief",
+  "creator": "Roman Christian (unknown)",
+  "year": "c. 300-400 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=early+christian+sarcophagus+relief",
+  "download_url": "",
+  "citation": "Early Christian sarcophagus / relief, Late Roman. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Carved early Christian relief with biblical scenes such as the Good Shepherd.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.59",
+  "title": "Early printed / illuminated Bible page (Gutenberg Bible)",
+  "type": "manuscript",
+  "creator": "Johannes Gutenberg (attrib.) / scribe",
+  "year": "c. 1455 (text of ancient Scripture)",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=gutenberg+bible",
+  "download_url": "",
+  "citation": "Gutenberg Bible, Library of Congress Rare Book and Special Collections Division.",
+  "alt_text": "Page of the Gutenberg Bible with columns of Latin text and decorated initials.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.60",
+  "title": "Judaea Capta Roman coin (Roman conquest of Judaea)",
+  "type": "coin",
+  "creator": "Roman imperial mint (unknown)",
+  "year": "c. 71-79 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=judaea+capta+coin+vespasian",
+  "download_url": "",
+  "citation": "Judaea Capta coin, Roman imperial. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Roman coin marking the defeat of Judaea, showing a mourning captive beneath a palm.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.60",
+  "title": "Historic photograph of the Arch of Titus relief (menorah / spoils of Jerusalem)",
+  "type": "photograph",
+  "creator": "19th-c. photographer (unknown)",
+  "year": "c. 1860-1900",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=arch+of+titus+rome+photograph",
+  "download_url": "",
+  "citation": "Photograph of the Arch of Titus, Rome, Library of Congress Prints and Photographs Division.",
+  "alt_text": "Photograph of the Arch of Titus relief showing Roman soldiers carrying the menorah from Jerusalem.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "6.61",
+  "title": "Coin / portrait of Emperor Constantine",
+  "type": "coin",
+  "creator": "Roman imperial mint (unknown)",
+  "year": "c. 307-337 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=constantine+coin+roman",
+  "download_url": "",
+  "citation": "Coin of Constantine the Great, Late Roman. The Metropolitan Museum of Art, New York.",
+  "alt_text": "Roman coin bearing the portrait of Emperor Constantine.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.61",
+  "title": "Historical map of the divided Roman Empire (East and West)",
+  "type": "map",
+  "creator": "Cartographer (varies)",
+  "year": "19th c.",
+  "repository": "Library of Congress",
+  "rights": "No known copyright restrictions (Library of Congress)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+roman+empire+east+west+constantinople",
+  "download_url": "",
+  "citation": "Map of the divided Roman Empire, Library of Congress Geography and Map Division.",
+  "alt_text": "Historical map showing the split of the Roman Empire into eastern and western halves with Constantinople.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.62",
+  "title": "Migration-period / Germanic artifact (fall of the West)",
+  "type": "artifact",
+  "creator": "Germanic (unknown)",
+  "year": "c. 400-500 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=migration+period+germanic+fibula",
+  "download_url": "",
+  "citation": "Migration-period Germanic ornament, The Metropolitan Museum of Art, New York.",
+  "alt_text": "Ornate metal brooch or buckle made by Germanic peoples who invaded the Western Empire.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "6.62",
+  "title": "Early Byzantine artifact (continuation as the Byzantine Empire)",
+  "type": "artifact",
+  "creator": "Byzantine (unknown)",
+  "year": "c. 400-600 CE",
+  "repository": "The Met",
+  "rights": "CC0 1.0 (Met Open Access)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=early+byzantine+empire+object",
+  "download_url": "",
+  "citation": "Early Byzantine object, The Metropolitan Museum of Art, New York.",
+  "alt_text": "Early Byzantine artwork reflecting the surviving Eastern Roman Empire.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ }
+]

@@ -1,0 +1,4245 @@
+[
+ {
+  "standard": "W.01",
+  "title": "Portrait of Louis XIV (\"the Sun King\")",
+  "type": "Painting/engraving",
+  "creator": "after Hyacinthe Rigaud",
+  "year": "c. 1701",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Louis+XIV+Rigaud",
+  "download_url": "",
+  "citation": "Portrait of Louis XIV, after Hyacinthe Rigaud, c. 1701. The Metropolitan Museum of Art.",
+  "alt_text": "Full-length portrait of Louis XIV in coronation robes and ermine.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.01",
+  "title": "View of the Palace and Gardens of Versailles",
+  "type": "Print/engraving",
+  "creator": "various (17th-18th c.)",
+  "year": "c. 1680-1720",
+  "repository": "Rijksmuseum",
+  "rights": "CC0 / open access (museum public-domain designation)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.rijksmuseum.nl/en/search?q=Versailles+palace",
+  "download_url": "",
+  "citation": "View of the Palace of Versailles, engraving, late 17th c. Rijksmuseum (public domain).",
+  "alt_text": "Bird's-eye engraving of the Palace of Versailles and its formal gardens.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.01",
+  "title": "Portrait of Peter the Great of Russia",
+  "type": "Painting/print",
+  "creator": "various",
+  "year": "early 18th c.",
+  "repository": "Rijksmuseum",
+  "rights": "CC0 / open access (museum public-domain designation)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.rijksmuseum.nl/en/search?q=Peter+the+Great+tsar",
+  "download_url": "",
+  "citation": "Portrait of Peter the Great, early 18th c. Rijksmuseum (public domain).",
+  "alt_text": "Portrait of Tsar Peter the Great in armor.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.02",
+  "title": "Magna Carta (1215)",
+  "type": "Legal document (text)",
+  "creator": "King John / barons of England",
+  "year": "1215",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/medieval/magna.asp",
+  "download_url": "",
+  "citation": "Magna Carta, 1215. The Avalon Project, Yale Law School.",
+  "alt_text": "Transcribed English text of the 1215 Magna Carta charter.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.02",
+  "title": "English Bill of Rights (1689)",
+  "type": "Legal document (text)",
+  "creator": "Parliament of England",
+  "year": "1689",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/17th_century/england.asp",
+  "download_url": "",
+  "citation": "English Bill of Rights, 1689. The Avalon Project, Yale Law School.",
+  "alt_text": "Transcribed text of the 1689 English Bill of Rights limiting the crown.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.02",
+  "title": "Magna Carta (original engrossment)",
+  "type": "Manuscript / facsimile",
+  "creator": "medieval scribe",
+  "year": "1215-1297",
+  "repository": "Library of Congress",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Magna+Carta",
+  "download_url": "",
+  "citation": "Magna Carta facsimile. Library of Congress.",
+  "alt_text": "Photograph of a medieval Magna Carta manuscript.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.03",
+  "title": "Two Treatises of Government",
+  "type": "Book (text)",
+  "creator": "John Locke",
+  "year": "1689",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Locke+Two+Treatises+of+Government&type=all",
+  "download_url": "",
+  "citation": "John Locke, Two Treatises of Government (1689). HathiTrust.",
+  "alt_text": "Title page and text of Locke's Two Treatises of Government.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.03",
+  "title": "Leviathan (frontispiece and text)",
+  "type": "Book / engraving",
+  "creator": "Thomas Hobbes",
+  "year": "1651",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Hobbes+Leviathan+1651&type=all",
+  "download_url": "",
+  "citation": "Thomas Hobbes, Leviathan (1651). HathiTrust.",
+  "alt_text": "Iconic frontispiece showing the sovereign composed of many small people.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.03",
+  "title": "The Social Contract / The Spirit of the Laws",
+  "type": "Book (text)",
+  "creator": "Rousseau; Montesquieu",
+  "year": "1748-1762",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Rousseau+Social+Contract+Montesquieu+Spirit+of+Laws&type=all",
+  "download_url": "",
+  "citation": "Rousseau, The Social Contract (1762); Montesquieu, The Spirit of the Laws (1748). HathiTrust.",
+  "alt_text": "Title pages of Rousseau and Montesquieu Enlightenment treatises.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.03"
+   ]
+  }
+ },
+ {
+  "standard": "W.04",
+  "title": "The Execution of King Charles I (1649)",
+  "type": "Print/engraving",
+  "creator": "contemporary Dutch/English",
+  "year": "1649",
+  "repository": "Rijksmuseum",
+  "rights": "CC0 / open access (museum public-domain designation)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.rijksmuseum.nl/en/search?q=execution+Charles+I+1649",
+  "download_url": "",
+  "citation": "Execution of Charles I, engraving, 1649. Rijksmuseum (public domain).",
+  "alt_text": "Engraving of the beheading of Charles I outside the Banqueting House.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.04",
+  "title": "Portrait of Oliver Cromwell",
+  "type": "Painting/print",
+  "creator": "after Samuel Cooper / Robert Walker",
+  "year": "c. 1650s",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Oliver+Cromwell+portrait",
+  "download_url": "",
+  "citation": "Portrait of Oliver Cromwell, 17th c. The Metropolitan Museum of Art.",
+  "alt_text": "Portrait of Oliver Cromwell in armor.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.05",
+  "title": "\"A faut esperer q'eu jeu la finira bentot\" (The Third Estate)",
+  "type": "Political cartoon/print",
+  "creator": "anonymous French",
+  "year": "1789",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Third+Estate+French+Revolution+caricature",
+  "download_url": "",
+  "citation": "The Third Estate carrying the clergy and nobility, French caricature, 1789. Library of Congress.",
+  "alt_text": "Caricature of a peasant bearing a clergyman and noble on his back.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.05",
+  "title": "Declaration of the Rights of Man and of the Citizen (1789)",
+  "type": "Legal document (text)",
+  "creator": "National Constituent Assembly of France",
+  "year": "1789",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/18th_century/rightsof.asp",
+  "download_url": "",
+  "citation": "Declaration of the Rights of Man and of the Citizen, 1789. The Avalon Project, Yale Law School.",
+  "alt_text": "Text of the 1789 French Declaration of the Rights of Man.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.05",
+  "title": "What Is the Third Estate?",
+  "type": "Pamphlet (text)",
+  "creator": "Emmanuel-Joseph Sieyès",
+  "year": "1789",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Sieyes+What+is+the+Third+Estate&type=all",
+  "download_url": "",
+  "citation": "E.-J. Sieyès, What Is the Third Estate? (1789). HathiTrust.",
+  "alt_text": "Title page of Sieyès's revolutionary pamphlet.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.06",
+  "title": "The Storming of the Bastille, 14 July 1789",
+  "type": "Print/engraving",
+  "creator": "contemporary French",
+  "year": "1789",
+  "repository": "Rijksmuseum",
+  "rights": "CC0 / open access (museum public-domain designation)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.rijksmuseum.nl/en/search?q=storming+Bastille+1789",
+  "download_url": "",
+  "citation": "Storming of the Bastille, engraving, 1789. Rijksmuseum (public domain).",
+  "alt_text": "Engraving of crowds attacking the Bastille fortress.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.06",
+  "title": "The Execution of Louis XVI, January 1793",
+  "type": "Print/engraving",
+  "creator": "contemporary European",
+  "year": "1793",
+  "repository": "Rijksmuseum",
+  "rights": "CC0 / open access (museum public-domain designation)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.rijksmuseum.nl/en/search?q=execution+Louis+XVI+1793",
+  "download_url": "",
+  "citation": "Execution of Louis XVI, engraving, 1793. Rijksmuseum (public domain).",
+  "alt_text": "Engraving of Louis XVI's execution by guillotine before a crowd.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.06",
+  "title": "French Revolution prints (Bastille, Terror, Napoleon)",
+  "type": "Print collection",
+  "creator": "various",
+  "year": "1789-1804",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=French+Revolution+1789+Bastille",
+  "download_url": "",
+  "citation": "French Revolution prints. Library of Congress.",
+  "alt_text": "Collection of engravings of French Revolution events.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.07",
+  "title": "Napoleon Bonaparte (portrait)",
+  "type": "Painting/engraving",
+  "creator": "after David / Ingres",
+  "year": "c. 1800-1815",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Napoleon+Bonaparte+portrait",
+  "download_url": "",
+  "citation": "Portrait of Napoleon Bonaparte, early 19th c. The Metropolitan Museum of Art.",
+  "alt_text": "Portrait of Napoleon in military/imperial dress.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.07",
+  "title": "Map of the Napoleonic Empire / Russian Campaign of 1812",
+  "type": "Map",
+  "creator": "19th-c. cartographers",
+  "year": "1812-1815",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Napoleon+empire+Europe+map+1812",
+  "download_url": "",
+  "citation": "Map of Napoleon's empire and campaigns. Library of Congress, Geography & Map Division.",
+  "alt_text": "Historical map of Europe under Napoleon showing campaign routes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.08",
+  "title": "Declaration of Independence (1776)",
+  "type": "Founding document (text)",
+  "creator": "Thomas Jefferson et al. / Second Continental Congress",
+  "year": "1776",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.archives.gov/founding-docs/declaration-transcript",
+  "download_url": "",
+  "citation": "Declaration of Independence, 1776. U.S. National Archives.",
+  "alt_text": "Transcript of the 1776 Declaration of Independence.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.08",
+  "title": "Declaration of the Rights of Man and of the Citizen (1789)",
+  "type": "Legal document (text)",
+  "creator": "National Constituent Assembly of France",
+  "year": "1789",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/18th_century/rightsof.asp",
+  "download_url": "",
+  "citation": "Declaration of the Rights of Man and of the Citizen, 1789. The Avalon Project, Yale Law School.",
+  "alt_text": "Text of the 1789 French Declaration for side-by-side comparison with the U.S. Declaration.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.03"
+   ]
+  }
+ },
+ {
+  "standard": "W.09",
+  "title": "Haitian Declaration of Independence (1804)",
+  "type": "Founding document (text)",
+  "creator": "Jean-Jacques Dessalines / Louis Boisrond-Tonnerre",
+  "year": "1804",
+  "repository": "Library of Congress",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Haiti+Declaration+of+Independence+1804",
+  "download_url": "",
+  "citation": "Haitian Declaration of Independence, 1804. Library of Congress.",
+  "alt_text": "Text/facsimile of the 1804 Haitian Declaration of Independence.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.09",
+  "title": "Code Napoléon (French Civil Code, 1804)",
+  "type": "Legal code (text)",
+  "creator": "Napoleonic France",
+  "year": "1804",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Code+Napoleon+civil+code+1804&type=all",
+  "download_url": "",
+  "citation": "Code Napoléon (Civil Code), 1804. HathiTrust.",
+  "alt_text": "Title page of the Napoleonic Civil Code.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.09",
+  "title": "Congress of Vienna (1815) — print",
+  "type": "Print/engraving",
+  "creator": "contemporary European",
+  "year": "1815",
+  "repository": "Rijksmuseum",
+  "rights": "CC0 / open access (museum public-domain designation)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.rijksmuseum.nl/en/search?q=Congress+of+Vienna+1815",
+  "download_url": "",
+  "citation": "The Congress of Vienna, 1815. Rijksmuseum (public domain).",
+  "alt_text": "Group engraving of diplomats at the Congress of Vienna.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.10",
+  "title": "Over London—by Rail",
+  "type": "Engraving",
+  "creator": "Gustave Doré",
+  "year": "1872",
+  "repository": "The New York Public Library Digital Collections",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=Gustave+Dore+London",
+  "download_url": "",
+  "citation": "Gustave Doré, \"Over London—by Rail,\" from London: A Pilgrimage, 1872. NYPL Digital Collections.",
+  "alt_text": "Engraving of dense industrial back-to-back housing beside railway lines.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.10",
+  "title": "View of an industrial city (Manchester / Leeds)",
+  "type": "Print/photograph",
+  "creator": "19th-c. artists",
+  "year": "19th c.",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Manchester+industrial+city+19th+century",
+  "download_url": "",
+  "citation": "View of a 19th-century English industrial city. Library of Congress.",
+  "alt_text": "Print of a smoke-filled 19th-century industrial city skyline.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.11",
+  "title": "Watt steam engine (patent model / engraving)",
+  "type": "Technical illustration / artifact",
+  "creator": "James Watt",
+  "year": "late 18th c.",
+  "repository": "Smithsonian Institution",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=Watt+steam+engine",
+  "download_url": "",
+  "citation": "Watt steam engine. Smithsonian Institution.",
+  "alt_text": "Diagram/model of a James Watt steam engine.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.11",
+  "title": "English cotton mill / textile factory",
+  "type": "Engraving",
+  "creator": "19th-c. artists",
+  "year": "early 19th c.",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=cotton+mill+textile+factory+England",
+  "download_url": "",
+  "citation": "Interior of an English cotton textile mill. Library of Congress.",
+  "alt_text": "Engraving of powered spinning machinery inside a cotton mill.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.12",
+  "title": "Railway map of Europe (19th century)",
+  "type": "Map",
+  "creator": "19th-c. cartographers",
+  "year": "19th c.",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=railway+map+Europe+19th+century",
+  "download_url": "",
+  "citation": "Railway map of Europe, 19th century. Library of Congress, Geography & Map Division.",
+  "alt_text": "Historical map showing the spread of rail networks across Europe.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.12",
+  "title": "Great Exhibition / Crystal Palace (1851)",
+  "type": "Print",
+  "creator": "contemporary British",
+  "year": "1851",
+  "repository": "The New York Public Library Digital Collections",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=Crystal+Palace+Great+Exhibition+1851",
+  "download_url": "",
+  "citation": "The Crystal Palace, Great Exhibition of 1851. NYPL Digital Collections.",
+  "alt_text": "Engraving of the iron-and-glass Crystal Palace exhibition hall.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.13",
+  "title": "Stowage of the British slave ship Brookes",
+  "type": "Diagram/broadside",
+  "creator": "Plymouth Chapter, Society for Effecting the Abolition of the Slave Trade",
+  "year": "1788-1789",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Brookes+slave+ship+stowage+diagram",
+  "download_url": "",
+  "citation": "Plan and sections of the slave ship Brookes, 1788. Library of Congress.",
+  "alt_text": "Diagram showing enslaved Africans packed into a slave ship's holds.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.13",
+  "title": "The Interesting Narrative of the Life of Olaudah Equiano",
+  "type": "Autobiography (text)",
+  "creator": "Olaudah Equiano",
+  "year": "1789",
+  "repository": "Documenting the American South, UNC-Chapel Hill",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://docsouth.unc.edu/neh/equiano1/equiano1.html",
+  "download_url": "",
+  "citation": "Olaudah Equiano, The Interesting Narrative (1789). Documenting the American South, UNC Libraries.",
+  "alt_text": "Frontispiece and narrative of Olaudah Equiano's autobiography.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.14",
+  "title": "Steam locomotive (early railway engine)",
+  "type": "Engraving / artifact",
+  "creator": "19th-c. engineers",
+  "year": "19th c.",
+  "repository": "Smithsonian Institution",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=steam+locomotive+19th+century",
+  "download_url": "",
+  "citation": "Early steam locomotive. Smithsonian Institution.",
+  "alt_text": "Illustration/photograph of an early steam railway locomotive.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.14",
+  "title": "Bessemer steel converter / electric telegraph",
+  "type": "Illustration",
+  "creator": "19th-c. sources",
+  "year": "19th c.",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Bessemer+steel+converter+telegraph",
+  "download_url": "",
+  "citation": "Bessemer steel process and telegraph illustrations, 19th c. Library of Congress.",
+  "alt_text": "Engraving of a Bessemer converter and telegraph apparatus.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.15",
+  "title": "Child labor photographs (National Child Labor Committee)",
+  "type": "Photograph",
+  "creator": "Lewis W. Hine",
+  "year": "1908-1917",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Lewis+Hine+child+labor+mill",
+  "download_url": "",
+  "citation": "Lewis Hine, National Child Labor Committee photographs, c.1908-1917. Library of Congress.",
+  "alt_text": "Photograph of children working amid textile-mill machinery.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.15",
+  "title": "Coal mine / factory working conditions",
+  "type": "Engraving / report",
+  "creator": "19th-c. sources",
+  "year": "19th c.",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=coal+mine+working+conditions+19th+century",
+  "download_url": "",
+  "citation": "Depiction of 19th-century mine and factory conditions. Library of Congress.",
+  "alt_text": "Engraving of laborers, including children, in a coal mine.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.16",
+  "title": "The Communist Manifesto",
+  "type": "Pamphlet (text)",
+  "creator": "Karl Marx & Friedrich Engels",
+  "year": "1848",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Communist+Manifesto+Marx+Engels&type=all",
+  "download_url": "",
+  "citation": "Marx & Engels, Manifesto of the Communist Party (1848). HathiTrust.",
+  "alt_text": "Title page and text of the Communist Manifesto.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.16",
+  "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+  "type": "Book (text)",
+  "creator": "Adam Smith",
+  "year": "1776",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Adam+Smith+Wealth+of+Nations&type=all",
+  "download_url": "",
+  "citation": "Adam Smith, The Wealth of Nations (1776). HathiTrust.",
+  "alt_text": "Title page of Adam Smith's Wealth of Nations.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.03"
+   ]
+  }
+ },
+ {
+  "standard": "W.17",
+  "title": "Otto von Bismarck (photograph/portrait)",
+  "type": "Photograph",
+  "creator": "various",
+  "year": "c. 1870-1890",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Otto+von+Bismarck+portrait",
+  "download_url": "",
+  "citation": "Otto von Bismarck. Library of Congress, Prints & Photographs.",
+  "alt_text": "Portrait photograph of Otto von Bismarck in uniform.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.17",
+  "title": "Giuseppe Garibaldi / Italian unification",
+  "type": "Print/photograph",
+  "creator": "various",
+  "year": "c. 1860",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Giuseppe+Garibaldi+Italian+unification",
+  "download_url": "",
+  "citation": "Giuseppe Garibaldi, c.1860. Library of Congress.",
+  "alt_text": "Portrait of Garibaldi and Risorgimento imagery.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.18",
+  "title": "\"J'Accuse…!\" (open letter, L'Aurore front page)",
+  "type": "Newspaper / open letter",
+  "creator": "Émile Zola",
+  "year": "1898",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Zola+J%27Accuse+Aurore+1898&type=all",
+  "download_url": "",
+  "citation": "Émile Zola, \"J'Accuse…!\" L'Aurore, 13 January 1898. HathiTrust.",
+  "alt_text": "Front page of L'Aurore with Zola's J'Accuse headline defending Dreyfus.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.18",
+  "title": "Dreyfus Affair — degradation of Alfred Dreyfus",
+  "type": "Print / photograph",
+  "creator": "contemporary French press",
+  "year": "1895",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Dreyfus+affair+degradation",
+  "download_url": "",
+  "citation": "The degradation of Captain Alfred Dreyfus, 1895. Library of Congress.",
+  "alt_text": "Illustration of Dreyfus being stripped of rank before troops.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.19",
+  "title": "The Rhodes Colossus",
+  "type": "Political cartoon",
+  "creator": "Edward Linley Sambourne (Punch)",
+  "year": "1892",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Rhodes+Colossus+cartoon",
+  "download_url": "",
+  "citation": "\"The Rhodes Colossus,\" Punch, 1892. Library of Congress.",
+  "alt_text": "Cartoon of Cecil Rhodes straddling Africa from Cape to Cairo.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.19",
+  "title": "The White Man's Burden",
+  "type": "Poem (text)",
+  "creator": "Rudyard Kipling",
+  "year": "1899",
+  "repository": "HathiTrust Digital Library",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.hathitrust.org/Search/Home?lookfor=Kipling+White+Man%27s+Burden+1899&type=all",
+  "download_url": "",
+  "citation": "Rudyard Kipling, \"The White Man's Burden\" (1899). HathiTrust.",
+  "alt_text": "Printed text of Kipling's poem justifying imperialism.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.20",
+  "title": "Map of Africa (late 19th century)",
+  "type": "Map",
+  "creator": "19th-c. cartographers",
+  "year": "c. 1880-1900",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Africa+map+1890+resources",
+  "download_url": "",
+  "citation": "Map of Africa, late 19th century. Library of Congress, Geography & Map Division.",
+  "alt_text": "Detailed 19th-century map of the African continent.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.20",
+  "title": "African trade and resources (illustrated)",
+  "type": "Print",
+  "creator": "19th-c. sources",
+  "year": "19th c.",
+  "repository": "The New York Public Library Digital Collections",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=Africa+trade+ivory+rubber+19th+century",
+  "download_url": "",
+  "citation": "Illustrations of African trade and resources, 19th c. NYPL Digital Collections.",
+  "alt_text": "Prints of African resource extraction and trade.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.21",
+  "title": "Map of the partition of Africa (colonial claims)",
+  "type": "Map",
+  "creator": "late 19th-c. cartographers",
+  "year": "c. 1885-1914",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=colonial+Africa+partition+map+1900",
+  "download_url": "",
+  "citation": "Map showing European colonial partition of Africa. Library of Congress.",
+  "alt_text": "Colored map of Africa divided among European colonial powers.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.21",
+  "title": "The Berlin Conference of 1884-85",
+  "type": "Engraving",
+  "creator": "contemporary press",
+  "year": "1884",
+  "repository": "The New York Public Library Digital Collections",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=Berlin+Conference+1884+Africa",
+  "download_url": "",
+  "citation": "The Berlin Conference, 1884. NYPL Digital Collections.",
+  "alt_text": "Engraving of diplomats around a map at the Berlin Conference.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.22",
+  "title": "Battle of Adwa (Adowa), 1896",
+  "type": "Painting/print",
+  "creator": "Ethiopian traditional artists",
+  "year": "c. 1896-1920s",
+  "repository": "Smithsonian National Museum of African Art",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=Battle+of+Adwa+Ethiopia+painting",
+  "download_url": "",
+  "citation": "Depiction of the Battle of Adwa, 1896. Smithsonian National Museum of African Art.",
+  "alt_text": "Ethiopian painting of the victory over Italian forces at Adwa.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.22",
+  "title": "Anglo-Zulu War (Isandlwana / Rorke's Drift), 1879",
+  "type": "Print/engraving",
+  "creator": "contemporary British press",
+  "year": "1879",
+  "repository": "The New York Public Library Digital Collections",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=Anglo-Zulu+War+1879+Isandlwana",
+  "download_url": "",
+  "citation": "The Anglo-Zulu War, 1879. NYPL Digital Collections.",
+  "alt_text": "Engraving of a battle between British and Zulu forces.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.23",
+  "title": "Opening of the Suez Canal, 1869",
+  "type": "Print/photograph",
+  "creator": "contemporary sources",
+  "year": "1869",
+  "repository": "The New York Public Library Digital Collections",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=Suez+Canal+opening+1869",
+  "download_url": "",
+  "citation": "The opening of the Suez Canal, 1869. NYPL Digital Collections.",
+  "alt_text": "Ships in procession at the 1869 opening of the Suez Canal.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.23",
+  "title": "The Indian Rebellion (Sepoy Mutiny) of 1857",
+  "type": "Engraving",
+  "creator": "contemporary British press",
+  "year": "1857-1858",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Indian+Rebellion+1857+Sepoy+Mutiny",
+  "download_url": "",
+  "citation": "Scenes of the Indian Rebellion of 1857. Library of Congress.",
+  "alt_text": "Engraving of the 1857 Indian Rebellion against British rule.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.24",
+  "title": "Destruction of opium / First Opium War",
+  "type": "Engraving",
+  "creator": "19th-c. sources",
+  "year": "1839-1842",
+  "repository": "The New York Public Library Digital Collections",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=Opium+War+China+1842",
+  "download_url": "",
+  "citation": "The First Opium War, c.1842. NYPL Digital Collections.",
+  "alt_text": "Engraving of British warships attacking Chinese forces in the Opium War.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.24",
+  "title": "Boxer Rebellion, 1900",
+  "type": "Photograph",
+  "creator": "contemporary photographers",
+  "year": "1900-1901",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Boxer+Rebellion+1900+China",
+  "download_url": "",
+  "citation": "Boxer Rebellion, 1900. Library of Congress.",
+  "alt_text": "Photographs of foreign troops and the Boxer Rebellion in China.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.25",
+  "title": "Colonial exposition / \"human zoo\" imagery",
+  "type": "Print/photograph",
+  "creator": "late 19th-c. sources",
+  "year": "c. 1889-1900",
+  "repository": "The New York Public Library Digital Collections",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=colonial+exposition+1889",
+  "download_url": "",
+  "citation": "Colonial exposition imagery, late 19th c. NYPL Digital Collections.",
+  "alt_text": "Print of a European colonial exposition displaying colonized peoples and goods.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.25",
+  "title": "Railways and infrastructure in colonial India/Africa",
+  "type": "Photograph",
+  "creator": "late 19th-c. photographers",
+  "year": "c. 1870-1910",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=colonial+railway+India+Africa",
+  "download_url": "",
+  "citation": "Colonial-era railway infrastructure. Library of Congress.",
+  "alt_text": "Photograph of a railway built under European colonial rule.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.26",
+  "title": "Perry's \"Black Ships\" in Japan",
+  "type": "Woodblock print (ukiyo-e)",
+  "creator": "Japanese artists",
+  "year": "c. 1853-1854",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Black+Ships+Perry+Japan+woodblock",
+  "download_url": "",
+  "citation": "Japanese woodblock print of Perry's Black Ships, c.1854. The Metropolitan Museum of Art (Open Access).",
+  "alt_text": "Ukiyo-e print of American steam warships arriving in Japan.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.26",
+  "title": "First Sino-Japanese War / Meiji modernization prints",
+  "type": "Woodblock print (ukiyo-e)",
+  "creator": "Japanese artists",
+  "year": "1894-1895",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Sino-Japanese+War+woodblock+Meiji",
+  "download_url": "",
+  "citation": "Meiji-era woodblock prints of the Sino-Japanese War. The Metropolitan Museum of Art (Open Access).",
+  "alt_text": "Woodblock print depicting Japan's modernized military.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.27",
+  "title": "Map of South America (19th century)",
+  "type": "Map",
+  "creator": "19th-c. cartographers",
+  "year": "19th c.",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=South+America+map+19th+century",
+  "download_url": "",
+  "citation": "Map of South America, 19th century. Library of Congress, Geography & Map Division.",
+  "alt_text": "Historical map of Central and South America.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.27",
+  "title": "Guano / silver / rubber extraction in Latin America",
+  "type": "Print/photograph",
+  "creator": "19th-c. sources",
+  "year": "19th c.",
+  "repository": "The New York Public Library Digital Collections",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=Peru+guano+silver+mining+South+America",
+  "download_url": "",
+  "citation": "Resource extraction in 19th-century Latin America. NYPL Digital Collections.",
+  "alt_text": "Illustration of mining or guano/rubber extraction in Latin America.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.28",
+  "title": "Construction of the Panama Canal",
+  "type": "Photograph",
+  "creator": "U.S. Isthmian Canal Commission",
+  "year": "1904-1914",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Panama+Canal+construction+1913",
+  "download_url": "",
+  "citation": "Construction of the Panama Canal, c.1904-1914. Library of Congress.",
+  "alt_text": "Photograph of steam shovels excavating the Panama Canal.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.28",
+  "title": "U.S. \"Big Stick\" intervention in Latin America",
+  "type": "Political cartoon",
+  "creator": "early 20th-c. cartoonists",
+  "year": "c. 1900-1910",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Big+Stick+Roosevelt+Latin+America+cartoon",
+  "download_url": "",
+  "citation": "\"Big Stick\" diplomacy cartoon, early 20th c. Library of Congress.",
+  "alt_text": "Cartoon of the U.S. asserting economic/military power in Latin America.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.29",
+  "title": "Map of the Balkans, \"powder keg of Europe\" (c.1912)",
+  "type": "Map",
+  "creator": "early 20th-c. cartographers",
+  "year": "c. 1912-1914",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Balkans+map+1912+Europe",
+  "download_url": "",
+  "citation": "Map of the Balkans, c.1912. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map of the fractured Balkan states before World War I.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.29",
+  "title": "European alliances / armed-camp political cartoon",
+  "type": "Political cartoon",
+  "creator": "early 20th-c. cartoonists",
+  "year": "c. 1900-1914",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=European+alliances+cartoon+1914",
+  "download_url": "",
+  "citation": "European alliance system cartoon, early 20th c. Library of Congress.",
+  "alt_text": "Cartoon depicting Europe's tangled alliances and militarism.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.30",
+  "title": "Assassination of Archduke Franz Ferdinand, Sarajevo, 1914",
+  "type": "Print/photograph",
+  "creator": "contemporary press",
+  "year": "1914",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Franz+Ferdinand+assassination+Sarajevo+1914",
+  "download_url": "",
+  "citation": "Assassination of Archduke Franz Ferdinand, 1914. Library of Congress.",
+  "alt_text": "Illustration/photograph of the Sarajevo assassination that sparked WWI.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.30",
+  "title": "World War I mobilization / alliance cartoon",
+  "type": "Political cartoon",
+  "creator": "1914-era cartoonists",
+  "year": "1914",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=World+War+I+alliances+militarism+cartoon+1914",
+  "download_url": "",
+  "citation": "World War I alliance/militarism cartoon, 1914. Library of Congress.",
+  "alt_text": "Cartoon showing the alliance chain dragging Europe into war.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.31",
+  "title": "World War I trench warfare photographs",
+  "type": "Photograph",
+  "creator": "U.S. Army Signal Corps / official photographers",
+  "year": "1914-1918",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=World+War+I+trench+warfare",
+  "download_url": "",
+  "citation": "World War I trench photographs. U.S. National Archives.",
+  "alt_text": "Soldiers in a muddy World War I trench.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.31",
+  "title": "New weapons of WWI: tanks, gas masks, machine guns",
+  "type": "Photograph",
+  "creator": "official war photographers",
+  "year": "1916-1918",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=World+War+I+tank+poison+gas+machine+gun",
+  "download_url": "",
+  "citation": "New weaponry of World War I. Library of Congress.",
+  "alt_text": "Photograph of a WWI tank and troops in gas masks.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.32",
+  "title": "Map of the Western Front (Marne, Verdun, Somme)",
+  "type": "Map",
+  "creator": "military cartographers",
+  "year": "1914-1918",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Western+Front+map+World+War+I+Verdun+Somme",
+  "download_url": "",
+  "citation": "Map of the Western Front. Library of Congress, Geography & Map Division.",
+  "alt_text": "Battle map of the WWI Western Front trench lines.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.32",
+  "title": "Battle of the Somme / Verdun photographs",
+  "type": "Photograph",
+  "creator": "official war photographers",
+  "year": "1916",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Battle+of+the+Somme+Verdun+1916",
+  "download_url": "",
+  "citation": "Battle of the Somme photographs, 1916. U.S. National Archives.",
+  "alt_text": "Photograph of the devastated battlefield of the Somme.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.33",
+  "title": "World War I recruitment poster (\"I Want YOU\")",
+  "type": "Poster",
+  "creator": "James Montgomery Flagg / Committee on Public Information",
+  "year": "1917",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=World+War+I+recruitment+poster+Uncle+Sam",
+  "download_url": "",
+  "citation": "World War I U.S. recruitment poster, 1917. Library of Congress.",
+  "alt_text": "\"I Want YOU\" Uncle Sam recruitment poster.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.33",
+  "title": "Treaty of Brest-Litovsk (1918)",
+  "type": "Treaty (text)",
+  "creator": "Soviet Russia and the Central Powers",
+  "year": "1918",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/subject_menus/blmenu.asp",
+  "download_url": "",
+  "citation": "Treaty of Brest-Litovsk, 1918. The Avalon Project, Yale Law School.",
+  "alt_text": "Text of the treaty by which Russia exited World War I.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.34",
+  "title": "Women munitions workers, World War I",
+  "type": "Photograph",
+  "creator": "official war photographers",
+  "year": "1915-1918",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=World+War+I+women+munitions+workers",
+  "download_url": "",
+  "citation": "Women munitions workers, World War I. U.S. National Archives.",
+  "alt_text": "Women assembling shells in a WWI munitions factory.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.34",
+  "title": "World War I food conservation / rationing poster",
+  "type": "Poster",
+  "creator": "U.S. Food Administration",
+  "year": "1917-1918",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=World+War+I+food+conservation+poster",
+  "download_url": "",
+  "citation": "World War I food conservation poster. Library of Congress.",
+  "alt_text": "Poster urging civilians to conserve food for the war effort.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.35",
+  "title": "Armenian Genocide / Near East Relief photographs",
+  "type": "Photograph",
+  "creator": "American Committee for Relief in the Near East",
+  "year": "1915-1919",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Armenian+refugees+Near+East+Relief+1915",
+  "download_url": "",
+  "citation": "Armenian Genocide and Near East Relief photographs, 1915-1919. Library of Congress.",
+  "alt_text": "Photograph of Armenian refugees during the genocide.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.35",
+  "title": "1918 influenza pandemic photographs",
+  "type": "Photograph",
+  "creator": "U.S. government / Red Cross",
+  "year": "1918-1919",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=1918+influenza+pandemic",
+  "download_url": "",
+  "citation": "1918 influenza pandemic photographs. U.S. National Archives.",
+  "alt_text": "Emergency hospital ward during the 1918 influenza pandemic.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.36",
+  "title": "Treaty of Versailles (1919)",
+  "type": "Treaty (text)",
+  "creator": "Allied and Associated Powers; Germany",
+  "year": "1919",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/subject_menus/versailles_menu.asp",
+  "download_url": "",
+  "citation": "Treaty of Versailles, 1919. The Avalon Project, Yale Law School.",
+  "alt_text": "Text of the Treaty of Versailles including the War Guilt clause.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.36",
+  "title": "The \"Big Four\" at the Paris Peace Conference",
+  "type": "Photograph",
+  "creator": "official photographers",
+  "year": "1919",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Big+Four+Paris+Peace+Conference+1919",
+  "download_url": "",
+  "citation": "The Big Four at the Paris Peace Conference, 1919. Library of Congress.",
+  "alt_text": "Photograph of Wilson, Lloyd George, Clemenceau, and Orlando.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.03"
+   ]
+  }
+ },
+ {
+  "standard": "W.36",
+  "title": "President Wilson's Fourteen Points (1918)",
+  "type": "Speech (text)",
+  "creator": "Woodrow Wilson",
+  "year": "1918",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/20th_century/wilson14.asp",
+  "download_url": "",
+  "citation": "Woodrow Wilson, Fourteen Points, 1918. The Avalon Project, Yale Law School.",
+  "alt_text": "Text of Wilson's Fourteen Points peace program.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.37",
+  "title": "Map of Europe after World War I",
+  "type": "Map",
+  "creator": "post-1919 cartographers",
+  "year": "c. 1919-1923",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=map+Europe+after+World+War+I+1919",
+  "download_url": "",
+  "citation": "Map of Europe after World War I. Library of Congress, Geography & Map Division.",
+  "alt_text": "Map showing redrawn national borders of post-WWI Europe.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.37",
+  "title": "Covenant of the League of Nations (1919)",
+  "type": "Treaty (text)",
+  "creator": "Paris Peace Conference",
+  "year": "1919",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/20th_century/leagcov.asp",
+  "download_url": "",
+  "citation": "Covenant of the League of Nations, 1919. The Avalon Project, Yale Law School.",
+  "alt_text": "Text of the League of Nations Covenant establishing the mandate system.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.38",
+  "title": "Russian Revolution of 1917 photographs",
+  "type": "Photograph",
+  "creator": "contemporary photographers",
+  "year": "1917",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Russian+Revolution+1917+Petrograd",
+  "download_url": "",
+  "citation": "Photographs of the Russian Revolution, 1917. Library of Congress.",
+  "alt_text": "Crowds and Red Guards during the 1917 Russian Revolution.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.38",
+  "title": "Bolshevik / Russian Civil War propaganda poster",
+  "type": "Poster",
+  "creator": "Soviet artists",
+  "year": "1918-1921",
+  "repository": "Library of Congress",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Bolshevik+Russian+Civil+War+poster+1919",
+  "download_url": "",
+  "citation": "Russian Civil War propaganda poster, c.1919. Library of Congress.",
+  "alt_text": "Soviet Red Army propaganda poster from the Russian Civil War.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.39",
+  "title": "Jazz Age / Harlem Renaissance photographs",
+  "type": "Photograph",
+  "creator": "1920s photographers",
+  "year": "1920s",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Harlem+Renaissance+jazz+1920s",
+  "download_url": "",
+  "citation": "Harlem Renaissance and Jazz Age photographs, 1920s. Library of Congress.",
+  "alt_text": "Photograph of 1920s jazz musicians and Harlem cultural life.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.39",
+  "title": "1920s modern design and Art Deco",
+  "type": "Design/print",
+  "creator": "1920s designers",
+  "year": "1920s",
+  "repository": "The Metropolitan Museum of Art",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.metmuseum.org/search-results?q=Art+Deco+1920s+design",
+  "download_url": "",
+  "citation": "Art Deco design, 1920s. The Metropolitan Museum of Art.",
+  "alt_text": "Example of 1920s Art Deco design.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.40",
+  "title": "Crowds outside the New York Stock Exchange, 1929",
+  "type": "Photograph",
+  "creator": "press photographers",
+  "year": "1929",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Wall+Street+crash+1929+crowd+stock+exchange",
+  "download_url": "",
+  "citation": "Crowds on Wall Street during the 1929 crash. Library of Congress.",
+  "alt_text": "Anxious crowds gathered outside the NY Stock Exchange in 1929.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.40",
+  "title": "Great Depression breadlines / unemployment",
+  "type": "Photograph",
+  "creator": "Farm Security Administration photographers",
+  "year": "1930s",
+  "repository": "Library of Congress",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Great+Depression+breadline+unemployed",
+  "download_url": "",
+  "citation": "Great Depression breadline photographs, 1930s (FSA). Library of Congress.",
+  "alt_text": "People waiting in a Depression-era breadline.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.41",
+  "title": "German hyperinflation, 1923",
+  "type": "Photograph",
+  "creator": "contemporary photographers",
+  "year": "1923",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=German+hyperinflation+1923+money",
+  "download_url": "",
+  "citation": "German hyperinflation, 1923. Library of Congress.",
+  "alt_text": "Photograph of Weimar-era Germans using near-worthless banknotes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.41",
+  "title": "Rise of the Nazi Party / early rallies",
+  "type": "Photograph",
+  "creator": "official/press photographers",
+  "year": "1920s-1933",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Nazi+Party+rally+1920s+rise+Hitler",
+  "download_url": "",
+  "citation": "Rise of the Nazi Party. U.S. National Archives.",
+  "alt_text": "Photograph of an early Nazi Party rally in Germany.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.42",
+  "title": "Totalitarian propaganda posters (Nazi, Fascist, Soviet)",
+  "type": "Poster",
+  "creator": "state artists",
+  "year": "1920s-1940s",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=propaganda+poster+Nazi+fascist+Soviet",
+  "download_url": "",
+  "citation": "Totalitarian propaganda posters. U.S. National Archives.",
+  "alt_text": "Propaganda posters glorifying totalitarian leaders.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.03"
+   ]
+  }
+ },
+ {
+  "standard": "W.42",
+  "title": "Photographs of Hitler, Mussolini, and Stalin",
+  "type": "Photograph",
+  "creator": "official/press photographers",
+  "year": "1930s-1940s",
+  "repository": "Library of Congress",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Hitler+Mussolini+Stalin+dictators",
+  "download_url": "",
+  "citation": "Photographs of Hitler, Mussolini, and Stalin. Library of Congress.",
+  "alt_text": "Portrait photographs of the three dictators.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.03"
+   ]
+  }
+ },
+ {
+  "standard": "W.43",
+  "title": "Map of Axis expansion / \"living space\" in Europe",
+  "type": "Map",
+  "creator": "1930s-40s cartographers",
+  "year": "1930s-1940s",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Axis+expansion+map+Europe+World+War+II",
+  "download_url": "",
+  "citation": "Map of Axis expansion in Europe. U.S. National Archives.",
+  "alt_text": "Map showing German and Italian territorial expansion.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.43",
+  "title": "Greater East Asia Co-Prosperity Sphere map/poster",
+  "type": "Map/poster",
+  "creator": "Japanese government",
+  "year": "c. 1940-1942",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Greater+East+Asia+Co-Prosperity+Sphere+Japan",
+  "download_url": "",
+  "citation": "Greater East Asia Co-Prosperity Sphere. U.S. National Archives.",
+  "alt_text": "Japanese map/poster of the Greater East Asia Co-Prosperity Sphere.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.44",
+  "title": "Italian invasion of Ethiopia, 1935-36",
+  "type": "Photograph",
+  "creator": "press photographers",
+  "year": "1935-1936",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Italy+invasion+Ethiopia+1935+Abyssinia",
+  "download_url": "",
+  "citation": "Italian invasion of Ethiopia, 1935. Library of Congress.",
+  "alt_text": "Photograph of Italian troops in the invasion of Ethiopia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.44",
+  "title": "Second Sino-Japanese War, 1937 (invasion of China)",
+  "type": "Photograph",
+  "creator": "press/official photographers",
+  "year": "1937-1938",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Second+Sino-Japanese+War+1937+China",
+  "download_url": "",
+  "citation": "Second Sino-Japanese War, 1937. U.S. National Archives.",
+  "alt_text": "Photograph of the Japanese invasion of China in 1937.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.45",
+  "title": "Munich Agreement (1938)",
+  "type": "Agreement (text)",
+  "creator": "Germany, Britain, France, Italy",
+  "year": "1938",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/imt/munich1.asp",
+  "download_url": "",
+  "citation": "Munich Agreement, 1938. The Avalon Project, Yale Law School.",
+  "alt_text": "Text of the 1938 Munich Agreement embodying appeasement.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.45",
+  "title": "American isolationism / \"America First\" (1930s)",
+  "type": "Poster/cartoon/photograph",
+  "creator": "1930s sources",
+  "year": "1935-1941",
+  "repository": "Library of Congress",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=America+First+isolationism+1940+neutrality",
+  "download_url": "",
+  "citation": "American isolationism, late 1930s. Library of Congress.",
+  "alt_text": "Isolationist \"America First\" imagery before U.S. entry into WWII.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.46",
+  "title": "World War II aircraft and strategic bombing",
+  "type": "Photograph",
+  "creator": "U.S. Army Air Forces",
+  "year": "1939-1945",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=World+War+II+strategic+bombing+aircraft",
+  "download_url": "",
+  "citation": "World War II strategic bombing photographs. U.S. National Archives.",
+  "alt_text": "Formation of WWII bombers on a strategic bombing mission.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.46",
+  "title": "Pacific island-hopping campaign map",
+  "type": "Map",
+  "creator": "U.S. military cartographers",
+  "year": "1942-1945",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Pacific+island+hopping+campaign+map+World+War+II",
+  "download_url": "",
+  "citation": "Pacific theater island-hopping map. U.S. National Archives.",
+  "alt_text": "Map of the Pacific island-hopping campaign.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.47",
+  "title": "D-Day landings at Normandy, 6 June 1944",
+  "type": "Photograph",
+  "creator": "U.S. Coast Guard / Army Signal Corps",
+  "year": "1944",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=D-Day+Normandy+landing+1944",
+  "download_url": "",
+  "citation": "D-Day landings at Normandy, 1944. U.S. National Archives.",
+  "alt_text": "Troops wading ashore under fire on D-Day at Normandy.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.47",
+  "title": "Battle maps of the European and Pacific theaters",
+  "type": "Map",
+  "creator": "U.S. Army Center of Military History",
+  "year": "1941-1945",
+  "repository": "U.S. Army Center of Military History",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.army.mil/html/reference/army_flag/wwii.html",
+  "download_url": "",
+  "citation": "World War II campaign maps. U.S. Army Center of Military History.",
+  "alt_text": "Battle maps showing Stalingrad, Midway, Normandy, and the Bulge.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.48",
+  "title": "The \"Big Three\" at the Yalta Conference, 1945",
+  "type": "Photograph",
+  "creator": "U.S. Army Signal Corps",
+  "year": "1945",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Yalta+Conference+Big+Three+1945+Churchill+Roosevelt+Stalin",
+  "download_url": "",
+  "citation": "The Big Three at Yalta, 1945. U.S. National Archives.",
+  "alt_text": "Churchill, Roosevelt, and Stalin seated at the Yalta Conference.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.03"
+   ]
+  }
+ },
+ {
+  "standard": "W.48",
+  "title": "Portraits/photographs of WWII leaders",
+  "type": "Photograph",
+  "creator": "official/press photographers",
+  "year": "1939-1945",
+  "repository": "Library of Congress",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=World+War+II+leaders+Churchill+Roosevelt+Truman+Tojo",
+  "download_url": "",
+  "citation": "World War II leaders. Library of Congress.",
+  "alt_text": "Portrait photographs of the major World War II leaders.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.03"
+   ]
+  }
+ },
+ {
+  "standard": "W.49",
+  "title": "Nazi anti-Jewish boycott and Kristallnacht, 1933-1938",
+  "type": "Photograph",
+  "creator": "official/press photographers",
+  "year": "1933-1938",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Nazi+anti-Jewish+boycott+Kristallnacht+1938",
+  "download_url": "",
+  "citation": "Nazi persecution of Jews, 1933-1938. U.S. National Archives.",
+  "alt_text": "Photograph of the 1933 anti-Jewish boycott or 1938 Kristallnacht damage.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.49",
+  "title": "The Nuremberg Laws (1935)",
+  "type": "Law/chart (document)",
+  "creator": "Nazi Germany",
+  "year": "1935",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Nuremberg+Laws+1935+racial+chart",
+  "download_url": "",
+  "citation": "The Nuremberg Laws, 1935. U.S. National Archives.",
+  "alt_text": "Nazi racial classification chart under the 1935 Nuremberg Laws.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.50",
+  "title": "Liberation of Nazi concentration camps, 1945",
+  "type": "Photograph",
+  "creator": "U.S. Army Signal Corps",
+  "year": "1945",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=liberation+concentration+camps+1945",
+  "download_url": "",
+  "citation": "Liberation of Nazi concentration camps, 1945. U.S. National Archives.",
+  "alt_text": "U.S. troops and survivors at a liberated concentration camp, 1945.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.50",
+  "title": "Warsaw Ghetto and ghetto uprising, 1943",
+  "type": "Photograph",
+  "creator": "official records",
+  "year": "1940-1943",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Warsaw+Ghetto+uprising+1943",
+  "download_url": "",
+  "citation": "The Warsaw Ghetto, 1943. U.S. National Archives.",
+  "alt_text": "Photograph from the Warsaw Ghetto and 1943 uprising.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.51",
+  "title": "The Atlantic Charter (1941)",
+  "type": "Joint declaration (text)",
+  "creator": "Franklin D. Roosevelt & Winston Churchill",
+  "year": "1941",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/wwii/atlantic.asp",
+  "download_url": "",
+  "citation": "The Atlantic Charter, 1941. The Avalon Project, Yale Law School.",
+  "alt_text": "Text of the 1941 Atlantic Charter.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.51",
+  "title": "Protocol of the Yalta (Crimea) Conference (1945)",
+  "type": "Agreement (text)",
+  "creator": "U.S., U.K., U.S.S.R.",
+  "year": "1945",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/wwii/yalta.asp",
+  "download_url": "",
+  "citation": "Yalta Conference Agreement, 1945. The Avalon Project, Yale Law School.",
+  "alt_text": "Text of the Yalta Conference protocol.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.51",
+  "title": "Tehran and Potsdam conference records",
+  "type": "Agreement (text)",
+  "creator": "Allied leaders",
+  "year": "1943-1945",
+  "repository": "U.S. Dept. of State, Office of the Historian",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/search?q=Tehran+Potsdam+conference",
+  "download_url": "",
+  "citation": "Tehran and Potsdam conferences. U.S. Dept. of State, Office of the Historian.",
+  "alt_text": "Documents from the Tehran (1943) and Potsdam (1945) conferences.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.52",
+  "title": "Atomic bombing of Hiroshima and Nagasaki, 1945",
+  "type": "Photograph",
+  "creator": "U.S. military",
+  "year": "1945",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Hiroshima+Nagasaki+atomic+bomb+1945",
+  "download_url": "",
+  "citation": "Atomic bombings of Hiroshima and Nagasaki, 1945. U.S. National Archives.",
+  "alt_text": "Mushroom cloud and destruction from the 1945 atomic bombings.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.52",
+  "title": "Trinity test and the Manhattan Project",
+  "type": "Photograph",
+  "creator": "U.S. government / Manhattan Engineer District",
+  "year": "1942-1945",
+  "repository": "U.S. Department of Energy",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.energy.gov/search?query=Manhattan+Project+Trinity+test",
+  "download_url": "",
+  "citation": "The Manhattan Project and Trinity test. U.S. Department of Energy.",
+  "alt_text": "Photograph of the first atomic (Trinity) test, July 1945.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.53",
+  "title": "The Nuremberg Trials, 1945-46",
+  "type": "Photograph",
+  "creator": "U.S. Army / official photographers",
+  "year": "1945-1946",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Nuremberg+Trials+1945+1946+defendants",
+  "download_url": "",
+  "citation": "The Nuremberg Trials, 1945-46. U.S. National Archives.",
+  "alt_text": "Nazi defendants in the dock at the Nuremberg Trials.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.53",
+  "title": "Founding of the United Nations / UN Charter (1945)",
+  "type": "Photograph / document",
+  "creator": "United Nations Conference",
+  "year": "1945",
+  "repository": "U.S. Dept. of State, Office of the Historian",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/search?q=United+Nations+founding+1945+San+Francisco",
+  "download_url": "",
+  "citation": "Founding of the United Nations, 1945. Office of the Historian, U.S. Dept. of State.",
+  "alt_text": "Delegates at the 1945 San Francisco conference founding the UN.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.54",
+  "title": "The Marshall Plan (Harvard commencement address, 1947)",
+  "type": "Speech (text)",
+  "creator": "George C. Marshall",
+  "year": "1947",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/20th_century/marshall.asp",
+  "download_url": "",
+  "citation": "George C. Marshall, Marshall Plan speech, 1947. The Avalon Project, Yale Law School.",
+  "alt_text": "Text of Marshall's 1947 speech proposing European recovery aid.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.54",
+  "title": "Marshall Plan / European Recovery Program poster",
+  "type": "Poster",
+  "creator": "Economic Cooperation Administration",
+  "year": "1948-1951",
+  "repository": "Library of Congress",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Marshall+Plan+European+Recovery+Program+poster",
+  "download_url": "",
+  "citation": "Marshall Plan (ERP) poster, c.1948. Library of Congress.",
+  "alt_text": "Poster promoting the Marshall Plan's rebuilding of Europe.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.55",
+  "title": "UN Partition Plan for Palestine (Resolution 181), 1947",
+  "type": "Resolution/map (document)",
+  "creator": "United Nations General Assembly",
+  "year": "1947",
+  "repository": "U.S. Dept. of State, Office of the Historian",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/search?q=Israel+creation+1948+partition+Palestine",
+  "download_url": "",
+  "citation": "Creation of Israel and the 1947 UN Partition Plan. Office of the Historian, U.S. Dept. of State.",
+  "alt_text": "Map and text of the 1947 UN plan to partition Palestine.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.55",
+  "title": "Map of the 1947 UN partition of Palestine",
+  "type": "Map",
+  "creator": "1947 cartographers",
+  "year": "1947-1948",
+  "repository": "Library of Congress",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Palestine+partition+map+1947+Israel",
+  "download_url": "",
+  "citation": "Map of the UN partition of Palestine, 1947. Library of Congress.",
+  "alt_text": "Map showing proposed Jewish and Arab states in 1947.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.56",
+  "title": "\"Sinews of Peace\" (Iron Curtain speech), 1946",
+  "type": "Speech (text)",
+  "creator": "Winston Churchill",
+  "year": "1946",
+  "repository": "U.S. Dept. of State, Office of the Historian",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/search?q=Churchill+Iron+Curtain+1946+Sinews+of+Peace",
+  "download_url": "",
+  "citation": "Winston Churchill, \"Sinews of Peace\" (Iron Curtain speech), 1946. Office of the Historian.",
+  "alt_text": "Text of Churchill's 1946 Iron Curtain speech.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.56",
+  "title": "Map of Cold War divided Europe / Iron Curtain",
+  "type": "Map",
+  "creator": "postwar cartographers",
+  "year": "c. 1946-1955",
+  "repository": "Library of Congress",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Iron+Curtain+divided+Europe+map+Cold+War",
+  "download_url": "",
+  "citation": "Map of Cold War Europe divided by the Iron Curtain. Library of Congress.",
+  "alt_text": "Map showing the Iron Curtain dividing East and West Europe.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.57",
+  "title": "Founding of the People's Republic of China, 1949",
+  "type": "Photograph",
+  "creator": "contemporary photographers",
+  "year": "1949",
+  "repository": "Library of Congress",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Mao+Zedong+founding+People%27s+Republic+China+1949",
+  "download_url": "",
+  "citation": "Founding of the People's Republic of China, 1949. Library of Congress.",
+  "alt_text": "Mao Zedong proclaiming the People's Republic of China in 1949.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.57",
+  "title": "Chinese Communist propaganda poster",
+  "type": "Poster",
+  "creator": "Chinese state artists",
+  "year": "1950s-1970s",
+  "repository": "Library of Congress",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://www.loc.gov/search/?q=Chinese+Communist+propaganda+poster+Mao",
+  "download_url": "",
+  "citation": "Chinese Communist propaganda poster. Library of Congress.",
+  "alt_text": "Propaganda poster glorifying Mao and the Communist Party.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.58",
+  "title": "The Truman Doctrine (1947)",
+  "type": "Speech (text)",
+  "creator": "Harry S. Truman",
+  "year": "1947",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/20th_century/trudoc.asp",
+  "download_url": "",
+  "citation": "Harry S. Truman, Truman Doctrine speech, 1947. The Avalon Project, Yale Law School.",
+  "alt_text": "Text of the 1947 Truman Doctrine speech on containment.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.58",
+  "title": "Early Cold War political cartoon / containment map",
+  "type": "Cartoon / map",
+  "creator": "late 1940s sources",
+  "year": "1947-1950",
+  "repository": "Library of Congress",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Cold+War+containment+cartoon+Soviet+Union",
+  "download_url": "",
+  "citation": "Early Cold War cartoon. Library of Congress.",
+  "alt_text": "Cartoon depicting U.S.-Soviet Cold War rivalry.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.59",
+  "title": "The North Atlantic Treaty (NATO), 1949",
+  "type": "Treaty (text)",
+  "creator": "North Atlantic signatories",
+  "year": "1949",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/20th_century/nato.asp",
+  "download_url": "",
+  "citation": "The North Atlantic Treaty, 1949. The Avalon Project, Yale Law School.",
+  "alt_text": "Text of the 1949 treaty establishing NATO.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.59",
+  "title": "The Warsaw Security Pact (1955)",
+  "type": "Treaty (text)",
+  "creator": "Soviet bloc states",
+  "year": "1955",
+  "repository": "Avalon Project, Yale Law School",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://avalon.law.yale.edu/20th_century/warsaw.asp",
+  "download_url": "",
+  "citation": "The Warsaw Pact, 1955. The Avalon Project, Yale Law School.",
+  "alt_text": "Text of the 1955 treaty establishing the Warsaw Pact.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.60",
+  "title": "The Berlin Airlift, 1948-49",
+  "type": "Photograph",
+  "creator": "U.S. Air Force",
+  "year": "1948-1949",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Berlin+Airlift+1948+1949",
+  "download_url": "",
+  "citation": "The Berlin Airlift, 1948-49. U.S. National Archives.",
+  "alt_text": "C-54 aircraft delivering supplies during the Berlin Airlift.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.60",
+  "title": "Construction of the Berlin Wall, 1961",
+  "type": "Photograph",
+  "creator": "U.S. Army / official photographers",
+  "year": "1961",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Berlin+Wall+construction+1961",
+  "download_url": "",
+  "citation": "The Berlin Wall, 1961. U.S. National Archives.",
+  "alt_text": "Photograph of the Berlin Wall dividing the city.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.61",
+  "title": "U.S. nuclear weapons test photographs",
+  "type": "Photograph",
+  "creator": "U.S. government",
+  "year": "1946-1962",
+  "repository": "U.S. Department of Energy",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.energy.gov/search?query=nuclear+weapons+test",
+  "download_url": "",
+  "citation": "U.S. nuclear weapons tests. U.S. Department of Energy.",
+  "alt_text": "Photograph of an atmospheric nuclear test detonation.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.61",
+  "title": "Cuban Missile Crisis reconnaissance photographs, 1962",
+  "type": "Photograph",
+  "creator": "U.S. Air Force / CIA",
+  "year": "1962",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Cuban+Missile+Crisis+reconnaissance+1962",
+  "download_url": "",
+  "citation": "Cuban Missile Crisis U-2 reconnaissance photographs, 1962. U.S. National Archives.",
+  "alt_text": "Aerial reconnaissance photo of Soviet missile sites in Cuba.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.62",
+  "title": "Hungarian Uprising of 1956",
+  "type": "Photograph",
+  "creator": "press photographers",
+  "year": "1956",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Hungarian+Revolution+1956+uprising",
+  "download_url": "",
+  "citation": "The Hungarian Uprising, 1956. U.S. National Archives.",
+  "alt_text": "Photograph of protesters and tanks during the 1956 Hungarian Uprising.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.62",
+  "title": "Prague Spring, 1968",
+  "type": "Photograph",
+  "creator": "press photographers",
+  "year": "1968",
+  "repository": "Library of Congress",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://www.loc.gov/search/?q=Prague+Spring+1968+Czechoslovakia+invasion",
+  "download_url": "",
+  "citation": "The Prague Spring, 1968. Library of Congress.",
+  "alt_text": "Photograph of Soviet tanks in Prague during the 1968 invasion.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.63",
+  "title": "The Korean War, 1950-53",
+  "type": "Photograph",
+  "creator": "U.S. Army / Dept. of Defense",
+  "year": "1950-1953",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Korean+War+1950+1953",
+  "download_url": "",
+  "citation": "The Korean War, 1950-53. U.S. National Archives.",
+  "alt_text": "Photograph of U.S. and UN troops during the Korean War.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.63",
+  "title": "The Vietnam War",
+  "type": "Photograph",
+  "creator": "U.S. military / Dept. of Defense",
+  "year": "1955-1975",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Vietnam+War+combat",
+  "download_url": "",
+  "citation": "The Vietnam War. U.S. National Archives.",
+  "alt_text": "Photograph of U.S. troops in the Vietnam War.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.64",
+  "title": "Fall of the Berlin Wall, 1989",
+  "type": "Photograph",
+  "creator": "U.S. government / press",
+  "year": "1989",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=fall+of+the+Berlin+Wall+1989",
+  "download_url": "",
+  "citation": "Fall of the Berlin Wall, 1989. U.S. National Archives.",
+  "alt_text": "People atop and dismantling the Berlin Wall in 1989.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.64",
+  "title": "Reagan-Gorbachev summits",
+  "type": "Photograph",
+  "creator": "White House / U.S. government",
+  "year": "1985-1988",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Reagan+Gorbachev+summit",
+  "download_url": "",
+  "citation": "Reagan-Gorbachev summits. U.S. National Archives.",
+  "alt_text": "Photograph of Reagan and Gorbachev at a Cold War summit.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.65",
+  "title": "Dissolution of the Soviet Union, 1991",
+  "type": "Photograph",
+  "creator": "U.S. government / press",
+  "year": "1991",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=dissolution+Soviet+Union+1991",
+  "download_url": "",
+  "citation": "The dissolution of the Soviet Union, 1991. U.S. National Archives.",
+  "alt_text": "Photograph from the 1991 collapse of the Soviet Union.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.65",
+  "title": "Map of the former Soviet republics",
+  "type": "Map",
+  "creator": "U.S. government cartographers",
+  "year": "1990s",
+  "repository": "Library of Congress",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=former+Soviet+republics+map+1991",
+  "download_url": "",
+  "citation": "Map of the former Soviet republics after 1991. Library of Congress.",
+  "alt_text": "Map showing the fifteen successor states of the USSR.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.66",
+  "title": "Immigrants arriving at Ellis Island",
+  "type": "Photograph",
+  "creator": "U.S. government / press",
+  "year": "c. 1900-1920",
+  "repository": "Library of Congress",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=immigrants+Ellis+Island+arriving",
+  "download_url": "",
+  "citation": "Immigrants at Ellis Island, early 20th c. Library of Congress.",
+  "alt_text": "Photograph of immigrants arriving at Ellis Island.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.66",
+  "title": "Emigrants / refugees departing by ship",
+  "type": "Photograph",
+  "creator": "early 20th-c. photographers",
+  "year": "c. 1900-1920",
+  "repository": "The New York Public Library Digital Collections",
+  "rights": "Public domain (published pre-1929)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://digitalcollections.nypl.org/search/index?keywords=emigrants+ship+departure+Europe",
+  "download_url": "",
+  "citation": "Emigrants departing Europe by ship. NYPL Digital Collections.",
+  "alt_text": "Photograph of emigrants boarding a ship to leave their homeland.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.67",
+  "title": "Partition of India refugee migration, 1947",
+  "type": "Photograph",
+  "creator": "press photographers",
+  "year": "1947",
+  "repository": "Library of Congress",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://www.loc.gov/search/?q=Partition+India+Pakistan+1947+refugees",
+  "download_url": "",
+  "citation": "The Partition of India, 1947. Library of Congress.",
+  "alt_text": "Photograph of mass refugee migration during the 1947 Partition.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.67",
+  "title": "Map of the partition of British India, 1947",
+  "type": "Map",
+  "creator": "1947 cartographers",
+  "year": "1947",
+  "repository": "Library of Congress",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=India+Pakistan+partition+map+1947+Radcliffe",
+  "download_url": "",
+  "citation": "Map of the partition of British India, 1947. Library of Congress.",
+  "alt_text": "Map showing the division of India into India and Pakistan.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.68",
+  "title": "Gandhi and the Salt March, 1930",
+  "type": "Photograph",
+  "creator": "press photographers",
+  "year": "1930",
+  "repository": "Library of Congress",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://www.loc.gov/search/?q=Gandhi+Salt+March+1930",
+  "download_url": "",
+  "citation": "Mohandas Gandhi and the Salt March, 1930. Library of Congress.",
+  "alt_text": "Photograph of Gandhi leading the 1930 Salt March.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.68",
+  "title": "Jawaharlal Nehru and Indian independence, 1947",
+  "type": "Photograph",
+  "creator": "press/official photographers",
+  "year": "1947",
+  "repository": "Library of Congress",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://www.loc.gov/search/?q=Nehru+Indian+independence+1947",
+  "download_url": "",
+  "citation": "Jawaharlal Nehru at Indian independence, 1947. Library of Congress.",
+  "alt_text": "Photograph of Nehru marking India's 1947 independence.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.69",
+  "title": "African independence leaders (Nkrumah, Kenyatta, Lumumba)",
+  "type": "Photograph",
+  "creator": "press/official photographers",
+  "year": "1950s-1960s",
+  "repository": "Library of Congress",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://www.loc.gov/search/?q=African+independence+leaders+Nkrumah+Kenyatta",
+  "download_url": "",
+  "citation": "African independence leaders, 1950s-60s. Library of Congress.",
+  "alt_text": "Photograph of African nationalist leaders at independence.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.69",
+  "title": "Nasser and the nationalization of the Suez Canal, 1956",
+  "type": "Photograph",
+  "creator": "U.S. government / press",
+  "year": "1956",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Nasser+Suez+Canal+nationalization+1956",
+  "download_url": "",
+  "citation": "Gamal Abdel Nasser and the Suez Crisis, 1956. U.S. National Archives.",
+  "alt_text": "Photograph related to Nasser's 1956 nationalization of the Suez Canal.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.70",
+  "title": "Apartheid \"petty apartheid\" segregation signage",
+  "type": "Photograph",
+  "creator": "press/UN photographers",
+  "year": "1950s-1980s",
+  "repository": "United Nations (hosted via *.edu archive)",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://www.loc.gov/search/?q=apartheid+South+Africa+segregation+sign",
+  "download_url": "",
+  "citation": "Apartheid segregation signage, South Africa. Library of Congress.",
+  "alt_text": "Photograph of \"whites only\" apartheid segregation signs.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.70",
+  "title": "Anti-apartheid movement and Nelson Mandela",
+  "type": "Photograph",
+  "creator": "press photographers",
+  "year": "1980s-1990s",
+  "repository": "Library of Congress",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://www.loc.gov/search/?q=anti-apartheid+Nelson+Mandela+protest",
+  "download_url": "",
+  "citation": "The anti-apartheid movement and Nelson Mandela. Library of Congress.",
+  "alt_text": "Photograph of anti-apartheid protest or Mandela's release.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.71",
+  "title": "Congo Crisis and post-independence conflict",
+  "type": "Photograph",
+  "creator": "press/UN photographers",
+  "year": "1960s",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://catalog.archives.gov/search?q=Congo+Crisis+1960+independence+conflict",
+  "download_url": "",
+  "citation": "Post-independence conflict in Africa (Congo Crisis). U.S. National Archives.",
+  "alt_text": "Photograph of conflict in newly independent Congo.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.71",
+  "title": "Map of independent post-colonial Africa",
+  "type": "Map",
+  "creator": "U.S. government cartographers",
+  "year": "1960s-1990s",
+  "repository": "Library of Congress",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=independent+Africa+political+map+decolonization",
+  "download_url": "",
+  "citation": "Political map of independent Africa. Library of Congress.",
+  "alt_text": "Map of Africa's independent nations after decolonization.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.72",
+  "title": "The Cuban Revolution and Fidel Castro, 1959",
+  "type": "Photograph",
+  "creator": "press/U.S. government",
+  "year": "1959",
+  "repository": "Library of Congress",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://www.loc.gov/search/?q=Cuban+Revolution+1959+Castro",
+  "download_url": "",
+  "citation": "The Cuban Revolution, 1959. Library of Congress.",
+  "alt_text": "Photograph of Fidel Castro and the 1959 Cuban Revolution.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.72",
+  "title": "U.S. Cold War intervention in Latin America (Nicaragua/Contras)",
+  "type": "Photograph / document",
+  "creator": "U.S. government",
+  "year": "1980s",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Nicaragua+Contras+Cold+War+Latin+America",
+  "download_url": "",
+  "citation": "U.S. involvement in Latin America during the Cold War. U.S. National Archives.",
+  "alt_text": "Photograph/document of U.S.-backed conflict in Cold War Latin America.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.73",
+  "title": "Breakup of Yugoslavia / Bosnian War, 1990s",
+  "type": "Photograph",
+  "creator": "U.S. military / press",
+  "year": "1992-1995",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Bosnia+war+Yugoslavia+breakup+1990s",
+  "download_url": "",
+  "citation": "The breakup of Yugoslavia, 1990s. U.S. National Archives.",
+  "alt_text": "Photograph from the Yugoslav Wars in the Balkans.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.73",
+  "title": "Map of the former Yugoslavia's successor states",
+  "type": "Map",
+  "creator": "U.S. government cartographers",
+  "year": "1990s",
+  "repository": "Library of Congress",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=former+Yugoslavia+successor+states+map",
+  "download_url": "",
+  "citation": "Map of the former Yugoslavia. Library of Congress.",
+  "alt_text": "Map showing the successor states of the former Yugoslavia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.74",
+  "title": "Cambodian genocide / Khmer Rouge (Tuol Sleng)",
+  "type": "Photograph",
+  "creator": "press/documentary",
+  "year": "1975-1979",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://catalog.archives.gov/search?q=Cambodia+Khmer+Rouge+genocide+1975",
+  "download_url": "",
+  "citation": "The Cambodian genocide under the Khmer Rouge. U.S. National Archives.",
+  "alt_text": "Photograph documenting the Khmer Rouge genocide in Cambodia.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.74",
+  "title": "Rwandan genocide, 1994",
+  "type": "Photograph / document",
+  "creator": "UN / U.S. government",
+  "year": "1994",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://catalog.archives.gov/search?q=Rwanda+genocide+1994",
+  "download_url": "",
+  "citation": "The Rwandan genocide, 1994. U.S. National Archives.",
+  "alt_text": "Photograph/document relating to the 1994 Rwandan genocide.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.75",
+  "title": "German reunification and the fall of the Berlin Wall, 1989-90",
+  "type": "Photograph",
+  "creator": "U.S. government / press",
+  "year": "1989-1990",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=German+reunification+1990+Berlin+Wall",
+  "download_url": "",
+  "citation": "German reunification, 1989-90. U.S. National Archives.",
+  "alt_text": "Photograph of Germans celebrating reunification at the Brandenburg Gate.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.75",
+  "title": "Map of divided and reunified Germany",
+  "type": "Map",
+  "creator": "U.S. government cartographers",
+  "year": "1949-1990",
+  "repository": "Library of Congress",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=divided+Germany+East+West+map",
+  "download_url": "",
+  "citation": "Map of divided and reunified Germany. Library of Congress.",
+  "alt_text": "Map showing East and West Germany and reunification.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.76",
+  "title": "The Camp David Accords, 1978",
+  "type": "Photograph",
+  "creator": "White House / U.S. government",
+  "year": "1978",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Camp+David+Accords+1978+Sadat+Begin+Carter",
+  "download_url": "",
+  "citation": "The Camp David Accords, 1978. U.S. National Archives.",
+  "alt_text": "Photograph of Sadat, Carter, and Begin at Camp David.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.76",
+  "title": "The Oslo Accords, 1993",
+  "type": "Photograph",
+  "creator": "White House / U.S. government",
+  "year": "1993",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Oslo+Accords+1993+Rabin+Arafat+handshake",
+  "download_url": "",
+  "citation": "The Oslo Accords, 1993. U.S. National Archives.",
+  "alt_text": "Photograph of the Rabin-Arafat handshake at the 1993 Oslo signing.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.77",
+  "title": "International population data and population pyramids",
+  "type": "Data / statistical graphic",
+  "creator": "U.S. Census Bureau (International Programs)",
+  "year": "20th-21st c.",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/search-results.html?q=international+population+pyramid",
+  "download_url": "",
+  "citation": "International population pyramids and data. U.S. Census Bureau.",
+  "alt_text": "Population pyramid graphics showing age/sex distribution by country.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.77",
+  "title": "Historical world/national population statistics",
+  "type": "Data / tables",
+  "creator": "U.S. Census Bureau",
+  "year": "20th-21st c.",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/search-results.html?q=world+population+historical+estimates",
+  "download_url": "",
+  "citation": "Historical population statistics. U.S. Census Bureau.",
+  "alt_text": "Tables of historical population figures by country.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.03"
+   ]
+  }
+ },
+ {
+  "standard": "W.78",
+  "title": "China's one-child policy",
+  "type": "Photograph / poster",
+  "creator": "press / Chinese sources",
+  "year": "1979-2015",
+  "repository": "Library of Congress",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://www.loc.gov/search/?q=China+one+child+policy+poster",
+  "download_url": "",
+  "citation": "China's one-child policy. Library of Congress.",
+  "alt_text": "Photograph/poster illustrating China's one-child population policy.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.78",
+  "title": "World population growth and decline data",
+  "type": "Data / statistical graphic",
+  "creator": "U.S. Census Bureau",
+  "year": "20th-21st c.",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/search-results.html?q=population+growth+decline+projections+country",
+  "download_url": "",
+  "citation": "Population growth and decline data. U.S. Census Bureau.",
+  "alt_text": "Charts of population growth in developing and decline in developed nations.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.79",
+  "title": "Apollo Moon landing, 1969",
+  "type": "Photograph",
+  "creator": "NASA",
+  "year": "1969",
+  "repository": "NASA Image and Video Library",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://images.nasa.gov/search?q=Apollo+11+Moon+landing+1969",
+  "download_url": "",
+  "citation": "Apollo 11 Moon landing, 1969. NASA.",
+  "alt_text": "Astronaut on the Moon during the 1969 Apollo 11 mission.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.79",
+  "title": "Medical and computing breakthroughs (vaccine, personal computer)",
+  "type": "Photograph / artifact",
+  "creator": "U.S. government / Smithsonian",
+  "year": "20th c.",
+  "repository": "Smithsonian Institution",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=personal+computer+polio+vaccine+20th+century",
+  "download_url": "",
+  "citation": "Modern medical and computing breakthroughs. Smithsonian Institution.",
+  "alt_text": "Photograph of a landmark vaccine or early personal computer.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.80",
+  "title": "GPS / NAVSTAR satellite",
+  "type": "Photograph / diagram",
+  "creator": "U.S. government (NASA/DoD)",
+  "year": "late 20th-21st c.",
+  "repository": "NASA Image and Video Library",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://images.nasa.gov/search?q=GPS+NAVSTAR+satellite",
+  "download_url": "",
+  "citation": "GPS/NAVSTAR satellite. NASA.",
+  "alt_text": "Illustration of a GPS satellite in orbit.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.80",
+  "title": "Satellite imagery and GIS mapping",
+  "type": "Satellite image / map",
+  "creator": "U.S. Geological Survey / NASA",
+  "year": "late 20th-21st c.",
+  "repository": "U.S. Geological Survey",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.usgs.gov/search?keys=satellite+imagery+Landsat+GIS",
+  "download_url": "",
+  "citation": "Satellite imagery and GIS. U.S. Geological Survey.",
+  "alt_text": "Satellite image of Earth used in GIS applications.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.81",
+  "title": "Trafficking in Persons Report",
+  "type": "Government report (text/data)",
+  "creator": "U.S. Department of State",
+  "year": "2001-present",
+  "repository": "U.S. Dept. of State, Office of the Historian",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/search?q=trafficking+in+persons",
+  "download_url": "",
+  "citation": "Trafficking in Persons Report. U.S. Department of State.",
+  "alt_text": "Cover and data pages of the State Dept. Trafficking in Persons Report.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.81",
+  "title": "International drug trafficking data / maps",
+  "type": "Report / data / map",
+  "creator": "U.S. government (DEA/DoJ)",
+  "year": "contemporary",
+  "repository": "Library of Congress",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=drug+trafficking+international+report+map",
+  "download_url": "",
+  "citation": "International drug trafficking data. U.S. government via Library of Congress.",
+  "alt_text": "Map/data on international drug trafficking routes.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.82",
+  "title": "Containerized shipping and global ports",
+  "type": "Photograph",
+  "creator": "U.S. government / Smithsonian",
+  "year": "late 20th c.",
+  "repository": "Smithsonian Institution",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=container+ship+port+containerization",
+  "download_url": "",
+  "citation": "Containerized shipping. Smithsonian Institution.",
+  "alt_text": "Photograph of container ships and cranes at a global port.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.82",
+  "title": "Early computer networking / the Internet",
+  "type": "Photograph / artifact",
+  "creator": "U.S. government / Smithsonian",
+  "year": "late 20th c.",
+  "repository": "Smithsonian Institution",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=ARPANET+early+internet+computer+networking",
+  "download_url": "",
+  "citation": "Early computer networking. Smithsonian Institution.",
+  "alt_text": "Photograph of early networked computers / Internet hardware.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02"
+   ]
+  }
+ },
+ {
+  "standard": "W.83",
+  "title": "Signing of NAFTA, 1993",
+  "type": "Photograph / document",
+  "creator": "U.S. government",
+  "year": "1993",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=NAFTA+signing+1993",
+  "download_url": "",
+  "citation": "The North American Free Trade Agreement, 1993. U.S. National Archives.",
+  "alt_text": "Photograph of the 1993 NAFTA signing ceremony.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.83",
+  "title": "GATT / World Trade Organization founding documents",
+  "type": "Treaty / document",
+  "creator": "GATT/WTO; U.S. government",
+  "year": "1947-1995",
+  "repository": "U.S. Dept. of State, Office of the Historian",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/search?q=GATT+World+Trade+Organization+trade+agreement",
+  "download_url": "",
+  "citation": "GATT and the World Trade Organization. Office of the Historian, U.S. Dept. of State.",
+  "alt_text": "Documents on the GATT and founding of the WTO.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.84",
+  "title": "Founding of the United Nations and the UN Charter, 1945",
+  "type": "Photograph / document",
+  "creator": "United Nations Conference / U.S. government",
+  "year": "1945",
+  "repository": "U.S. Dept. of State, Office of the Historian",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/search?q=United+Nations+Charter+1945+founding",
+  "download_url": "",
+  "citation": "The United Nations and its 1945 Charter. Office of the Historian, U.S. Dept. of State.",
+  "alt_text": "Delegates signing the UN Charter in 1945.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.84",
+  "title": "The European Union / Maastricht and Rome treaties",
+  "type": "Photograph / document",
+  "creator": "European institutions; U.S. government",
+  "year": "1957-1993",
+  "repository": "U.S. Dept. of State, Office of the Historian",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/search?q=European+Union+European+integration+treaty",
+  "download_url": "",
+  "citation": "European integration and the EU. Office of the Historian, U.S. Dept. of State.",
+  "alt_text": "Document/photograph on the founding of the European Union.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.85",
+  "title": "Industrialization of East Asia (Japan, \"Asian Tigers,\" China)",
+  "type": "Photograph",
+  "creator": "U.S. government / Smithsonian",
+  "year": "late 20th c.",
+  "repository": "Smithsonian Institution",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.si.edu/search?edan_q=East+Asia+industrialization+economy+Japan",
+  "download_url": "",
+  "citation": "Industrialization of East Asia. Smithsonian Institution.",
+  "alt_text": "Photograph of modern East Asian manufacturing/industry.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.85",
+  "title": "Asian economic growth data",
+  "type": "Data / statistical graphic",
+  "creator": "U.S. government (Census/BEA)",
+  "year": "late 20th-21st c.",
+  "repository": "U.S. Census Bureau",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.census.gov/search-results.html?q=Asia+trade+economic+growth+data",
+  "download_url": "",
+  "citation": "Asian economic and trade data. U.S. Census Bureau.",
+  "alt_text": "Charts of trade and GDP growth for South and East Asian economies.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.86",
+  "title": "Persian Gulf oil industry",
+  "type": "Photograph",
+  "creator": "U.S. government / press",
+  "year": "20th c.",
+  "repository": "Library of Congress",
+  "rights": "Public domain — verify individual item at repository",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.loc.gov/search/?q=Persian+Gulf+oil+field+Saudi+Arabia+industry",
+  "download_url": "",
+  "citation": "The Persian Gulf oil industry. Library of Congress.",
+  "alt_text": "Photograph of oil derricks and refineries in the Persian Gulf.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.86",
+  "title": "OPEC and the 1973 oil embargo",
+  "type": "Document / photograph",
+  "creator": "U.S. government",
+  "year": "1960-1973",
+  "repository": "U.S. Dept. of State, Office of the Historian",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://history.state.gov/search?q=OPEC+oil+embargo+1973",
+  "download_url": "",
+  "citation": "OPEC and the 1973 oil embargo. Office of the Historian, U.S. Dept. of State.",
+  "alt_text": "Documents/photographs on OPEC and the 1973 oil crisis.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ },
+ {
+  "standard": "W.87",
+  "title": "Renewable energy (wind and solar)",
+  "type": "Photograph",
+  "creator": "U.S. Dept. of Energy / NREL",
+  "year": "late 20th-21st c.",
+  "repository": "U.S. Department of Energy",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.energy.gov/search?query=renewable+energy+wind+solar",
+  "download_url": "",
+  "citation": "Renewable energy sources. U.S. Department of Energy.",
+  "alt_text": "Photograph of wind turbines and solar panels.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.87",
+  "title": "Fossil-fuel energy infrastructure",
+  "type": "Photograph",
+  "creator": "U.S. Dept. of Energy",
+  "year": "20th c.",
+  "repository": "U.S. Department of Energy",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.energy.gov/search?query=fossil+fuel+coal+oil+power+plant",
+  "download_url": "",
+  "citation": "Fossil-fuel energy infrastructure. U.S. Department of Energy.",
+  "alt_text": "Photograph of a coal or oil power plant.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.88",
+  "title": "The Persian Gulf War, 1991",
+  "type": "Photograph",
+  "creator": "U.S. Department of Defense",
+  "year": "1991",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=Persian+Gulf+War+1991+Desert+Storm",
+  "download_url": "",
+  "citation": "The Persian Gulf War (Desert Storm), 1991. U.S. National Archives.",
+  "alt_text": "Photograph of coalition forces during the 1991 Gulf War.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.06"
+   ]
+  }
+ },
+ {
+  "standard": "W.88",
+  "title": "The Iranian Revolution, 1979",
+  "type": "Photograph",
+  "creator": "press photographers",
+  "year": "1979",
+  "repository": "Library of Congress",
+  "rights": "Rights vary by item — verify PD/commercial status at repository",
+  "commercial_use_ok": false,
+  "catalog_url": "https://www.loc.gov/search/?q=Iranian+Revolution+1979+Khomeini",
+  "download_url": "",
+  "citation": "The Iranian Revolution, 1979. Library of Congress.",
+  "alt_text": "Photograph of the 1979 Iranian Revolution.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.89",
+  "title": "The September 11, 2001 attacks",
+  "type": "Photograph",
+  "creator": "U.S. government (FEMA/Navy)",
+  "year": "2001",
+  "repository": "U.S. National Archives (NARA)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://catalog.archives.gov/search?q=September+11+2001+attacks+World+Trade+Center",
+  "download_url": "",
+  "citation": "The September 11, 2001 attacks. U.S. National Archives.",
+  "alt_text": "Photograph of the World Trade Center on September 11, 2001.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.05"
+   ]
+  }
+ },
+ {
+  "standard": "W.89",
+  "title": "The 9/11 Commission Report (2004)",
+  "type": "Government report (text)",
+  "creator": "National Commission on Terrorist Attacks Upon the United States",
+  "year": "2004",
+  "repository": "U.S. Government Publishing Office (govinfo.gov)",
+  "rights": "Public domain (U.S. federal government work)",
+  "commercial_use_ok": true,
+  "catalog_url": "https://www.govinfo.gov/app/collection/gpo/",
+  "download_url": "",
+  "citation": "The 9/11 Commission Report, 2004. U.S. Government Publishing Office.",
+  "alt_text": "Cover and text of the official 9/11 Commission Report.",
+  "verified": false,
+  "schedule_f": {
+   "table1_standard": true,
+   "table3_ssp": [
+    "SSP.01",
+    "SSP.02",
+    "SSP.04"
+   ]
+  }
+ }
+]
