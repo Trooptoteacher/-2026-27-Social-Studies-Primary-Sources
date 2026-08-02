@@ -39,6 +39,28 @@ APPROVED = {
     "tn.gov": "State of Tennessee",
     "sos.tn.gov": "Tennessee Secretary of State",
     "teva.contentdm.oclc.org": "Tennessee Virtual Archive (TeVA)",
+    "tnmuseum.org": "Tennessee State Museum",
+    # Open-access museums & libraries — public-domain / CC0 programs (commercial-use safe).
+    # NOTE: repository trust only (Rule 1). Per-item rights are still enforced by Rule 2.
+    "metmuseum.org": "The Metropolitan Museum of Art (Open Access, CC0)",
+    "clevelandart.org": "Cleveland Museum of Art (Open Access, CC0)",
+    "nga.gov": "National Gallery of Art (Open Access, CC0)",
+    "getty.edu": "The Getty (Open Content Program)",
+    "rijksmuseum.nl": "Rijksmuseum (public domain / CC0)",
+    "nypl.org": "New York Public Library Digital Collections",
+    "digitalcollections.nypl.org": "NYPL Digital Collections",
+    "hathitrust.org": "HathiTrust Digital Library (public-domain works)",
+    "fdrlibrary.org": "FDR Presidential Library (NARA)",
+    "gilderlehrman.org": "Gilder Lehrman Institute of American History",
+    # Authoritative data sources — for charts/graphs built from primary data (Rule 6).
+    "bls.gov": "U.S. Bureau of Labor Statistics",
+    "bea.gov": "U.S. Bureau of Economic Analysis",
+    "data.gov": "U.S. Open Data",
+    "usgs.gov": "U.S. Geological Survey",
+    "noaa.gov": "NOAA",
+    "nasa.gov": "NASA",
+    "stlouisfed.org": "Federal Reserve (FRED economic data)",
+    "ourworldindata.org": "Our World in Data (CC BY)",
 }
 # Any *.gov and *.edu host is treated as approved even if not listed above.
 APPROVED_TLDS = (".gov", ".edu")
@@ -47,13 +69,25 @@ APPROVED_TLDS = (".gov", ".edu")
 PREFER_ORIGINAL = {
     "commons.wikimedia.org": "Wikimedia Commons (media repository)",
     "dp.la": "Digital Public Library of America",
+    "archive.org": "Internet Archive (host for PD works)",
+    "flickr.com": "Flickr Commons (verify 'no known copyright')",
+    "picryl.com": "PICRYL (public-domain aggregator)",
+    "loc.getarchive.net": "GetArchive (PD aggregator)",
 }
 
-# Tertiary/general encyclopedias — never a cited source (fact-check aid only).
+# Tertiary / study-aid sites — never a cited primary source (fact-check aid only).
 BLOCKED = {
     "britannica.com": "Encyclopaedia Britannica",
     "wikipedia.org": "Wikipedia",
     "en.wikipedia.org": "Wikipedia",
+    "history.com": "History.com (secondary/tertiary)",
+    "study.com": "Study.com",
+    "ducksters.com": "Ducksters",
+    "quizlet.com": "Quizlet",
+    "coursehero.com": "Course Hero",
+    "sparknotes.com": "SparkNotes",
+    "cliffsnotes.com": "CliffsNotes",
+    "ixl.com": "IXL",
 }
 
 
@@ -71,11 +105,18 @@ def _host(s):
 # Repository-name fallbacks (when a row gives a name, not a URL).
 NAME_APPROVED = ("library of congress", "national archives", "office of the historian",
                  "national park service", "smithsonian", "census", "army center of military",
-                 "navy history", "tennessee encyclopedia", "presidential library",
+                 "navy history", "tennessee encyclopedia", "tennessee state museum",
+                 "tennessee state library", "presidential library",
                  "department of energy", "federal highway", "supreme court", "9/11 memorial",
-                 "september 11 memorial")
-NAME_PREFER = ("wikimedia commons", "wikimedia", "digital public library", "dpla")
-NAME_BLOCKED = ("britannica", "wikipedia")
+                 "september 11 memorial", "metropolitan museum", "cleveland museum",
+                 "national gallery of art", "getty", "rijksmuseum", "new york public library",
+                 "nypl", "hathitrust", "gilder lehrman", "bureau of labor statistics",
+                 "bureau of economic analysis", "geological survey", "noaa", "nasa",
+                 "federal reserve", "our world in data")
+NAME_PREFER = ("wikimedia commons", "wikimedia", "digital public library", "dpla",
+               "internet archive", "flickr commons", "picryl", "getarchive")
+NAME_BLOCKED = ("britannica", "wikipedia", "history.com", "study.com", "ducksters",
+                "quizlet", "course hero", "sparknotes", "cliffsnotes", "ixl")
 
 
 def classify(url_or_text):

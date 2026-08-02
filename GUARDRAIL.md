@@ -9,9 +9,9 @@ Rubric source of truth: `courses/*/06_COMPLIANCE_INTERNAL/schedule-f-rubric-sour
 ## Rule 1 — Approved repository only (accuracy / Schedule F C5)
 The source must come from an **authoritative, academically-accepted repository**, classified by `approved_sources.classify()`:
 
-- **approved** — `*.gov` / `*.edu` and the named list: Library of Congress, National Archives (NARA) & DocsTeach, Office of the Historian, NPS, Smithsonian (incl. NMAAHC), U.S. Census, Congress.gov, GovInfo, Supreme Court, presidential libraries, Army/Navy history commands, **Tennessee Encyclopedia**, **TeVA**, State of Tennessee. ✅ pass
-- **prefer_original** — Wikimedia Commons / DPLA hosting a genuinely public-domain work. ⚠️ allowed, but a warning: swap to the ORIGINAL repository (LoC/NARA/TN State) when the same item exists there.
-- **blocked** — Wikipedia, Britannica, or any general/tertiary encyclopedia. ❌ **BLOCKER** — never a cited primary source (fact-check aid only).
+- **approved** — `*.gov` / `*.edu` and the named list: Library of Congress, National Archives (NARA) & DocsTeach, Office of the Historian, NPS, Smithsonian (incl. NMAAHC), U.S. Census, Congress.gov, GovInfo, Supreme Court, presidential libraries (incl. FDR Library), Army/Navy history commands, **Tennessee Encyclopedia**, **TeVA**, **Tennessee State Museum**, State of Tennessee; **open-access museums & libraries** with public-domain / CC0 programs — The Met, Cleveland Museum of Art, National Gallery of Art, Getty, Rijksmuseum, NYPL Digital Collections, HathiTrust; **Gilder Lehrman**; and **authoritative data sources** for charts — Census, BLS, BEA, USGS, NOAA, NASA, FRED (Federal Reserve), Our World in Data (CC BY). ✅ pass. *(Repository trust only — per-item rights are still enforced by Rule 2, so a copyrighted item on an approved host still fails Rule 2.)*
+- **prefer_original** — Wikimedia Commons / DPLA / Internet Archive / Flickr Commons / PICRYL / GetArchive hosting a genuinely public-domain work. ⚠️ allowed, but a warning: swap to the ORIGINAL repository (LoC/NARA/TN State/originating museum) when the same item exists there.
+- **blocked** — Wikipedia, Britannica, or any general/tertiary encyclopedia or study-aid site (History.com, Study.com, Ducksters, Quizlet, SparkNotes, CliffsNotes, IXL). ❌ **BLOCKER** — never a cited primary source (fact-check aid only).
 - **unknown** — unrecognized host. ❌ **BLOCKER** until vetted and added to `approved_sources.py`.
 
 ## Rule 2 — Academic / commercial use cleared (approved for use as a primary resource)
