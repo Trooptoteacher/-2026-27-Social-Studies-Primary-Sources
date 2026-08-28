@@ -36,9 +36,22 @@ will be wrong far more often than not. That is not a hypothetical: it is the maj
      "including" are a content checklist; a revision that adds a named person, event or act is not
      covered by a source chosen for the old wording.
    - **`new`** / **`retired`** — no counterpart. Nothing carries.
-3. The re-pointed record belongs in the **2027-28** tree, stamped with its year — not edited in
-   place here. This repo stays as it is, serving the 2026-27 standards that Tennessee classrooms are
-   teaching now.
+3. **Strip the 2026-27 code out of the record entirely** — the `standard` field, the filename under
+   `sources/`, and any prose that names a code. It does not travel with the source. Sean, 2026-08-28:
+   anything pulled over is *"stripped of the standard code and added to the current standard of the
+   new approved standards for the 2027-28 school year"*, carried over **by content category, never by
+   code**.
+4. **Re-attach it to a 2027-28 standard chosen on content**, categorised by that course's own
+   2027-28 era/cluster heading, and stamped with its year. The right home is often **not** the
+   crosswalk's standard-level successor: the crosswalk maps *standards*, and this is a *source*.
+5. The re-pointed record belongs in the **2027-28** tree — not edited in place here. This repo stays
+   as it is, serving the 2026-27 standards that Tennessee classrooms are teaching now. The old code
+   is recorded once, in the migration ledger in `history-hack-web-app`
+   (`content-build/2027-28/carry-forward-ledger.json`), and nowhere else.
+
+`history-hack-web-app` mechanises this: `node scripts/carry-forward.mjs` does the stripping and
+refuses when a code is buried in prose, and `npm run check:carry-forward` fails any old code that
+made it through.
 
 `crosswalk/collisions.csv` in that repo enumerates all 416 collisions.
 
