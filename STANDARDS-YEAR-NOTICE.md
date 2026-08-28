@@ -10,14 +10,14 @@ standards set. There are now two.
 
 ## Why this matters
 
-**A standard code is not stable between the two editions.**
+**A standard code is not stable between the two standards years.**
 
 | | 2026-27 | 2027-28 |
 |---|---|---|
 | `US.01` | the Homestead Act and the Transcontinental Railroad | Reconstruction and the Compromise of 1877 |
 | `US.04` | Gilded Age politics and economics | the Homestead Act and the Transcontinental Railroad |
 
-**416 codes exist in both editions and mean different things** — including **84 of the 94** U.S.
+**416 codes exist in both standards years and mean different things** — including **84 of the 94** U.S.
 History codes, **72 of the 74** Grade 8 codes, and **35 of the 47** Government & Civics codes, which
 is most of the set this repo has actually populated.
 
@@ -47,5 +47,5 @@ will be wrong far more often than not. That is not a hypothetical: it is the maj
 | Repository | Role |
 |---|---|
 | `Trooptoteacher/2026-27-Tn.-Social-Studies-Standards` | The standards this library is keyed to |
-| `Trooptoteacher/2027-28-Tn-Social-Studies-Standards` | The new standards, the crosswalk, and `GOVERNANCE.md` — the two-edition contract |
+| `Trooptoteacher/2027-28-Tn-Social-Studies-Standards` | The new standards, the crosswalk, and `GOVERNANCE.md` — the two-standards-year contract |
 | `Trooptoteacher/history-hack-web-app` | Where 2027-28 courses are built, under an isolated `2027-28` namespace |
