@@ -1,5 +1,10 @@
 # 2026-27 Social Studies — Primary Sources
 
+> **⛔ Every standard code in this repo is a 2026-27 code — see [`EDITION-NOTICE.md`](EDITION-NOTICE.md).**
+> Tennessee's revised standards take effect in 2027-28, and 416 codes exist in both editions meaning
+> different things (35 of the 47 Government codes among them). Never reuse a source here for a
+> 2027-28 build by code; go through `crosswalk/` in `Trooptoteacher/2027-28-Tn-Social-Studies-Standards`.
+
 Academically-accepted, TDOE Schedule F–compliant primary sources for the History Hack Social Studies suite (Grades 6–8, Tennessee History, World History, U.S. History, Government), with a full standards crosswalk and complete academic citations.
 
 ## Structure
