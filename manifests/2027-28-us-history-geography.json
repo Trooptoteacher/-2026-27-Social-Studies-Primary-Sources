@@ -1,0 +1,2627 @@
+{
+  "standardsYear": "2027-28",
+  "course": "us-history-geography",
+  "builtBy": "scripts/build/2027-28/export_sources.py (history-hack-web-app)",
+  "builtAt": "2026-10-02T14:54:51+00:00",
+  "note": "Saved primary sources for the 2027-28 standards. The unqualified sources/<course>/ tree in this repo is 2026-27; these are under sources/2027-28/ because 416 codes exist in both years and mean different things. Never join the two on `standard`.",
+  "count": 67,
+  "verifiedCount": 67,
+  "unreviewedCount": 67,
+  "sources": [
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.01",
+      "course": "us-history-geography",
+      "claims": [
+        "Ku Klux Klan Act of 1871"
+      ],
+      "title": "Ku Klux Klan Act of 1871 — U.S. Statutes at Large, Volume 17 (1871-1873), 42nd Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1871",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v17/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v17/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_017/00550013.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:33:48+00:00",
+      "file": "sources/2027-28/us-history-geography/US.01/US.01_ku_klux_klan_act_of_1871.txt",
+      "sha256": "54bd94cfd44cb619ea367dc0a3328efa81981393ed5828a4fdfd8aa333c8c12a",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.01",
+      "course": "us-history-geography",
+      "claims": [
+        "14th Amendment"
+      ],
+      "title": "14th Amendment — U.S. Statutes at Large, Volume 15 (1867-1869), 40th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1867",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v15/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v15/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_015/07400706.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:26:31+00:00",
+      "file": "sources/2027-28/us-history-geography/US.01/US.01_14th_amendment.txt",
+      "sha256": "f13b15adc4a48421e159d351e9ad9c4b710f1e2d8ceb9a771714890505c2019f",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.01",
+      "course": "us-history-geography",
+      "claims": [
+        "15th Amendment"
+      ],
+      "title": "15th Amendment — U.S. Statutes at Large, Volume 16 (1869-1871), 41st Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1869",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v16/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v16/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_016/01770141.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T20:53:35+00:00",
+      "file": "sources/2027-28/us-history-geography/US.01/US.01_15th_amendment.txt",
+      "sha256": "14221f8f898efa6baeeef4e9bea8c8c50a1e1aed5a97c7cacd5db20053284733",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.02",
+      "course": "us-history-geography",
+      "claims": [
+        "Brown v. Board of Education"
+      ],
+      "title": "U.S. Reports: Brown v. Board of Education, 347 U.S. 483 (1954).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1954",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep347483/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep347483/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep347/usrep347483/usrep347483.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:24:13+00:00",
+      "file": "sources/2027-28/us-history-geography/US.02/US.02_brown_v_board_of_education.txt",
+      "sha256": "ddf400254791e21c65a6340838fd4cbfd1d4baf287f975a425c1fe6e180a1a46",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.02",
+      "course": "us-history-geography",
+      "claims": [
+        "Civil Rights Cases"
+      ],
+      "title": "U.S. Reports: Civil Rights Cases, 109 U.S. 3 (1883).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1883",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep109003/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep109003/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep109/usrep109003/usrep109003.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:24:44+00:00",
+      "file": "sources/2027-28/us-history-geography/US.02/US.02_civil_rights_cases.txt",
+      "sha256": "054bcb14c0de46001f85db0fbf7670d7ab45ee84597c88902bd28a171fd43268",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.02",
+      "course": "us-history-geography",
+      "claims": [
+        "Guinn v. United States"
+      ],
+      "title": "U.S. Reports: Guinn v. United States, 238 U.S. 347 (1915).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1915",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep238347/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep238347/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep238/usrep238347/usrep238347.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:25:02+00:00",
+      "file": "sources/2027-28/us-history-geography/US.02/US.02_guinn_v_united_states.txt",
+      "sha256": "fd5f4bfddb6ac11dfb76c4e3193ebf0b50484316a744317fa9f9a79062e9067b",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.02",
+      "course": "us-history-geography",
+      "claims": [
+        "Plessy v. Ferguson"
+      ],
+      "title": "U.S. Reports: Plessy v. Ferguson, 163 U.S. 537 (1896).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1896",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep163537/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep163537/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep163/usrep163537/usrep163537.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:25:19+00:00",
+      "file": "sources/2027-28/us-history-geography/US.02/US.02_plessy_v_ferguson.txt",
+      "sha256": "475de4b7e0d91fe6e1baf91200b9b238d663146adc1023e641ae4a98d316f5ac",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.02",
+      "course": "us-history-geography",
+      "claims": [
+        "Slaughter-House Cases"
+      ],
+      "title": "U.S. Reports: Slaughter-House Cases, 83 U.S. (16 Wall.) 36 (1873).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1873",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep083036/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep083036/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep083/usrep083036/usrep083036.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:26:04+00:00",
+      "file": "sources/2027-28/us-history-geography/US.02/US.02_slaughter_house_cases.txt",
+      "sha256": "7d1d130ab85063aa37e812d92347b5a28a4cc0ff981d72d9a40cf62b3b26f1f7",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.02",
+      "course": "us-history-geography",
+      "claims": [
+        "United States v. Cruikshank"
+      ],
+      "title": "U.S. Reports: United States v. Cruikshank et al., 92 U.S. 542 (1876).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1876",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep092542/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep092542/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep092/usrep092542/usrep092542.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:26:28+00:00",
+      "file": "sources/2027-28/us-history-geography/US.02/US.02_united_states_v_cruikshank.txt",
+      "sha256": "af6c73dbd5689ceb922b147b67b89fc0eb37733047e383491cfa968f757d2dce",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.02",
+      "course": "us-history-geography",
+      "claims": [
+        "14th Amendment"
+      ],
+      "title": "14th Amendment — U.S. Statutes at Large, Volume 15 (1867-1869), 40th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1867",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v15/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v15/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_015/07400706.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:26:31+00:00",
+      "file": "sources/2027-28/us-history-geography/US.02/US.02_14th_amendment.txt",
+      "sha256": "f13b15adc4a48421e159d351e9ad9c4b710f1e2d8ceb9a771714890505c2019f",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.02",
+      "course": "us-history-geography",
+      "claims": [
+        "15th Amendment"
+      ],
+      "title": "15th Amendment — U.S. Statutes at Large, Volume 16 (1869-1871), 41st Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1869",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v16/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v16/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_016/01770141.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T20:53:35+00:00",
+      "file": "sources/2027-28/us-history-geography/US.02/US.02_15th_amendment.txt",
+      "sha256": "14221f8f898efa6baeeef4e9bea8c8c50a1e1aed5a97c7cacd5db20053284733",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.03",
+      "course": "us-history-geography",
+      "claims": [
+        "Homestead Act"
+      ],
+      "title": "Homestead Act — U.S. Statutes at Large, Volume 12 (1860-1861), 36th and 37th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1860",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v12/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v12/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_012/04240392.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:26:32+00:00",
+      "file": "sources/2027-28/us-history-geography/US.03/US.03_homestead_act.txt",
+      "sha256": "9dfc961cae1c525220cee98403bfb9f3fa5fee3a4be5bab1fa6f6db452d1e6cb",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.04",
+      "course": "us-history-geography",
+      "claims": [
+        "Homestead Act of 1862"
+      ],
+      "title": "Homestead Act of 1862 — U.S. Statutes at Large, Volume 12 (1860-1861), 36th and 37th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1862",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v12/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v12/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_012/04240392.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:26:32+00:00",
+      "file": "sources/2027-28/us-history-geography/US.04/US.04_homestead_act_of_1862.txt",
+      "sha256": "9dfc961cae1c525220cee98403bfb9f3fa5fee3a4be5bab1fa6f6db452d1e6cb",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.05",
+      "course": "us-history-geography",
+      "claims": [
+        "Dawes Severalty Act of 1887"
+      ],
+      "title": "Dawes Severalty Act of 1887 — U.S. Statutes at Large, Volume 24 (1886-1887), 49th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1887",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v24/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v24/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_024/04210388.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T22:36:53+00:00",
+      "file": "sources/2027-28/us-history-geography/US.05/US.05_dawes_severalty_act_of_1887.txt",
+      "sha256": "224967e04bba208bfd8901abaf000dba00e49f59d053067526cad7ac6d7d9543",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.05",
+      "course": "us-history-geography",
+      "claims": [
+        "Indian Reorganization Act of 1934"
+      ],
+      "title": "Indian Reorganization Act of 1934 — U.S. Statutes at Large, Volume 48 (1933-1934), 73rd Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1934",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v48/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v48/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_048/12941269.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T22:51:58+00:00",
+      "file": "sources/2027-28/us-history-geography/US.05/US.05_indian_reorganization_act_of_1934.txt",
+      "sha256": "3b0c68af27014ea14edbdd88aa6d9d432e88f6e2707c30ead1d1e099d65d7fb5",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.06",
+      "course": "us-history-geography",
+      "claims": [
+        "Munn v. Illinois"
+      ],
+      "title": "U.S. Reports: Munn v. Illinois, 94 U.S. 113 (1877).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1877",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep094113/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep094113/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep094/usrep094113/usrep094113.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:27:05+00:00",
+      "file": "sources/2027-28/us-history-geography/US.06/US.06_munn_v_illinois.txt",
+      "sha256": "74bce9f259fe18c0cc4a225bbe390b2e8ae357eb296e95c7e3684b5f29f4a088",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.06",
+      "course": "us-history-geography",
+      "claims": [
+        "Wabash v. Illinois"
+      ],
+      "title": "U.S. Reports: Wabash, &c., Railway Co. v. Illinois, 118 U.S. 557 (1886).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1886",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep118557/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep118557/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep118/usrep118557/usrep118557.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:27:40+00:00",
+      "file": "sources/2027-28/us-history-geography/US.06/US.06_wabash_v_illinois.txt",
+      "sha256": "1a9c40298e0d1941cbfc4bec66f7510fce1763601ffd86d97d8ced27a10aba00",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.06",
+      "course": "us-history-geography",
+      "claims": [
+        "Interstate Commerce Act of 1887"
+      ],
+      "title": "Interstate Commerce Act of 1887 — U.S. Statutes at Large, Volume 24 (1886-1887), 49th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1887",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v24/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v24/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_024/04120379.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:27:40+00:00",
+      "file": "sources/2027-28/us-history-geography/US.06/US.06_interstate_commerce_act_of_1887.txt",
+      "sha256": "19d40aad035f1c5d81c03a31c00fa58b684c1be155bb36115623be8512f7f2c6",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.07",
+      "course": "us-history-geography",
+      "claims": [
+        "Chinese Exclusion Act"
+      ],
+      "title": "Chinese Exclusion Act — U.S. Statutes at Large, Volume 22 (1881-1883), 47th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1881",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v22/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v22/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_022/00860059.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:27:41+00:00",
+      "file": "sources/2027-28/us-history-geography/US.07/US.07_chinese_exclusion_act.txt",
+      "sha256": "9d93fe38402069afe545b0a44d32029e6915da062dab88e8c9c8509e52ff7706",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.08",
+      "course": "us-history-geography",
+      "claims": [
+        "Pendleton Act",
+        "Pendleton Civil Service Reform Act of 1883"
+      ],
+      "title": "Pendleton Act — U.S. Statutes at Large, Volume 22 (1881-1883), 47th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1881",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v22/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v22/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_022/04300403.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:27:41+00:00",
+      "file": "sources/2027-28/us-history-geography/US.08/US.08_pendleton_act.txt",
+      "sha256": "e666b1a2ca3af6362f555a8e89db587f32136c3b265f474a5255ba7bca85c4a6",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.10",
+      "course": "us-history-geography",
+      "claims": [
+        "Chinese Exclusion Act of 1882"
+      ],
+      "title": "Chinese Exclusion Act of 1882 — U.S. Statutes at Large, Volume 22 (1881-1883), 47th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1882",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v22/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v22/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_022/00860059.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:27:41+00:00",
+      "file": "sources/2027-28/us-history-geography/US.10/US.10_chinese_exclusion_act_of_1882.txt",
+      "sha256": "9d93fe38402069afe545b0a44d32029e6915da062dab88e8c9c8509e52ff7706",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.12",
+      "course": "us-history-geography",
+      "claims": [
+        "United States v. E. C. Knight Co."
+      ],
+      "title": "U.S. Reports: United States v. E. C. Knight Co., 156 U.S. 1 (1895).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1895",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep156001/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep156001/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep156/usrep156001/usrep156001.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T21:03:26+00:00",
+      "file": "sources/2027-28/us-history-geography/US.12/US.12_united_states_v_e_c_knight_co.txt",
+      "sha256": "4195233c6fb5bd6b9ff78801d991387c78121274854d7a960978e4e3aa51c414",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.12",
+      "course": "us-history-geography",
+      "claims": [
+        "Interstate Commerce Act of 1887"
+      ],
+      "title": "Interstate Commerce Act of 1887 — U.S. Statutes at Large, Volume 24 (1886-1887), 49th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1887",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v24/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v24/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_024/04120379.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T21:03:26+00:00",
+      "file": "sources/2027-28/us-history-geography/US.12/US.12_interstate_commerce_act_of_1887.txt",
+      "sha256": "19d40aad035f1c5d81c03a31c00fa58b684c1be155bb36115623be8512f7f2c6",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.13",
+      "course": "us-history-geography",
+      "claims": [
+        "Hammer v. Dagenhart"
+      ],
+      "title": "U.S. Reports: Hammer v. Dagenhart, 247 U.S. 251 (1918).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1918",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep247251/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep247251/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep247/usrep247251/usrep247251.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T05:41:35+00:00",
+      "file": "sources/2027-28/us-history-geography/US.13/US.13_hammer_v_dagenhart.txt",
+      "sha256": "8c5a01b31a278c163f10628b47e737d4b3f62fb77f5cc04d672f28b826bd80e2",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.15",
+      "course": "us-history-geography",
+      "claims": [
+        "Atlanta Compromise"
+      ],
+      "title": "Atlanta Compromise — U.S. Statutes at Large, Volume 28 (1893-1895), 53rd Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1893",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v28/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v28/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_028/06810652.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-20T13:02:55+00:00",
+      "file": "sources/2027-28/us-history-geography/US.15/US.15_atlanta_compromise.txt",
+      "sha256": "55731b7e096678ad3f3194bf67e161beeaee2af381cd0ca090c25a3a4f0aadd1",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.16",
+      "course": "us-history-geography",
+      "claims": [
+        "Drug Act"
+      ],
+      "title": "Drug Act — U.S. Statutes at Large, Volume 34 (1905-1907), 59th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1905",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v34/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v34/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_034/07980768.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T03:58:57+00:00",
+      "file": "sources/2027-28/us-history-geography/US.16/US.16_drug_act.txt",
+      "sha256": "cf1e19bce05323f6cbfbce38c308ecef77de0b9a70052f4539088eee025957de",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.16",
+      "course": "us-history-geography",
+      "claims": [
+        "Meat Inspection Act"
+      ],
+      "title": "Meat Inspection Act — U.S. Statutes at Large, Volume 34 (1905-1907), 59th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1905",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v34/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v34/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_034/07070677.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T03:58:59+00:00",
+      "file": "sources/2027-28/us-history-geography/US.16/US.16_meat_inspection_act.txt",
+      "sha256": "4148ef0f5217dada457ff56bc4c7e87ba0661a193855f68085455a9dcecfe427",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.17",
+      "course": "us-history-geography",
+      "claims": [
+        "Northern Securities Company v. United States"
+      ],
+      "title": "U.S. Reports: Northern Securities Co. v. United States, 193 U.S. 197 (1904).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1904",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep193197/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep193197/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep193/usrep193197/usrep193197.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T03:53:34+00:00",
+      "file": "sources/2027-28/us-history-geography/US.17/US.17_northern_securities_company_v_united_states.txt",
+      "sha256": "66dae2ad208534f7495a1063fe779bc20fceba2573ac35ad0da5bf67a6b03af6",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.17",
+      "course": "us-history-geography",
+      "claims": [
+        "Antiquities Act of 1906"
+      ],
+      "title": "Antiquities Act of 1906 — U.S. Statutes at Large, Volume 34 (1905-1907), 59th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1906",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v34/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v34/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_034/38063264.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T03:58:55+00:00",
+      "file": "sources/2027-28/us-history-geography/US.17/US.17_antiquities_act_of_1906.txt",
+      "sha256": "060a508cb63b0cd49418ee40eb80e7640f926f8f1dd8617c39833c53c8b062f0",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.17",
+      "course": "us-history-geography",
+      "claims": [
+        "Drug Act of 1906"
+      ],
+      "title": "Drug Act of 1906 — U.S. Statutes at Large, Volume 34 (1905-1907), 59th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1906",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v34/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v34/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_034/07980768.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T03:58:57+00:00",
+      "file": "sources/2027-28/us-history-geography/US.17/US.17_drug_act_of_1906.txt",
+      "sha256": "cf1e19bce05323f6cbfbce38c308ecef77de0b9a70052f4539088eee025957de",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.17",
+      "course": "us-history-geography",
+      "claims": [
+        "Meat Inspection Act of 1906"
+      ],
+      "title": "Meat Inspection Act of 1906 — U.S. Statutes at Large, Volume 34 (1905-1907), 59th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1906",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v34/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v34/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_034/07070677.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T03:58:59+00:00",
+      "file": "sources/2027-28/us-history-geography/US.17/US.17_meat_inspection_act_of_1906.txt",
+      "sha256": "4148ef0f5217dada457ff56bc4c7e87ba0661a193855f68085455a9dcecfe427",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.18",
+      "course": "us-history-geography",
+      "claims": [
+        "Pollock v. Farmers' Loan"
+      ],
+      "title": "U.S. Reports: Pollock v. Farmers' Loan and Trust Co., 158 U.S. 601 (1895).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1895",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep158601/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep158601/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep158/usrep158601/usrep158601.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-20T13:20:04+00:00",
+      "file": "sources/2027-28/us-history-geography/US.18/US.18_pollock_v_farmers_loan.txt",
+      "sha256": "0d13e10703d442f591671b0014e722855928b9b71dba61b7e01c973c28a57232",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.19",
+      "course": "us-history-geography",
+      "claims": [
+        "Federal Reserve Act of 1913"
+      ],
+      "title": "Federal Reserve Act of 1913 — U.S. Statutes at Large, Volume 38 (1913-1915), 63rd Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1913",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v38/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v38/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_038/02700251.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T07:13:43+00:00",
+      "file": "sources/2027-28/us-history-geography/US.19/US.19_federal_reserve_act_of_1913.txt",
+      "sha256": "c0a3360f5b693421818d55097d9790e12078119466469e1e60ccb778b3169005",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.20",
+      "course": "us-history-geography",
+      "claims": [
+        "15th Amendment"
+      ],
+      "title": "15th Amendment — U.S. Statutes at Large, Volume 16 (1869-1871), 41st Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1869",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v16/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v16/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_016/01770141.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T20:53:35+00:00",
+      "file": "sources/2027-28/us-history-geography/US.20/US.20_15th_amendment.txt",
+      "sha256": "14221f8f898efa6baeeef4e9bea8c8c50a1e1aed5a97c7cacd5db20053284733",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.28",
+      "course": "us-history-geography",
+      "claims": [
+        "Brandenburg v. Ohio"
+      ],
+      "title": "U.S. Reports: Brandenburg v. Ohio, 395 U.S. 444 (1969).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1969",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep395444/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep395444/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep395/usrep395444/usrep395444.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T06:00:57+00:00",
+      "file": "sources/2027-28/us-history-geography/US.28/US.28_brandenburg_v_ohio.txt",
+      "sha256": "374a02fe8e657adacec8e4cd1176a5b326c8766e9fd495ef4417200bac56e1d4",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.28",
+      "course": "us-history-geography",
+      "claims": [
+        "Schenck v. United States"
+      ],
+      "title": "U.S. Reports: Schenck v. United States, 249 U.S. 47 (1919).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1919",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep249047/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep249047/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep249/usrep249047/usrep249047.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T06:00:57+00:00",
+      "file": "sources/2027-28/us-history-geography/US.28/US.28_schenck_v_united_states.txt",
+      "sha256": "266c063fb8b8f00ab31bd2d7beccd529186c9909e38d8069ed92470b82b9761d",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.33",
+      "course": "us-history-geography",
+      "claims": [
+        "Air Mail Act of 1925"
+      ],
+      "title": "Air Mail Act of 1925 — U.S. Statutes at Large, Volume 43 (1923-1925), 68th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1925",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v43/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v43/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_043/08370806.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T02:09:39+00:00",
+      "file": "sources/2027-28/us-history-geography/US.33/US.33_air_mail_act_of_1925.txt",
+      "sha256": "4fa2ba025fa72c61cc8b342e6cd8b738f41ee487360710e45216f1f09d09acec",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.37",
+      "course": "us-history-geography",
+      "claims": [
+        "Immigration Act of 1924"
+      ],
+      "title": "Immigration Act of 1924 — U.S. Statutes at Large, Volume 43 (1923-1925), 68th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1924",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v43/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v43/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_043/01900159.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T02:14:51+00:00",
+      "file": "sources/2027-28/us-history-geography/US.37/US.37_immigration_act_of_1924.txt",
+      "sha256": "ea8582e21d9e0bcd51a9e50fade97b41b5a1f3448154723c8f0fc29575550c45",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.44",
+      "course": "us-history-geography",
+      "claims": [
+        "Agricultural Marketing Act of 1929"
+      ],
+      "title": "Agricultural Marketing Act of 1929 — U.S. Statutes at Large, Volume 45 (1927-1929), 70th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1929",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v45/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v45/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_045/12631212.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T03:59:56+00:00",
+      "file": "sources/2027-28/us-history-geography/US.44/US.44_agricultural_marketing_act_of_1929.txt",
+      "sha256": "da20b70f9649448059c965ac3bb49356c916bc07ed7ac8a4bcf8ee9420fee149",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.44",
+      "course": "us-history-geography",
+      "claims": [
+        "Boulder Canyon Project Act of 1928"
+      ],
+      "title": "Boulder Canyon Project Act of 1928 — U.S. Statutes at Large, Volume 45 (1927-1929), 70th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1928",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v45/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v45/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_045/11081057.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T03:59:56+00:00",
+      "file": "sources/2027-28/us-history-geography/US.44/US.44_boulder_canyon_project_act_of_1928.txt",
+      "sha256": "03e4734f3dcf4e9b66eb0ab6c014c40b0a6f869c538a2b80ba2c884a699884a6",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.46",
+      "course": "us-history-geography",
+      "claims": [
+        "NLRB v. Jones"
+      ],
+      "title": "U.S. Reports: NLRB v. Strong, 393 U.S. 357 (1969).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1969",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep393357/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep393357/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep393/usrep393357/usrep393357.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-30T23:39:19+00:00",
+      "file": "sources/2027-28/us-history-geography/US.46/US.46_nlrb_v_jones.txt",
+      "sha256": "e7dfd8b594a20563d725972b7ab0234d6dda1428c43380809325a606a5d51065",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.47",
+      "course": "us-history-geography",
+      "claims": [
+        "Neutrality Acts"
+      ],
+      "title": "Neutrality Acts — U.S. Statutes at Large, Volume 49 (1935-1936), 74th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1935",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v49/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v49/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_049/09270881.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T06:21:46+00:00",
+      "file": "sources/2027-28/us-history-geography/US.47/US.47_neutrality_acts.txt",
+      "sha256": "25eb76c6e1c9fa71f785f658f0f50f997622546e28a57420696826daca8593a7",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.48",
+      "course": "us-history-geography",
+      "claims": [
+        "Neutrality Acts of 1935"
+      ],
+      "title": "Neutrality Acts of 1935 — U.S. Statutes at Large, Volume 49 (1935-1936), 74th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1935",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v49/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v49/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_049/09270881.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T06:21:46+00:00",
+      "file": "sources/2027-28/us-history-geography/US.48/US.48_neutrality_acts_of_1935.txt",
+      "sha256": "25eb76c6e1c9fa71f785f658f0f50f997622546e28a57420696826daca8593a7",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.49",
+      "course": "us-history-geography",
+      "claims": [
+        "Displaced Persons Act of 1948"
+      ],
+      "title": "Displaced Persons Act of 1948 — U.S. Statutes at Large, Volume 62 (1948), 80th Congress, Session 2.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1948",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v62/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v62/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_062/10401010.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T02:14:51+00:00",
+      "file": "sources/2027-28/us-history-geography/US.49/US.49_displaced_persons_act_of_1948.txt",
+      "sha256": "62a82569abc4c20bba91bedc0a3a85bdd78820e457d244b84b87536eacbc5b93",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.49",
+      "course": "us-history-geography",
+      "claims": [
+        "Immigration Act of 1924"
+      ],
+      "title": "Immigration Act of 1924 — U.S. Statutes at Large, Volume 43 (1923-1925), 68th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1924",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v43/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v43/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_043/01900159.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T02:14:51+00:00",
+      "file": "sources/2027-28/us-history-geography/US.49/US.49_immigration_act_of_1924.txt",
+      "sha256": "ea8582e21d9e0bcd51a9e50fade97b41b5a1f3448154723c8f0fc29575550c45",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.51",
+      "course": "us-history-geography",
+      "claims": [
+        "Service Act of 1940"
+      ],
+      "title": "Service Act of 1940 — U.S. Statutes at Large, Volume 54 (1939-1941), 76th Congress, Sessions 2 and 3.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1940",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v54/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v54/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_054/09190885.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-02T06:52:14+00:00",
+      "file": "sources/2027-28/us-history-geography/US.51/US.51_service_act_of_1940.txt",
+      "sha256": "c76edad1c805643d127c7f2f0cd40838e6f9a21d2a6c549edddbe3fb15bbfc47",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.52",
+      "course": "us-history-geography",
+      "claims": [
+        "Brown v. Board of Education"
+      ],
+      "title": "U.S. Reports: Brown v. Board of Education, 349 U.S. 294 (1955).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1955",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep349294/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep349294/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep349/usrep349294/usrep349294.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T12:13:04+00:00",
+      "file": "sources/2027-28/us-history-geography/US.52/US.52_brown_v_board_of_education.txt",
+      "sha256": "db9f0752d7568e35aee12ef872b001759cb129b1e88311369e885766ffb9b387",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.54",
+      "course": "us-history-geography",
+      "claims": [
+        "Korematsu v. United States"
+      ],
+      "title": "U.S. Reports: Korematsu v. United States, 323 U.S. 214 (1944).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1944",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep323214/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep323214/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep323/usrep323214/usrep323214.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T12:13:18+00:00",
+      "file": "sources/2027-28/us-history-geography/US.54/US.54_korematsu_v_united_states.txt",
+      "sha256": "8d5891060393d77d567ea30b0fe5a0461d045c665f7dfdef42496e81f9c31c39",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.74",
+      "course": "us-history-geography",
+      "claims": [
+        "Brown v. Board of Education"
+      ],
+      "title": "U.S. Reports: Brown v. Board of Education, 347 U.S. 483 (1954).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1954",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep347483/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep347483/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep347/usrep347483/usrep347483.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T18:23:50+00:00",
+      "file": "sources/2027-28/us-history-geography/US.74/US.74_brown_v_board_of_education.txt",
+      "sha256": "ddf400254791e21c65a6340838fd4cbfd1d4baf287f975a425c1fe6e180a1a46",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.74",
+      "course": "us-history-geography",
+      "claims": [
+        "Cooper v. Aaron",
+        "Cooper v. Aaron."
+      ],
+      "title": "U.S. Reports: Aaron v. Cooper, 357 U.S. 566 (1958).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1958",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep357566/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep357566/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep357/usrep357566/usrep357566.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T18:25:12+00:00",
+      "file": "sources/2027-28/us-history-geography/US.74/US.74_cooper_v_aaron.txt",
+      "sha256": "95d360985f3ec141fa9e9595f02c18aed7e61e78d5c030ee36a73bfb97ca8810",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.74",
+      "course": "us-history-geography",
+      "claims": [
+        "Plessy v. Ferguson"
+      ],
+      "title": "U.S. Reports: Plessy v. Ferguson, 163 U.S. 537 (1896).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1896",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep163537/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep163537/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep163/usrep163537/usrep163537.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T18:25:33+00:00",
+      "file": "sources/2027-28/us-history-geography/US.74/US.74_plessy_v_ferguson.txt",
+      "sha256": "475de4b7e0d91fe6e1baf91200b9b238d663146adc1023e641ae4a98d316f5ac",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.76",
+      "course": "us-history-geography",
+      "claims": [
+        "Brown v. Board of Education"
+      ],
+      "title": "U.S. Reports: Brown v. Board of Education, 347 U.S. 483 (1954).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1954",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep347483/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep347483/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep347/usrep347483/usrep347483.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T18:25:47+00:00",
+      "file": "sources/2027-28/us-history-geography/US.76/US.76_brown_v_board_of_education.txt",
+      "sha256": "ddf400254791e21c65a6340838fd4cbfd1d4baf287f975a425c1fe6e180a1a46",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.76",
+      "course": "us-history-geography",
+      "claims": [
+        "Cooper v. Aaron"
+      ],
+      "title": "U.S. Reports: Cooper v. Aaron, 358 U.S. 1 (1958).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1958",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep358001/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep358001/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep358/usrep358001/usrep358001.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T18:26:54+00:00",
+      "file": "sources/2027-28/us-history-geography/US.76/US.76_cooper_v_aaron.txt",
+      "sha256": "6875fe50e01ece4e607558651bedccf92a2297ca23e1b720e47a4f9de73ac0f3",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.78",
+      "course": "us-history-geography",
+      "claims": [
+        "Atlanta Motel v. United States"
+      ],
+      "title": "U.S. Reports: Atlanta Motel v. United States, 379 U.S. 241 (1964).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1964",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep379241/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep379241/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep379/usrep379241/usrep379241.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T20:43:19+00:00",
+      "file": "sources/2027-28/us-history-geography/US.78/US.78_atlanta_motel_v_united_states.txt",
+      "sha256": "d0afa97e6b2e72e7bd959dc09b937840e01fc5e3a2b61afa76023f6fa9c1983e",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.78",
+      "course": "us-history-geography",
+      "claims": [
+        "Harper v. Virginia Board of Elections"
+      ],
+      "title": "U.S. Reports: Harper v. Virginia Bd. of Elections, 383 U.S. 663 (1966).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1966",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep383663/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep383663/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep383/usrep383663/usrep383663.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T20:43:20+00:00",
+      "file": "sources/2027-28/us-history-geography/US.78/US.78_harper_v_virginia_board_of_elections.txt",
+      "sha256": "479b3eb989b7811466cc5f70f7e6f428aee5444323974ee322b603575f2aaf95",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.78",
+      "course": "us-history-geography",
+      "claims": [
+        "In Shelby County v. Holder"
+      ],
+      "title": "U.S. Reports: Shelby County v. Holder, 570 U.S. 529 (2013).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "2013",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep570529/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep570529/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep570/usrep570529/usrep570529.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T20:43:21+00:00",
+      "file": "sources/2027-28/us-history-geography/US.78/US.78_in_shelby_county_v_holder.txt",
+      "sha256": "95b5796e55d2105ecf9b16c1e6bdbd6b6b4e2caf3bfc08546f0e655a43007ef6",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.78",
+      "course": "us-history-geography",
+      "claims": [
+        "15th Amendment"
+      ],
+      "title": "15th Amendment — U.S. Statutes at Large, Volume 16 (1869-1871), 41st Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1869",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v16/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v16/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_016/01770141.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T20:53:35+00:00",
+      "file": "sources/2027-28/us-history-geography/US.78/US.78_15th_amendment.txt",
+      "sha256": "14221f8f898efa6baeeef4e9bea8c8c50a1e1aed5a97c7cacd5db20053284733",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.79",
+      "course": "us-history-geography",
+      "claims": [
+        "Roe v. Wade"
+      ],
+      "title": "U.S. Reports: Roe v. Wade, 410 U.S. 113 (1973).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1973",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep410113/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep410113/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep410/usrep410113/usrep410113.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T18:30:49+00:00",
+      "file": "sources/2027-28/us-history-geography/US.79/US.79_roe_v_wade.txt",
+      "sha256": "02986487ea57e8f6b05d90fe294750d901d183cdd733afc460b0580b8a522ea2",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.84",
+      "course": "us-history-geography",
+      "claims": [
+        "United States v. Nixon"
+      ],
+      "title": "U.S. Reports: United States v. Nixon, 418 U.S. 683 (1974).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1974",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep418683/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep418683/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep418/usrep418683/usrep418683.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T18:51:45+00:00",
+      "file": "sources/2027-28/us-history-geography/US.84/US.84_united_states_v_nixon.txt",
+      "sha256": "e0a6a077350ad449a93c5e0cc1d6ece2c0d63e0dbf1ab07e8f90646b4d825532",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.91",
+      "course": "us-history-geography",
+      "claims": [
+        "Bush v. Gore"
+      ],
+      "title": "U.S. Reports: Bush v. Gore, 531 U.S. 98 (2000).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "2000",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep531098/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep531098/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep531/usrep531098/usrep531098.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T18:52:02+00:00",
+      "file": "sources/2027-28/us-history-geography/US.91/US.91_bush_v_gore.txt",
+      "sha256": "b34785efbd69b7f4cbb9ef2cdeb60a1269d3f1e35be9fe7e1c656ccbe064d123",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.93",
+      "course": "us-history-geography",
+      "claims": [
+        "Brown v. Board"
+      ],
+      "title": "U.S. Reports: Brown v. Board of Education, 347 U.S. 483 (1954).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1954",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep347483/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep347483/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep347/usrep347483/usrep347483.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T20:53:36+00:00",
+      "file": "sources/2027-28/us-history-geography/US.93/US.93_brown_v_board.txt",
+      "sha256": "ddf400254791e21c65a6340838fd4cbfd1d4baf287f975a425c1fe6e180a1a46",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.93",
+      "course": "us-history-geography",
+      "claims": [
+        "Loving v. Virginia"
+      ],
+      "title": "U.S. Reports: Loving v. Virginia, 388 U.S. 1 (1967).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1967",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep388001/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep388001/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep388/usrep388001/usrep388001.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T20:53:37+00:00",
+      "file": "sources/2027-28/us-history-geography/US.93/US.93_loving_v_virginia.txt",
+      "sha256": "08c1b3e11e641588ab1a72189ece714a85d3c8a17a8610e7c9e63497973b0dcd",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.93",
+      "course": "us-history-geography",
+      "claims": [
+        "Obergefell v. Hodges"
+      ],
+      "title": "U.S. Reports: Obergefell v. Hodges, 576 U.S. 644 (2015).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "2015",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep576644/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep576644/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep576/usrep576644/usrep576644.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T20:53:38+00:00",
+      "file": "sources/2027-28/us-history-geography/US.93/US.93_obergefell_v_hodges.txt",
+      "sha256": "6568b3ce0c304067eec5e382a410262da8a524cd0f8f4ac4862f9d30eb2b4f0e",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.93",
+      "course": "us-history-geography",
+      "claims": [
+        "Olmstead v. L.C."
+      ],
+      "title": "U.S. Reports: Olmstead v. L.C., 527 U.S. 581 (1999).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1999",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep527581/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep527581/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep527/usrep527581/usrep527581.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T20:53:39+00:00",
+      "file": "sources/2027-28/us-history-geography/US.93/US.93_olmstead_v_l_c.txt",
+      "sha256": "d42642521fa2c0d5714962873a5d6fc30d93877c19ee26c26748ffc512dde1db",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.93",
+      "course": "us-history-geography",
+      "claims": [
+        "Reed v. Reed"
+      ],
+      "title": "U.S. Reports: Reed v. Reed, 404 U.S. 71 (1971).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "1971",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep404071/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep404071/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep404/usrep404071/usrep404071.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T20:53:40+00:00",
+      "file": "sources/2027-28/us-history-geography/US.93/US.93_reed_v_reed.txt",
+      "sha256": "b68a0e9174de286906d7555e876b7426bbd3786acae2466368b2c086a922ca8d",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.93",
+      "course": "us-history-geography",
+      "claims": [
+        "United States v. Windsor"
+      ],
+      "title": "U.S. Reports: United States v. Windsor, 570 U.S. 744 (2013).",
+      "type": "document",
+      "creator": "Supreme Court of the United States",
+      "year": "2013",
+      "repository": "Library of Congress",
+      "series": "U.S. Reports",
+      "rights": "Public domain — U.S. government work; an opinion of the Supreme Court of the United States as printed in United States Reports (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/usrep570744/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/usrep570744/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep570/usrep570744/usrep570744.pdf",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-10-01T20:54:15+00:00",
+      "file": "sources/2027-28/us-history-geography/US.93/US.93_united_states_v_windsor.txt",
+      "sha256": "c894e71485652e029fd17a23d39ffff98b59d0d35569666b2530772dbc4626f6",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    },
+    {
+      "standardsYear": "2027-28",
+      "standard": "US.93",
+      "course": "us-history-geography",
+      "claims": [
+        "14th Amendment"
+      ],
+      "title": "14th Amendment — U.S. Statutes at Large, Volume 15 (1867-1869), 40th Congress.",
+      "type": "document",
+      "creator": "United States Congress",
+      "year": "1867",
+      "repository": "Library of Congress",
+      "series": "U.S. Statutes at Large",
+      "rights": "Public domain — U.S. government work; an Act of Congress as printed in the United States Statutes at Large (edict of government, not copyrightable)",
+      "commercial_use_ok": true,
+      "catalog_url": "https://www.loc.gov/item/llsl-v15/",
+      "catalog_url_checked": {
+        "url": "https://www.loc.gov/item/llsl-v15/?fo=json",
+        "status": 200,
+        "checkedAt": "2026-10-02T14:54:51+00:00"
+      },
+      "download_url": "https://tile.loc.gov/storage-services/service/ll/llsalvol/llsal_015/07400706.alto.xml",
+      "download_url_status": 200,
+      "download_fetched_at": "2026-09-17T02:26:31+00:00",
+      "file": "sources/2027-28/us-history-geography/US.93/US.93_14th_amendment.txt",
+      "sha256": "f13b15adc4a48421e159d351e9ad9c4b710f1e2d8ceb9a771714890505c2019f",
+      "verified": true,
+      "supportsClaim": "UNREVIEWED",
+      "reviewedBy": null,
+      "schedule_f": {
+        "table1_standard": true,
+        "table3_ssp": [
+          "SSP.01",
+          "SSP.02"
+        ]
+      },
+      "data_source": null,
+      "data_source_url": null
+    }
+  ]
+}
