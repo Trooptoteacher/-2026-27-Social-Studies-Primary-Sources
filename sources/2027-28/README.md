@@ -14,6 +14,11 @@ Grade 8 codes differ. So:
 - `GUARDRAIL.md` Rule 4 pins standards to the **2026-27** source of truth. For this tree
   the source of truth is `Trooptoteacher/2027-28-Tn-Social-Studies-Standards`.
 
+**`../../STANDARDS-YEAR-NOTICE.md` is the full argument and the carry-forward procedure** —
+read it rather than this section. It establishes that every bare code in this repo is a
+2026-27 code, which is precisely why this tree carries its year in the path: a bare code
+cannot distinguish the two, and most of the populated set collides.
+
 ## What is here, and what it is not
 
 Each file is the **verbatim text of the page the citation points at**, extracted from the
